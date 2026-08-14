@@ -1,0 +1,356 @@
+{
+  "name": "string",
+  "slug": "string",
+  "models": [
+    {
+      "name": "iPhone Air",
+      "slug": "string-iphone-air",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 17",
+      "slug": "string-iphone-17",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 17 Pro",
+      "slug": "string-iphone-17-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 17 Pro Max",
+      "slug": "string-iphone-17-pro-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 16e",
+      "slug": "string-iphone-16e",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 16 Pro Max",
+      "slug": "string-iphone-16-pro-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 16 Pro",
+      "slug": "string-iphone-16-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 16 Plus",
+      "slug": "string-iphone-16-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 16",
+      "slug": "string-iphone-16",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone SE 2022",
+      "slug": "string-iphone-se-2022",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 15 Pro Max",
+      "slug": "string-iphone-15-pro-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 15 Pro",
+      "slug": "string-iphone-15-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 15 Plus",
+      "slug": "string-iphone-15-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 15",
+      "slug": "string-iphone-15",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 14 Pro Max",
+      "slug": "string-iphone-14-pro-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 14 Pro",
+      "slug": "string-iphone-14-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 14 Plus",
+      "slug": "string-iphone-14-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 14",
+      "slug": "string-iphone-14",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 13 mini",
+      "slug": "string-iphone-13-mini",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "slug": "string-iphone-13-pro-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 13 Pro",
+      "slug": "string-iphone-13-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 13",
+      "slug": "string-iphone-13",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone SE 2020",
+      "slug": "string-iphone-se-2020",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 12 mini",
+      "slug": "string-iphone-12-mini",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 12 Pro Max",
+      "slug": "string-iphone-12-pro-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "slug": "string-iphone-12-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 12",
+      "slug": "string-iphone-12",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 11 Pro Max",
+      "slug": "string-iphone-11-pro-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 11 Pro",
+      "slug": "string-iphone-11-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 11",
+      "slug": "string-iphone-11",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone Xr",
+      "slug": "string-iphone-xr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone Xs Max",
+      "slug": "string-iphone-xs-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone Xs",
+      "slug": "string-iphone-xs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone X",
+      "slug": "string-iphone-x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 8 Plus",
+      "slug": "string-iphone-8-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 8",
+      "slug": "string-iphone-8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone SE",
+      "slug": "string-iphone-se",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 7 Plus",
+      "slug": "string-iphone-7-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 7",
+      "slug": "string-iphone-7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 6s Plus",
+      "slug": "string-iphone-6s-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 6s",
+      "slug": "string-iphone-6s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 6 Plus",
+      "slug": "string-iphone-6-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 6",
+      "slug": "string-iphone-6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 5c",
+      "slug": "string-iphone-5c",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 5s",
+      "slug": "string-iphone-5s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 5",
+      "slug": "string-iphone-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 4S",
+      "slug": "string-iphone-4s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 4",
+      "slug": "string-iphone-4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 3GS",
+      "slug": "string-iphone-3gs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "name": "iPhone 3G",
+      "slug": "string-iphone-3g",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}
