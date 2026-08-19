@@ -1,35 +1,19 @@
-/* eslint-disable @typescript-eslint/no-unsafe-member-access */
-import {
-  Injectable,
-  InternalServerErrorException,
-  OnModuleDestroy,
-  OnModuleInit,
-} from '@nestjs/common';
+import { Injectable, OnModuleDestroy, OnModuleInit } from '@nestjs/common';
 import { Browser, chromium, Page } from 'playwright';
 import { GetCategoriesDto } from '../dto/get-categories.dto';
-import path from 'path';
-import * as fs from 'fs/promises';
 
-interface Model {
-  name: string;
-  slug: string;
-  colors: string[];
-  rams: string[];
-  memories: string[];
-}
-
-interface CategoryData {
-  name: string;
-  slug: string;
-  models: Model[];
-  // ...другие поля
-}
+import { CategoryModelsService } from './category-models.service';
+import { ProductParserService } from './product-parser.service';
+import { GetProductDto } from '../dto/get-product.dto';
 
 @Injectable()
 export class CategoryParserService implements OnModuleInit, OnModuleDestroy {
   private browser: Browser;
 
-  constructor() {}
+  constructor(
+    private readonly categoryModelsService: CategoryModelsService,
+    private readonly productParserService: ProductParserService,
+  ) {}
 
   async onModuleInit() {
     console.log('Module initialized');
@@ -43,116 +27,57 @@ export class CategoryParserService implements OnModuleInit, OnModuleDestroy {
     }
   }
 
-  async writeJsonFile(data: any, filename: string) {
-    const filePath = path.join(process.cwd(), 'public/api/', filename);
-
-    try {
-      // 1. Ensure the directory exists (optional but recommended)
-      await fs.mkdir(path.dirname(filePath), { recursive: true });
-
-      // 2. Convert object to pretty-printed JSON string
-      const jsonString = JSON.stringify(data, null, 2);
-
-      // 3. Write stringified data to the file system
-      await fs.writeFile(filePath, jsonString, 'utf-8');
-    } catch (error) {
-      throw new InternalServerErrorException(
-        `Failed to write file: ${error.message}`,
-      );
-    }
-  }
-
-  async getAllModels(page: Page, modelText?: string): Promise<Model[]> {
-    // Открываем дропдаун "Модель"
-    await page.getByText('Модель', { exact: true }).click();
-
-    // Берём только активную (раскрытую) панель фильтра
-    const activePanel = page
-      .locator(
-        'div[class*="FilterViewDesktop_filterListWrapper"][class*="showFilterList"]',
-      )
-      .first();
-
-    const grid = activePanel.locator('.ReactVirtualized__Grid');
-    await grid.waitFor({ state: 'visible' });
-
-    const models = new Map<string, string>();
-    let sameCountStreak = 0;
-
-    while (sameCountStreak < 3) {
-      const current = await grid.evaluate((el) =>
-        Array.from(el.querySelectorAll('input[type="checkbox"]')).map(
-          (input) => ({
-            value: (input as HTMLInputElement).value,
-            label:
-              input.closest('label')?.querySelector('p')?.textContent?.trim() ??
-              '',
-          }),
-        ),
-      );
-
-      const before = models.size;
-      current.forEach((item) => {
-        console.log(`Found model: ${item.label} with value: ${item.value}`);
-
-        models.set(item.value, item.label);
-      });
-      sameCountStreak = models.size === before ? sameCountStreak + 1 : 0;
-
-      const { scrollTop, scrollHeight, clientHeight } = await grid.evaluate(
-        (el) => ({
-          scrollTop: el.scrollTop,
-          scrollHeight: el.scrollHeight,
-          clientHeight: el.clientHeight,
-        }),
-      );
-
-      if (scrollTop + clientHeight >= scrollHeight) break;
-
-      await grid.evaluate((el, step) => {
-        el.scrollTop += step;
-      }, clientHeight);
-
-      await page.waitForTimeout(150);
-    }
-
-    return Array.from(models, ([value, label]) => ({
-      value,
-      name: label,
-      slug: `${modelText}-${label.toLowerCase().replace(/\s+/g, '-')}`.toLowerCase(),
-      colors: [],
-      rams: [],
-      memories: [],
-    }));
-  }
-
   async getCategoryParser(getCategoriesDto: GetCategoriesDto) {
-    const { url } = getCategoriesDto;
-
     const context = await this.browser.newContext();
     const page: Page = await context.newPage();
 
-    const data: CategoryData = {
-      name: getCategoriesDto.name,
-      slug: getCategoriesDto.slug,
-      models: [],
-    };
+    try {
+      return this.categoryModelsService.getCategoryParser(
+        getCategoriesDto,
+        page,
+      );
+    } finally {
+      // Always close contexts to free up server RAM
+      await context.close();
+    }
+  }
+
+  async getProductParser(
+    getProductDto: GetProductDto,
+    onBatch?: (products: any[]) => Promise<void>,
+    onProgress?: (round: number, productsFound: number) => void,
+  ) {
+    const context = await this.browser.newContext({
+      userAgent:
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      viewport: { width: 1920, height: 1080 },
+      locale: 'en-US',
+      timezoneId: 'America/New_York',
+      permissions: ['geolocation'],
+      deviceScaleFactor: 1,
+      hasTouch: false,
+      isMobile: false,
+    });
+
+    // Set additional headers
+    await context.setExtraHTTPHeaders({
+      'Accept-Language': 'en-US,en;q=0.9',
+      'Accept-Encoding': 'gzip, deflate, br',
+      Accept:
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+      Connection: 'keep-alive',
+      'Upgrade-Insecure-Requests': '1',
+    });
+
+    const page: Page = await context.newPage();
 
     try {
-      await page.goto(url, { waitUntil: 'networkidle' });
-      const title = await page.title();
-
-      const models = await this.getAllModels(page, getCategoriesDto.name);
-      const message = `Found ${models.length} models for category ${data.name}`;
-
-      data.models = models;
-
-      await this.writeJsonFile(data, `${data.slug}/data.json`);
-
-      return {
-        title,
-        message,
-      };
+      return await this.productParserService.getProductParser(
+        getProductDto,
+        page,
+        onBatch,
+        onProgress,
+      );
     } finally {
       // Always close contexts to free up server RAM
       await context.close();

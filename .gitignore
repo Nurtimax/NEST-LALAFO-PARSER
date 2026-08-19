@@ -35,6 +35,9 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# Telegram bot runtime state (registered group, sent/banned product ids)
+/public/api/telegram
+
 # dotenv environment variable files
 .env
 .env.development.local
