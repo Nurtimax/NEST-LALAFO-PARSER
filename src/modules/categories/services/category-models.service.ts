@@ -116,13 +116,19 @@ export class CategoryModelsService {
       models: [],
     };
 
-    await page.goto(url, { waitUntil: 'networkidle' });
+    await page.goto(url, {
+      waitUntil: 'domcontentloaded',
+      timeout: 30000,
+    });
     const title = await page.title();
 
     const models = await this.getAllModels(page, getCategoriesDto.name);
     const message = `Found ${models.length} models for category ${data.name}`;
 
     data.models = models;
+
+    await this.writeJsonFile(data, `${data.slug}/data.json`);
+    console.log('Write Json file');
 
     return {
       title,

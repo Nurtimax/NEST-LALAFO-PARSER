@@ -1,0 +1,4338 @@
+{
+  "name": "POCO",
+  "slug": "poco",
+  "models": [
+    {
+      "value": "C3",
+      "name": "C3",
+      "slug": "poco-c3",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 2,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 3,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 2,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 3,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C31",
+      "name": "C31",
+      "slug": "poco-c31",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 5,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 6,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 4,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 5,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 6,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C40",
+      "name": "C40",
+      "slug": "poco-c40",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 8,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 9,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 8,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 9,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C50",
+      "name": "C50",
+      "slug": "poco-c50",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 10,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 11,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 12,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 10,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 11,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 12,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C51",
+      "name": "C51",
+      "slug": "poco-c51",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 14,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 15,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 14,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 15,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C55",
+      "name": "C55",
+      "slug": "poco-c55",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 16,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 17,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 18,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 16,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 17,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 18,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C61",
+      "name": "C61",
+      "slug": "poco-c61",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 20,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 21,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 20,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 21,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C65",
+      "name": "C65",
+      "slug": "poco-c65",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 16,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 22,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 23,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 24,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 22,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 23,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 24,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C71",
+      "name": "C71",
+      "slug": "poco-c71",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 26,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 27,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 26,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 27,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C75",
+      "name": "C75",
+      "slug": "poco-c75",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 28,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 29,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 30,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 28,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 29,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 30,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C75 5G",
+      "name": "C75 5G",
+      "slug": "poco-c75-5g",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 32,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 33,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 32,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 33,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C81",
+      "name": "C81",
+      "slug": "poco-c81",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 24,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 34,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 35,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 36,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 34,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 35,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 36,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C81 Pro",
+      "name": "C81 Pro",
+      "slug": "poco-c81-pro",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 38,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 39,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 38,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 39,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C85",
+      "name": "C85",
+      "slug": "poco-c85",
+      "colors": [
+        {
+          "id": 27,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 28,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 40,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 41,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 42,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 40,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 41,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 42,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C85 x 5G",
+      "name": "C85 x 5G",
+      "slug": "poco-c85-x-5g",
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 30,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 44,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 45,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 44,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 45,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "F2 Pro",
+      "name": "F2 Pro",
+      "slug": "poco-f2-pro",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 33,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 46,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 47,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 46,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 47,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F3",
+      "name": "F3",
+      "slug": "poco-f3",
+      "colors": [
+        {
+          "id": 34,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 35,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 36,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 48,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 49,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 48,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 49,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F3 GT",
+      "name": "F3 GT",
+      "slug": "poco-f3-gt",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 39,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 50,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 51,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 50,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 51,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F4",
+      "name": "F4",
+      "slug": "poco-f4",
+      "colors": [
+        {
+          "id": 40,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 41,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 42,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 52,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 53,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 52,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 53,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F4 GT",
+      "name": "F4 GT",
+      "slug": "poco-f4-gt",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 45,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 54,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 55,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 54,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 55,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F5",
+      "name": "F5",
+      "slug": "poco-f5",
+      "colors": [
+        {
+          "id": 46,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 47,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 48,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 56,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 57,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 56,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 57,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F5 Pro",
+      "name": "F5 Pro",
+      "slug": "poco-f5-pro",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 51,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 58,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 59,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 58,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 59,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F6",
+      "name": "F6",
+      "slug": "poco-f6",
+      "colors": [
+        {
+          "id": 52,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 53,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 54,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 60,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 61,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 60,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 61,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F6 Pro",
+      "name": "F6 Pro",
+      "slug": "poco-f6-pro",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 57,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 62,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 63,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 62,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 63,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F7",
+      "name": "F7",
+      "slug": "poco-f7",
+      "colors": [
+        {
+          "id": 58,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 59,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 60,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 64,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 65,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 64,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 65,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F7 Pro",
+      "name": "F7 Pro",
+      "slug": "poco-f7-pro",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 63,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 66,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 67,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 66,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 67,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F7 Ultra",
+      "name": "F7 Ultra",
+      "slug": "poco-f7-ultra",
+      "colors": [
+        {
+          "id": 64,
+          "hex_code": "#4A4A4A",
+          "name_en": "Titanium Black",
+          "name_ru": "Титановый чёрный",
+          "name_kg": "Титан кара"
+        },
+        {
+          "id": 65,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        },
+        {
+          "id": 66,
+          "hex_code": "#3E5C76",
+          "name_en": "Titanium Blue",
+          "name_ru": "Титановый синий",
+          "name_kg": "Титан көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 68,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 69,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 68,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 69,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 70,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "F8",
+      "name": "F8",
+      "slug": "poco-f8",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 69,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 70,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 71,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 71,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 72,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F8 Pro",
+      "name": "F8 Pro",
+      "slug": "poco-f8-pro",
+      "colors": [
+        {
+          "id": 70,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 71,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 72,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 72,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 73,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 74,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "F8 Ultra",
+      "name": "F8 Ultra",
+      "slug": "poco-f8-ultra",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#4A4A4A",
+          "name_en": "Titanium Black",
+          "name_ru": "Титановый чёрный",
+          "name_kg": "Титан кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        },
+        {
+          "id": 75,
+          "hex_code": "#3E5C76",
+          "name_en": "Titanium Blue",
+          "name_ru": "Титановый синий",
+          "name_kg": "Титан көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 74,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 75,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 75,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 76,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 77,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "M2",
+      "name": "M2",
+      "slug": "poco-m2",
+      "colors": [
+        {
+          "id": 76,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 77,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 78,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 76,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 77,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 78,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 78,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 79,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 80,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M2 Reloaded",
+      "name": "M2 Reloaded",
+      "slug": "poco-m2-reloaded",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 81,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 79,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 80,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 81,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 81,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 82,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 83,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M3",
+      "name": "M3",
+      "slug": "poco-m3",
+      "colors": [
+        {
+          "id": 82,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 83,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 84,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 82,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 83,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 84,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 84,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 85,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 86,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M3 Pro",
+      "name": "M3 Pro",
+      "slug": "poco-m3-pro",
+      "colors": [
+        {
+          "id": 85,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 86,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 87,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 86,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 87,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 87,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 88,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 89,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M3 Pro 5G",
+      "name": "M3 Pro 5G",
+      "slug": "poco-m3-pro-5g",
+      "colors": [
+        {
+          "id": 88,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 89,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 90,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 88,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 89,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 90,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 90,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 91,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 92,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M4",
+      "name": "M4",
+      "slug": "poco-m4",
+      "colors": [
+        {
+          "id": 91,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 92,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 93,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 92,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 93,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 93,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 94,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 95,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M4 5G",
+      "name": "M4 5G",
+      "slug": "poco-m4-5g",
+      "colors": [
+        {
+          "id": 94,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 95,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 96,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 94,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 95,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 96,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 96,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 97,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 98,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M4 Pro",
+      "name": "M4 Pro",
+      "slug": "poco-m4-pro",
+      "colors": [
+        {
+          "id": 97,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 98,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 99,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 97,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 98,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 99,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 99,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 100,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 101,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M4 Pro 5G",
+      "name": "M4 Pro 5G",
+      "slug": "poco-m4-pro-5g",
+      "colors": [
+        {
+          "id": 100,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 101,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 102,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 100,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 101,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 102,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 102,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 103,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 104,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M5",
+      "name": "M5",
+      "slug": "poco-m5",
+      "colors": [
+        {
+          "id": 103,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 104,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 105,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 103,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 104,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 105,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 105,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 106,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 107,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M5s",
+      "name": "M5s",
+      "slug": "poco-m5s",
+      "colors": [
+        {
+          "id": 106,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 107,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 108,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 106,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 107,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 108,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 108,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 109,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 110,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M6",
+      "name": "M6",
+      "slug": "poco-m6",
+      "colors": [
+        {
+          "id": 109,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 110,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 111,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 109,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 110,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 111,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 111,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 112,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 113,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M6 4G",
+      "name": "M6 4G",
+      "slug": "poco-m6-4g",
+      "colors": [
+        {
+          "id": 112,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 113,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 114,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 112,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 113,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 114,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 114,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 115,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 116,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M6 Plus",
+      "name": "M6 Plus",
+      "slug": "poco-m6-plus",
+      "colors": [
+        {
+          "id": 115,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 116,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 117,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 115,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 116,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 117,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 117,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 118,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 119,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M6 Pro",
+      "name": "M6 Pro",
+      "slug": "poco-m6-pro",
+      "colors": [
+        {
+          "id": 118,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 119,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 120,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 118,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 119,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 120,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 120,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 121,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 122,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M6 Pro 4G",
+      "name": "M6 Pro 4G",
+      "slug": "poco-m6-pro-4g",
+      "colors": [
+        {
+          "id": 121,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 122,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 123,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 121,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 122,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 123,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 123,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 124,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 125,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M6 Pro 5G",
+      "name": "M6 Pro 5G",
+      "slug": "poco-m6-pro-5g",
+      "colors": [
+        {
+          "id": 124,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 125,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 126,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 124,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 125,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 126,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 126,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 127,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 128,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M7",
+      "name": "M7",
+      "slug": "poco-m7",
+      "colors": [
+        {
+          "id": 127,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 128,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 129,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 127,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 128,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 129,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 129,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 130,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 131,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M7 Pro",
+      "name": "M7 Pro",
+      "slug": "poco-m7-pro",
+      "colors": [
+        {
+          "id": 130,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 131,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 132,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 130,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 131,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 132,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 132,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 133,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 134,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M7 Pro 5G",
+      "name": "M7 Pro 5G",
+      "slug": "poco-m7-pro-5g",
+      "colors": [
+        {
+          "id": 133,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 134,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 135,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 133,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 134,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 135,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 135,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 136,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 137,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M8",
+      "name": "M8",
+      "slug": "poco-m8",
+      "colors": [
+        {
+          "id": 136,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 137,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 138,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 136,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 137,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 138,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 138,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 139,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 140,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "M8 Pro",
+      "name": "M8 Pro",
+      "slug": "poco-m8-pro",
+      "colors": [
+        {
+          "id": 139,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 140,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 141,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 139,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 140,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 141,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 141,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 142,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 143,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pocophone F1",
+      "name": "Pocophone F1",
+      "slug": "poco-pocophone-f1",
+      "colors": [
+        {
+          "id": 142,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 143,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 144,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 142,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 143,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 144,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 145,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Pocophone F2",
+      "name": "Pocophone F2",
+      "slug": "poco-pocophone-f2",
+      "colors": [
+        {
+          "id": 145,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 146,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 147,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 144,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 145,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 146,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 147,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "X2",
+      "name": "X2",
+      "slug": "poco-x2",
+      "colors": [
+        {
+          "id": 148,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 149,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 150,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 146,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 147,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 148,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 148,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 149,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X3",
+      "name": "X3",
+      "slug": "poco-x3",
+      "colors": [
+        {
+          "id": 151,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 152,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 153,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 149,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 150,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 151,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 150,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 151,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X3 GT",
+      "name": "X3 GT",
+      "slug": "poco-x3-gt",
+      "colors": [
+        {
+          "id": 154,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 155,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 156,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 152,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 153,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 154,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 152,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 153,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X3 NFC",
+      "name": "X3 NFC",
+      "slug": "poco-x3-nfc",
+      "colors": [
+        {
+          "id": 157,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 158,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 159,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 155,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 156,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 157,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 154,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 155,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X3 Pro",
+      "name": "X3 Pro",
+      "slug": "poco-x3-pro",
+      "colors": [
+        {
+          "id": 160,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 161,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 162,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 158,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 159,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 160,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 156,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 157,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X4",
+      "name": "X4",
+      "slug": "poco-x4",
+      "colors": [
+        {
+          "id": 163,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 164,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 165,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 161,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 162,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 163,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 158,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 159,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X4 GT",
+      "name": "X4 GT",
+      "slug": "poco-x4-gt",
+      "colors": [
+        {
+          "id": 166,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 167,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 168,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 164,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 165,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 166,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 160,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 161,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X4 NFC",
+      "name": "X4 NFC",
+      "slug": "poco-x4-nfc",
+      "colors": [
+        {
+          "id": 169,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 170,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 171,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 167,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 168,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 169,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 162,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 163,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X4 Pro",
+      "name": "X4 Pro",
+      "slug": "poco-x4-pro",
+      "colors": [
+        {
+          "id": 172,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 173,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 174,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 170,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 171,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 172,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 164,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 165,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X4 Pro 5G",
+      "name": "X4 Pro 5G",
+      "slug": "poco-x4-pro-5g",
+      "colors": [
+        {
+          "id": 175,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 176,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 177,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 173,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 174,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 175,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 166,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 167,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X5",
+      "name": "X5",
+      "slug": "poco-x5",
+      "colors": [
+        {
+          "id": 178,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 179,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 180,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 176,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 177,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 178,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 168,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 169,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X5 5G",
+      "name": "X5 5G",
+      "slug": "poco-x5-5g",
+      "colors": [
+        {
+          "id": 181,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 182,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 183,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 179,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 180,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 181,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 170,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 171,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X5 Pro",
+      "name": "X5 Pro",
+      "slug": "poco-x5-pro",
+      "colors": [
+        {
+          "id": 184,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 185,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 186,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 182,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 183,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 184,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 172,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 173,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X5 Pro 5G",
+      "name": "X5 Pro 5G",
+      "slug": "poco-x5-pro-5g",
+      "colors": [
+        {
+          "id": 187,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 188,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 189,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 185,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 186,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 187,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 174,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 175,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X6",
+      "name": "X6",
+      "slug": "poco-x6",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 191,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 192,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 188,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 189,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 190,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 176,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 177,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X6 Neo",
+      "name": "X6 Neo",
+      "slug": "poco-x6-neo",
+      "colors": [
+        {
+          "id": 193,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 194,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 195,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 191,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 192,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 193,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 178,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 179,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X6 Pro",
+      "name": "X6 Pro",
+      "slug": "poco-x6-pro",
+      "colors": [
+        {
+          "id": 196,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 197,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 198,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 194,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 195,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 196,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 180,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 181,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X6 Pro 5G",
+      "name": "X6 Pro 5G",
+      "slug": "poco-x6-pro-5g",
+      "colors": [
+        {
+          "id": 199,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 200,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 201,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 197,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 198,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 199,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 182,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 183,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X7",
+      "name": "X7",
+      "slug": "poco-x7",
+      "colors": [
+        {
+          "id": 202,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 203,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 204,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 200,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 201,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 202,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 184,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 185,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X7 Pro",
+      "name": "X7 Pro",
+      "slug": "poco-x7-pro",
+      "colors": [
+        {
+          "id": 205,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 206,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 207,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 203,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 204,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 205,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 186,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 187,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X8 Pro",
+      "name": "X8 Pro",
+      "slug": "poco-x8-pro",
+      "colors": [
+        {
+          "id": 208,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 209,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 210,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 206,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 207,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 208,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 188,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 189,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X8 Pro Max",
+      "name": "X8 Pro Max",
+      "slug": "poco-x8-pro-max",
+      "colors": [
+        {
+          "id": 211,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 212,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 213,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 209,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 210,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 190,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 191,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    }
+  ]
+}
