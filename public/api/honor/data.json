@@ -1,0 +1,5340 @@
+{
+  "name": "Honor",
+  "slug": "honor",
+  "models": [
+    {
+      "value": "3C",
+      "name": "3C",
+      "slug": "honor-3c",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 2,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 3,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 2,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 3,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "3X",
+      "name": "3X",
+      "slug": "honor-3x",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 5,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 6,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 4,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 5,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 6,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "4",
+      "name": "4",
+      "slug": "honor-4",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 8,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 9,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 8,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 9,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "4C",
+      "name": "4C",
+      "slug": "honor-4c",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 10,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 11,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 12,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 10,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 11,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 12,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "4X",
+      "name": "4X",
+      "slug": "honor-4x",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 14,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 15,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 14,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 15,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "5",
+      "name": "5",
+      "slug": "honor-5",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 16,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 17,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 18,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 16,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 17,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 18,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "5A",
+      "name": "5A",
+      "slug": "honor-5a",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 20,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 21,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 20,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 21,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "5C",
+      "name": "5C",
+      "slug": "honor-5c",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 16,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 22,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 23,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 24,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 22,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 23,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 24,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "5X",
+      "name": "5X",
+      "slug": "honor-5x",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 26,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 27,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 26,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 27,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "6",
+      "name": "6",
+      "slug": "honor-6",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 28,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 29,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 30,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 28,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 29,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 30,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "6A",
+      "name": "6A",
+      "slug": "honor-6a",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 32,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 33,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 32,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 33,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "6C",
+      "name": "6C",
+      "slug": "honor-6c",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 24,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 34,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 35,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 36,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 34,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 35,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 36,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "6C Pro",
+      "name": "6C Pro",
+      "slug": "honor-6c-pro",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 38,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 39,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 38,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 39,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "6X",
+      "name": "6X",
+      "slug": "honor-6x",
+      "colors": [
+        {
+          "id": 27,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 28,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 40,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 41,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 42,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 40,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 41,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 42,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "7",
+      "name": "7",
+      "slug": "honor-7",
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 30,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 44,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 45,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 44,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 45,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "7A",
+      "name": "7A",
+      "slug": "honor-7a",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 46,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 47,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 48,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 46,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 47,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 48,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "7C",
+      "name": "7C",
+      "slug": "honor-7c",
+      "colors": [
+        {
+          "id": 33,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 34,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 49,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 50,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 51,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 50,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 51,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "7S",
+      "name": "7S",
+      "slug": "honor-7s",
+      "colors": [
+        {
+          "id": 35,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 36,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 52,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 53,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 54,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 52,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 53,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 54,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "7X",
+      "name": "7X",
+      "slug": "honor-7x",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 55,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 56,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 57,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 56,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 57,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "8",
+      "name": "8",
+      "slug": "honor-8",
+      "colors": [
+        {
+          "id": 39,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 40,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 58,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 59,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 60,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 58,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 59,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 60,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "8A",
+      "name": "8A",
+      "slug": "honor-8a",
+      "colors": [
+        {
+          "id": 41,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 42,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 61,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 62,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 63,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 62,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 63,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "8C",
+      "name": "8C",
+      "slug": "honor-8c",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 64,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 65,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 66,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 64,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 65,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 66,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "8S",
+      "name": "8S",
+      "slug": "honor-8s",
+      "colors": [
+        {
+          "id": 45,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 46,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 67,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 68,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 69,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 68,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 69,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "8X",
+      "name": "8X",
+      "slug": "honor-8x",
+      "colors": [
+        {
+          "id": 47,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 48,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 70,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 71,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 72,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 70,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 71,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 72,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "9",
+      "name": "9",
+      "slug": "honor-9",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 73,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 74,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 75,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 74,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 75,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "9A",
+      "name": "9A",
+      "slug": "honor-9a",
+      "colors": [
+        {
+          "id": 51,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 52,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 76,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 77,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 78,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 76,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 77,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 78,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "9C",
+      "name": "9C",
+      "slug": "honor-9c",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 79,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 80,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 81,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 79,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 80,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 81,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "9S",
+      "name": "9S",
+      "slug": "honor-9s",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 82,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 83,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 84,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 82,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 83,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 84,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "9X",
+      "name": "9X",
+      "slug": "honor-9x",
+      "colors": [
+        {
+          "id": 57,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 58,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 86,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 87,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 85,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 86,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 87,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "10",
+      "name": "10",
+      "slug": "honor-10",
+      "colors": [
+        {
+          "id": 59,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 60,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 88,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 89,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 90,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 88,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 89,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "10 Lite",
+      "name": "10 Lite",
+      "slug": "honor-10-lite",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 92,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 93,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 90,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 91,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "10X Lite",
+      "name": "10X Lite",
+      "slug": "honor-10x-lite",
+      "colors": [
+        {
+          "id": 63,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 64,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 94,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 95,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 96,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 92,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 93,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "20",
+      "name": "20",
+      "slug": "honor-20",
+      "colors": [
+        {
+          "id": 65,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 66,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 97,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 98,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 99,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 94,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 95,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "20 Lite",
+      "name": "20 Lite",
+      "slug": "honor-20-lite",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 100,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 101,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 102,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 96,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 97,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "20 Pro",
+      "name": "20 Pro",
+      "slug": "honor-20-pro",
+      "colors": [
+        {
+          "id": 69,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 70,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 103,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 104,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 105,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 98,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 99,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "20S",
+      "name": "20S",
+      "slug": "honor-20s",
+      "colors": [
+        {
+          "id": 71,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 72,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 106,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 107,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 108,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 100,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 101,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "30",
+      "name": "30",
+      "slug": "honor-30",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 109,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 110,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 111,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 102,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 103,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "30 Pro",
+      "name": "30 Pro",
+      "slug": "honor-30-pro",
+      "colors": [
+        {
+          "id": 75,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 76,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 112,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 113,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 114,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 104,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 105,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "30 Pro Plus",
+      "name": "30 Pro Plus",
+      "slug": "honor-30-pro-plus",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 115,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 116,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 117,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 106,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 107,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "30S",
+      "name": "30S",
+      "slug": "honor-30s",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 118,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 119,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 120,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 108,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 109,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "50",
+      "name": "50",
+      "slug": "honor-50",
+      "colors": [
+        {
+          "id": 81,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 82,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 83,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 121,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 122,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 110,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 111,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "50 Lite",
+      "name": "50 Lite",
+      "slug": "honor-50-lite",
+      "colors": [
+        {
+          "id": 84,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 85,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 86,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 123,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 124,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 112,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 113,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "50 Pro",
+      "name": "50 Pro",
+      "slug": "honor-50-pro",
+      "colors": [
+        {
+          "id": 87,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 88,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 89,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 125,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 126,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 114,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 115,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "50 SE",
+      "name": "50 SE",
+      "slug": "honor-50-se",
+      "colors": [
+        {
+          "id": 90,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 91,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 92,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 127,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 128,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 116,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 117,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "60",
+      "name": "60",
+      "slug": "honor-60",
+      "colors": [
+        {
+          "id": 93,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 94,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 95,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 129,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 130,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 118,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 119,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "60 Pro",
+      "name": "60 Pro",
+      "slug": "honor-60-pro",
+      "colors": [
+        {
+          "id": 96,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 97,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 98,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 131,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 132,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 120,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 121,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "60 SE",
+      "name": "60 SE",
+      "slug": "honor-60-se",
+      "colors": [
+        {
+          "id": 99,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 100,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 101,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 133,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 134,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 122,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 123,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "70",
+      "name": "70",
+      "slug": "honor-70",
+      "colors": [
+        {
+          "id": 102,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 103,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 104,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 135,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 136,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 124,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 125,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "70 Lite",
+      "name": "70 Lite",
+      "slug": "honor-70-lite",
+      "colors": [
+        {
+          "id": 105,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 106,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 107,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 137,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 138,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 126,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 127,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "70 Pro",
+      "name": "70 Pro",
+      "slug": "honor-70-pro",
+      "colors": [
+        {
+          "id": 108,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 109,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 110,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 139,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 140,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 128,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 129,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "70 Pro Plus",
+      "name": "70 Pro Plus",
+      "slug": "honor-70-pro-plus",
+      "colors": [
+        {
+          "id": 111,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 112,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 113,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 141,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 142,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 130,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 131,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "80",
+      "name": "80",
+      "slug": "honor-80",
+      "colors": [
+        {
+          "id": 114,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 115,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 116,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 143,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 144,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 132,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 133,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "80 GT",
+      "name": "80 GT",
+      "slug": "honor-80-gt",
+      "colors": [
+        {
+          "id": 117,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 118,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 119,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 145,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 146,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 134,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 135,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "80 Pro",
+      "name": "80 Pro",
+      "slug": "honor-80-pro",
+      "colors": [
+        {
+          "id": 120,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 121,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 122,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 147,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 148,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 136,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 137,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "90",
+      "name": "90",
+      "slug": "honor-90",
+      "colors": [
+        {
+          "id": 123,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 124,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 125,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 149,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 150,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 138,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 139,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "90 GT",
+      "name": "90 GT",
+      "slug": "honor-90-gt",
+      "colors": [
+        {
+          "id": 126,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 127,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 128,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 151,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 152,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 140,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 141,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "90 Lite",
+      "name": "90 Lite",
+      "slug": "honor-90-lite",
+      "colors": [
+        {
+          "id": 129,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 130,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 131,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 153,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 154,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 142,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 143,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "90 Pro",
+      "name": "90 Pro",
+      "slug": "honor-90-pro",
+      "colors": [
+        {
+          "id": 132,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 133,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 134,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 155,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 156,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 144,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 145,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "100",
+      "name": "100",
+      "slug": "honor-100",
+      "colors": [
+        {
+          "id": 135,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 136,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 137,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 157,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 158,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 159,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 146,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 147,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "100 Pro",
+      "name": "100 Pro",
+      "slug": "honor-100-pro",
+      "colors": [
+        {
+          "id": 138,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 139,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 140,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 160,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 161,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 162,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 148,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 149,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "200",
+      "name": "200",
+      "slug": "honor-200",
+      "colors": [
+        {
+          "id": 141,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 142,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 143,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 163,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 164,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 165,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 150,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 151,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "200 Lite",
+      "name": "200 Lite",
+      "slug": "honor-200-lite",
+      "colors": [
+        {
+          "id": 144,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 145,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 146,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 166,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 167,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 168,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 152,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 153,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "200 Pro",
+      "name": "200 Pro",
+      "slug": "honor-200-pro",
+      "colors": [
+        {
+          "id": 147,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 148,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 149,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 169,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 170,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 171,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 154,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 155,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "200 Smart",
+      "name": "200 Smart",
+      "slug": "honor-200-smart",
+      "colors": [
+        {
+          "id": 150,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 151,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 152,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 172,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 173,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 174,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 156,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 157,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "300",
+      "name": "300",
+      "slug": "honor-300",
+      "colors": [
+        {
+          "id": 153,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 154,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 155,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 175,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 176,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 177,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 158,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 159,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "300 Pro",
+      "name": "300 Pro",
+      "slug": "honor-300-pro",
+      "colors": [
+        {
+          "id": 156,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 157,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 158,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 178,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 179,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 180,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 160,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 161,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "400",
+      "name": "400",
+      "slug": "honor-400",
+      "colors": [
+        {
+          "id": 159,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 160,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 161,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 181,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 182,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 183,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 162,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 163,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "400 Lite",
+      "name": "400 Lite",
+      "slug": "honor-400-lite",
+      "colors": [
+        {
+          "id": 162,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 163,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 164,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 184,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 185,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 186,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 164,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 165,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "400 Pro",
+      "name": "400 Pro",
+      "slug": "honor-400-pro",
+      "colors": [
+        {
+          "id": 165,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 166,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        },
+        {
+          "id": 167,
+          "hex_code": "#D6D9DB",
+          "name_en": "Titanium Silver",
+          "name_ru": "Титановый серебристый",
+          "name_kg": "Титан күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 187,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 188,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 189,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 166,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 167,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Magic",
+      "name": "Magic",
+      "slug": "honor-magic",
+      "colors": [
+        {
+          "id": 168,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 169,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 170,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 190,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 191,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 168,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 169,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 170,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic 2",
+      "name": "Magic 2",
+      "slug": "honor-magic-2",
+      "colors": [
+        {
+          "id": 171,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 172,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 173,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 192,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 193,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 171,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 172,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Magic 3",
+      "name": "Magic 3",
+      "slug": "honor-magic-3",
+      "colors": [
+        {
+          "id": 174,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 175,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 176,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 194,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 195,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 173,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 174,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Magic 3 Pro",
+      "name": "Magic 3 Pro",
+      "slug": "honor-magic-3-pro",
+      "colors": [
+        {
+          "id": 177,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 178,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 179,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 196,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 197,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 175,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 176,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Magic 3 Pro Plus",
+      "name": "Magic 3 Pro Plus",
+      "slug": "honor-magic-3-pro-plus",
+      "colors": [
+        {
+          "id": 180,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 181,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 182,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 198,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 199,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 177,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 178,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Magic 4",
+      "name": "Magic 4",
+      "slug": "honor-magic-4",
+      "colors": [
+        {
+          "id": 183,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 184,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 185,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 200,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 201,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 179,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 180,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Magic 4 Pro",
+      "name": "Magic 4 Pro",
+      "slug": "honor-magic-4-pro",
+      "colors": [
+        {
+          "id": 186,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 187,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 188,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 202,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 203,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 181,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 182,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Magic 5",
+      "name": "Magic 5",
+      "slug": "honor-magic-5",
+      "colors": [
+        {
+          "id": 189,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 190,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 191,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 204,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 205,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 183,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 184,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 185,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic 5 Pro",
+      "name": "Magic 5 Pro",
+      "slug": "honor-magic-5-pro",
+      "colors": [
+        {
+          "id": 192,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 193,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 194,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 206,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 207,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 186,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 187,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 188,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic 6",
+      "name": "Magic 6",
+      "slug": "honor-magic-6",
+      "colors": [
+        {
+          "id": 195,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 196,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 197,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 208,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 209,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 189,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 190,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 191,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic 6 Pro",
+      "name": "Magic 6 Pro",
+      "slug": "honor-magic-6-pro",
+      "colors": [
+        {
+          "id": 198,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 199,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 200,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 210,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 211,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 192,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 193,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 194,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic 7",
+      "name": "Magic 7",
+      "slug": "honor-magic-7",
+      "colors": [
+        {
+          "id": 201,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 202,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 203,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 212,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 213,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 195,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 196,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 197,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic 7 Pro",
+      "name": "Magic 7 Pro",
+      "slug": "honor-magic-7-pro",
+      "colors": [
+        {
+          "id": 204,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 205,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 206,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 214,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 215,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 198,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 199,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 200,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic V",
+      "name": "Magic V",
+      "slug": "honor-magic-v",
+      "colors": [
+        {
+          "id": 207,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 208,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 216,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 217,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 201,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 202,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 203,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic V2",
+      "name": "Magic V2",
+      "slug": "honor-magic-v2",
+      "colors": [
+        {
+          "id": 209,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 210,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 218,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 219,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 204,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 205,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 206,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic V3",
+      "name": "Magic V3",
+      "slug": "honor-magic-v3",
+      "colors": [
+        {
+          "id": 211,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 212,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 220,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 221,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 207,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 208,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 209,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Magic V Flip",
+      "name": "Magic V Flip",
+      "slug": "honor-magic-v-flip",
+      "colors": [
+        {
+          "id": 213,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 214,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 222,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 223,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 210,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 211,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 212,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Play",
+      "name": "Play",
+      "slug": "honor-play",
+      "colors": [
+        {
+          "id": 215,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 216,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 224,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 225,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 226,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 213,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 214,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 215,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Play 3",
+      "name": "Play 3",
+      "slug": "honor-play-3",
+      "colors": [
+        {
+          "id": 217,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 218,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 227,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 228,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 229,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 216,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 217,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 218,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Play 4",
+      "name": "Play 4",
+      "slug": "honor-play-4",
+      "colors": [
+        {
+          "id": 219,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 220,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 230,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 231,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 232,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 219,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 220,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 221,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "V8",
+      "name": "V8",
+      "slug": "honor-v8",
+      "colors": [
+        {
+          "id": 221,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 222,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 233,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 234,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 235,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 222,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 223,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 224,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V9",
+      "name": "V9",
+      "slug": "honor-v9",
+      "colors": [
+        {
+          "id": 223,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 224,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 236,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 237,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 238,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 225,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 226,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 227,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V10",
+      "name": "V10",
+      "slug": "honor-v10",
+      "colors": [
+        {
+          "id": 225,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 226,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 239,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 240,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 241,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 228,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 229,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 230,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V20",
+      "name": "V20",
+      "slug": "honor-v20",
+      "colors": [
+        {
+          "id": 227,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 228,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 242,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 243,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 244,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 231,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 232,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 233,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V30",
+      "name": "V30",
+      "slug": "honor-v30",
+      "colors": [
+        {
+          "id": 229,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 230,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 245,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 246,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 247,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 234,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 235,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 236,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X6",
+      "name": "X6",
+      "slug": "honor-x6",
+      "colors": [
+        {
+          "id": 231,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 232,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 248,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 249,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 250,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 237,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 238,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 239,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X7",
+      "name": "X7",
+      "slug": "honor-x7",
+      "colors": [
+        {
+          "id": 233,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 234,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 251,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 252,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 253,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 240,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 241,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 242,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X8",
+      "name": "X8",
+      "slug": "honor-x8",
+      "colors": [
+        {
+          "id": 235,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 236,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 254,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 255,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 256,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 243,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 244,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 245,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X9",
+      "name": "X9",
+      "slug": "honor-x9",
+      "colors": [
+        {
+          "id": 237,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 238,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 257,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 258,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 259,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 246,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 247,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 248,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X9b",
+      "name": "X9b",
+      "slug": "honor-x9b",
+      "colors": [
+        {
+          "id": 239,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 240,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 260,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 261,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 262,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 249,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 250,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 251,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    }
+  ]
+}
