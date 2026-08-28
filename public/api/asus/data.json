@@ -1,0 +1,5663 @@
+{
+  "name": "Asus",
+  "slug": "asus",
+  "models": [
+    {
+      "value": "8Z",
+      "name": "8Z",
+      "slug": "asus-8z",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 2,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 3,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 2,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Fonepad 7 FE375CL",
+      "name": "Fonepad 7 FE375CL",
+      "slug": "asus-fonepad-7-fe375cl",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 5,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 6,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 7,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 3,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 4,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 5,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 6,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Live G500TG",
+      "name": "Live G500TG",
+      "slug": "asus-live-g500tg",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 8,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 9,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 10,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 11,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 8,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 9,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 10,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pegasus 2 Plus",
+      "name": "Pegasus 2 Plus",
+      "slug": "asus-pegasus-2-plus",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 12,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 13,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 14,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 15,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 11,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 12,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 13,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 14,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone",
+      "name": "ROG Phone",
+      "slug": "asus-rog-phone",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 16,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 17,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 15,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 16,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 17,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 3",
+      "name": "ROG Phone 3",
+      "slug": "asus-rog-phone-3",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 18,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 19,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 18,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 19,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 20,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 3 Strix",
+      "name": "ROG Phone 3 Strix",
+      "slug": "asus-rog-phone-3-strix",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 20,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 21,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 21,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 22,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 23,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 3 ZS661KS",
+      "name": "ROG Phone 3 ZS661KS",
+      "slug": "asus-rog-phone-3-zs661ks",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 16,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 22,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 23,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 24,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 25,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 26,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 5",
+      "name": "ROG Phone 5",
+      "slug": "asus-rog-phone-5",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 24,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 25,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 27,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 28,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 29,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 5 Pro",
+      "name": "ROG Phone 5 Pro",
+      "slug": "asus-rog-phone-5-pro",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 26,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 27,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 30,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 31,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 32,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 5 Ultimate",
+      "name": "ROG Phone 5 Ultimate",
+      "slug": "asus-rog-phone-5-ultimate",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 28,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 29,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 33,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 34,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 35,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 5s",
+      "name": "ROG Phone 5s",
+      "slug": "asus-rog-phone-5s",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 24,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 30,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 31,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 36,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 37,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 38,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 5s Pro",
+      "name": "ROG Phone 5s Pro",
+      "slug": "asus-rog-phone-5s-pro",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 32,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 33,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 39,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 40,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 41,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 6",
+      "name": "ROG Phone 6",
+      "slug": "asus-rog-phone-6",
+      "colors": [
+        {
+          "id": 27,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 28,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 34,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 35,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 36,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 42,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 43,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 44,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 6 Pro",
+      "name": "ROG Phone 6 Pro",
+      "slug": "asus-rog-phone-6-pro",
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 30,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 38,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 39,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 45,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 46,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 47,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 6D",
+      "name": "ROG Phone 6D",
+      "slug": "asus-rog-phone-6d",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 40,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 41,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 42,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 48,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 49,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 50,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 6D Ultimate",
+      "name": "ROG Phone 6D Ultimate",
+      "slug": "asus-rog-phone-6d-ultimate",
+      "colors": [
+        {
+          "id": 33,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 34,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 44,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 45,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 51,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 52,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 53,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 7",
+      "name": "ROG Phone 7",
+      "slug": "asus-rog-phone-7",
+      "colors": [
+        {
+          "id": 35,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 36,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 46,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 47,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 48,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 54,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 55,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 56,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 7 Ultimate",
+      "name": "ROG Phone 7 Ultimate",
+      "slug": "asus-rog-phone-7-ultimate",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 49,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 50,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 51,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 57,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 58,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 59,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 8",
+      "name": "ROG Phone 8",
+      "slug": "asus-rog-phone-8",
+      "colors": [
+        {
+          "id": 39,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 40,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 52,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 53,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 54,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 60,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 61,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 62,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone 8 Pro",
+      "name": "ROG Phone 8 Pro",
+      "slug": "asus-rog-phone-8-pro",
+      "colors": [
+        {
+          "id": 41,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 42,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 55,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 56,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 57,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 63,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 64,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 65,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone II",
+      "name": "ROG Phone II",
+      "slug": "asus-rog-phone-ii",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 58,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 59,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 66,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 67,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 68,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "ROG Phone ZS600KL",
+      "name": "ROG Phone ZS600KL",
+      "slug": "asus-rog-phone-zs600kl",
+      "colors": [
+        {
+          "id": 45,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 46,
+          "hex_code": "#F5F5F0",
+          "name_en": "Storm White",
+          "name_ru": "Штормовой белый",
+          "name_kg": "Шторм ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 60,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 61,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 62,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 69,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 70,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 71,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "ZenFone Lite (L1) ZA551KL",
+      "name": "ZenFone Lite (L1) ZA551KL",
+      "slug": "asus-zenfone-lite-(l1)-za551kl",
+      "colors": [
+        {
+          "id": 47,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 48,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 63,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 64,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 65,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 66,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 72,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 73,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 74,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 75,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "ZenFone Live (L1) ZA550KL",
+      "name": "ZenFone Live (L1) ZA550KL",
+      "slug": "asus-zenfone-live-(l1)-za550kl",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 67,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 68,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 69,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 70,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 76,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 77,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 78,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 79,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "ZenFone Live (L2)",
+      "name": "ZenFone Live (L2)",
+      "slug": "asus-zenfone-live-(l2)",
+      "colors": [
+        {
+          "id": 51,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 52,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 71,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 72,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 73,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 74,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 80,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 81,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 82,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 83,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 Deluxe ZE551ML",
+      "name": "Zenfone 2 Deluxe ZE551ML",
+      "slug": "asus-zenfone-2-deluxe-ze551ml",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 55,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 75,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 76,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 77,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 84,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 85,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 86,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 Laser ZE500KG",
+      "name": "Zenfone 2 Laser ZE500KG",
+      "slug": "asus-zenfone-2-laser-ze500kg",
+      "colors": [
+        {
+          "id": 56,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 57,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 78,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 79,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 80,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 81,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 87,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 88,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 89,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 90,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 Laser ZE500KL",
+      "name": "Zenfone 2 Laser ZE500KL",
+      "slug": "asus-zenfone-2-laser-ze500kl",
+      "colors": [
+        {
+          "id": 58,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 59,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 82,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 83,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 84,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 85,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 91,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 92,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 93,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 94,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 Laser ZE550KL",
+      "name": "Zenfone 2 Laser ZE550KL",
+      "slug": "asus-zenfone-2-laser-ze550kl",
+      "colors": [
+        {
+          "id": 60,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 61,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 86,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 87,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 88,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 89,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 95,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 96,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 97,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 98,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 Laser ZE551KL",
+      "name": "Zenfone 2 Laser ZE551KL",
+      "slug": "asus-zenfone-2-laser-ze551kl",
+      "colors": [
+        {
+          "id": 62,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 63,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 90,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 91,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 92,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 93,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 99,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 100,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 101,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 102,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 Laser ZE600KL",
+      "name": "Zenfone 2 Laser ZE600KL",
+      "slug": "asus-zenfone-2-laser-ze600kl",
+      "colors": [
+        {
+          "id": 64,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 65,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 94,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 95,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 96,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 97,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 103,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 104,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 105,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 106,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 Laser ZE601KL",
+      "name": "Zenfone 2 Laser ZE601KL",
+      "slug": "asus-zenfone-2-laser-ze601kl",
+      "colors": [
+        {
+          "id": 66,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 67,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 98,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 99,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 100,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 101,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 107,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 108,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 109,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 110,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 ZE500CL",
+      "name": "Zenfone 2 ZE500CL",
+      "slug": "asus-zenfone-2-ze500cl",
+      "colors": [
+        {
+          "id": 68,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 69,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 70,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 102,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 103,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 104,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 111,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 112,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 113,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 ZE550ML",
+      "name": "Zenfone 2 ZE550ML",
+      "slug": "asus-zenfone-2-ze550ml",
+      "colors": [
+        {
+          "id": 71,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 72,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 73,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 105,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 106,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 107,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 114,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 115,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 116,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2 ZE551ML",
+      "name": "Zenfone 2 ZE551ML",
+      "slug": "asus-zenfone-2-ze551ml",
+      "colors": [
+        {
+          "id": 74,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 75,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 76,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 108,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 109,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 110,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 117,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 118,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 119,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 2E",
+      "name": "Zenfone 2E",
+      "slug": "asus-zenfone-2e",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 111,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 112,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 113,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 114,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 120,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 121,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 122,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 123,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3 Deluxe 5.5",
+      "name": "Zenfone 3 Deluxe 5.5",
+      "slug": "asus-zenfone-3-deluxe-5.5",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 81,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 115,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 116,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 117,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 124,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 125,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 126,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3 Deluxe ZS570KL",
+      "name": "Zenfone 3 Deluxe ZS570KL",
+      "slug": "asus-zenfone-3-deluxe-zs570kl",
+      "colors": [
+        {
+          "id": 82,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 83,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 84,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 118,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 119,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 120,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 127,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 128,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 129,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3 Laser ZC551KL",
+      "name": "Zenfone 3 Laser ZC551KL",
+      "slug": "asus-zenfone-3-laser-zc551kl",
+      "colors": [
+        {
+          "id": 85,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 86,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 121,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 122,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 123,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 124,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 130,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 131,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 132,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 133,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3 Max ZC520TL",
+      "name": "Zenfone 3 Max ZC520TL",
+      "slug": "asus-zenfone-3-max-zc520tl",
+      "colors": [
+        {
+          "id": 87,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 88,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 125,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 126,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 127,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 128,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 134,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 135,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 136,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 137,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3 Max ZC553KL",
+      "name": "Zenfone 3 Max ZC553KL",
+      "slug": "asus-zenfone-3-max-zc553kl",
+      "colors": [
+        {
+          "id": 89,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 90,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 129,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 130,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 131,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 132,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 138,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 139,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 140,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 141,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3 Ultra ZU680KL",
+      "name": "Zenfone 3 Ultra ZU680KL",
+      "slug": "asus-zenfone-3-ultra-zu680kl",
+      "colors": [
+        {
+          "id": 91,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 92,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 133,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 134,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 135,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 142,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 143,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3 ZE520KL",
+      "name": "Zenfone 3 ZE520KL",
+      "slug": "asus-zenfone-3-ze520kl",
+      "colors": [
+        {
+          "id": 93,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 94,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 95,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 136,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 137,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 138,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 144,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 145,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 146,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3 ZE552KL",
+      "name": "Zenfone 3 ZE552KL",
+      "slug": "asus-zenfone-3-ze552kl",
+      "colors": [
+        {
+          "id": 96,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 97,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 98,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 139,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 140,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 141,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 147,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 148,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 149,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3 Zoom ZE553KL",
+      "name": "Zenfone 3 Zoom ZE553KL",
+      "slug": "asus-zenfone-3-zoom-ze553kl",
+      "colors": [
+        {
+          "id": 99,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 100,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 101,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 142,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 143,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 144,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 150,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 151,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 152,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 3s Max ZC521TL",
+      "name": "Zenfone 3s Max ZC521TL",
+      "slug": "asus-zenfone-3s-max-zc521tl",
+      "colors": [
+        {
+          "id": 102,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 103,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 145,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 146,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 147,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 148,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 153,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 154,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 155,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 156,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 Max Plus ZC554KL",
+      "name": "Zenfone 4 Max Plus ZC554KL",
+      "slug": "asus-zenfone-4-max-plus-zc554kl",
+      "colors": [
+        {
+          "id": 104,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 105,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 149,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 150,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 151,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 152,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 157,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 158,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 159,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 160,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 Max Pro ZC554KL",
+      "name": "Zenfone 4 Max Pro ZC554KL",
+      "slug": "asus-zenfone-4-max-pro-zc554kl",
+      "colors": [
+        {
+          "id": 106,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 107,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 153,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 154,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 155,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 156,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 161,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 162,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 163,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 164,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 Max ZC520KL",
+      "name": "Zenfone 4 Max ZC520KL",
+      "slug": "asus-zenfone-4-max-zc520kl",
+      "colors": [
+        {
+          "id": 108,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 109,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 157,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 158,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 159,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 160,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 165,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 166,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 167,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 168,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 Max ZC554KL",
+      "name": "Zenfone 4 Max ZC554KL",
+      "slug": "asus-zenfone-4-max-zc554kl",
+      "colors": [
+        {
+          "id": 110,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 111,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 161,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 162,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 163,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 164,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 169,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 170,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 171,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 172,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 Pro ZS551KL",
+      "name": "Zenfone 4 Pro ZS551KL",
+      "slug": "asus-zenfone-4-pro-zs551kl",
+      "colors": [
+        {
+          "id": 112,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 113,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 114,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 165,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 166,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 167,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 173,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 174,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 175,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 Selfie Lite ZB553KL",
+      "name": "Zenfone 4 Selfie Lite ZB553KL",
+      "slug": "asus-zenfone-4-selfie-lite-zb553kl",
+      "colors": [
+        {
+          "id": 115,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 116,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 168,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 169,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 170,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 171,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 176,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 177,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 178,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 179,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 Selfie Pro ZD552KL",
+      "name": "Zenfone 4 Selfie Pro ZD552KL",
+      "slug": "asus-zenfone-4-selfie-pro-zd552kl",
+      "colors": [
+        {
+          "id": 117,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 118,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 172,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 173,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 174,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 175,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 180,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 181,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 182,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 183,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 Selfie ZB553KL",
+      "name": "Zenfone 4 Selfie ZB553KL",
+      "slug": "asus-zenfone-4-selfie-zb553kl",
+      "colors": [
+        {
+          "id": 119,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 120,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 176,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 177,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 178,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 179,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 184,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 185,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 186,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 187,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 Selfie ZD553KL",
+      "name": "Zenfone 4 Selfie ZD553KL",
+      "slug": "asus-zenfone-4-selfie-zd553kl",
+      "colors": [
+        {
+          "id": 121,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 122,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 180,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 181,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 182,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 183,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 188,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 189,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 190,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 191,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 4 ZE554KL",
+      "name": "Zenfone 4 ZE554KL",
+      "slug": "asus-zenfone-4-ze554kl",
+      "colors": [
+        {
+          "id": 123,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 124,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 125,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 184,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 185,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 186,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 192,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 193,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 194,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 5 A501CG",
+      "name": "Zenfone 5 A501CG",
+      "slug": "asus-zenfone-5-a501cg",
+      "colors": [
+        {
+          "id": 126,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 127,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 128,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 187,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 188,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 189,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 195,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 196,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 197,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 5 Lite ZC600KL",
+      "name": "Zenfone 5 Lite ZC600KL",
+      "slug": "asus-zenfone-5-lite-zc600kl",
+      "colors": [
+        {
+          "id": 129,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 130,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 190,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 191,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 192,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 193,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 198,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 199,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 200,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 201,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 5 ZE620KL",
+      "name": "Zenfone 5 ZE620KL",
+      "slug": "asus-zenfone-5-ze620kl",
+      "colors": [
+        {
+          "id": 131,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 132,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 133,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 194,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 195,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 196,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 202,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 203,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 204,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 5z ZS620KL",
+      "name": "Zenfone 5z ZS620KL",
+      "slug": "asus-zenfone-5z-zs620kl",
+      "colors": [
+        {
+          "id": 134,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 135,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 197,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 198,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 199,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 205,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 206,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 6 ZS630KL",
+      "name": "Zenfone 6 ZS630KL",
+      "slug": "asus-zenfone-6-zs630kl",
+      "colors": [
+        {
+          "id": 136,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 137,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 200,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 201,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 202,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 207,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 208,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 7 Pro ZS671KS",
+      "name": "Zenfone 7 Pro ZS671KS",
+      "slug": "asus-zenfone-7-pro-zs671ks",
+      "colors": [
+        {
+          "id": 138,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 139,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 203,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 204,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 205,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 209,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 210,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 7 ZS670KS",
+      "name": "Zenfone 7 ZS670KS",
+      "slug": "asus-zenfone-7-zs670ks",
+      "colors": [
+        {
+          "id": 140,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 141,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 206,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 207,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 208,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 211,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 212,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 8",
+      "name": "Zenfone 8",
+      "slug": "asus-zenfone-8",
+      "colors": [
+        {
+          "id": 142,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 143,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 209,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 210,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 211,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 213,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 214,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 8 Flip",
+      "name": "Zenfone 8 Flip",
+      "slug": "asus-zenfone-8-flip",
+      "colors": [
+        {
+          "id": 144,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 145,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 212,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 213,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 214,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 215,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 216,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 9",
+      "name": "Zenfone 9",
+      "slug": "asus-zenfone-9",
+      "colors": [
+        {
+          "id": 146,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 147,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 215,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 216,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 217,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 217,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 218,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone 10",
+      "name": "Zenfone 10",
+      "slug": "asus-zenfone-10",
+      "colors": [
+        {
+          "id": 148,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 149,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 218,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 219,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 220,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 219,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 220,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone AR ZS571KL",
+      "name": "Zenfone AR ZS571KL",
+      "slug": "asus-zenfone-ar-zs571kl",
+      "colors": [
+        {
+          "id": 150,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight Black",
+          "name_ru": "Полночный чёрный",
+          "name_kg": "Түн ортосу кара"
+        },
+        {
+          "id": 151,
+          "hex_code": "#F5F5F0",
+          "name_en": "Moonlight White",
+          "name_ru": "Лунный белый",
+          "name_kg": "Ай ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 221,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 222,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 223,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 221,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 222,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Zenfone C ZC451CG",
+      "name": "Zenfone C ZC451CG",
+      "slug": "asus-zenfone-c-zc451cg",
+      "colors": [
+        {
+          "id": 152,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 153,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 224,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 225,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 226,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 227,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 223,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 224,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 225,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 226,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Go T500",
+      "name": "Zenfone Go T500",
+      "slug": "asus-zenfone-go-t500",
+      "colors": [
+        {
+          "id": 154,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 155,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 228,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 229,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 230,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 231,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 227,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 228,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 229,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 230,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Go ZB452KG",
+      "name": "Zenfone Go ZB452KG",
+      "slug": "asus-zenfone-go-zb452kg",
+      "colors": [
+        {
+          "id": 156,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 157,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 232,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 233,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 234,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 235,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 231,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 232,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 233,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 234,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Go ZB500KL",
+      "name": "Zenfone Go ZB500KL",
+      "slug": "asus-zenfone-go-zb500kl",
+      "colors": [
+        {
+          "id": 158,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 159,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 236,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 237,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 238,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 239,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 235,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 236,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 237,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 238,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Go ZB551KL",
+      "name": "Zenfone Go ZB551KL",
+      "slug": "asus-zenfone-go-zb551kl",
+      "colors": [
+        {
+          "id": 160,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 161,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 240,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 241,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 242,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 243,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 239,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 240,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 241,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 242,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Go ZB552KL",
+      "name": "Zenfone Go ZB552KL",
+      "slug": "asus-zenfone-go-zb552kl",
+      "colors": [
+        {
+          "id": 162,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 163,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 244,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 245,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 246,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 247,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 243,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 244,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 245,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 246,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Go ZB690KG",
+      "name": "Zenfone Go ZB690KG",
+      "slug": "asus-zenfone-go-zb690kg",
+      "colors": [
+        {
+          "id": 164,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 165,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 248,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 249,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 250,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 251,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 247,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 248,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 249,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 250,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Go ZC451TG",
+      "name": "Zenfone Go ZC451TG",
+      "slug": "asus-zenfone-go-zc451tg",
+      "colors": [
+        {
+          "id": 166,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 167,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 252,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 253,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 254,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 255,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 251,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 252,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 253,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 254,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Go ZC500TG",
+      "name": "Zenfone Go ZC500TG",
+      "slug": "asus-zenfone-go-zc500tg",
+      "colors": [
+        {
+          "id": 168,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 169,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 256,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 257,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 258,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 259,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 255,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 256,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 257,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 258,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Live ZB501KL",
+      "name": "Zenfone Live ZB501KL",
+      "slug": "asus-zenfone-live-zb501kl",
+      "colors": [
+        {
+          "id": 170,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 171,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 260,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 261,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 262,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 263,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 259,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 260,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 261,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 262,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max (M1) ZB555KL",
+      "name": "Zenfone Max (M1) ZB555KL",
+      "slug": "asus-zenfone-max-(m1)-zb555kl",
+      "colors": [
+        {
+          "id": 172,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 173,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 264,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 265,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 266,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 267,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 263,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 264,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 265,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 266,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max (M1) ZB556KL",
+      "name": "Zenfone Max (M1) ZB556KL",
+      "slug": "asus-zenfone-max-(m1)-zb556kl",
+      "colors": [
+        {
+          "id": 174,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 175,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 268,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 269,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 270,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 271,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 267,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 268,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 269,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 270,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max (M2) ZB633KL",
+      "name": "Zenfone Max (M2) ZB633KL",
+      "slug": "asus-zenfone-max-(m2)-zb633kl",
+      "colors": [
+        {
+          "id": 176,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 177,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 272,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 273,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 274,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 275,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 271,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 272,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 273,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 274,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max Plus (M1)",
+      "name": "Zenfone Max Plus (M1)",
+      "slug": "asus-zenfone-max-plus-(m1)",
+      "colors": [
+        {
+          "id": 178,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 179,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 276,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 277,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 278,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 279,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 275,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 276,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 277,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 278,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max Plus (M1) ZB570TL",
+      "name": "Zenfone Max Plus (M1) ZB570TL",
+      "slug": "asus-zenfone-max-plus-(m1)-zb570tl",
+      "colors": [
+        {
+          "id": 180,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 181,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 280,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 281,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 282,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 283,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 279,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 280,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 281,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 282,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max Plus (M2) ZB634KL",
+      "name": "Zenfone Max Plus (M2) ZB634KL",
+      "slug": "asus-zenfone-max-plus-(m2)-zb634kl",
+      "colors": [
+        {
+          "id": 182,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 183,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 284,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 285,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 286,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 287,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 283,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 284,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 285,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 286,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max Pro (M1) ZB601KL",
+      "name": "Zenfone Max Pro (M1) ZB601KL",
+      "slug": "asus-zenfone-max-pro-(m1)-zb601kl",
+      "colors": [
+        {
+          "id": 184,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 185,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 288,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 289,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 290,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 291,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 287,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 288,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 289,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 290,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max Pro (M2) ZB631KL",
+      "name": "Zenfone Max Pro (M2) ZB631KL",
+      "slug": "asus-zenfone-max-pro-(m2)-zb631kl",
+      "colors": [
+        {
+          "id": 186,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 187,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 292,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 293,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 294,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 295,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 291,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 292,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 293,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 294,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max Shot ZB634KL",
+      "name": "Zenfone Max Shot ZB634KL",
+      "slug": "asus-zenfone-max-shot-zb634kl",
+      "colors": [
+        {
+          "id": 188,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 189,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 296,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 297,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 298,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 299,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 295,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 296,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 297,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 298,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Max ZC550KL",
+      "name": "Zenfone Max ZC550KL",
+      "slug": "asus-zenfone-max-zc550kl",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 191,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 300,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 301,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 302,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 303,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 299,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 300,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 301,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 302,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Pegasus 3",
+      "name": "Zenfone Pegasus 3",
+      "slug": "asus-zenfone-pegasus-3",
+      "colors": [
+        {
+          "id": 192,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 193,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 304,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 305,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 306,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 307,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 303,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 304,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 305,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 306,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Selfie ZD551KL",
+      "name": "Zenfone Selfie ZD551KL",
+      "slug": "asus-zenfone-selfie-zd551kl",
+      "colors": [
+        {
+          "id": 194,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 195,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 308,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 309,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 310,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 311,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 307,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 308,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 309,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 310,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Zenfone V V520KL",
+      "name": "Zenfone V V520KL",
+      "slug": "asus-zenfone-v-v520kl",
+      "colors": [
+        {
+          "id": 196,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 197,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 198,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 312,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 313,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 314,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 311,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 312,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 313,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Zoom ZX550",
+      "name": "Zenfone Zoom ZX550",
+      "slug": "asus-zenfone-zoom-zx550",
+      "colors": [
+        {
+          "id": 199,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 200,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 201,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 315,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 316,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 317,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 314,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 315,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 316,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Zenfone Zoom ZX551ML",
+      "name": "Zenfone Zoom ZX551ML",
+      "slug": "asus-zenfone-zoom-zx551ml",
+      "colors": [
+        {
+          "id": 202,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 203,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 204,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 318,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 319,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 320,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 317,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 318,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 319,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    }
+  ]
+}
