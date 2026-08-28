@@ -1,0 +1,6573 @@
+{
+  "name": "Motorola",
+  "slug": "motorola",
+  "models": [
+    {
+      "value": "Moto E",
+      "name": "Moto E",
+      "slug": "motorola-moto-e",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 2,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 3,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 2,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 3,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E (2nd gen)",
+      "name": "Moto E (2nd gen)",
+      "slug": "motorola-moto-e-2nd-gen",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 5,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 6,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 4,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 5,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 6,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E3",
+      "name": "Moto E3",
+      "slug": "motorola-moto-e3",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 8,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 9,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 8,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 9,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E4",
+      "name": "Moto E4",
+      "slug": "motorola-moto-e4",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 10,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 11,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 12,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 10,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 11,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 12,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E4 Plus",
+      "name": "Moto E4 Plus",
+      "slug": "motorola-moto-e4-plus",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 14,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 15,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 14,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 15,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E5",
+      "name": "Moto E5",
+      "slug": "motorola-moto-e5",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 16,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 17,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 18,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 16,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 17,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 18,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E5 Play",
+      "name": "Moto E5 Play",
+      "slug": "motorola-moto-e5-play",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 20,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 21,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 20,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 21,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E5 Plus",
+      "name": "Moto E5 Plus",
+      "slug": "motorola-moto-e5-plus",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 16,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 22,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 23,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 24,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 22,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 23,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 24,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E6",
+      "name": "Moto E6",
+      "slug": "motorola-moto-e6",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 26,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 27,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 26,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 27,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E6 Play",
+      "name": "Moto E6 Play",
+      "slug": "motorola-moto-e6-play",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 28,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 29,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 30,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 28,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 29,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 30,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E6 Plus",
+      "name": "Moto E6 Plus",
+      "slug": "motorola-moto-e6-plus",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 32,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 33,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 32,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 33,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E6s",
+      "name": "Moto E6s",
+      "slug": "motorola-moto-e6s",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 24,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 34,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 35,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 36,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 34,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 35,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 36,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E7",
+      "name": "Moto E7",
+      "slug": "motorola-moto-e7",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 38,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 39,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 38,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 39,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E7 Plus",
+      "name": "Moto E7 Plus",
+      "slug": "motorola-moto-e7-plus",
+      "colors": [
+        {
+          "id": 27,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 28,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 40,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 41,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 42,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 40,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 41,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 42,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E7 Power",
+      "name": "Moto E7 Power",
+      "slug": "motorola-moto-e7-power",
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 30,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 44,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 45,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 44,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 45,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E13",
+      "name": "Moto E13",
+      "slug": "motorola-moto-e13",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 46,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 47,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 48,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 46,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 47,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 48,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E20",
+      "name": "Moto E20",
+      "slug": "motorola-moto-e20",
+      "colors": [
+        {
+          "id": 33,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 34,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 49,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 50,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 51,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 50,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 51,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E22",
+      "name": "Moto E22",
+      "slug": "motorola-moto-e22",
+      "colors": [
+        {
+          "id": 35,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 36,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 52,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 53,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 54,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 52,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 53,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 54,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E32",
+      "name": "Moto E32",
+      "slug": "motorola-moto-e32",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 55,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 56,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 57,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 56,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 57,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto E40",
+      "name": "Moto E40",
+      "slug": "motorola-moto-e40",
+      "colors": [
+        {
+          "id": 39,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 40,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 58,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 59,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 60,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 58,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 59,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 60,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Moto G",
+      "name": "Moto G",
+      "slug": "motorola-moto-g",
+      "colors": [
+        {
+          "id": 41,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 42,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 43,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 61,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 62,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 63,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 62,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 63,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G (2nd gen)",
+      "name": "Moto G (2nd gen)",
+      "slug": "motorola-moto-g-2nd-gen",
+      "colors": [
+        {
+          "id": 44,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 45,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 46,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 64,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 65,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 66,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 64,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 65,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 66,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G (3rd gen)",
+      "name": "Moto G (3rd gen)",
+      "slug": "motorola-moto-g-3rd-gen",
+      "colors": [
+        {
+          "id": 47,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 48,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 49,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 67,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 68,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 69,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 68,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 69,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G4",
+      "name": "Moto G4",
+      "slug": "motorola-moto-g4",
+      "colors": [
+        {
+          "id": 50,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 51,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 52,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 70,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 71,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 72,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 70,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 71,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 72,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G4 Play",
+      "name": "Moto G4 Play",
+      "slug": "motorola-moto-g4-play",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 55,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 73,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 74,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 75,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 74,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 75,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G4 Plus",
+      "name": "Moto G4 Plus",
+      "slug": "motorola-moto-g4-plus",
+      "colors": [
+        {
+          "id": 56,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 57,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 58,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 76,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 77,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 78,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 76,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 77,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 78,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G5",
+      "name": "Moto G5",
+      "slug": "motorola-moto-g5",
+      "colors": [
+        {
+          "id": 59,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 60,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 61,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 79,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 80,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 81,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 79,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 80,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 81,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G5 Plus",
+      "name": "Moto G5 Plus",
+      "slug": "motorola-moto-g5-plus",
+      "colors": [
+        {
+          "id": 62,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 63,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 64,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 82,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 83,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 84,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 82,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 83,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 84,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G5S",
+      "name": "Moto G5S",
+      "slug": "motorola-moto-g5s",
+      "colors": [
+        {
+          "id": 65,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 66,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 67,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 86,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 87,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 85,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 86,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 87,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G5S Plus",
+      "name": "Moto G5S Plus",
+      "slug": "motorola-moto-g5s-plus",
+      "colors": [
+        {
+          "id": 68,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 69,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 70,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 88,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 89,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 90,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 88,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 89,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 90,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G6",
+      "name": "Moto G6",
+      "slug": "motorola-moto-g6",
+      "colors": [
+        {
+          "id": 71,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 72,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 73,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 92,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 93,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 91,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 92,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 93,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G6 Play",
+      "name": "Moto G6 Play",
+      "slug": "motorola-moto-g6-play",
+      "colors": [
+        {
+          "id": 74,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 75,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 76,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 94,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 95,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 96,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 94,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 95,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 96,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G6 Plus",
+      "name": "Moto G6 Plus",
+      "slug": "motorola-moto-g6-plus",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 79,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 97,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 98,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 99,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 97,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 98,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 99,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G7",
+      "name": "Moto G7",
+      "slug": "motorola-moto-g7",
+      "colors": [
+        {
+          "id": 80,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 81,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 82,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 100,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 101,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 102,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 100,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 101,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 102,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G7 Play",
+      "name": "Moto G7 Play",
+      "slug": "motorola-moto-g7-play",
+      "colors": [
+        {
+          "id": 83,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 84,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 85,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 103,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 104,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 105,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 103,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 104,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 105,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G7 Plus",
+      "name": "Moto G7 Plus",
+      "slug": "motorola-moto-g7-plus",
+      "colors": [
+        {
+          "id": 86,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 87,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 88,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 106,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 107,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 108,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 106,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 107,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 108,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G7 Power",
+      "name": "Moto G7 Power",
+      "slug": "motorola-moto-g7-power",
+      "colors": [
+        {
+          "id": 89,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 90,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 91,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 109,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 110,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 111,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 109,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 110,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 111,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G8",
+      "name": "Moto G8",
+      "slug": "motorola-moto-g8",
+      "colors": [
+        {
+          "id": 92,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 93,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 94,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 112,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 113,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 114,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 112,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 113,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 114,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G8 Play",
+      "name": "Moto G8 Play",
+      "slug": "motorola-moto-g8-play",
+      "colors": [
+        {
+          "id": 95,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 96,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 97,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 115,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 116,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 117,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 115,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 116,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 117,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G8 Plus",
+      "name": "Moto G8 Plus",
+      "slug": "motorola-moto-g8-plus",
+      "colors": [
+        {
+          "id": 98,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 99,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 100,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 118,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 119,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 120,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 118,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 119,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 120,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G8 Power",
+      "name": "Moto G8 Power",
+      "slug": "motorola-moto-g8-power",
+      "colors": [
+        {
+          "id": 101,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 102,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 103,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 121,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 122,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 123,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 121,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 122,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 123,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G9",
+      "name": "Moto G9",
+      "slug": "motorola-moto-g9",
+      "colors": [
+        {
+          "id": 104,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 105,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 106,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 124,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 125,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 126,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 124,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 125,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 126,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G9 Play",
+      "name": "Moto G9 Play",
+      "slug": "motorola-moto-g9-play",
+      "colors": [
+        {
+          "id": 107,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 108,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 109,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 127,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 128,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 129,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 127,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 128,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 129,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G9 Plus",
+      "name": "Moto G9 Plus",
+      "slug": "motorola-moto-g9-plus",
+      "colors": [
+        {
+          "id": 110,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 111,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 112,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 130,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 131,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 132,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 130,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 131,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 132,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G9 Power",
+      "name": "Moto G9 Power",
+      "slug": "motorola-moto-g9-power",
+      "colors": [
+        {
+          "id": 113,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 114,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 115,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 133,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 134,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 135,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 133,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 134,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 135,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G10",
+      "name": "Moto G10",
+      "slug": "motorola-moto-g10",
+      "colors": [
+        {
+          "id": 116,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 117,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 118,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 136,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 137,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 138,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 136,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 137,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 138,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G20",
+      "name": "Moto G20",
+      "slug": "motorola-moto-g20",
+      "colors": [
+        {
+          "id": 119,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 120,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 121,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 139,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 140,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 141,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 139,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 140,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 141,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto G22",
+      "name": "Moto G22",
+      "slug": "motorola-moto-g22",
+      "colors": [
+        {
+          "id": 122,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 123,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 124,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 142,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 143,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 144,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 142,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 143,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G30",
+      "name": "Moto G30",
+      "slug": "motorola-moto-g30",
+      "colors": [
+        {
+          "id": 125,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 126,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 127,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 145,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 146,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 147,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 144,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 145,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G31",
+      "name": "Moto G31",
+      "slug": "motorola-moto-g31",
+      "colors": [
+        {
+          "id": 128,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 129,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 130,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 148,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 149,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 150,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 146,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 147,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G32",
+      "name": "Moto G32",
+      "slug": "motorola-moto-g32",
+      "colors": [
+        {
+          "id": 131,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 132,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 133,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 151,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 152,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 153,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 148,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 149,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G40 Fusion",
+      "name": "Moto G40 Fusion",
+      "slug": "motorola-moto-g40-fusion",
+      "colors": [
+        {
+          "id": 134,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 135,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 136,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 154,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 155,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 156,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 150,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 151,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G41",
+      "name": "Moto G41",
+      "slug": "motorola-moto-g41",
+      "colors": [
+        {
+          "id": 137,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 138,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 139,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 157,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 158,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 159,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 152,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 153,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G50",
+      "name": "Moto G50",
+      "slug": "motorola-moto-g50",
+      "colors": [
+        {
+          "id": 140,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 141,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 142,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 160,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 161,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 162,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 154,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 155,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G51",
+      "name": "Moto G51",
+      "slug": "motorola-moto-g51",
+      "colors": [
+        {
+          "id": 143,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 144,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 145,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 163,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 164,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 165,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 156,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 157,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G52",
+      "name": "Moto G52",
+      "slug": "motorola-moto-g52",
+      "colors": [
+        {
+          "id": 146,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 147,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 148,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 166,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 167,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 168,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 158,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 159,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G53",
+      "name": "Moto G53",
+      "slug": "motorola-moto-g53",
+      "colors": [
+        {
+          "id": 149,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 150,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 151,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 169,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 170,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 171,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 160,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 161,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G54",
+      "name": "Moto G54",
+      "slug": "motorola-moto-g54",
+      "colors": [
+        {
+          "id": 152,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 153,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 154,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 172,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 173,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 174,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 162,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 163,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G60",
+      "name": "Moto G60",
+      "slug": "motorola-moto-g60",
+      "colors": [
+        {
+          "id": 155,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 156,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 157,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 175,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 176,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 177,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 164,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 165,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G60S",
+      "name": "Moto G60S",
+      "slug": "motorola-moto-g60s",
+      "colors": [
+        {
+          "id": 158,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 159,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 160,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 178,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 179,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 180,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 166,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 167,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto G62",
+      "name": "Moto G62",
+      "slug": "motorola-moto-g62",
+      "colors": [
+        {
+          "id": 161,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 162,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 163,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 181,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 182,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 183,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 168,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 169,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Moto G71",
+      "name": "Moto G71",
+      "slug": "motorola-moto-g71",
+      "colors": [
+        {
+          "id": 164,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 165,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 166,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 184,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 185,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 186,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 170,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 171,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Moto G72",
+      "name": "Moto G72",
+      "slug": "motorola-moto-g72",
+      "colors": [
+        {
+          "id": 167,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 168,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 169,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 187,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 188,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 189,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 172,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 173,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Moto G73",
+      "name": "Moto G73",
+      "slug": "motorola-moto-g73",
+      "colors": [
+        {
+          "id": 170,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 171,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 172,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 190,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 191,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 192,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 174,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 175,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Moto G82",
+      "name": "Moto G82",
+      "slug": "motorola-moto-g82",
+      "colors": [
+        {
+          "id": 173,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 174,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 175,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 193,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 194,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 195,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 176,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 177,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Moto G84",
+      "name": "Moto G84",
+      "slug": "motorola-moto-g84",
+      "colors": [
+        {
+          "id": 176,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 177,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 178,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 196,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 197,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 198,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 178,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 179,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Moto G85",
+      "name": "Moto G85",
+      "slug": "motorola-moto-g85",
+      "colors": [
+        {
+          "id": 179,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 180,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 181,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 199,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 200,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 201,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 180,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 181,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Moto G100",
+      "name": "Moto G100",
+      "slug": "motorola-moto-g100",
+      "colors": [
+        {
+          "id": 182,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 183,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 184,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 202,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 203,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 204,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 182,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 183,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Moto G200",
+      "name": "Moto G200",
+      "slug": "motorola-moto-g200",
+      "colors": [
+        {
+          "id": 185,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 186,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 187,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 205,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 206,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 207,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 184,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 185,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Moto X",
+      "name": "Moto X",
+      "slug": "motorola-moto-x",
+      "colors": [
+        {
+          "id": 188,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 189,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 208,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 209,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 210,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 186,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 187,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 188,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto X (2nd gen)",
+      "name": "Moto X (2nd gen)",
+      "slug": "motorola-moto-x-2nd-gen",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 191,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 211,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 212,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 213,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 189,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 190,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 191,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto X Force",
+      "name": "Moto X Force",
+      "slug": "motorola-moto-x-force",
+      "colors": [
+        {
+          "id": 192,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 193,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 214,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 215,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 216,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 192,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 193,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 194,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto X Play",
+      "name": "Moto X Play",
+      "slug": "motorola-moto-x-play",
+      "colors": [
+        {
+          "id": 194,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 195,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 217,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 218,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 219,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 195,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 196,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 197,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto X Style",
+      "name": "Moto X Style",
+      "slug": "motorola-moto-x-style",
+      "colors": [
+        {
+          "id": 196,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 197,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 220,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 221,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 222,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 198,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 199,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 200,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto X4",
+      "name": "Moto X4",
+      "slug": "motorola-moto-x4",
+      "colors": [
+        {
+          "id": 198,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 199,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 223,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 224,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 225,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 201,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 202,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 203,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Moto Z",
+      "name": "Moto Z",
+      "slug": "motorola-moto-z",
+      "colors": [
+        {
+          "id": 200,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 201,
+          "hex_code": "#C9A87C",
+          "name_en": "Fine Gold",
+          "name_ru": "Изысканное золото",
+          "name_kg": "Назик алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 226,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 227,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 204,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 205,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 206,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto Z Play",
+      "name": "Moto Z Play",
+      "slug": "motorola-moto-z-play",
+      "colors": [
+        {
+          "id": 202,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 203,
+          "hex_code": "#C9A87C",
+          "name_en": "Fine Gold",
+          "name_ru": "Изысканное золото",
+          "name_kg": "Назик алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 228,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 229,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 207,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 208,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 209,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto Z2 Force",
+      "name": "Moto Z2 Force",
+      "slug": "motorola-moto-z2-force",
+      "colors": [
+        {
+          "id": 204,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 205,
+          "hex_code": "#C9A87C",
+          "name_en": "Fine Gold",
+          "name_ru": "Изысканное золото",
+          "name_kg": "Назик алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 230,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 231,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 210,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 211,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 212,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto Z2 Play",
+      "name": "Moto Z2 Play",
+      "slug": "motorola-moto-z2-play",
+      "colors": [
+        {
+          "id": 206,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 207,
+          "hex_code": "#C9A87C",
+          "name_en": "Fine Gold",
+          "name_ru": "Изысканное золото",
+          "name_kg": "Назик алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 232,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 233,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 213,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 214,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 215,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto Z3",
+      "name": "Moto Z3",
+      "slug": "motorola-moto-z3",
+      "colors": [
+        {
+          "id": 208,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 209,
+          "hex_code": "#C9A87C",
+          "name_en": "Fine Gold",
+          "name_ru": "Изысканное золото",
+          "name_kg": "Назик алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 234,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 235,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 216,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 217,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 218,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto Z3 Play",
+      "name": "Moto Z3 Play",
+      "slug": "motorola-moto-z3-play",
+      "colors": [
+        {
+          "id": 210,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 211,
+          "hex_code": "#C9A87C",
+          "name_en": "Fine Gold",
+          "name_ru": "Изысканное золото",
+          "name_kg": "Назик алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 236,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 237,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 219,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 220,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 221,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Moto Z4",
+      "name": "Moto Z4",
+      "slug": "motorola-moto-z4",
+      "colors": [
+        {
+          "id": 212,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 213,
+          "hex_code": "#C9A87C",
+          "name_en": "Fine Gold",
+          "name_ru": "Изысканное золото",
+          "name_kg": "Назик алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 238,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 239,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 222,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 223,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 224,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Edge",
+      "name": "Edge",
+      "slug": "motorola-edge",
+      "colors": [
+        {
+          "id": 214,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 215,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 216,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 240,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 241,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 242,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 225,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 226,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge+",
+      "name": "Edge+",
+      "slug": "motorola-edge+",
+      "colors": [
+        {
+          "id": 217,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 218,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 219,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 243,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 244,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 245,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 227,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 228,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 20",
+      "name": "Edge 20",
+      "slug": "motorola-edge-20",
+      "colors": [
+        {
+          "id": 220,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 221,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 222,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 246,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 247,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 248,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 229,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 230,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 20 Lite",
+      "name": "Edge 20 Lite",
+      "slug": "motorola-edge-20-lite",
+      "colors": [
+        {
+          "id": 223,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 224,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 225,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 249,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 250,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 251,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 231,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 232,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 20 Pro",
+      "name": "Edge 20 Pro",
+      "slug": "motorola-edge-20-pro",
+      "colors": [
+        {
+          "id": 226,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 227,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 228,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 252,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 253,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 233,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 234,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 235,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Edge 30",
+      "name": "Edge 30",
+      "slug": "motorola-edge-30",
+      "colors": [
+        {
+          "id": 229,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 230,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 231,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 254,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 255,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 256,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 236,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 237,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 30 Fusion",
+      "name": "Edge 30 Fusion",
+      "slug": "motorola-edge-30-fusion",
+      "colors": [
+        {
+          "id": 232,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 233,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 234,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 257,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 258,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 259,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 238,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 239,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 30 Neo",
+      "name": "Edge 30 Neo",
+      "slug": "motorola-edge-30-neo",
+      "colors": [
+        {
+          "id": 235,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 236,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 237,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 260,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 261,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 262,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 240,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 241,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 30 Pro",
+      "name": "Edge 30 Pro",
+      "slug": "motorola-edge-30-pro",
+      "colors": [
+        {
+          "id": 238,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 239,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 240,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 263,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 264,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 242,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 243,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 244,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Edge 30 Ultra",
+      "name": "Edge 30 Ultra",
+      "slug": "motorola-edge-30-ultra",
+      "colors": [
+        {
+          "id": 241,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 242,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 243,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 265,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 266,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 245,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 246,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 247,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Edge 40",
+      "name": "Edge 40",
+      "slug": "motorola-edge-40",
+      "colors": [
+        {
+          "id": 244,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 245,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 246,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 267,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 268,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 269,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 248,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 249,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 40 Neo",
+      "name": "Edge 40 Neo",
+      "slug": "motorola-edge-40-neo",
+      "colors": [
+        {
+          "id": 247,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 248,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 249,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 270,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 271,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 272,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 250,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 251,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 40 Pro",
+      "name": "Edge 40 Pro",
+      "slug": "motorola-edge-40-pro",
+      "colors": [
+        {
+          "id": 250,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 251,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 252,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 273,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 274,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 252,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 253,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 254,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Edge 50",
+      "name": "Edge 50",
+      "slug": "motorola-edge-50",
+      "colors": [
+        {
+          "id": 253,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 254,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 255,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 275,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 276,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 277,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 255,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 256,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 50 Fusion",
+      "name": "Edge 50 Fusion",
+      "slug": "motorola-edge-50-fusion",
+      "colors": [
+        {
+          "id": 256,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 257,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 258,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 278,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 279,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 280,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 257,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 258,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 50 Neo",
+      "name": "Edge 50 Neo",
+      "slug": "motorola-edge-50-neo",
+      "colors": [
+        {
+          "id": 259,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 260,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 261,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 281,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 282,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 283,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 259,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 260,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 50 Pro",
+      "name": "Edge 50 Pro",
+      "slug": "motorola-edge-50-pro",
+      "colors": [
+        {
+          "id": 262,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 263,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 264,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 284,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 285,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 261,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 262,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 263,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Edge 50 Ultra",
+      "name": "Edge 50 Ultra",
+      "slug": "motorola-edge-50-ultra",
+      "colors": [
+        {
+          "id": 265,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 266,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 267,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 286,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 287,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 264,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 265,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 266,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Edge 60",
+      "name": "Edge 60",
+      "slug": "motorola-edge-60",
+      "colors": [
+        {
+          "id": 268,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 269,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 270,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 288,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 289,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 290,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 267,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 268,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 60 Fusion",
+      "name": "Edge 60 Fusion",
+      "slug": "motorola-edge-60-fusion",
+      "colors": [
+        {
+          "id": 271,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 272,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 273,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 291,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 292,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 293,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 269,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 270,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Edge 60 Pro",
+      "name": "Edge 60 Pro",
+      "slug": "motorola-edge-60-pro",
+      "colors": [
+        {
+          "id": 274,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 275,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 276,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 294,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 295,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 271,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 272,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 273,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Razr",
+      "name": "Razr",
+      "slug": "motorola-razr",
+      "colors": [
+        {
+          "id": 277,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 278,
+          "hex_code": "#E8DFCE",
+          "name_en": "Beach Sand",
+          "name_ru": "Песочный",
+          "name_kg": "Кум"
+        },
+        {
+          "id": 279,
+          "hex_code": "#94A89A",
+          "name_en": "Sage Green",
+          "name_ru": "Шалфейный зелёный",
+          "name_kg": "Саж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 296,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 297,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 274,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 275,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Razr 5G",
+      "name": "Razr 5G",
+      "slug": "motorola-razr-5g",
+      "colors": [
+        {
+          "id": 280,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 281,
+          "hex_code": "#E8DFCE",
+          "name_en": "Beach Sand",
+          "name_ru": "Песочный",
+          "name_kg": "Кум"
+        },
+        {
+          "id": 282,
+          "hex_code": "#94A89A",
+          "name_en": "Sage Green",
+          "name_ru": "Шалфейный зелёный",
+          "name_kg": "Саж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 298,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 299,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 276,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 277,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Razr 40",
+      "name": "Razr 40",
+      "slug": "motorola-razr-40",
+      "colors": [
+        {
+          "id": 283,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 284,
+          "hex_code": "#E8DFCE",
+          "name_en": "Beach Sand",
+          "name_ru": "Песочный",
+          "name_kg": "Кум"
+        },
+        {
+          "id": 285,
+          "hex_code": "#94A89A",
+          "name_en": "Sage Green",
+          "name_ru": "Шалфейный зелёный",
+          "name_kg": "Саж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 300,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 301,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 278,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 279,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Razr 40 Ultra",
+      "name": "Razr 40 Ultra",
+      "slug": "motorola-razr-40-ultra",
+      "colors": [
+        {
+          "id": 286,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 287,
+          "hex_code": "#E8DFCE",
+          "name_en": "Beach Sand",
+          "name_ru": "Песочный",
+          "name_kg": "Кум"
+        },
+        {
+          "id": 288,
+          "hex_code": "#94A89A",
+          "name_en": "Sage Green",
+          "name_ru": "Шалфейный зелёный",
+          "name_kg": "Саж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 302,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 303,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 280,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 281,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Razr 50",
+      "name": "Razr 50",
+      "slug": "motorola-razr-50",
+      "colors": [
+        {
+          "id": 289,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 290,
+          "hex_code": "#E8DFCE",
+          "name_en": "Beach Sand",
+          "name_ru": "Песочный",
+          "name_kg": "Кум"
+        },
+        {
+          "id": 291,
+          "hex_code": "#94A89A",
+          "name_en": "Sage Green",
+          "name_ru": "Шалфейный зелёный",
+          "name_kg": "Саж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 304,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 305,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 282,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 283,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Razr 50 Ultra",
+      "name": "Razr 50 Ultra",
+      "slug": "motorola-razr-50-ultra",
+      "colors": [
+        {
+          "id": 292,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 293,
+          "hex_code": "#E8DFCE",
+          "name_en": "Beach Sand",
+          "name_ru": "Песочный",
+          "name_kg": "Кум"
+        },
+        {
+          "id": 294,
+          "hex_code": "#94A89A",
+          "name_en": "Sage Green",
+          "name_ru": "Шалфейный зелёный",
+          "name_kg": "Саж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 306,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 307,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 284,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 285,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "One",
+      "name": "One",
+      "slug": "motorola-one",
+      "colors": [
+        {
+          "id": 295,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 296,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 308,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 309,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 286,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 287,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 288,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "One Action",
+      "name": "One Action",
+      "slug": "motorola-one-action",
+      "colors": [
+        {
+          "id": 297,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 298,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 310,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 311,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 289,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 290,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 291,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "One Fusion",
+      "name": "One Fusion",
+      "slug": "motorola-one-fusion",
+      "colors": [
+        {
+          "id": 299,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 300,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 312,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 313,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 292,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 293,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 294,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "One Fusion Plus",
+      "name": "One Fusion Plus",
+      "slug": "motorola-one-fusion-plus",
+      "colors": [
+        {
+          "id": 301,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 302,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 314,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 315,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 295,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 296,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 297,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "One Macro",
+      "name": "One Macro",
+      "slug": "motorola-one-macro",
+      "colors": [
+        {
+          "id": 303,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 304,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 316,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 317,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 298,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 299,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 300,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "One Vision",
+      "name": "One Vision",
+      "slug": "motorola-one-vision",
+      "colors": [
+        {
+          "id": 305,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 306,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 318,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 319,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 301,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 302,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 303,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "One Zoom",
+      "name": "One Zoom",
+      "slug": "motorola-one-zoom",
+      "colors": [
+        {
+          "id": 307,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 308,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 320,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 321,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 304,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 305,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 306,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    }
+  ]
+}

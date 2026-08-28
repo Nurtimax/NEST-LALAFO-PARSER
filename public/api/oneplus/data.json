@@ -1,0 +1,5282 @@
+{
+  "name": "OnePlus",
+  "slug": "oneplus",
+  "models": [
+    {
+      "value": "1+2",
+      "name": "1+2",
+      "slug": "oneplus-1+2",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 3,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 2,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 2,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 3,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+3",
+      "name": "1+3",
+      "slug": "oneplus-1+3",
+      "colors": [
+        {
+          "id": 4,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 5,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 6,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 3,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 4,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 4,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 5,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 6,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+3T",
+      "name": "1+3T",
+      "slug": "oneplus-1+3t",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 9,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 5,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 6,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 8,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 9,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+5",
+      "name": "1+5",
+      "slug": "oneplus-1+5",
+      "colors": [
+        {
+          "id": 10,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 11,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 12,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 8,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 10,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 11,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 12,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+5T",
+      "name": "1+5T",
+      "slug": "oneplus-1+5t",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 15,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 9,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 10,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 14,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 15,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+6",
+      "name": "1+6",
+      "slug": "oneplus-1+6",
+      "colors": [
+        {
+          "id": 16,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 17,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 18,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 11,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 12,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 16,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 17,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 18,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+6T",
+      "name": "1+6T",
+      "slug": "oneplus-1+6t",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 21,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 14,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 20,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 21,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+7",
+      "name": "1+7",
+      "slug": "oneplus-1+7",
+      "colors": [
+        {
+          "id": 22,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 23,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 24,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 15,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 16,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 22,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 23,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 24,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+7 Pro",
+      "name": "1+7 Pro",
+      "slug": "oneplus-1+7-pro",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 17,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 18,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 26,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 27,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+7 Pro 5G",
+      "name": "1+7 Pro 5G",
+      "slug": "oneplus-1+7-pro-5g",
+      "colors": [
+        {
+          "id": 27,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 28,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 20,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 28,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 29,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 30,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+7T",
+      "name": "1+7T",
+      "slug": "oneplus-1+7t",
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 30,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 31,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 21,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 22,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 32,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 33,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+7T Pro",
+      "name": "1+7T Pro",
+      "slug": "oneplus-1+7t-pro",
+      "colors": [
+        {
+          "id": 32,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 33,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 23,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 24,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 34,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 35,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 36,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+8",
+      "name": "1+8",
+      "slug": "oneplus-1+8",
+      "colors": [
+        {
+          "id": 34,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 35,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 36,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 26,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 38,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 39,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+8 Pro",
+      "name": "1+8 Pro",
+      "slug": "oneplus-1+8-pro",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 27,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 28,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 40,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 41,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 42,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+8T",
+      "name": "1+8T",
+      "slug": "oneplus-1+8t",
+      "colors": [
+        {
+          "id": 39,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 40,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 41,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 29,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 30,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 44,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 45,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+9",
+      "name": "1+9",
+      "slug": "oneplus-1+9",
+      "colors": [
+        {
+          "id": 42,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 43,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 44,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 32,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 46,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 47,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 48,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+9 Pro",
+      "name": "1+9 Pro",
+      "slug": "oneplus-1+9-pro",
+      "colors": [
+        {
+          "id": 45,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 46,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 33,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 34,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 50,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 51,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+9R",
+      "name": "1+9R",
+      "slug": "oneplus-1+9r",
+      "colors": [
+        {
+          "id": 47,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 48,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 49,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 35,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 36,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 52,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 53,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 54,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+9RT",
+      "name": "1+9RT",
+      "slug": "oneplus-1+9rt",
+      "colors": [
+        {
+          "id": 50,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 51,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 52,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 38,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 56,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 57,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "1+X",
+      "name": "1+X",
+      "slug": "oneplus-1+x",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 55,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 39,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 40,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 58,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 59,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 60,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "2",
+      "name": "2",
+      "slug": "oneplus-2",
+      "colors": [
+        {
+          "id": 56,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 57,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 58,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 41,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 42,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 62,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 63,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "3",
+      "name": "3",
+      "slug": "oneplus-3",
+      "colors": [
+        {
+          "id": 59,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 60,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 61,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 44,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 64,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 65,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 66,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "3T",
+      "name": "3T",
+      "slug": "oneplus-3t",
+      "colors": [
+        {
+          "id": 62,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 63,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 64,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 45,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 46,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 68,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 69,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "5",
+      "name": "5",
+      "slug": "oneplus-5",
+      "colors": [
+        {
+          "id": 65,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 66,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 67,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 47,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 48,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 49,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 70,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 71,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 72,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "5T",
+      "name": "5T",
+      "slug": "oneplus-5t",
+      "colors": [
+        {
+          "id": 68,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 69,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 70,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 50,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 51,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 52,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 74,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 75,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "6",
+      "name": "6",
+      "slug": "oneplus-6",
+      "colors": [
+        {
+          "id": 71,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 72,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 73,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 53,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 54,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 55,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 76,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 77,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 78,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "6T",
+      "name": "6T",
+      "slug": "oneplus-6t",
+      "colors": [
+        {
+          "id": 74,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 75,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 76,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 56,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 57,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 58,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 79,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 80,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 81,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "7",
+      "name": "7",
+      "slug": "oneplus-7",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 79,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 59,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 60,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 61,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 82,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 83,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 84,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "7 Pro",
+      "name": "7 Pro",
+      "slug": "oneplus-7-pro",
+      "colors": [
+        {
+          "id": 80,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 81,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 62,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 63,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 64,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 85,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 86,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 87,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "7 Pro 5G",
+      "name": "7 Pro 5G",
+      "slug": "oneplus-7-pro-5g",
+      "colors": [
+        {
+          "id": 82,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 83,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 65,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 66,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 67,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 88,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 89,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 90,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "7T",
+      "name": "7T",
+      "slug": "oneplus-7t",
+      "colors": [
+        {
+          "id": 84,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 85,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 86,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 68,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 69,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 70,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 91,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 92,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 93,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "7T Pro",
+      "name": "7T Pro",
+      "slug": "oneplus-7t-pro",
+      "colors": [
+        {
+          "id": 87,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 88,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 71,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 72,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 73,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 94,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 95,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 96,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "8",
+      "name": "8",
+      "slug": "oneplus-8",
+      "colors": [
+        {
+          "id": 89,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 90,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 91,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 74,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 75,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 76,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 97,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 98,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "8 Pro",
+      "name": "8 Pro",
+      "slug": "oneplus-8-pro",
+      "colors": [
+        {
+          "id": 92,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 93,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 77,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 78,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 79,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 99,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 100,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "8T",
+      "name": "8T",
+      "slug": "oneplus-8t",
+      "colors": [
+        {
+          "id": 94,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 95,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 96,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 80,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 81,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 82,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 101,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 102,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "9",
+      "name": "9",
+      "slug": "oneplus-9",
+      "colors": [
+        {
+          "id": 97,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 98,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 99,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 83,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 84,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 85,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 103,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 104,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "9 Pro",
+      "name": "9 Pro",
+      "slug": "oneplus-9-pro",
+      "colors": [
+        {
+          "id": 100,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 101,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 86,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 87,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 88,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 105,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 106,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "9R",
+      "name": "9R",
+      "slug": "oneplus-9r",
+      "colors": [
+        {
+          "id": 102,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 103,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 104,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 89,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 90,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 91,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 107,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 108,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "9RT",
+      "name": "9RT",
+      "slug": "oneplus-9rt",
+      "colors": [
+        {
+          "id": 105,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 106,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 107,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 92,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 93,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 94,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 109,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 110,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "10 Pro",
+      "name": "10 Pro",
+      "slug": "oneplus-10-pro",
+      "colors": [
+        {
+          "id": 108,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 109,
+          "hex_code": "#3E5C56",
+          "name_en": "Emerald Green",
+          "name_ru": "Изумрудный зелёный",
+          "name_kg": "Изумруд жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 95,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 96,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 97,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 111,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 112,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "10R",
+      "name": "10R",
+      "slug": "oneplus-10r",
+      "colors": [
+        {
+          "id": 110,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 111,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 112,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 98,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 99,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 100,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 113,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 114,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "10T",
+      "name": "10T",
+      "slug": "oneplus-10t",
+      "colors": [
+        {
+          "id": 113,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 114,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 115,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 101,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 102,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 103,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 115,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 116,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "11",
+      "name": "11",
+      "slug": "oneplus-11",
+      "colors": [
+        {
+          "id": 116,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 117,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 118,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 104,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 105,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 106,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 117,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 118,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "11R",
+      "name": "11R",
+      "slug": "oneplus-11r",
+      "colors": [
+        {
+          "id": 119,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 120,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 121,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 107,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 108,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 109,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 119,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 120,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "12",
+      "name": "12",
+      "slug": "oneplus-12",
+      "colors": [
+        {
+          "id": 122,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 123,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 124,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 110,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 111,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 112,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 121,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 122,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 123,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "12R",
+      "name": "12R",
+      "slug": "oneplus-12r",
+      "colors": [
+        {
+          "id": 125,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 126,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 127,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 113,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 114,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 115,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 124,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 125,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 126,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "13",
+      "name": "13",
+      "slug": "oneplus-13",
+      "colors": [
+        {
+          "id": 128,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 129,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 130,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 116,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 117,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 118,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 127,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 128,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 129,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "13R",
+      "name": "13R",
+      "slug": "oneplus-13r",
+      "colors": [
+        {
+          "id": 131,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 132,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 133,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 119,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 120,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 121,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 130,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 131,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 132,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "13S",
+      "name": "13S",
+      "slug": "oneplus-13s",
+      "colors": [
+        {
+          "id": 134,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 135,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 136,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 122,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 123,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 124,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 133,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 134,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 135,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "13T",
+      "name": "13T",
+      "slug": "oneplus-13t",
+      "colors": [
+        {
+          "id": 137,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 138,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 139,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 125,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 126,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 127,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 136,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 137,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 138,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "14",
+      "name": "14",
+      "slug": "oneplus-14",
+      "colors": [
+        {
+          "id": 140,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 141,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 142,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 128,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 129,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 130,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 139,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 140,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 141,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "14R",
+      "name": "14R",
+      "slug": "oneplus-14r",
+      "colors": [
+        {
+          "id": 143,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 144,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 145,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 131,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 132,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 133,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 142,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 143,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 144,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "15",
+      "name": "15",
+      "slug": "oneplus-15",
+      "colors": [
+        {
+          "id": 146,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 147,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 148,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 134,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 135,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 136,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 145,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 146,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 147,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "15R",
+      "name": "15R",
+      "slug": "oneplus-15r",
+      "colors": [
+        {
+          "id": 149,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 150,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 151,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 137,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 138,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 139,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 148,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 149,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 150,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Ace",
+      "name": "Ace",
+      "slug": "oneplus-ace",
+      "colors": [
+        {
+          "id": 152,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 153,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 140,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 141,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 142,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 151,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 152,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 2",
+      "name": "Ace 2",
+      "slug": "oneplus-ace-2",
+      "colors": [
+        {
+          "id": 154,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 155,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 143,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 144,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 145,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 153,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 154,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 2 Pro",
+      "name": "Ace 2 Pro",
+      "slug": "oneplus-ace-2-pro",
+      "colors": [
+        {
+          "id": 156,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 157,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 146,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 147,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 148,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 155,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 156,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 2V",
+      "name": "Ace 2V",
+      "slug": "oneplus-ace-2v",
+      "colors": [
+        {
+          "id": 158,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 159,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 149,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 150,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 151,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 157,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 158,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 3",
+      "name": "Ace 3",
+      "slug": "oneplus-ace-3",
+      "colors": [
+        {
+          "id": 160,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 161,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 152,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 153,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 154,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 159,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 160,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 3 Pro",
+      "name": "Ace 3 Pro",
+      "slug": "oneplus-ace-3-pro",
+      "colors": [
+        {
+          "id": 162,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 163,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 155,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 156,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 157,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 161,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 162,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 3V",
+      "name": "Ace 3V",
+      "slug": "oneplus-ace-3v",
+      "colors": [
+        {
+          "id": 164,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 165,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 158,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 159,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 160,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 163,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 164,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 5",
+      "name": "Ace 5",
+      "slug": "oneplus-ace-5",
+      "colors": [
+        {
+          "id": 166,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 167,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 161,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 162,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 163,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 165,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 166,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 5 Pro",
+      "name": "Ace 5 Pro",
+      "slug": "oneplus-ace-5-pro",
+      "colors": [
+        {
+          "id": 168,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 169,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 164,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 165,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 166,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 167,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 168,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 5 Racing",
+      "name": "Ace 5 Racing",
+      "slug": "oneplus-ace-5-racing",
+      "colors": [
+        {
+          "id": 170,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 171,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 167,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 168,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 169,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 169,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 170,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace 5M",
+      "name": "Ace 5M",
+      "slug": "oneplus-ace-5m",
+      "colors": [
+        {
+          "id": 172,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 173,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 170,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 171,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 172,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 171,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 172,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace Pro",
+      "name": "Ace Pro",
+      "slug": "oneplus-ace-pro",
+      "colors": [
+        {
+          "id": 174,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 175,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 173,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 174,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 175,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 173,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 174,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Ace Racing",
+      "name": "Ace Racing",
+      "slug": "oneplus-ace-racing",
+      "colors": [
+        {
+          "id": 176,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 177,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 176,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 177,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 178,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 175,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 176,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Nord",
+      "name": "Nord",
+      "slug": "oneplus-nord",
+      "colors": [
+        {
+          "id": 178,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 179,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 179,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 180,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 177,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 178,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord 2",
+      "name": "Nord 2",
+      "slug": "oneplus-nord-2",
+      "colors": [
+        {
+          "id": 180,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 181,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 181,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 182,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 179,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 180,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord 2T",
+      "name": "Nord 2T",
+      "slug": "oneplus-nord-2t",
+      "colors": [
+        {
+          "id": 182,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 183,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 183,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 184,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 181,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 182,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord 3",
+      "name": "Nord 3",
+      "slug": "oneplus-nord-3",
+      "colors": [
+        {
+          "id": 184,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 185,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 185,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 186,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 183,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 184,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord 4",
+      "name": "Nord 4",
+      "slug": "oneplus-nord-4",
+      "colors": [
+        {
+          "id": 186,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 187,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 187,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 188,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 185,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 186,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord 5",
+      "name": "Nord 5",
+      "slug": "oneplus-nord-5",
+      "colors": [
+        {
+          "id": 188,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 189,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 189,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 190,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 187,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 188,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord CE",
+      "name": "Nord CE",
+      "slug": "oneplus-nord-ce",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 191,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 191,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 192,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 193,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 189,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 190,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord CE 2",
+      "name": "Nord CE 2",
+      "slug": "oneplus-nord-ce-2",
+      "colors": [
+        {
+          "id": 192,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 193,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 194,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 195,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 196,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 191,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 192,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord CE 2 5G",
+      "name": "Nord CE 2 5G",
+      "slug": "oneplus-nord-ce-2-5g",
+      "colors": [
+        {
+          "id": 194,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 195,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 197,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 198,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 199,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 193,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 194,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord CE 2 Lite 5G",
+      "name": "Nord CE 2 Lite 5G",
+      "slug": "oneplus-nord-ce-2-lite-5g",
+      "colors": [
+        {
+          "id": 196,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 197,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 200,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 201,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 202,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 195,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 196,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord CE 3",
+      "name": "Nord CE 3",
+      "slug": "oneplus-nord-ce-3",
+      "colors": [
+        {
+          "id": 198,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 199,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 203,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 204,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 205,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 197,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 198,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord CE 3 Lite",
+      "name": "Nord CE 3 Lite",
+      "slug": "oneplus-nord-ce-3-lite",
+      "colors": [
+        {
+          "id": 200,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 201,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 206,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 207,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 208,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 199,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 200,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord CE 4",
+      "name": "Nord CE 4",
+      "slug": "oneplus-nord-ce-4",
+      "colors": [
+        {
+          "id": 202,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 203,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 209,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 210,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 211,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 201,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 202,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord CE 4 Lite",
+      "name": "Nord CE 4 Lite",
+      "slug": "oneplus-nord-ce-4-lite",
+      "colors": [
+        {
+          "id": 204,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 205,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 212,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 213,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 214,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 203,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 204,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord CE 5",
+      "name": "Nord CE 5",
+      "slug": "oneplus-nord-ce-5",
+      "colors": [
+        {
+          "id": 206,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 207,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 215,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 216,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 217,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 205,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 206,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Nord N10 5G",
+      "name": "Nord N10 5G",
+      "slug": "oneplus-nord-n10-5g",
+      "colors": [
+        {
+          "id": 208,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 209,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 218,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 219,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 207,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 208,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Nord N20 5G",
+      "name": "Nord N20 5G",
+      "slug": "oneplus-nord-n20-5g",
+      "colors": [
+        {
+          "id": 210,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 211,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 220,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 221,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 209,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 210,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Nord N20 SE",
+      "name": "Nord N20 SE",
+      "slug": "oneplus-nord-n20-se",
+      "colors": [
+        {
+          "id": 212,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 213,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 222,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 223,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 211,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 212,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Nord N30",
+      "name": "Nord N30",
+      "slug": "oneplus-nord-n30",
+      "colors": [
+        {
+          "id": 214,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 215,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 224,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 225,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 213,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 214,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Nord N30 5G",
+      "name": "Nord N30 5G",
+      "slug": "oneplus-nord-n30-5g",
+      "colors": [
+        {
+          "id": 216,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 217,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 226,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 227,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 215,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 216,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Nord N30 SE",
+      "name": "Nord N30 SE",
+      "slug": "oneplus-nord-n30-se",
+      "colors": [
+        {
+          "id": 218,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 219,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 228,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 229,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 217,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 218,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Nord N100",
+      "name": "Nord N100",
+      "slug": "oneplus-nord-n100",
+      "colors": [
+        {
+          "id": 220,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 221,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 230,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 231,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 219,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 220,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Nord N200 5G",
+      "name": "Nord N200 5G",
+      "slug": "oneplus-nord-n200-5g",
+      "colors": [
+        {
+          "id": 222,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 223,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 232,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 233,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 221,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 222,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Open",
+      "name": "Open",
+      "slug": "oneplus-open",
+      "colors": [
+        {
+          "id": 224,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 225,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 234,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 235,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 223,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 224,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pad",
+      "name": "Pad",
+      "slug": "oneplus-pad",
+      "colors": [
+        {
+          "id": 226,
+          "hex_code": "#4E5851",
+          "name_en": "Halo Green",
+          "name_ru": "Гало зелёный",
+          "name_kg": "Гало жашыл"
+        },
+        {
+          "id": 227,
+          "hex_code": "#3E5C76",
+          "name_en": "Storm Blue",
+          "name_ru": "Штормовой синий",
+          "name_kg": "Шторм көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 236,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 237,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 225,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 226,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pad 2",
+      "name": "Pad 2",
+      "slug": "oneplus-pad-2",
+      "colors": [
+        {
+          "id": 228,
+          "hex_code": "#4E5851",
+          "name_en": "Halo Green",
+          "name_ru": "Гало зелёный",
+          "name_kg": "Гало жашыл"
+        },
+        {
+          "id": 229,
+          "hex_code": "#3E5C76",
+          "name_en": "Storm Blue",
+          "name_ru": "Штормовой синий",
+          "name_kg": "Шторм көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 238,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 239,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 227,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 228,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pad 3",
+      "name": "Pad 3",
+      "slug": "oneplus-pad-3",
+      "colors": [
+        {
+          "id": 230,
+          "hex_code": "#4E5851",
+          "name_en": "Halo Green",
+          "name_ru": "Гало зелёный",
+          "name_kg": "Гало жашыл"
+        },
+        {
+          "id": 231,
+          "hex_code": "#3E5C76",
+          "name_en": "Storm Blue",
+          "name_ru": "Штормовой синий",
+          "name_kg": "Шторм көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 240,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 241,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 229,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 230,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pad Go",
+      "name": "Pad Go",
+      "slug": "oneplus-pad-go",
+      "colors": [
+        {
+          "id": 232,
+          "hex_code": "#4E5851",
+          "name_en": "Halo Green",
+          "name_ru": "Гало зелёный",
+          "name_kg": "Гало жашыл"
+        },
+        {
+          "id": 233,
+          "hex_code": "#3E5C76",
+          "name_en": "Storm Blue",
+          "name_ru": "Штормовой синий",
+          "name_kg": "Шторм көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 242,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 243,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 231,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 232,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pad Lite",
+      "name": "Pad Lite",
+      "slug": "oneplus-pad-lite",
+      "colors": [
+        {
+          "id": 234,
+          "hex_code": "#4E5851",
+          "name_en": "Halo Green",
+          "name_ru": "Гало зелёный",
+          "name_kg": "Гало жашыл"
+        },
+        {
+          "id": 235,
+          "hex_code": "#3E5C76",
+          "name_en": "Storm Blue",
+          "name_ru": "Штормовой синий",
+          "name_kg": "Шторм көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 244,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 245,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 233,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 234,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X",
+      "name": "X",
+      "slug": "oneplus-x",
+      "colors": [
+        {
+          "id": 236,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 237,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 246,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 247,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 235,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 236,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y",
+      "name": "Y",
+      "slug": "oneplus-y",
+      "colors": [
+        {
+          "id": 238,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 239,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 248,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 249,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 237,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 238,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y Plus",
+      "name": "Y Plus",
+      "slug": "oneplus-y-plus",
+      "colors": [
+        {
+          "id": 240,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 241,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 250,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 251,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 239,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 240,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Z",
+      "name": "Z",
+      "slug": "oneplus-z",
+      "colors": [
+        {
+          "id": 242,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 243,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 252,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 253,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 241,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 242,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7700 @@
+{
+  "name": "OPPO",
+  "slug": "oppo",
+  "models": [
+    {
+      "value": "A3s",
+      "name": "A3s",
+      "slug": "oppo-a3s",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 3,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 2,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 3,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 2,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 3,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A5",
+      "name": "A5",
+      "slug": "oppo-a5",
+      "colors": [
+        {
+          "id": 4,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 5,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 6,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 5,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 6,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 4,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 5,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 6,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A5 2020",
+      "name": "A5 2020",
+      "slug": "oppo-a5-2020",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 9,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 8,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 9,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 8,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 9,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A5s",
+      "name": "A5s",
+      "slug": "oppo-a5s",
+      "colors": [
+        {
+          "id": 10,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 11,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 12,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 10,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 11,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 12,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 10,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 11,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 12,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A7",
+      "name": "A7",
+      "slug": "oppo-a7",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 15,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 14,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 15,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 14,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 15,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A9",
+      "name": "A9",
+      "slug": "oppo-a9",
+      "colors": [
+        {
+          "id": 16,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 17,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 18,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 16,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 17,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 18,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 16,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 17,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 18,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A9 2020",
+      "name": "A9 2020",
+      "slug": "oppo-a9-2020",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 21,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 20,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 21,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 20,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 21,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A11",
+      "name": "A11",
+      "slug": "oppo-a11",
+      "colors": [
+        {
+          "id": 22,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 23,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 24,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 22,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 23,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 24,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 22,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 23,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 24,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A11K",
+      "name": "A11K",
+      "slug": "oppo-a11k",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 27,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 26,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 27,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 26,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 27,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A11X",
+      "name": "A11X",
+      "slug": "oppo-a11x",
+      "colors": [
+        {
+          "id": 28,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 29,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 30,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 28,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 29,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 30,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 28,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 29,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 30,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A12",
+      "name": "A12",
+      "slug": "oppo-a12",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 33,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 32,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 33,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 32,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 33,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A12s",
+      "name": "A12s",
+      "slug": "oppo-a12s",
+      "colors": [
+        {
+          "id": 34,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 35,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 36,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 34,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 35,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 36,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 34,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 35,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 36,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A15",
+      "name": "A15",
+      "slug": "oppo-a15",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 39,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 38,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 39,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 38,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 39,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A15s",
+      "name": "A15s",
+      "slug": "oppo-a15s",
+      "colors": [
+        {
+          "id": 40,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 41,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 42,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 40,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 41,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 42,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 40,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 41,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 42,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A16",
+      "name": "A16",
+      "slug": "oppo-a16",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 45,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 44,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 45,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 44,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 45,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A16e",
+      "name": "A16e",
+      "slug": "oppo-a16e",
+      "colors": [
+        {
+          "id": 46,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 47,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 48,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 46,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 47,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 48,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 46,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 47,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 48,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A16K",
+      "name": "A16K",
+      "slug": "oppo-a16k",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 51,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 49,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 50,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 51,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 50,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 51,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A16s",
+      "name": "A16s",
+      "slug": "oppo-a16s",
+      "colors": [
+        {
+          "id": 52,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 53,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 54,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 52,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 53,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 54,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 52,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 53,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 54,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A17",
+      "name": "A17",
+      "slug": "oppo-a17",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 57,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 55,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 56,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 57,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 56,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 57,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A17K",
+      "name": "A17K",
+      "slug": "oppo-a17k",
+      "colors": [
+        {
+          "id": 58,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 59,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 60,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 58,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 59,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 60,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 58,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 59,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 60,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A18",
+      "name": "A18",
+      "slug": "oppo-a18",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 63,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 61,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 62,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 63,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 62,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 63,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A31",
+      "name": "A31",
+      "slug": "oppo-a31",
+      "colors": [
+        {
+          "id": 64,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 65,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 66,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 64,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 65,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 66,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 64,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 65,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 66,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A32",
+      "name": "A32",
+      "slug": "oppo-a32",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 69,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 67,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 68,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 69,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 68,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 69,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A33",
+      "name": "A33",
+      "slug": "oppo-a33",
+      "colors": [
+        {
+          "id": 70,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 71,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 72,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 70,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 71,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 72,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 70,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 71,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 72,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A33 2020",
+      "name": "A33 2020",
+      "slug": "oppo-a33-2020",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 75,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 73,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 74,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 75,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 74,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 75,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A35",
+      "name": "A35",
+      "slug": "oppo-a35",
+      "colors": [
+        {
+          "id": 76,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 77,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 78,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 76,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 77,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 78,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 76,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 77,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 78,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A36",
+      "name": "A36",
+      "slug": "oppo-a36",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 81,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 79,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 80,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 81,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 79,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 80,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 81,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A37",
+      "name": "A37",
+      "slug": "oppo-a37",
+      "colors": [
+        {
+          "id": 82,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 83,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 84,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 82,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 83,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 84,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 82,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 83,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 84,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A38",
+      "name": "A38",
+      "slug": "oppo-a38",
+      "colors": [
+        {
+          "id": 85,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 86,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 87,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 86,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 87,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 85,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 86,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 87,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A39",
+      "name": "A39",
+      "slug": "oppo-a39",
+      "colors": [
+        {
+          "id": 88,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 89,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 90,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 88,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 89,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 90,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 88,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 89,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 90,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "A52",
+      "name": "A52",
+      "slug": "oppo-a52",
+      "colors": [
+        {
+          "id": 91,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 92,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 93,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 92,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 93,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 91,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 92,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A53",
+      "name": "A53",
+      "slug": "oppo-a53",
+      "colors": [
+        {
+          "id": 94,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 95,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 96,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 94,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 95,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 96,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 93,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 94,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A53s",
+      "name": "A53s",
+      "slug": "oppo-a53s",
+      "colors": [
+        {
+          "id": 97,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 98,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 99,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 97,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 98,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 99,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 95,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 96,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A54",
+      "name": "A54",
+      "slug": "oppo-a54",
+      "colors": [
+        {
+          "id": 100,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 101,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 102,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 100,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 101,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 102,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 97,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 98,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A54 5G",
+      "name": "A54 5G",
+      "slug": "oppo-a54-5g",
+      "colors": [
+        {
+          "id": 103,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 104,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 105,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 103,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 104,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 105,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 99,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 100,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A54s",
+      "name": "A54s",
+      "slug": "oppo-a54s",
+      "colors": [
+        {
+          "id": 106,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 107,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 108,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 106,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 107,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 108,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 101,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 102,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A55",
+      "name": "A55",
+      "slug": "oppo-a55",
+      "colors": [
+        {
+          "id": 109,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 110,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 111,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 109,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 110,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 111,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 103,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 104,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A55 5G",
+      "name": "A55 5G",
+      "slug": "oppo-a55-5g",
+      "colors": [
+        {
+          "id": 112,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 113,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 114,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 112,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 113,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 114,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 105,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 106,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A55s",
+      "name": "A55s",
+      "slug": "oppo-a55s",
+      "colors": [
+        {
+          "id": 115,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 116,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 117,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 115,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 116,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 117,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 107,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 108,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A56",
+      "name": "A56",
+      "slug": "oppo-a56",
+      "colors": [
+        {
+          "id": 118,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 119,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 120,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 118,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 119,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 120,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 109,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 110,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A56 5G",
+      "name": "A56 5G",
+      "slug": "oppo-a56-5g",
+      "colors": [
+        {
+          "id": 121,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 122,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 123,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 121,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 122,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 123,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 111,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 112,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A57",
+      "name": "A57",
+      "slug": "oppo-a57",
+      "colors": [
+        {
+          "id": 124,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 125,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 126,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 124,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 125,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 126,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 113,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 114,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A57 4G",
+      "name": "A57 4G",
+      "slug": "oppo-a57-4g",
+      "colors": [
+        {
+          "id": 127,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 128,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 129,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 127,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 128,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 129,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 115,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 116,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A57s",
+      "name": "A57s",
+      "slug": "oppo-a57s",
+      "colors": [
+        {
+          "id": 130,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 131,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 132,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 130,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 131,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 132,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 117,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 118,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A58",
+      "name": "A58",
+      "slug": "oppo-a58",
+      "colors": [
+        {
+          "id": 133,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 134,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 135,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 133,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 134,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 135,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 119,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 120,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A58 5G",
+      "name": "A58 5G",
+      "slug": "oppo-a58-5g",
+      "colors": [
+        {
+          "id": 136,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 137,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 138,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 136,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 137,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 138,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 121,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 122,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A59",
+      "name": "A59",
+      "slug": "oppo-a59",
+      "colors": [
+        {
+          "id": 139,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 140,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 141,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 139,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 140,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 141,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 123,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 124,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A59 5G",
+      "name": "A59 5G",
+      "slug": "oppo-a59-5g",
+      "colors": [
+        {
+          "id": 142,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 143,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 144,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 142,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 143,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 144,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 125,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 126,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A60",
+      "name": "A60",
+      "slug": "oppo-a60",
+      "colors": [
+        {
+          "id": 145,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 146,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 147,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 145,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 146,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 147,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 127,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 128,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A60s",
+      "name": "A60s",
+      "slug": "oppo-a60s",
+      "colors": [
+        {
+          "id": 148,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 149,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 150,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 148,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 149,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 150,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 129,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 130,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "A70",
+      "name": "A70",
+      "slug": "oppo-a70",
+      "colors": [
+        {
+          "id": 151,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 152,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 153,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 151,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 152,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 131,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 132,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A71",
+      "name": "A71",
+      "slug": "oppo-a71",
+      "colors": [
+        {
+          "id": 154,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 155,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 156,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 153,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 154,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 133,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 134,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A72",
+      "name": "A72",
+      "slug": "oppo-a72",
+      "colors": [
+        {
+          "id": 157,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 158,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 159,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 155,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 156,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 135,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 136,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A72 5G",
+      "name": "A72 5G",
+      "slug": "oppo-a72-5g",
+      "colors": [
+        {
+          "id": 160,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 161,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 162,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 157,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 158,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 137,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 138,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A73",
+      "name": "A73",
+      "slug": "oppo-a73",
+      "colors": [
+        {
+          "id": 163,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 164,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 165,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 159,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 160,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 139,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 140,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A73 5G",
+      "name": "A73 5G",
+      "slug": "oppo-a73-5g",
+      "colors": [
+        {
+          "id": 166,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 167,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 168,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 161,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 162,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 141,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 142,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A74",
+      "name": "A74",
+      "slug": "oppo-a74",
+      "colors": [
+        {
+          "id": 169,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 170,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 171,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 163,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 164,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 143,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 144,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A74 5G",
+      "name": "A74 5G",
+      "slug": "oppo-a74-5g",
+      "colors": [
+        {
+          "id": 172,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 173,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 174,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 165,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 166,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 145,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 146,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A75",
+      "name": "A75",
+      "slug": "oppo-a75",
+      "colors": [
+        {
+          "id": 175,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 176,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 177,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 167,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 168,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 147,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 148,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A76",
+      "name": "A76",
+      "slug": "oppo-a76",
+      "colors": [
+        {
+          "id": 178,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 179,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 180,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 169,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 170,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 149,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 150,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A77",
+      "name": "A77",
+      "slug": "oppo-a77",
+      "colors": [
+        {
+          "id": 181,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 182,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 183,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 171,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 172,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 151,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 152,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A77 5G",
+      "name": "A77 5G",
+      "slug": "oppo-a77-5g",
+      "colors": [
+        {
+          "id": 184,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 185,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 186,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 173,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 174,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 153,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 154,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A77s",
+      "name": "A77s",
+      "slug": "oppo-a77s",
+      "colors": [
+        {
+          "id": 187,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 188,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 189,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 175,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 176,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 155,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 156,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A78",
+      "name": "A78",
+      "slug": "oppo-a78",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 191,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 192,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 177,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 178,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 157,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 158,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A78 5G",
+      "name": "A78 5G",
+      "slug": "oppo-a78-5g",
+      "colors": [
+        {
+          "id": 193,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 194,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 195,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 179,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 180,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 159,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 160,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A79 5G",
+      "name": "A79 5G",
+      "slug": "oppo-a79-5g",
+      "colors": [
+        {
+          "id": 196,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 197,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 198,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 181,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 182,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 161,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 162,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A83",
+      "name": "A83",
+      "slug": "oppo-a83",
+      "colors": [
+        {
+          "id": 199,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 200,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 201,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 183,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 184,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 163,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 164,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A91",
+      "name": "A91",
+      "slug": "oppo-a91",
+      "colors": [
+        {
+          "id": 202,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 203,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 204,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 185,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 186,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 165,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 166,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A92",
+      "name": "A92",
+      "slug": "oppo-a92",
+      "colors": [
+        {
+          "id": 205,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 206,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 207,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 187,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 188,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 167,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 168,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A92s",
+      "name": "A92s",
+      "slug": "oppo-a92s",
+      "colors": [
+        {
+          "id": 208,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 209,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 210,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 189,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 190,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 169,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 170,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A93",
+      "name": "A93",
+      "slug": "oppo-a93",
+      "colors": [
+        {
+          "id": 211,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 212,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 213,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 191,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 192,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 171,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 172,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A93 5G",
+      "name": "A93 5G",
+      "slug": "oppo-a93-5g",
+      "colors": [
+        {
+          "id": 214,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 215,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 216,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 193,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 194,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 173,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 174,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A94",
+      "name": "A94",
+      "slug": "oppo-a94",
+      "colors": [
+        {
+          "id": 217,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 218,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 219,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 195,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 196,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 175,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 176,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A94 5G",
+      "name": "A94 5G",
+      "slug": "oppo-a94-5g",
+      "colors": [
+        {
+          "id": 220,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 221,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 222,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 197,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 198,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 177,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 178,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A95",
+      "name": "A95",
+      "slug": "oppo-a95",
+      "colors": [
+        {
+          "id": 223,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 224,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 225,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 199,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 200,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 179,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 180,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A95 5G",
+      "name": "A95 5G",
+      "slug": "oppo-a95-5g",
+      "colors": [
+        {
+          "id": 226,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 227,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 228,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 201,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 202,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 181,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 182,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A96",
+      "name": "A96",
+      "slug": "oppo-a96",
+      "colors": [
+        {
+          "id": 229,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 230,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 231,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 203,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 204,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 183,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 184,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A96 5G",
+      "name": "A96 5G",
+      "slug": "oppo-a96-5g",
+      "colors": [
+        {
+          "id": 232,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 233,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 234,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 205,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 206,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 185,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 186,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "A98 5G",
+      "name": "A98 5G",
+      "slug": "oppo-a98-5g",
+      "colors": [
+        {
+          "id": 235,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 236,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 237,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 207,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 208,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 187,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 188,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find 5",
+      "name": "Find 5",
+      "slug": "oppo-find-5",
+      "colors": [
+        {
+          "id": 238,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 239,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 209,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 210,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 189,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 190,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Find 7",
+      "name": "Find 7",
+      "slug": "oppo-find-7",
+      "colors": [
+        {
+          "id": 240,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 241,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 211,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 212,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 191,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 192,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Find 7A",
+      "name": "Find 7A",
+      "slug": "oppo-find-7a",
+      "colors": [
+        {
+          "id": 242,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 243,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 213,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 214,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 193,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 194,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Find 9",
+      "name": "Find 9",
+      "slug": "oppo-find-9",
+      "colors": [
+        {
+          "id": 244,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 245,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 215,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 216,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 195,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 196,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Find 9 Pro",
+      "name": "Find 9 Pro",
+      "slug": "oppo-find-9-pro",
+      "colors": [
+        {
+          "id": 246,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 247,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 217,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 218,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 197,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 198,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Find N",
+      "name": "Find N",
+      "slug": "oppo-find-n",
+      "colors": [
+        {
+          "id": 248,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 249,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 219,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 220,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 199,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 200,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 201,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Find N2",
+      "name": "Find N2",
+      "slug": "oppo-find-n2",
+      "colors": [
+        {
+          "id": 250,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 251,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 221,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 222,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 202,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 203,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 204,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Find N2 Flip",
+      "name": "Find N2 Flip",
+      "slug": "oppo-find-n2-flip",
+      "colors": [
+        {
+          "id": 252,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 253,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 223,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 224,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 205,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 206,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 207,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Find N3",
+      "name": "Find N3",
+      "slug": "oppo-find-n3",
+      "colors": [
+        {
+          "id": 254,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 255,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 225,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 226,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 208,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 209,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 210,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Find N3 Flip",
+      "name": "Find N3 Flip",
+      "slug": "oppo-find-n3-flip",
+      "colors": [
+        {
+          "id": 256,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 257,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 227,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 228,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 211,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 212,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 213,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Find N5",
+      "name": "Find N5",
+      "slug": "oppo-find-n5",
+      "colors": [
+        {
+          "id": 258,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 259,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 229,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 230,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 214,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 215,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 216,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Find X",
+      "name": "Find X",
+      "slug": "oppo-find-x",
+      "colors": [
+        {
+          "id": 260,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 261,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 231,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 232,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 217,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 218,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X2",
+      "name": "Find X2",
+      "slug": "oppo-find-x2",
+      "colors": [
+        {
+          "id": 262,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 263,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 233,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 234,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 219,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 220,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X2 Lite",
+      "name": "Find X2 Lite",
+      "slug": "oppo-find-x2-lite",
+      "colors": [
+        {
+          "id": 264,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 265,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 235,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 236,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 221,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 222,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X2 Neo",
+      "name": "Find X2 Neo",
+      "slug": "oppo-find-x2-neo",
+      "colors": [
+        {
+          "id": 266,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 267,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 237,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 238,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 223,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 224,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X2 Pro",
+      "name": "Find X2 Pro",
+      "slug": "oppo-find-x2-pro",
+      "colors": [
+        {
+          "id": 268,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 269,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 239,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 240,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 225,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 226,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Find X3",
+      "name": "Find X3",
+      "slug": "oppo-find-x3",
+      "colors": [
+        {
+          "id": 270,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 271,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 241,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 242,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 227,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 228,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X3 Neo",
+      "name": "Find X3 Neo",
+      "slug": "oppo-find-x3-neo",
+      "colors": [
+        {
+          "id": 272,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 273,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 243,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 244,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 229,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 230,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X3 Pro",
+      "name": "Find X3 Pro",
+      "slug": "oppo-find-x3-pro",
+      "colors": [
+        {
+          "id": 274,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 275,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 245,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 246,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 231,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 232,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Find X5",
+      "name": "Find X5",
+      "slug": "oppo-find-x5",
+      "colors": [
+        {
+          "id": 276,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 277,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 247,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 248,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 233,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 234,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X5 Pro",
+      "name": "Find X5 Pro",
+      "slug": "oppo-find-x5-pro",
+      "colors": [
+        {
+          "id": 278,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 279,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 249,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 250,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 235,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 236,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Find X6",
+      "name": "Find X6",
+      "slug": "oppo-find-x6",
+      "colors": [
+        {
+          "id": 280,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 281,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 251,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 252,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 237,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 238,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X6 Pro",
+      "name": "Find X6 Pro",
+      "slug": "oppo-find-x6-pro",
+      "colors": [
+        {
+          "id": 282,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 283,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 253,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 254,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 239,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 240,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Find X7",
+      "name": "Find X7",
+      "slug": "oppo-find-x7",
+      "colors": [
+        {
+          "id": 284,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 285,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 255,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 256,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 241,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 242,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X7 Ultra",
+      "name": "Find X7 Ultra",
+      "slug": "oppo-find-x7-ultra",
+      "colors": [
+        {
+          "id": 286,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 287,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 257,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 258,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 243,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 244,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Find X8",
+      "name": "Find X8",
+      "slug": "oppo-find-x8",
+      "colors": [
+        {
+          "id": 288,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 289,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 259,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 260,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 245,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 246,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X8 Pro",
+      "name": "Find X8 Pro",
+      "slug": "oppo-find-x8-pro",
+      "colors": [
+        {
+          "id": 290,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 291,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 261,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 262,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 247,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 248,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Find X8 Ultra",
+      "name": "Find X8 Ultra",
+      "slug": "oppo-find-x8-ultra",
+      "colors": [
+        {
+          "id": 292,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 293,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 263,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 264,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 249,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 250,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Find X9",
+      "name": "Find X9",
+      "slug": "oppo-find-x9",
+      "colors": [
+        {
+          "id": 294,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 295,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 265,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 266,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 251,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 252,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Find X9 Pro",
+      "name": "Find X9 Pro",
+      "slug": "oppo-find-x9-pro",
+      "colors": [
+        {
+          "id": 296,
+          "hex_code": "#1C1C1E",
+          "name_en": "Cosmic Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 297,
+          "hex_code": "#F5F5F0",
+          "name_en": "Misty White",
+          "name_ru": "Туманно-белый",
+          "name_kg": "Туман ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 267,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 268,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 253,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 254,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "K1",
+      "name": "K1",
+      "slug": "oppo-k1",
+      "colors": [
+        {
+          "id": 298,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 299,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 300,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 269,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 270,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 255,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 256,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "K3",
+      "name": "K3",
+      "slug": "oppo-k3",
+      "colors": [
+        {
+          "id": 301,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 302,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 303,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 271,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 272,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 257,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 258,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Reno",
+      "name": "Reno",
+      "slug": "oppo-reno",
+      "colors": [
+        {
+          "id": 304,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 305,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 306,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 273,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 274,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 275,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 259,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 260,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 2",
+      "name": "Reno 2",
+      "slug": "oppo-reno-2",
+      "colors": [
+        {
+          "id": 307,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 308,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 309,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 276,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 277,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 278,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 261,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 262,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 2 F",
+      "name": "Reno 2 F",
+      "slug": "oppo-reno-2-f",
+      "colors": [
+        {
+          "id": 310,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 311,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 312,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 279,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 280,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 281,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 263,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 264,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 2 Z",
+      "name": "Reno 2 Z",
+      "slug": "oppo-reno-2-z",
+      "colors": [
+        {
+          "id": 313,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 314,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 315,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 282,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 283,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 284,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 265,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 266,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 3",
+      "name": "Reno 3",
+      "slug": "oppo-reno-3",
+      "colors": [
+        {
+          "id": 316,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 317,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 318,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 285,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 286,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 287,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 267,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 268,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 3 Pro",
+      "name": "Reno 3 Pro",
+      "slug": "oppo-reno-3-pro",
+      "colors": [
+        {
+          "id": 319,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 320,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 321,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 288,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 289,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 269,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 270,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 4",
+      "name": "Reno 4",
+      "slug": "oppo-reno-4",
+      "colors": [
+        {
+          "id": 322,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 323,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 324,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 290,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 291,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 292,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 271,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 272,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 4 Pro",
+      "name": "Reno 4 Pro",
+      "slug": "oppo-reno-4-pro",
+      "colors": [
+        {
+          "id": 325,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 326,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 327,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 293,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 294,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 273,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 274,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 5",
+      "name": "Reno 5",
+      "slug": "oppo-reno-5",
+      "colors": [
+        {
+          "id": 328,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 329,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 330,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 295,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 296,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 297,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 275,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 276,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 5 Pro",
+      "name": "Reno 5 Pro",
+      "slug": "oppo-reno-5-pro",
+      "colors": [
+        {
+          "id": 331,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 332,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 333,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 298,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 299,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 277,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 278,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 5 Pro Plus",
+      "name": "Reno 5 Pro Plus",
+      "slug": "oppo-reno-5-pro-plus",
+      "colors": [
+        {
+          "id": 334,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 335,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 336,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 300,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 301,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 279,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 280,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 6",
+      "name": "Reno 6",
+      "slug": "oppo-reno-6",
+      "colors": [
+        {
+          "id": 337,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 338,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 339,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 302,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 303,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 304,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 281,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 282,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 6 Pro",
+      "name": "Reno 6 Pro",
+      "slug": "oppo-reno-6-pro",
+      "colors": [
+        {
+          "id": 340,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 341,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 342,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 305,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 306,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 283,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 284,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 7",
+      "name": "Reno 7",
+      "slug": "oppo-reno-7",
+      "colors": [
+        {
+          "id": 343,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 344,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 345,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 307,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 308,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 309,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 285,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 286,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 7 Pro",
+      "name": "Reno 7 Pro",
+      "slug": "oppo-reno-7-pro",
+      "colors": [
+        {
+          "id": 346,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 347,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 348,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 310,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 311,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 287,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 288,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 8",
+      "name": "Reno 8",
+      "slug": "oppo-reno-8",
+      "colors": [
+        {
+          "id": 349,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 350,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 351,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 312,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 313,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 314,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 289,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 290,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 8 Pro",
+      "name": "Reno 8 Pro",
+      "slug": "oppo-reno-8-pro",
+      "colors": [
+        {
+          "id": 352,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 353,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 354,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 315,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 316,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 291,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 292,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 8T",
+      "name": "Reno 8T",
+      "slug": "oppo-reno-8t",
+      "colors": [
+        {
+          "id": 355,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 356,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 357,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 317,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 318,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 319,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 293,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 294,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 9",
+      "name": "Reno 9",
+      "slug": "oppo-reno-9",
+      "colors": [
+        {
+          "id": 358,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 359,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 360,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 320,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 321,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 322,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 295,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 296,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 9 Pro",
+      "name": "Reno 9 Pro",
+      "slug": "oppo-reno-9-pro",
+      "colors": [
+        {
+          "id": 361,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 362,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 363,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 323,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 324,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 297,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 298,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 10",
+      "name": "Reno 10",
+      "slug": "oppo-reno-10",
+      "colors": [
+        {
+          "id": 364,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 365,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 366,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 325,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 326,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 327,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 299,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 300,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 10 Pro",
+      "name": "Reno 10 Pro",
+      "slug": "oppo-reno-10-pro",
+      "colors": [
+        {
+          "id": 367,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 368,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 369,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 328,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 329,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 301,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 302,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 11",
+      "name": "Reno 11",
+      "slug": "oppo-reno-11",
+      "colors": [
+        {
+          "id": 370,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 371,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 372,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 330,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 331,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 332,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 303,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 304,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 11 Pro",
+      "name": "Reno 11 Pro",
+      "slug": "oppo-reno-11-pro",
+      "colors": [
+        {
+          "id": 373,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 374,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 375,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 333,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 334,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 305,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 306,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 12",
+      "name": "Reno 12",
+      "slug": "oppo-reno-12",
+      "colors": [
+        {
+          "id": 376,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 377,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 378,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 335,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 336,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 337,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 307,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 308,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 12 Pro",
+      "name": "Reno 12 Pro",
+      "slug": "oppo-reno-12-pro",
+      "colors": [
+        {
+          "id": 379,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 380,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 381,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 338,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 339,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 309,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 310,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 13",
+      "name": "Reno 13",
+      "slug": "oppo-reno-13",
+      "colors": [
+        {
+          "id": 382,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 383,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 384,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 340,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 341,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 342,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 311,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 312,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 13 Pro",
+      "name": "Reno 13 Pro",
+      "slug": "oppo-reno-13-pro",
+      "colors": [
+        {
+          "id": 385,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 386,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 387,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 343,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 344,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 313,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 314,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno 14",
+      "name": "Reno 14",
+      "slug": "oppo-reno-14",
+      "colors": [
+        {
+          "id": 388,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 389,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 390,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 345,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 346,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 347,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 315,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 316,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Reno 14 Pro",
+      "name": "Reno 14 Pro",
+      "slug": "oppo-reno-14-pro",
+      "colors": [
+        {
+          "id": 391,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 392,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 393,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 348,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 349,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 317,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 318,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Reno Z",
+      "name": "Reno Z",
+      "slug": "oppo-reno-z",
+      "colors": [
+        {
+          "id": 394,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 395,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 396,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 350,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 351,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 352,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 319,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 320,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    }
+  ]
+}

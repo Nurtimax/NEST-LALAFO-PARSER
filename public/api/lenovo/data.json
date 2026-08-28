@@ -1,0 +1,3132 @@
+{
+  "name": "Lenovo",
+  "slug": "lenovo",
+  "models": [
+    {
+      "value": "A2020",
+      "name": "A2020",
+      "slug": "lenovo-a2020",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 2,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 2,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "A6600",
+      "name": "A6600",
+      "slug": "lenovo-a6600",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 3,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 4,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 3,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 4,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "A6600 Plus",
+      "name": "A6600 Plus",
+      "slug": "lenovo-a6600-plus",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 5,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 6,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 5,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 6,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "A7000",
+      "name": "A7000",
+      "slug": "lenovo-a7000",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 8,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 8,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "A7010",
+      "name": "A7010",
+      "slug": "lenovo-a7010",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 9,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 10,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 9,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 10,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "K3",
+      "name": "K3",
+      "slug": "lenovo-k3",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 13,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 11,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 12,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 13,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 11,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 12,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 13,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K3 Note",
+      "name": "K3 Note",
+      "slug": "lenovo-k3-note",
+      "colors": [
+        {
+          "id": 14,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 15,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 16,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 14,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 15,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 16,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 14,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 15,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 16,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K4 Note",
+      "name": "K4 Note",
+      "slug": "lenovo-k4-note",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 19,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 17,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 18,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 19,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 17,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 18,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 19,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K5",
+      "name": "K5",
+      "slug": "lenovo-k5",
+      "colors": [
+        {
+          "id": 20,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 21,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 22,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 20,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 21,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 22,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 20,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 21,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 22,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K5 Note",
+      "name": "K5 Note",
+      "slug": "lenovo-k5-note",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 24,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 25,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 23,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 24,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 25,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 23,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 24,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 25,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K5 Play",
+      "name": "K5 Play",
+      "slug": "lenovo-k5-play",
+      "colors": [
+        {
+          "id": 26,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 27,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 28,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 26,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 27,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 28,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 26,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 27,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 28,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K5 Pro",
+      "name": "K5 Pro",
+      "slug": "lenovo-k5-pro",
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 30,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 31,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 29,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 30,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 31,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 29,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 30,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 31,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K6",
+      "name": "K6",
+      "slug": "lenovo-k6",
+      "colors": [
+        {
+          "id": 32,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 33,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 34,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 32,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 33,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 34,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 32,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 33,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 34,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K6 Note",
+      "name": "K6 Note",
+      "slug": "lenovo-k6-note",
+      "colors": [
+        {
+          "id": 35,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 36,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 37,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 35,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 36,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 37,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 35,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 36,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 37,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K6 Power",
+      "name": "K6 Power",
+      "slug": "lenovo-k6-power",
+      "colors": [
+        {
+          "id": 38,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 39,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 40,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 38,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 39,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 40,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 38,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 39,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 40,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K8",
+      "name": "K8",
+      "slug": "lenovo-k8",
+      "colors": [
+        {
+          "id": 41,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 42,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 43,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 41,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 42,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 43,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 41,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 42,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 43,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K8 Note",
+      "name": "K8 Note",
+      "slug": "lenovo-k8-note",
+      "colors": [
+        {
+          "id": 44,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 45,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 46,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 44,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 45,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 46,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 44,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 45,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 46,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K8 Plus",
+      "name": "K8 Plus",
+      "slug": "lenovo-k8-plus",
+      "colors": [
+        {
+          "id": 47,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 48,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 49,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 47,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 48,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 49,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 47,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 48,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 49,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K9",
+      "name": "K9",
+      "slug": "lenovo-k9",
+      "colors": [
+        {
+          "id": 50,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 51,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 52,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 50,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 51,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 52,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 50,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 51,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 52,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K10",
+      "name": "K10",
+      "slug": "lenovo-k10",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 55,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 53,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 54,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 55,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 53,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 54,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 55,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K10 Note",
+      "name": "K10 Note",
+      "slug": "lenovo-k10-note",
+      "colors": [
+        {
+          "id": 56,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 57,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 58,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 56,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 57,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 58,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 56,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 57,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 58,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K10 Plus",
+      "name": "K10 Plus",
+      "slug": "lenovo-k10-plus",
+      "colors": [
+        {
+          "id": 59,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 60,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 61,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 59,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 60,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 61,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 59,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 60,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 61,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K12",
+      "name": "K12",
+      "slug": "lenovo-k12",
+      "colors": [
+        {
+          "id": 62,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 63,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 64,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 62,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 63,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 64,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 62,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 63,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 64,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K12 Note",
+      "name": "K12 Note",
+      "slug": "lenovo-k12-note",
+      "colors": [
+        {
+          "id": 65,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 66,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 67,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 65,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 66,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 67,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 65,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 66,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 67,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K12 Pro",
+      "name": "K12 Pro",
+      "slug": "lenovo-k12-pro",
+      "colors": [
+        {
+          "id": 68,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 69,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 70,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 68,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 69,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 70,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 68,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 69,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 70,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K13",
+      "name": "K13",
+      "slug": "lenovo-k13",
+      "colors": [
+        {
+          "id": 71,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 72,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 73,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 71,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 72,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 73,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 71,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 72,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 73,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K13 Note",
+      "name": "K13 Note",
+      "slug": "lenovo-k13-note",
+      "colors": [
+        {
+          "id": 74,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 75,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 76,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 74,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 75,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 76,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 74,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 75,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 76,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "K13c",
+      "name": "K13c",
+      "slug": "lenovo-k13c",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 79,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 77,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 78,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 79,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 77,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 78,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 79,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Legion Duel",
+      "name": "Legion Duel",
+      "slug": "lenovo-legion-duel",
+      "colors": [
+        {
+          "id": 80,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium",
+          "name_ru": "Титановый",
+          "name_kg": "Титан"
+        },
+        {
+          "id": 81,
+          "hex_code": "#4A4A4A",
+          "name_en": "Storm Grey",
+          "name_ru": "Штормовой серый",
+          "name_kg": "Шторм боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 80,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 81,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 82,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 80,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 81,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 82,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Legion Duel 2",
+      "name": "Legion Duel 2",
+      "slug": "lenovo-legion-duel-2",
+      "colors": [
+        {
+          "id": 82,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium",
+          "name_ru": "Титановый",
+          "name_kg": "Титан"
+        },
+        {
+          "id": 83,
+          "hex_code": "#4A4A4A",
+          "name_en": "Storm Grey",
+          "name_ru": "Штормовой серый",
+          "name_kg": "Шторм боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 83,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 84,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 85,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 83,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 84,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 85,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Legion Phone Duel",
+      "name": "Legion Phone Duel",
+      "slug": "lenovo-legion-phone-duel",
+      "colors": [
+        {
+          "id": 84,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium",
+          "name_ru": "Титановый",
+          "name_kg": "Титан"
+        },
+        {
+          "id": 85,
+          "hex_code": "#4A4A4A",
+          "name_en": "Storm Grey",
+          "name_ru": "Штормовой серый",
+          "name_kg": "Шторм боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 86,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 87,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 88,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 86,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 87,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 88,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Legion Y70",
+      "name": "Legion Y70",
+      "slug": "lenovo-legion-y70",
+      "colors": [
+        {
+          "id": 86,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium",
+          "name_ru": "Титановый",
+          "name_kg": "Титан"
+        },
+        {
+          "id": 87,
+          "hex_code": "#4A4A4A",
+          "name_en": "Storm Grey",
+          "name_ru": "Штормовой серый",
+          "name_kg": "Шторм боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 89,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 90,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 91,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 89,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 90,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 91,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Legion Y90",
+      "name": "Legion Y90",
+      "slug": "lenovo-legion-y90",
+      "colors": [
+        {
+          "id": 88,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium",
+          "name_ru": "Титановый",
+          "name_kg": "Титан"
+        },
+        {
+          "id": 89,
+          "hex_code": "#4A4A4A",
+          "name_en": "Storm Grey",
+          "name_ru": "Штормовой серый",
+          "name_kg": "Шторм боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 92,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 93,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 94,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 92,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 93,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 94,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Legion Y700",
+      "name": "Legion Y700",
+      "slug": "lenovo-legion-y700",
+      "colors": [
+        {
+          "id": 90,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium",
+          "name_ru": "Титановый",
+          "name_kg": "Титан"
+        },
+        {
+          "id": 91,
+          "hex_code": "#4A4A4A",
+          "name_en": "Storm Grey",
+          "name_ru": "Штормовой серый",
+          "name_kg": "Шторм боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 95,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 96,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 97,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 95,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 96,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 97,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "P2",
+      "name": "P2",
+      "slug": "lenovo-p2",
+      "colors": [
+        {
+          "id": 92,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 93,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 98,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 99,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 98,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 99,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "P70",
+      "name": "P70",
+      "slug": "lenovo-p70",
+      "colors": [
+        {
+          "id": 94,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 95,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 100,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 101,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 100,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 101,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "S60",
+      "name": "S60",
+      "slug": "lenovo-s60",
+      "colors": [
+        {
+          "id": 96,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 97,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 102,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 103,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 102,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 103,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "S850",
+      "name": "S850",
+      "slug": "lenovo-s850",
+      "colors": [
+        {
+          "id": 98,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 99,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 104,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 105,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 104,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 105,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "S860",
+      "name": "S860",
+      "slug": "lenovo-s860",
+      "colors": [
+        {
+          "id": 100,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 101,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 106,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 107,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 106,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 107,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "S90",
+      "name": "S90",
+      "slug": "lenovo-s90",
+      "colors": [
+        {
+          "id": 102,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 103,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 108,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 109,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 108,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 109,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Vibe K5",
+      "name": "Vibe K5",
+      "slug": "lenovo-vibe-k5",
+      "colors": [
+        {
+          "id": 104,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 105,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 110,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 111,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 112,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 110,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 111,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 112,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Vibe K5 Note",
+      "name": "Vibe K5 Note",
+      "slug": "lenovo-vibe-k5-note",
+      "colors": [
+        {
+          "id": 106,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 107,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 113,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 114,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 115,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 113,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 114,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 115,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Vibe K5 Plus",
+      "name": "Vibe K5 Plus",
+      "slug": "lenovo-vibe-k5-plus",
+      "colors": [
+        {
+          "id": 108,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 109,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 116,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 117,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 118,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 116,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 117,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 118,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Vibe P1",
+      "name": "Vibe P1",
+      "slug": "lenovo-vibe-p1",
+      "colors": [
+        {
+          "id": 110,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 111,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 119,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 120,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 121,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 119,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 120,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 121,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Vibe P1m",
+      "name": "Vibe P1m",
+      "slug": "lenovo-vibe-p1m",
+      "colors": [
+        {
+          "id": 112,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 113,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 122,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 123,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 124,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 122,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 123,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 124,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Vibe S1",
+      "name": "Vibe S1",
+      "slug": "lenovo-vibe-s1",
+      "colors": [
+        {
+          "id": 114,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 115,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 125,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 126,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 127,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 125,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 126,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 127,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Vibe X2",
+      "name": "Vibe X2",
+      "slug": "lenovo-vibe-x2",
+      "colors": [
+        {
+          "id": 116,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 117,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 128,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 129,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 130,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 128,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 129,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 130,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Vibe X3",
+      "name": "Vibe X3",
+      "slug": "lenovo-vibe-x3",
+      "colors": [
+        {
+          "id": 118,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 119,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 131,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 132,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 133,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 131,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 132,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 133,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Z5",
+      "name": "Z5",
+      "slug": "lenovo-z5",
+      "colors": [
+        {
+          "id": 120,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 121,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 134,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 135,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 134,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 135,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Z5 Pro",
+      "name": "Z5 Pro",
+      "slug": "lenovo-z5-pro",
+      "colors": [
+        {
+          "id": 122,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 123,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 136,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 137,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 136,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 137,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Z5s",
+      "name": "Z5s",
+      "slug": "lenovo-z5s",
+      "colors": [
+        {
+          "id": 124,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 125,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 138,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 139,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 138,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 139,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Z6",
+      "name": "Z6",
+      "slug": "lenovo-z6",
+      "colors": [
+        {
+          "id": 126,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 127,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 140,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 141,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 140,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 141,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Z6 Pro",
+      "name": "Z6 Pro",
+      "slug": "lenovo-z6-pro",
+      "colors": [
+        {
+          "id": 128,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 129,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 142,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 143,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 142,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 143,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Z6 Youth",
+      "name": "Z6 Youth",
+      "slug": "lenovo-z6-youth",
+      "colors": [
+        {
+          "id": 130,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 131,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 144,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 145,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 144,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 145,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "ZUK Z1",
+      "name": "ZUK Z1",
+      "slug": "lenovo-zuk-z1",
+      "colors": [
+        {
+          "id": 132,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 133,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 146,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 147,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 148,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 146,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 147,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 148,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "ZUK Z2",
+      "name": "ZUK Z2",
+      "slug": "lenovo-zuk-z2",
+      "colors": [
+        {
+          "id": 134,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 135,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 149,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 150,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 151,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 149,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 150,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 151,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "ZUK Z2 Pro",
+      "name": "ZUK Z2 Pro",
+      "slug": "lenovo-zuk-z2-pro",
+      "colors": [
+        {
+          "id": 136,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 137,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 152,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 153,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 154,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 152,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 153,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 154,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7385 @@
+{
+  "name": "Realme",
+  "slug": "realme",
+  "models": [
+    {
+      "value": "1",
+      "name": "1",
+      "slug": "realme-1",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 3,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 2,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 2,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "2",
+      "name": "2",
+      "slug": "realme-2",
+      "colors": [
+        {
+          "id": 4,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 5,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 6,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 3,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 4,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 3,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 4,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "2 Pro",
+      "name": "2 Pro",
+      "slug": "realme-2-pro",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 9,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 5,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 6,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 5,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 6,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "3",
+      "name": "3",
+      "slug": "realme-3",
+      "colors": [
+        {
+          "id": 10,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 11,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 12,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 8,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 8,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "3 Pro",
+      "name": "3 Pro",
+      "slug": "realme-3-pro",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 15,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 9,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 10,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 9,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 10,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "5",
+      "name": "5",
+      "slug": "realme-5",
+      "colors": [
+        {
+          "id": 16,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 17,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 18,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 11,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 12,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 13,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 11,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 12,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "5i",
+      "name": "5i",
+      "slug": "realme-5i",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 21,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 14,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 15,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 16,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 14,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "5 Pro",
+      "name": "5 Pro",
+      "slug": "realme-5-pro",
+      "colors": [
+        {
+          "id": 22,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 23,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 24,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 17,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 18,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 19,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 15,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 16,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "5s",
+      "name": "5s",
+      "slug": "realme-5s",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 27,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 20,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 21,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 22,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 17,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 18,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "6",
+      "name": "6",
+      "slug": "realme-6",
+      "colors": [
+        {
+          "id": 28,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 29,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 30,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 23,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 24,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 25,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 20,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "6i",
+      "name": "6i",
+      "slug": "realme-6i",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 33,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 26,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 27,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 28,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 21,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 22,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "6 Pro",
+      "name": "6 Pro",
+      "slug": "realme-6-pro",
+      "colors": [
+        {
+          "id": 34,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 35,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 36,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 29,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 30,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 31,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 23,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 24,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "6s",
+      "name": "6s",
+      "slug": "realme-6s",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 39,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 32,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 33,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 34,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 26,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "7",
+      "name": "7",
+      "slug": "realme-7",
+      "colors": [
+        {
+          "id": 40,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 41,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 42,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 35,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 36,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 37,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 27,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 28,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "7i",
+      "name": "7i",
+      "slug": "realme-7i",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 45,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 38,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 39,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 40,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 29,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 30,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "7 Pro",
+      "name": "7 Pro",
+      "slug": "realme-7-pro",
+      "colors": [
+        {
+          "id": 46,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 47,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 48,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 41,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 42,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 43,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 32,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "7 5G",
+      "name": "7 5G",
+      "slug": "realme-7-5g",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 51,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 44,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 45,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 46,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 33,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 34,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "8",
+      "name": "8",
+      "slug": "realme-8",
+      "colors": [
+        {
+          "id": 52,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 53,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 54,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 47,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 48,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 49,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 35,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 36,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "8i",
+      "name": "8i",
+      "slug": "realme-8i",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 57,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 50,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 51,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 52,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 38,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "8 Pro",
+      "name": "8 Pro",
+      "slug": "realme-8-pro",
+      "colors": [
+        {
+          "id": 58,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 59,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 60,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 53,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 54,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 55,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 39,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 40,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "8 5G",
+      "name": "8 5G",
+      "slug": "realme-8-5g",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 63,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 56,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 57,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 58,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 41,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 42,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "8s 5G",
+      "name": "8s 5G",
+      "slug": "realme-8s-5g",
+      "colors": [
+        {
+          "id": 64,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 65,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 66,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 59,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 60,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 61,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 44,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "9",
+      "name": "9",
+      "slug": "realme-9",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 69,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 62,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 63,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 64,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 45,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 46,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "9i",
+      "name": "9i",
+      "slug": "realme-9i",
+      "colors": [
+        {
+          "id": 70,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 71,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 72,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 65,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 66,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 67,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 47,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 48,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "9 4G",
+      "name": "9 4G",
+      "slug": "realme-9-4g",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 75,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 68,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 69,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 70,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 50,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "9 5G",
+      "name": "9 5G",
+      "slug": "realme-9-5g",
+      "colors": [
+        {
+          "id": 76,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 77,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 78,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 71,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 72,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 73,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 51,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 52,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "9 Pro",
+      "name": "9 Pro",
+      "slug": "realme-9-pro",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 81,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 74,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 75,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 76,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 53,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 54,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "9 Pro Plus",
+      "name": "9 Pro Plus",
+      "slug": "realme-9-pro-plus",
+      "colors": [
+        {
+          "id": 82,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 83,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 84,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 77,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 78,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 79,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 56,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "10",
+      "name": "10",
+      "slug": "realme-10",
+      "colors": [
+        {
+          "id": 85,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 86,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 87,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 80,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 81,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 82,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 57,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 58,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "10 4G",
+      "name": "10 4G",
+      "slug": "realme-10-4g",
+      "colors": [
+        {
+          "id": 88,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 89,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 90,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 83,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 84,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 85,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 59,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 60,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "10 5G",
+      "name": "10 5G",
+      "slug": "realme-10-5g",
+      "colors": [
+        {
+          "id": 91,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 92,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 93,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 86,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 87,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 88,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 62,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "10 Pro",
+      "name": "10 Pro",
+      "slug": "realme-10-pro",
+      "colors": [
+        {
+          "id": 94,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 95,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 96,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 89,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 90,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 91,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 63,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 64,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "10 Pro Plus",
+      "name": "10 Pro Plus",
+      "slug": "realme-10-pro-plus",
+      "colors": [
+        {
+          "id": 97,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 98,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 99,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 92,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 93,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 94,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 65,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 66,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "10s",
+      "name": "10s",
+      "slug": "realme-10s",
+      "colors": [
+        {
+          "id": 100,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 101,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 102,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 95,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 96,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 97,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 68,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "11",
+      "name": "11",
+      "slug": "realme-11",
+      "colors": [
+        {
+          "id": 103,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 104,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 105,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 98,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 99,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 100,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 69,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 70,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "11 4G",
+      "name": "11 4G",
+      "slug": "realme-11-4g",
+      "colors": [
+        {
+          "id": 106,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 107,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 108,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 101,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 102,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 103,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 71,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 72,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "11 5G",
+      "name": "11 5G",
+      "slug": "realme-11-5g",
+      "colors": [
+        {
+          "id": 109,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 110,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 111,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 104,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 105,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 106,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 74,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "11 Pro",
+      "name": "11 Pro",
+      "slug": "realme-11-pro",
+      "colors": [
+        {
+          "id": 112,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 113,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 114,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 107,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 108,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 109,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 75,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 76,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "11 Pro Plus",
+      "name": "11 Pro Plus",
+      "slug": "realme-11-pro-plus",
+      "colors": [
+        {
+          "id": 115,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 116,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 117,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 110,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 111,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 112,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 77,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 78,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "11x",
+      "name": "11x",
+      "slug": "realme-11x",
+      "colors": [
+        {
+          "id": 118,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 119,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 120,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 113,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 114,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 115,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 79,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 80,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "12",
+      "name": "12",
+      "slug": "realme-12",
+      "colors": [
+        {
+          "id": 121,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 122,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 123,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 116,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 117,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 118,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 81,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 82,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "12 5G",
+      "name": "12 5G",
+      "slug": "realme-12-5g",
+      "colors": [
+        {
+          "id": 124,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 125,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 126,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 119,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 120,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 121,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 83,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 84,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "12 Plus 5G",
+      "name": "12 Plus 5G",
+      "slug": "realme-12-plus-5g",
+      "colors": [
+        {
+          "id": 127,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 128,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 129,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 122,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 123,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 124,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 85,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 86,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "12 Pro",
+      "name": "12 Pro",
+      "slug": "realme-12-pro",
+      "colors": [
+        {
+          "id": 130,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 131,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 132,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 125,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 126,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 127,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 87,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 88,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "12 Pro Plus",
+      "name": "12 Pro Plus",
+      "slug": "realme-12-pro-plus",
+      "colors": [
+        {
+          "id": 133,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 134,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 135,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 128,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 129,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 130,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 89,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 90,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "12x",
+      "name": "12x",
+      "slug": "realme-12x",
+      "colors": [
+        {
+          "id": 136,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 137,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 138,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 131,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 132,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 133,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 91,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 92,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "13",
+      "name": "13",
+      "slug": "realme-13",
+      "colors": [
+        {
+          "id": 139,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 140,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 141,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 134,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 135,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 93,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 94,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "13 Plus",
+      "name": "13 Plus",
+      "slug": "realme-13-plus",
+      "colors": [
+        {
+          "id": 142,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 143,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 144,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 136,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 137,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 95,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 96,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "13 Pro",
+      "name": "13 Pro",
+      "slug": "realme-13-pro",
+      "colors": [
+        {
+          "id": 145,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 146,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 147,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 138,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 139,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 97,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 98,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "13 Pro Plus",
+      "name": "13 Pro Plus",
+      "slug": "realme-13-pro-plus",
+      "colors": [
+        {
+          "id": 148,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 149,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 150,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 140,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 141,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 99,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 100,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "14",
+      "name": "14",
+      "slug": "realme-14",
+      "colors": [
+        {
+          "id": 151,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 152,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 153,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 142,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 143,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 101,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 102,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "14 Pro",
+      "name": "14 Pro",
+      "slug": "realme-14-pro",
+      "colors": [
+        {
+          "id": 154,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 155,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 156,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 144,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 145,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 103,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 104,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "14 Pro Plus",
+      "name": "14 Pro Plus",
+      "slug": "realme-14-pro-plus",
+      "colors": [
+        {
+          "id": 157,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 158,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 159,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 146,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 147,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 105,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 106,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "14T",
+      "name": "14T",
+      "slug": "realme-14t",
+      "colors": [
+        {
+          "id": 160,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 161,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 162,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 148,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 149,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 107,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 108,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "14x",
+      "name": "14x",
+      "slug": "realme-14x",
+      "colors": [
+        {
+          "id": 163,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 164,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 165,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 150,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 151,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 109,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 110,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "15",
+      "name": "15",
+      "slug": "realme-15",
+      "colors": [
+        {
+          "id": 166,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 167,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 168,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 152,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 153,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 111,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 112,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "15 Pro",
+      "name": "15 Pro",
+      "slug": "realme-15-pro",
+      "colors": [
+        {
+          "id": 169,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 170,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 171,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 154,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 155,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 113,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 114,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "15T",
+      "name": "15T",
+      "slug": "realme-15t",
+      "colors": [
+        {
+          "id": 172,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 173,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 174,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 156,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 157,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 115,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 116,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "15x",
+      "name": "15x",
+      "slug": "realme-15x",
+      "colors": [
+        {
+          "id": 175,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 176,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 177,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 158,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 159,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 117,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 118,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "C1",
+      "name": "C1",
+      "slug": "realme-c1",
+      "colors": [
+        {
+          "id": 178,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 179,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 160,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 161,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 162,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 119,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 120,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 121,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C2",
+      "name": "C2",
+      "slug": "realme-c2",
+      "colors": [
+        {
+          "id": 180,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 181,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 163,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 164,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 165,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 122,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 123,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 124,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C3",
+      "name": "C3",
+      "slug": "realme-c3",
+      "colors": [
+        {
+          "id": 182,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 183,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 166,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 167,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 168,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 125,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 126,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 127,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C11",
+      "name": "C11",
+      "slug": "realme-c11",
+      "colors": [
+        {
+          "id": 184,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 185,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 169,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 170,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 171,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 128,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 129,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 130,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C12",
+      "name": "C12",
+      "slug": "realme-c12",
+      "colors": [
+        {
+          "id": 186,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 187,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 172,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 173,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 174,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 131,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 132,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 133,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C15",
+      "name": "C15",
+      "slug": "realme-c15",
+      "colors": [
+        {
+          "id": 188,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 189,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 175,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 176,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 177,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 134,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 135,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 136,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C17",
+      "name": "C17",
+      "slug": "realme-c17",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 191,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 178,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 179,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 180,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 137,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 138,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 139,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C20",
+      "name": "C20",
+      "slug": "realme-c20",
+      "colors": [
+        {
+          "id": 192,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 193,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 181,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 182,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 183,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 140,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 141,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 142,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C21",
+      "name": "C21",
+      "slug": "realme-c21",
+      "colors": [
+        {
+          "id": 194,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 195,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 184,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 185,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 186,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 143,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 144,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 145,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C21Y",
+      "name": "C21Y",
+      "slug": "realme-c21y",
+      "colors": [
+        {
+          "id": 196,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 197,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 187,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 188,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 189,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 146,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 147,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 148,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C25",
+      "name": "C25",
+      "slug": "realme-c25",
+      "colors": [
+        {
+          "id": 198,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 199,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 190,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 191,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 192,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 149,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 150,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 151,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C25s",
+      "name": "C25s",
+      "slug": "realme-c25s",
+      "colors": [
+        {
+          "id": 200,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 201,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 193,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 194,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 195,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 152,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 153,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 154,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C25Y",
+      "name": "C25Y",
+      "slug": "realme-c25y",
+      "colors": [
+        {
+          "id": 202,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 203,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 196,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 197,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 198,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 155,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 156,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 157,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "C30",
+      "name": "C30",
+      "slug": "realme-c30",
+      "colors": [
+        {
+          "id": 204,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 205,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 199,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 200,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 201,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 158,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 159,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C31",
+      "name": "C31",
+      "slug": "realme-c31",
+      "colors": [
+        {
+          "id": 206,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 207,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 202,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 203,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 204,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 160,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 161,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C33",
+      "name": "C33",
+      "slug": "realme-c33",
+      "colors": [
+        {
+          "id": 208,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 209,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 205,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 206,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 207,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 162,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 163,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C35",
+      "name": "C35",
+      "slug": "realme-c35",
+      "colors": [
+        {
+          "id": 210,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 211,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 208,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 209,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 210,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 164,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 165,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C51",
+      "name": "C51",
+      "slug": "realme-c51",
+      "colors": [
+        {
+          "id": 212,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 213,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 211,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 212,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 213,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 166,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 167,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C53",
+      "name": "C53",
+      "slug": "realme-c53",
+      "colors": [
+        {
+          "id": 214,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 215,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 214,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 215,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 216,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 168,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 169,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C55",
+      "name": "C55",
+      "slug": "realme-c55",
+      "colors": [
+        {
+          "id": 216,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 217,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 217,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 218,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 219,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 170,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 171,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C61",
+      "name": "C61",
+      "slug": "realme-c61",
+      "colors": [
+        {
+          "id": 218,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 219,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 220,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 221,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 222,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 172,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 173,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C63",
+      "name": "C63",
+      "slug": "realme-c63",
+      "colors": [
+        {
+          "id": 220,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 221,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 223,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 224,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 225,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 174,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 175,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C65",
+      "name": "C65",
+      "slug": "realme-c65",
+      "colors": [
+        {
+          "id": 222,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 223,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 226,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 227,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 228,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 176,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 177,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C67",
+      "name": "C67",
+      "slug": "realme-c67",
+      "colors": [
+        {
+          "id": 224,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 225,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 229,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 230,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 231,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 178,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 179,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C71",
+      "name": "C71",
+      "slug": "realme-c71",
+      "colors": [
+        {
+          "id": 226,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 227,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 232,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 233,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 234,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 180,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 181,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C75",
+      "name": "C75",
+      "slug": "realme-c75",
+      "colors": [
+        {
+          "id": 228,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 229,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 235,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 236,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 237,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 182,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 183,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "C75x",
+      "name": "C75x",
+      "slug": "realme-c75x",
+      "colors": [
+        {
+          "id": 230,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 231,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 238,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 239,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 240,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 184,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 185,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "GT",
+      "name": "GT",
+      "slug": "realme-gt",
+      "colors": [
+        {
+          "id": 232,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 233,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 234,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 241,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 242,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 243,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 186,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 187,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT Master Edition",
+      "name": "GT Master Edition",
+      "slug": "realme-gt-master-edition",
+      "colors": [
+        {
+          "id": 235,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 236,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 237,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 244,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 245,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 246,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 188,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 189,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT Neo",
+      "name": "GT Neo",
+      "slug": "realme-gt-neo",
+      "colors": [
+        {
+          "id": 238,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 239,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 240,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 247,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 248,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 249,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 190,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 191,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "GT Neo 2",
+      "name": "GT Neo 2",
+      "slug": "realme-gt-neo-2",
+      "colors": [
+        {
+          "id": 241,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 242,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 243,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 250,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 251,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 252,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 192,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 193,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "GT Neo 3",
+      "name": "GT Neo 3",
+      "slug": "realme-gt-neo-3",
+      "colors": [
+        {
+          "id": 244,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 245,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 246,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 253,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 254,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 255,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 194,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 195,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "GT Neo 3T",
+      "name": "GT Neo 3T",
+      "slug": "realme-gt-neo-3t",
+      "colors": [
+        {
+          "id": 247,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 248,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 249,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 256,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 257,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 258,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 196,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 197,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "GT Neo 5",
+      "name": "GT Neo 5",
+      "slug": "realme-gt-neo-5",
+      "colors": [
+        {
+          "id": 250,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 251,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 252,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 259,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 260,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 261,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 198,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 199,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "GT Neo 5 SE",
+      "name": "GT Neo 5 SE",
+      "slug": "realme-gt-neo-5-se",
+      "colors": [
+        {
+          "id": 253,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 254,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 255,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 262,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 263,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 264,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 200,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 201,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "GT Neo 6",
+      "name": "GT Neo 6",
+      "slug": "realme-gt-neo-6",
+      "colors": [
+        {
+          "id": 256,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 257,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 258,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 265,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 266,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 267,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 202,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 203,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "GT2",
+      "name": "GT2",
+      "slug": "realme-gt2",
+      "colors": [
+        {
+          "id": 259,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 260,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 261,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 268,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 269,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 270,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 204,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 205,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT2 Pro",
+      "name": "GT2 Pro",
+      "slug": "realme-gt2-pro",
+      "colors": [
+        {
+          "id": 262,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 263,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 264,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 271,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 272,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 273,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 206,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 207,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT3",
+      "name": "GT3",
+      "slug": "realme-gt3",
+      "colors": [
+        {
+          "id": 265,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 266,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 267,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 274,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 275,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 276,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 208,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 209,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT5",
+      "name": "GT5",
+      "slug": "realme-gt5",
+      "colors": [
+        {
+          "id": 268,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 269,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 270,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 277,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 278,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 279,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 210,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 211,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT5 Pro",
+      "name": "GT5 Pro",
+      "slug": "realme-gt5-pro",
+      "colors": [
+        {
+          "id": 271,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 272,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 273,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 280,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 281,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 282,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 212,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 213,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT6",
+      "name": "GT6",
+      "slug": "realme-gt6",
+      "colors": [
+        {
+          "id": 274,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 275,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 276,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 283,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 284,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 285,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 214,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 215,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT6T",
+      "name": "GT6T",
+      "slug": "realme-gt6t",
+      "colors": [
+        {
+          "id": 277,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 278,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 279,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 286,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 287,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 288,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 216,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 217,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT7",
+      "name": "GT7",
+      "slug": "realme-gt7",
+      "colors": [
+        {
+          "id": 280,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 281,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 282,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 289,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 290,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 291,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 218,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 219,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "GT7T",
+      "name": "GT7T",
+      "slug": "realme-gt7t",
+      "colors": [
+        {
+          "id": 283,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 284,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 285,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 292,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 293,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 294,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 220,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 221,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Narzo 10",
+      "name": "Narzo 10",
+      "slug": "realme-narzo-10",
+      "colors": [
+        {
+          "id": 286,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 287,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 295,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 296,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 222,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 223,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Narzo 20",
+      "name": "Narzo 20",
+      "slug": "realme-narzo-20",
+      "colors": [
+        {
+          "id": 288,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 289,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 297,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 298,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 224,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 225,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Narzo 20 Pro",
+      "name": "Narzo 20 Pro",
+      "slug": "realme-narzo-20-pro",
+      "colors": [
+        {
+          "id": 290,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 291,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 299,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 300,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 226,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 227,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Narzo 30",
+      "name": "Narzo 30",
+      "slug": "realme-narzo-30",
+      "colors": [
+        {
+          "id": 292,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 293,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 301,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 302,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 228,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 229,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Narzo 30 5G",
+      "name": "Narzo 30 5G",
+      "slug": "realme-narzo-30-5g",
+      "colors": [
+        {
+          "id": 294,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 295,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 303,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 304,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 230,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 231,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Narzo 30 Pro",
+      "name": "Narzo 30 Pro",
+      "slug": "realme-narzo-30-pro",
+      "colors": [
+        {
+          "id": 296,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 297,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 305,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 306,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 232,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 233,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Narzo 50",
+      "name": "Narzo 50",
+      "slug": "realme-narzo-50",
+      "colors": [
+        {
+          "id": 298,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 299,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 307,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 308,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 234,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 235,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo 50 5G",
+      "name": "Narzo 50 5G",
+      "slug": "realme-narzo-50-5g",
+      "colors": [
+        {
+          "id": 300,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 301,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 309,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 310,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 236,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 237,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo 50i",
+      "name": "Narzo 50i",
+      "slug": "realme-narzo-50i",
+      "colors": [
+        {
+          "id": 302,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 303,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 311,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 312,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 238,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 239,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo 50A",
+      "name": "Narzo 50A",
+      "slug": "realme-narzo-50a",
+      "colors": [
+        {
+          "id": 304,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 305,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 313,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 314,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 240,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 241,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo 60",
+      "name": "Narzo 60",
+      "slug": "realme-narzo-60",
+      "colors": [
+        {
+          "id": 306,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 307,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 315,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 316,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 242,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 243,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo 60 Pro",
+      "name": "Narzo 60 Pro",
+      "slug": "realme-narzo-60-pro",
+      "colors": [
+        {
+          "id": 308,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 309,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 317,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 318,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 244,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 245,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo 70",
+      "name": "Narzo 70",
+      "slug": "realme-narzo-70",
+      "colors": [
+        {
+          "id": 310,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 311,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 319,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 320,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 246,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 247,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo 70 Pro",
+      "name": "Narzo 70 Pro",
+      "slug": "realme-narzo-70-pro",
+      "colors": [
+        {
+          "id": 312,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 313,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 321,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 322,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 248,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 249,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo 80",
+      "name": "Narzo 80",
+      "slug": "realme-narzo-80",
+      "colors": [
+        {
+          "id": 314,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 315,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 323,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 324,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 250,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 251,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo N53",
+      "name": "Narzo N53",
+      "slug": "realme-narzo-n53",
+      "colors": [
+        {
+          "id": 316,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 317,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 325,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 326,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 252,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 253,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Narzo N55",
+      "name": "Narzo N55",
+      "slug": "realme-narzo-n55",
+      "colors": [
+        {
+          "id": 318,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 319,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 327,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 328,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 254,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 255,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pad",
+      "name": "Pad",
+      "slug": "realme-pad",
+      "colors": [
+        {
+          "id": 320,
+          "hex_code": "#8A8D91",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        },
+        {
+          "id": 321,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 329,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 330,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 331,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 256,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 257,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 258,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pad 2",
+      "name": "Pad 2",
+      "slug": "realme-pad-2",
+      "colors": [
+        {
+          "id": 322,
+          "hex_code": "#8A8D91",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        },
+        {
+          "id": 323,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 332,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 333,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 334,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 259,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 260,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 261,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pad Mini",
+      "name": "Pad Mini",
+      "slug": "realme-pad-mini",
+      "colors": [
+        {
+          "id": 324,
+          "hex_code": "#8A8D91",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        },
+        {
+          "id": 325,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 335,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 336,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 337,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 262,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 263,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 264,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pad X",
+      "name": "Pad X",
+      "slug": "realme-pad-x",
+      "colors": [
+        {
+          "id": 326,
+          "hex_code": "#8A8D91",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        },
+        {
+          "id": 327,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 338,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 339,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 340,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 265,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 266,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 267,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Q",
+      "name": "Q",
+      "slug": "realme-q",
+      "colors": [
+        {
+          "id": 328,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 329,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 341,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 342,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 268,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 269,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Q3",
+      "name": "Q3",
+      "slug": "realme-q3",
+      "colors": [
+        {
+          "id": 330,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 331,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 343,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 344,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 270,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 271,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Q5",
+      "name": "Q5",
+      "slug": "realme-q5",
+      "colors": [
+        {
+          "id": 332,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 333,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 345,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 346,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 272,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 273,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "U1",
+      "name": "U1",
+      "slug": "realme-u1",
+      "colors": [
+        {
+          "id": 334,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 335,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 347,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 348,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 274,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 275,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "X",
+      "name": "X",
+      "slug": "realme-x",
+      "colors": [
+        {
+          "id": 336,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 337,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 349,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 350,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 351,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 276,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 277,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X2",
+      "name": "X2",
+      "slug": "realme-x2",
+      "colors": [
+        {
+          "id": 338,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 339,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 352,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 353,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 354,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 278,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 279,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X2 Pro",
+      "name": "X2 Pro",
+      "slug": "realme-x2-pro",
+      "colors": [
+        {
+          "id": 340,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 341,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 355,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 356,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 357,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 280,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 281,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X3",
+      "name": "X3",
+      "slug": "realme-x3",
+      "colors": [
+        {
+          "id": 342,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 343,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 358,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 359,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 360,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 282,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 283,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X50",
+      "name": "X50",
+      "slug": "realme-x50",
+      "colors": [
+        {
+          "id": 344,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 345,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 361,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 362,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 363,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 284,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 285,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X50 Pro",
+      "name": "X50 Pro",
+      "slug": "realme-x50-pro",
+      "colors": [
+        {
+          "id": 346,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 347,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 364,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 365,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 366,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 286,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 287,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X7",
+      "name": "X7",
+      "slug": "realme-x7",
+      "colors": [
+        {
+          "id": 348,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 349,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 367,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 368,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 369,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 288,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 289,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X7 Max",
+      "name": "X7 Max",
+      "slug": "realme-x7-max",
+      "colors": [
+        {
+          "id": 350,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 351,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 370,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 371,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 372,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 290,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 291,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X7 Pro",
+      "name": "X7 Pro",
+      "slug": "realme-x7-pro",
+      "colors": [
+        {
+          "id": 352,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 353,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 373,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 374,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 375,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 292,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 293,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X50m",
+      "name": "X50m",
+      "slug": "realme-x50m",
+      "colors": [
+        {
+          "id": 354,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 355,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 376,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 377,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 378,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 294,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 295,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    }
+  ]
+}

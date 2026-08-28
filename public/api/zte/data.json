@@ -1,0 +1,3111 @@
+{
+  "name": "ZTE",
+  "slug": "zte",
+  "models": [
+    {
+      "value": "Blade",
+      "name": "Blade",
+      "slug": "zte-blade",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 2,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 3,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 2,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 3,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade A3",
+      "name": "Blade A3",
+      "slug": "zte-blade-a3",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 5,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 6,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 4,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 5,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 6,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade A5",
+      "name": "Blade A5",
+      "slug": "zte-blade-a5",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 8,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 9,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 8,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 9,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade A7",
+      "name": "Blade A7",
+      "slug": "zte-blade-a7",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 10,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 11,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 12,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 10,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 11,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 12,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade A31",
+      "name": "Blade A31",
+      "slug": "zte-blade-a31",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 14,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 15,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 14,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 15,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Blade A51",
+      "name": "Blade A51",
+      "slug": "zte-blade-a51",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 16,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 17,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 16,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 17,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Blade A52",
+      "name": "Blade A52",
+      "slug": "zte-blade-a52",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 18,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 19,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 18,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 19,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Blade A71",
+      "name": "Blade A71",
+      "slug": "zte-blade-a71",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 16,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 20,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 21,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 20,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 21,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Blade A72",
+      "name": "Blade A72",
+      "slug": "zte-blade-a72",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 22,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 23,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 22,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 23,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Blade L3",
+      "name": "Blade L3",
+      "slug": "zte-blade-l3",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 24,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 25,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 26,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 24,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 25,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 26,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade L5",
+      "name": "Blade L5",
+      "slug": "zte-blade-l5",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 27,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 28,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 29,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 27,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 28,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 29,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade L7",
+      "name": "Blade L7",
+      "slug": "zte-blade-l7",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 24,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 30,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 31,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 32,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 30,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 31,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 32,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade L8",
+      "name": "Blade L8",
+      "slug": "zte-blade-l8",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 33,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 34,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 35,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 33,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 34,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 35,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade L9",
+      "name": "Blade L9",
+      "slug": "zte-blade-l9",
+      "colors": [
+        {
+          "id": 27,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 28,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 36,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 37,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 38,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 36,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 37,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 38,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade V6",
+      "name": "Blade V6",
+      "slug": "zte-blade-v6",
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 30,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 39,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 40,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 41,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 39,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 40,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 41,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade V7",
+      "name": "Blade V7",
+      "slug": "zte-blade-v7",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 42,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 43,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 44,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 42,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 43,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 44,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade V8",
+      "name": "Blade V8",
+      "slug": "zte-blade-v8",
+      "colors": [
+        {
+          "id": 33,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 34,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 45,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 46,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 47,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 45,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 46,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 47,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade V9",
+      "name": "Blade V9",
+      "slug": "zte-blade-v9",
+      "colors": [
+        {
+          "id": 35,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 36,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 48,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 49,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 50,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 48,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 49,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 50,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade V10",
+      "name": "Blade V10",
+      "slug": "zte-blade-v10",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 51,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 52,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 53,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 51,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 52,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 53,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade V30",
+      "name": "Blade V30",
+      "slug": "zte-blade-v30",
+      "colors": [
+        {
+          "id": 39,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 40,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 54,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 55,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 56,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 54,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 55,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 56,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Blade V40",
+      "name": "Blade V40",
+      "slug": "zte-blade-v40",
+      "colors": [
+        {
+          "id": 41,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 42,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 57,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 58,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 59,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 57,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 58,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 59,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Blade V50",
+      "name": "Blade V50",
+      "slug": "zte-blade-v50",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 60,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 61,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 60,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 61,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Blade V50 Design",
+      "name": "Blade V50 Design",
+      "slug": "zte-blade-v50-design",
+      "colors": [
+        {
+          "id": 45,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 46,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 62,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 63,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 62,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 63,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Blade V50 Vita",
+      "name": "Blade V50 Vita",
+      "slug": "zte-blade-v50-vita",
+      "colors": [
+        {
+          "id": 47,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 48,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 64,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 65,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 64,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 65,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Blade V60",
+      "name": "Blade V60",
+      "slug": "zte-blade-v60",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 66,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 67,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 66,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 67,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Blade X9",
+      "name": "Blade X9",
+      "slug": "zte-blade-x9",
+      "colors": [
+        {
+          "id": 51,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 52,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 68,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 69,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 70,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 68,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 69,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 70,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Blade Z Max",
+      "name": "Blade Z Max",
+      "slug": "zte-blade-z-max",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 71,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 72,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 73,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 71,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 72,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 73,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Axon 7",
+      "name": "Axon 7",
+      "slug": "zte-axon-7",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 74,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 75,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 74,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 75,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Axon 7 Mini",
+      "name": "Axon 7 Mini",
+      "slug": "zte-axon-7-mini",
+      "colors": [
+        {
+          "id": 57,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 58,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 76,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 77,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 76,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 77,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Axon 10 Pro",
+      "name": "Axon 10 Pro",
+      "slug": "zte-axon-10-pro",
+      "colors": [
+        {
+          "id": 59,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 60,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 78,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 79,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 78,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 79,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Axon 11",
+      "name": "Axon 11",
+      "slug": "zte-axon-11",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 80,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 81,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 80,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 81,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Axon 20",
+      "name": "Axon 20",
+      "slug": "zte-axon-20",
+      "colors": [
+        {
+          "id": 63,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 64,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 82,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 83,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 82,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 83,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 30",
+      "name": "Axon 30",
+      "slug": "zte-axon-30",
+      "colors": [
+        {
+          "id": 65,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 66,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 84,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 85,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 84,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 85,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 30 Pro",
+      "name": "Axon 30 Pro",
+      "slug": "zte-axon-30-pro",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 86,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 87,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 86,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 87,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 30 Ultra",
+      "name": "Axon 30 Ultra",
+      "slug": "zte-axon-30-ultra",
+      "colors": [
+        {
+          "id": 69,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 70,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 88,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 89,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 88,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 89,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 40",
+      "name": "Axon 40",
+      "slug": "zte-axon-40",
+      "colors": [
+        {
+          "id": 71,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 72,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 90,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 91,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 90,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 91,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 40 Pro",
+      "name": "Axon 40 Pro",
+      "slug": "zte-axon-40-pro",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 92,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 93,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 92,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 93,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 40 Ultra",
+      "name": "Axon 40 Ultra",
+      "slug": "zte-axon-40-ultra",
+      "colors": [
+        {
+          "id": 75,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 76,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 94,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 95,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 94,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 95,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 50",
+      "name": "Axon 50",
+      "slug": "zte-axon-50",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 96,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 97,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 96,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 97,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 50 Ultra",
+      "name": "Axon 50 Ultra",
+      "slug": "zte-axon-50-ultra",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 98,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 99,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 98,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 99,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 60",
+      "name": "Axon 60",
+      "slug": "zte-axon-60",
+      "colors": [
+        {
+          "id": 81,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 82,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 100,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 101,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 100,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 101,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Axon 60 Ultra",
+      "name": "Axon 60 Ultra",
+      "slug": "zte-axon-60-ultra",
+      "colors": [
+        {
+          "id": 83,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 84,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 102,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 103,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 102,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 103,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z17",
+      "name": "Nubia Z17",
+      "slug": "zte-nubia-z17",
+      "colors": [
+        {
+          "id": 85,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 86,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 104,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 105,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 106,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 104,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 105,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 106,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z18",
+      "name": "Nubia Z18",
+      "slug": "zte-nubia-z18",
+      "colors": [
+        {
+          "id": 87,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 88,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 107,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 108,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 109,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 107,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 108,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 109,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z20",
+      "name": "Nubia Z20",
+      "slug": "zte-nubia-z20",
+      "colors": [
+        {
+          "id": 89,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 90,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 110,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 111,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 112,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 110,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 111,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 112,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z30",
+      "name": "Nubia Z30",
+      "slug": "zte-nubia-z30",
+      "colors": [
+        {
+          "id": 91,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 92,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 113,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 114,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 115,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 113,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 114,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 115,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z40",
+      "name": "Nubia Z40",
+      "slug": "zte-nubia-z40",
+      "colors": [
+        {
+          "id": 93,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 94,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 116,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 117,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 118,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 116,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 117,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 118,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z40 Pro",
+      "name": "Nubia Z40 Pro",
+      "slug": "zte-nubia-z40-pro",
+      "colors": [
+        {
+          "id": 95,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 96,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 119,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 120,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 121,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 119,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 120,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 121,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z50",
+      "name": "Nubia Z50",
+      "slug": "zte-nubia-z50",
+      "colors": [
+        {
+          "id": 97,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 98,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 122,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 123,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 124,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 122,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 123,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 124,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z50 Ultra",
+      "name": "Nubia Z50 Ultra",
+      "slug": "zte-nubia-z50-ultra",
+      "colors": [
+        {
+          "id": 99,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 100,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 125,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 126,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 127,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 125,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 126,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 127,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z60",
+      "name": "Nubia Z60",
+      "slug": "zte-nubia-z60",
+      "colors": [
+        {
+          "id": 101,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 102,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 128,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 129,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 130,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 128,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 129,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 130,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z60 Ultra",
+      "name": "Nubia Z60 Ultra",
+      "slug": "zte-nubia-z60-ultra",
+      "colors": [
+        {
+          "id": 103,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 104,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 131,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 132,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 133,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 131,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 132,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 133,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z70",
+      "name": "Nubia Z70",
+      "slug": "zte-nubia-z70",
+      "colors": [
+        {
+          "id": 105,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 106,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 134,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 135,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 136,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 134,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 135,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 136,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Z70 Ultra",
+      "name": "Nubia Z70 Ultra",
+      "slug": "zte-nubia-z70-ultra",
+      "colors": [
+        {
+          "id": 107,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 108,
+          "hex_code": "#B92B27",
+          "name_en": "Red",
+          "name_ru": "Красный",
+          "name_kg": "Кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 137,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 138,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 139,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 137,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 138,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 139,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Red Magic 6",
+      "name": "Nubia Red Magic 6",
+      "slug": "zte-nubia-red-magic-6",
+      "colors": [
+        {
+          "id": 109,
+          "hex_code": "#0B0B0C",
+          "name_en": "Cyber Black",
+          "name_ru": "Кибер чёрный",
+          "name_kg": "Кибер кара"
+        },
+        {
+          "id": 110,
+          "hex_code": "#B92B27",
+          "name_en": "Neon Red",
+          "name_ru": "Неоновый красный",
+          "name_kg": "Неон кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 140,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 141,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 142,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 140,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 141,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 142,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Red Magic 7",
+      "name": "Nubia Red Magic 7",
+      "slug": "zte-nubia-red-magic-7",
+      "colors": [
+        {
+          "id": 111,
+          "hex_code": "#0B0B0C",
+          "name_en": "Cyber Black",
+          "name_ru": "Кибер чёрный",
+          "name_kg": "Кибер кара"
+        },
+        {
+          "id": 112,
+          "hex_code": "#B92B27",
+          "name_en": "Neon Red",
+          "name_ru": "Неоновый красный",
+          "name_kg": "Неон кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 143,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 144,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 145,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 143,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 144,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 145,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Red Magic 8",
+      "name": "Nubia Red Magic 8",
+      "slug": "zte-nubia-red-magic-8",
+      "colors": [
+        {
+          "id": 113,
+          "hex_code": "#0B0B0C",
+          "name_en": "Cyber Black",
+          "name_ru": "Кибер чёрный",
+          "name_kg": "Кибер кара"
+        },
+        {
+          "id": 114,
+          "hex_code": "#B92B27",
+          "name_en": "Neon Red",
+          "name_ru": "Неоновый красный",
+          "name_kg": "Неон кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 146,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 147,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 148,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 146,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 147,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 148,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Red Magic 9",
+      "name": "Nubia Red Magic 9",
+      "slug": "zte-nubia-red-magic-9",
+      "colors": [
+        {
+          "id": 115,
+          "hex_code": "#0B0B0C",
+          "name_en": "Cyber Black",
+          "name_ru": "Кибер чёрный",
+          "name_kg": "Кибер кара"
+        },
+        {
+          "id": 116,
+          "hex_code": "#B92B27",
+          "name_en": "Neon Red",
+          "name_ru": "Неоновый красный",
+          "name_kg": "Неон кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 149,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 150,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 151,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 149,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 150,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 151,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Nubia Red Magic 10",
+      "name": "Nubia Red Magic 10",
+      "slug": "zte-nubia-red-magic-10",
+      "colors": [
+        {
+          "id": 117,
+          "hex_code": "#0B0B0C",
+          "name_en": "Cyber Black",
+          "name_ru": "Кибер чёрный",
+          "name_kg": "Кибер кара"
+        },
+        {
+          "id": 118,
+          "hex_code": "#B92B27",
+          "name_en": "Neon Red",
+          "name_ru": "Неоновый красный",
+          "name_kg": "Неон кызыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 152,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 153,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 154,
+          "name": "18GB",
+          "size_gb": 18
+        }
+      ],
+      "memories": [
+        {
+          "id": 152,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 153,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 154,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Voyage 20",
+      "name": "Voyage 20",
+      "slug": "zte-voyage-20",
+      "colors": [
+        {
+          "id": 119,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 120,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 155,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 156,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 155,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 156,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Voyage 30",
+      "name": "Voyage 30",
+      "slug": "zte-voyage-30",
+      "colors": [
+        {
+          "id": 121,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 122,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 157,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 158,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 157,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 158,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    }
+  ]
+}

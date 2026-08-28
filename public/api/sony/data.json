@@ -1,0 +1,4687 @@
+{
+  "name": "Sony",
+  "slug": "sony",
+  "models": [
+    {
+      "value": "Ericsson P800",
+      "name": "Ericsson P800",
+      "slug": "sony-ericsson-p800",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson P900",
+      "name": "Ericsson P900",
+      "slug": "sony-ericsson-p900",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson P910",
+      "name": "Ericsson P910",
+      "slug": "sony-ericsson-p910",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson W800",
+      "name": "Ericsson W800",
+      "slug": "sony-ericsson-w800",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson W810",
+      "name": "Ericsson W810",
+      "slug": "sony-ericsson-w810",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson W850",
+      "name": "Ericsson W850",
+      "slug": "sony-ericsson-w850",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson W900",
+      "name": "Ericsson W900",
+      "slug": "sony-ericsson-w900",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson W950",
+      "name": "Ericsson W950",
+      "slug": "sony-ericsson-w950",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 16,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson W960",
+      "name": "Ericsson W960",
+      "slug": "sony-ericsson-w960",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson K750",
+      "name": "Ericsson K750",
+      "slug": "sony-ericsson-k750",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson K800",
+      "name": "Ericsson K800",
+      "slug": "sony-ericsson-k800",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson K850",
+      "name": "Ericsson K850",
+      "slug": "sony-ericsson-k850",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 24,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson C902",
+      "name": "Ericsson C902",
+      "slug": "sony-ericsson-c902",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson C905",
+      "name": "Ericsson C905",
+      "slug": "sony-ericsson-c905",
+      "colors": [
+        {
+          "id": 27,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 28,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Satio",
+      "name": "Ericsson Satio",
+      "slug": "sony-ericsson-satio",
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 30,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Vivaz",
+      "name": "Ericsson Vivaz",
+      "slug": "sony-ericsson-vivaz",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Xperia X1",
+      "name": "Ericsson Xperia X1",
+      "slug": "sony-ericsson-xperia-x1",
+      "colors": [
+        {
+          "id": 33,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 34,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Xperia X10",
+      "name": "Ericsson Xperia X10",
+      "slug": "sony-ericsson-xperia-x10",
+      "colors": [
+        {
+          "id": 35,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 36,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Xperia X10 Mini",
+      "name": "Ericsson Xperia X10 Mini",
+      "slug": "sony-ericsson-xperia-x10-mini",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Xperia X8",
+      "name": "Ericsson Xperia X8",
+      "slug": "sony-ericsson-xperia-x8",
+      "colors": [
+        {
+          "id": 39,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 40,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Xperia Arc",
+      "name": "Ericsson Xperia Arc",
+      "slug": "sony-ericsson-xperia-arc",
+      "colors": [
+        {
+          "id": 41,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 42,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Xperia Play",
+      "name": "Ericsson Xperia Play",
+      "slug": "sony-ericsson-xperia-play",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Xperia Neo",
+      "name": "Ericsson Xperia Neo",
+      "slug": "sony-ericsson-xperia-neo",
+      "colors": [
+        {
+          "id": 45,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 46,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ericsson Xperia Ray",
+      "name": "Ericsson Xperia Ray",
+      "slug": "sony-ericsson-xperia-ray",
+      "colors": [
+        {
+          "id": 47,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 48,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xperia Acro S",
+      "name": "Xperia Acro S",
+      "slug": "sony-xperia-acro-s",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 2,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 2,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia C",
+      "name": "Xperia C",
+      "slug": "sony-xperia-c",
+      "colors": [
+        {
+          "id": 51,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 52,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 3,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 4,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 3,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 4,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia C3",
+      "name": "Xperia C3",
+      "slug": "sony-xperia-c3",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 5,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 6,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 5,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 6,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia C4",
+      "name": "Xperia C4",
+      "slug": "sony-xperia-c4",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 8,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 8,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia C5 Ultra",
+      "name": "Xperia C5 Ultra",
+      "slug": "sony-xperia-c5-ultra",
+      "colors": [
+        {
+          "id": 57,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 58,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 9,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 10,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 9,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 10,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia E1",
+      "name": "Xperia E1",
+      "slug": "sony-xperia-e1",
+      "colors": [
+        {
+          "id": 59,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 60,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 11,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 12,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 11,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 12,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia E3",
+      "name": "Xperia E3",
+      "slug": "sony-xperia-e3",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 14,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 14,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia E4",
+      "name": "Xperia E4",
+      "slug": "sony-xperia-e4",
+      "colors": [
+        {
+          "id": 63,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 64,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 15,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 16,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 15,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 16,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia E5",
+      "name": "Xperia E5",
+      "slug": "sony-xperia-e5",
+      "colors": [
+        {
+          "id": 65,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 66,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 17,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 18,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 17,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 18,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia Ion",
+      "name": "Xperia Ion",
+      "slug": "sony-xperia-ion",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 20,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 20,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia J",
+      "name": "Xperia J",
+      "slug": "sony-xperia-j",
+      "colors": [
+        {
+          "id": 69,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 70,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 21,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 22,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 21,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 22,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia L",
+      "name": "Xperia L",
+      "slug": "sony-xperia-l",
+      "colors": [
+        {
+          "id": 71,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 72,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 23,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 24,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 23,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 24,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia L1",
+      "name": "Xperia L1",
+      "slug": "sony-xperia-l1",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 26,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 26,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia L2",
+      "name": "Xperia L2",
+      "slug": "sony-xperia-l2",
+      "colors": [
+        {
+          "id": 75,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 76,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 27,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 28,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 27,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 28,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia L3",
+      "name": "Xperia L3",
+      "slug": "sony-xperia-l3",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 29,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 30,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 29,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 30,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia L4",
+      "name": "Xperia L4",
+      "slug": "sony-xperia-l4",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 32,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 32,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia M",
+      "name": "Xperia M",
+      "slug": "sony-xperia-m",
+      "colors": [
+        {
+          "id": 81,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 82,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 33,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 34,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 33,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 34,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia M2",
+      "name": "Xperia M2",
+      "slug": "sony-xperia-m2",
+      "colors": [
+        {
+          "id": 83,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 84,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 35,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 36,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 35,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 36,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia M4 Aqua",
+      "name": "Xperia M4 Aqua",
+      "slug": "sony-xperia-m4-aqua",
+      "colors": [
+        {
+          "id": 85,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 86,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 38,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 38,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia M5",
+      "name": "Xperia M5",
+      "slug": "sony-xperia-m5",
+      "colors": [
+        {
+          "id": 87,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 88,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 39,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 40,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 39,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 40,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia Miro",
+      "name": "Xperia Miro",
+      "slug": "sony-xperia-miro",
+      "colors": [
+        {
+          "id": 89,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 90,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 41,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 42,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 41,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 42,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia Neo L",
+      "name": "Xperia Neo L",
+      "slug": "sony-xperia-neo-l",
+      "colors": [
+        {
+          "id": 91,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 92,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 44,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 44,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia P",
+      "name": "Xperia P",
+      "slug": "sony-xperia-p",
+      "colors": [
+        {
+          "id": 93,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 94,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 45,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 46,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 45,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 46,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia S",
+      "name": "Xperia S",
+      "slug": "sony-xperia-s",
+      "colors": [
+        {
+          "id": 95,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 96,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 47,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 48,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 47,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 48,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia Sola",
+      "name": "Xperia Sola",
+      "slug": "sony-xperia-sola",
+      "colors": [
+        {
+          "id": 97,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 98,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 49,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 50,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 50,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia SP",
+      "name": "Xperia SP",
+      "slug": "sony-xperia-sp",
+      "colors": [
+        {
+          "id": 99,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 100,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 51,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 52,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 51,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 52,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia T",
+      "name": "Xperia T",
+      "slug": "sony-xperia-t",
+      "colors": [
+        {
+          "id": 101,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 102,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 53,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 54,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 53,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 54,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia T2 Ultra",
+      "name": "Xperia T2 Ultra",
+      "slug": "sony-xperia-t2-ultra",
+      "colors": [
+        {
+          "id": 103,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 104,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 55,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 56,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 56,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia T3",
+      "name": "Xperia T3",
+      "slug": "sony-xperia-t3",
+      "colors": [
+        {
+          "id": 105,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 106,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 57,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 58,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 57,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 58,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia Tipo",
+      "name": "Xperia Tipo",
+      "slug": "sony-xperia-tipo",
+      "colors": [
+        {
+          "id": 107,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 108,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 59,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 60,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 59,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 60,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia TX",
+      "name": "Xperia TX",
+      "slug": "sony-xperia-tx",
+      "colors": [
+        {
+          "id": 109,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 110,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 61,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 62,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 62,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia U",
+      "name": "Xperia U",
+      "slug": "sony-xperia-u",
+      "colors": [
+        {
+          "id": 111,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 112,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 63,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 64,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 63,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 64,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia V",
+      "name": "Xperia V",
+      "slug": "sony-xperia-v",
+      "colors": [
+        {
+          "id": 113,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 114,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 65,
+          "name": "512MB",
+          "size_gb": 0.5
+        },
+        {
+          "id": 66,
+          "name": "1GB",
+          "size_gb": 1
+        }
+      ],
+      "memories": [
+        {
+          "id": 65,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 66,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z",
+      "name": "Xperia Z",
+      "slug": "sony-xperia-z",
+      "colors": [
+        {
+          "id": 115,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 116,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 117,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 67,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 68,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 68,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z1",
+      "name": "Xperia Z1",
+      "slug": "sony-xperia-z1",
+      "colors": [
+        {
+          "id": 118,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 119,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 120,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 69,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 70,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 69,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 70,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z1 Compact",
+      "name": "Xperia Z1 Compact",
+      "slug": "sony-xperia-z1-compact",
+      "colors": [
+        {
+          "id": 121,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 122,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 123,
+          "hex_code": "#E8927C",
+          "name_en": "Coral",
+          "name_ru": "Коралловый",
+          "name_kg": "Коралл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 71,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 72,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 71,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 72,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z2",
+      "name": "Xperia Z2",
+      "slug": "sony-xperia-z2",
+      "colors": [
+        {
+          "id": 124,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 125,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 126,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 73,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 74,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 74,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z3",
+      "name": "Xperia Z3",
+      "slug": "sony-xperia-z3",
+      "colors": [
+        {
+          "id": 127,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 128,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 129,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 75,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 76,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 75,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 76,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z3 Compact",
+      "name": "Xperia Z3 Compact",
+      "slug": "sony-xperia-z3-compact",
+      "colors": [
+        {
+          "id": 130,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 131,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 132,
+          "hex_code": "#E8927C",
+          "name_en": "Coral",
+          "name_ru": "Коралловый",
+          "name_kg": "Коралл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 77,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 78,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 77,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 78,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z3+",
+      "name": "Xperia Z3+",
+      "slug": "sony-xperia-z3+",
+      "colors": [
+        {
+          "id": 133,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 134,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 135,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 79,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 80,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 79,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 80,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z5",
+      "name": "Xperia Z5",
+      "slug": "sony-xperia-z5",
+      "colors": [
+        {
+          "id": 136,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 137,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 138,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 81,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 82,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 81,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 82,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z5 Compact",
+      "name": "Xperia Z5 Compact",
+      "slug": "sony-xperia-z5-compact",
+      "colors": [
+        {
+          "id": 139,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 140,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 141,
+          "hex_code": "#E8927C",
+          "name_en": "Coral",
+          "name_ru": "Коралловый",
+          "name_kg": "Коралл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 83,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 84,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 83,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 84,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia Z5 Premium",
+      "name": "Xperia Z5 Premium",
+      "slug": "sony-xperia-z5-premium",
+      "colors": [
+        {
+          "id": 142,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 143,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 144,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 86,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 85,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 86,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "value": "Xperia X",
+      "name": "Xperia X",
+      "slug": "sony-xperia-x",
+      "colors": [
+        {
+          "id": 145,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 146,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 147,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 87,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 88,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 87,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 88,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia X Compact",
+      "name": "Xperia X Compact",
+      "slug": "sony-xperia-x-compact",
+      "colors": [
+        {
+          "id": 148,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 149,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 150,
+          "hex_code": "#E8927C",
+          "name_en": "Coral",
+          "name_ru": "Коралловый",
+          "name_kg": "Коралл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 89,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 90,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 89,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 90,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia X Performance",
+      "name": "Xperia X Performance",
+      "slug": "sony-xperia-x-performance",
+      "colors": [
+        {
+          "id": 151,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 152,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 153,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 92,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 91,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 92,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XA",
+      "name": "Xperia XA",
+      "slug": "sony-xperia-xa",
+      "colors": [
+        {
+          "id": 154,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 155,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 93,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 94,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 95,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 93,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 94,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 95,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XA1",
+      "name": "Xperia XA1",
+      "slug": "sony-xperia-xa1",
+      "colors": [
+        {
+          "id": 156,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 157,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 96,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 97,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 98,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 96,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 97,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 98,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XA1 Plus",
+      "name": "Xperia XA1 Plus",
+      "slug": "sony-xperia-xa1-plus",
+      "colors": [
+        {
+          "id": 158,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 159,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 99,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 100,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 101,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 99,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 100,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 101,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XA1 Ultra",
+      "name": "Xperia XA1 Ultra",
+      "slug": "sony-xperia-xa1-ultra",
+      "colors": [
+        {
+          "id": 160,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 161,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 102,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 103,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 104,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 102,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 103,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 104,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XA2",
+      "name": "Xperia XA2",
+      "slug": "sony-xperia-xa2",
+      "colors": [
+        {
+          "id": 162,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 163,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 105,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 106,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 107,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 105,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 106,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 107,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XA2 Plus",
+      "name": "Xperia XA2 Plus",
+      "slug": "sony-xperia-xa2-plus",
+      "colors": [
+        {
+          "id": 164,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 165,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 108,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 109,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 110,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 108,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 109,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 110,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XA2 Ultra",
+      "name": "Xperia XA2 Ultra",
+      "slug": "sony-xperia-xa2-ultra",
+      "colors": [
+        {
+          "id": 166,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 167,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 111,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 112,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 113,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 111,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 112,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 113,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XZ",
+      "name": "Xperia XZ",
+      "slug": "sony-xperia-xz",
+      "colors": [
+        {
+          "id": 168,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 169,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 170,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 114,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 115,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 114,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 115,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XZ1",
+      "name": "Xperia XZ1",
+      "slug": "sony-xperia-xz1",
+      "colors": [
+        {
+          "id": 171,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 172,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 173,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 116,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 117,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 116,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 117,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XZ1 Compact",
+      "name": "Xperia XZ1 Compact",
+      "slug": "sony-xperia-xz1-compact",
+      "colors": [
+        {
+          "id": 174,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 175,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 176,
+          "hex_code": "#E8927C",
+          "name_en": "Coral",
+          "name_ru": "Коралловый",
+          "name_kg": "Коралл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 118,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 119,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 118,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 119,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XZ2",
+      "name": "Xperia XZ2",
+      "slug": "sony-xperia-xz2",
+      "colors": [
+        {
+          "id": 177,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 178,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 179,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 120,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 121,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 120,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 121,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XZ2 Compact",
+      "name": "Xperia XZ2 Compact",
+      "slug": "sony-xperia-xz2-compact",
+      "colors": [
+        {
+          "id": 180,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 181,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 182,
+          "hex_code": "#E8927C",
+          "name_en": "Coral",
+          "name_ru": "Коралловый",
+          "name_kg": "Коралл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 122,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 123,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 122,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 123,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XZ2 Premium",
+      "name": "Xperia XZ2 Premium",
+      "slug": "sony-xperia-xz2-premium",
+      "colors": [
+        {
+          "id": 183,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 184,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 185,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 124,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 125,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 124,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 125,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XZ3",
+      "name": "Xperia XZ3",
+      "slug": "sony-xperia-xz3",
+      "colors": [
+        {
+          "id": 186,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 187,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 188,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 126,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 127,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 126,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 127,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XZ Premium",
+      "name": "Xperia XZ Premium",
+      "slug": "sony-xperia-xz-premium",
+      "colors": [
+        {
+          "id": 189,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 190,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 191,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 128,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 129,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 128,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 129,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia XZs",
+      "name": "Xperia XZs",
+      "slug": "sony-xperia-xzs",
+      "colors": [
+        {
+          "id": 192,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 193,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 194,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 130,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 131,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 130,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 131,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia 1",
+      "name": "Xperia 1",
+      "slug": "sony-xperia-1",
+      "colors": [
+        {
+          "id": 195,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 196,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 197,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 198,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 132,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 133,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 132,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 133,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 134,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Xperia 1 II",
+      "name": "Xperia 1 II",
+      "slug": "sony-xperia-1-ii",
+      "colors": [
+        {
+          "id": 199,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 200,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 201,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 202,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 134,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 135,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 135,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 136,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 137,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Xperia 1 III",
+      "name": "Xperia 1 III",
+      "slug": "sony-xperia-1-iii",
+      "colors": [
+        {
+          "id": 203,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 204,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 205,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 206,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 136,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 137,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 138,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 139,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 140,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Xperia 1 IV",
+      "name": "Xperia 1 IV",
+      "slug": "sony-xperia-1-iv",
+      "colors": [
+        {
+          "id": 207,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 208,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 209,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 210,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 138,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 139,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 141,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 142,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 143,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Xperia 1 V",
+      "name": "Xperia 1 V",
+      "slug": "sony-xperia-1-v",
+      "colors": [
+        {
+          "id": 211,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 212,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 213,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 214,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 140,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 141,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 144,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 145,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 146,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Xperia 1 VI",
+      "name": "Xperia 1 VI",
+      "slug": "sony-xperia-1-vi",
+      "colors": [
+        {
+          "id": 215,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 216,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 217,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 218,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 142,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 143,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 147,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 148,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 149,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Xperia 5",
+      "name": "Xperia 5",
+      "slug": "sony-xperia-5",
+      "colors": [
+        {
+          "id": 219,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 220,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 221,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 222,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 144,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 150,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 151,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Xperia 5 II",
+      "name": "Xperia 5 II",
+      "slug": "sony-xperia-5-ii",
+      "colors": [
+        {
+          "id": 223,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 224,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 225,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 226,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 145,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 152,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 153,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Xperia 5 III",
+      "name": "Xperia 5 III",
+      "slug": "sony-xperia-5-iii",
+      "colors": [
+        {
+          "id": 227,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 228,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 229,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 230,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 146,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 154,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 155,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Xperia 5 IV",
+      "name": "Xperia 5 IV",
+      "slug": "sony-xperia-5-iv",
+      "colors": [
+        {
+          "id": 231,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 232,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 233,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 234,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 147,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 156,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 157,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Xperia 5 V",
+      "name": "Xperia 5 V",
+      "slug": "sony-xperia-5-v",
+      "colors": [
+        {
+          "id": 235,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 236,
+          "hex_code": "#F5F1E8",
+          "name_en": "Frosted White",
+          "name_ru": "Морозный белый",
+          "name_kg": "Аяз ак"
+        },
+        {
+          "id": 237,
+          "hex_code": "#8A8D91",
+          "name_en": "Frosted Gray",
+          "name_ru": "Морозный серый",
+          "name_kg": "Аяз боз"
+        },
+        {
+          "id": 238,
+          "hex_code": "#3E5C76",
+          "name_en": "Twilight Blue",
+          "name_ru": "Сумеречный синий",
+          "name_kg": "Иңир көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 148,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 158,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 159,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Xperia 10",
+      "name": "Xperia 10",
+      "slug": "sony-xperia-10",
+      "colors": [
+        {
+          "id": 239,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 240,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 149,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 150,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 160,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 161,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Xperia 10 II",
+      "name": "Xperia 10 II",
+      "slug": "sony-xperia-10-ii",
+      "colors": [
+        {
+          "id": 241,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 242,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 151,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 152,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 162,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 163,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Xperia 10 III",
+      "name": "Xperia 10 III",
+      "slug": "sony-xperia-10-iii",
+      "colors": [
+        {
+          "id": 243,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 244,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 153,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 154,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 164,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 165,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Xperia 10 IV",
+      "name": "Xperia 10 IV",
+      "slug": "sony-xperia-10-iv",
+      "colors": [
+        {
+          "id": 245,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 246,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 155,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 156,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 166,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 167,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Xperia 10 V",
+      "name": "Xperia 10 V",
+      "slug": "sony-xperia-10-v",
+      "colors": [
+        {
+          "id": 247,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 248,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 157,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 158,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 168,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 169,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Xperia 10 VI",
+      "name": "Xperia 10 VI",
+      "slug": "sony-xperia-10-vi",
+      "colors": [
+        {
+          "id": 249,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 250,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 159,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 160,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 170,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 171,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Xperia Ace",
+      "name": "Xperia Ace",
+      "slug": "sony-xperia-ace",
+      "colors": [
+        {
+          "id": 251,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 252,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 161,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 162,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 172,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 173,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia Ace II",
+      "name": "Xperia Ace II",
+      "slug": "sony-xperia-ace-ii",
+      "colors": [
+        {
+          "id": 253,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 254,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 163,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 164,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 174,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 175,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia Ace III",
+      "name": "Xperia Ace III",
+      "slug": "sony-xperia-ace-iii",
+      "colors": [
+        {
+          "id": 255,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 256,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 165,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 166,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 176,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 177,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Xperia Pro",
+      "name": "Xperia Pro",
+      "slug": "sony-xperia-pro",
+      "colors": [
+        {
+          "id": 257,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        }
+      ],
+      "rams": [
+        {
+          "id": 167,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 178,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Xperia Pro-I",
+      "name": "Xperia Pro-I",
+      "slug": "sony-xperia-pro-i",
+      "colors": [
+        {
+          "id": 258,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        }
+      ],
+      "rams": [
+        {
+          "id": 168,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 179,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    }
+  ]
+}

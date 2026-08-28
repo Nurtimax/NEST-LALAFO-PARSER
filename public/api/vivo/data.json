@@ -1,0 +1,5751 @@
+{
+  "name": "vivo",
+  "slug": "vivo",
+  "models": [
+    {
+      "value": "Xshot",
+      "name": "Xshot",
+      "slug": "vivo-xshot",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 2,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 3,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 2,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X1",
+      "name": "X1",
+      "slug": "vivo-x1",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 5,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 6,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 3,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 4,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X1S",
+      "name": "X1S",
+      "slug": "vivo-x1s",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 8,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 9,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 5,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 6,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X2",
+      "name": "X2",
+      "slug": "vivo-x2",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 10,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 11,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 12,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 8,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X23 Symphony Edition",
+      "name": "X23 Symphony Edition",
+      "slug": "vivo-x23-symphony-edition",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 14,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 15,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 9,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 10,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X27 Pro",
+      "name": "X27 Pro",
+      "slug": "vivo-x27-pro",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 16,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 17,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 18,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 11,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 12,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X50e",
+      "name": "X50e",
+      "slug": "vivo-x50e",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 20,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 21,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 14,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X60s",
+      "name": "X60s",
+      "slug": "vivo-x60s",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 16,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 22,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 23,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 24,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 15,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 16,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X70t",
+      "name": "X70t",
+      "slug": "vivo-x70t",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 26,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 27,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 17,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 18,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X80s",
+      "name": "X80s",
+      "slug": "vivo-x80s",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 28,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 29,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 30,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 20,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X80 Lite",
+      "name": "X80 Lite",
+      "slug": "vivo-x80-lite",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 32,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 33,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 21,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 22,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "X90 GT",
+      "name": "X90 GT",
+      "slug": "vivo-x90-gt",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 24,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 34,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 35,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 36,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 23,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 24,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y11s",
+      "name": "Y11s",
+      "slug": "vivo-y11s",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 27,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 38,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 39,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 26,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 27,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y12s",
+      "name": "Y12s",
+      "slug": "vivo-y12s",
+      "colors": [
+        {
+          "id": 28,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 29,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 30,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 40,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 41,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 42,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 28,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 29,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 30,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y12i",
+      "name": "Y12i",
+      "slug": "vivo-y12i",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 33,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 44,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 45,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 32,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 33,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y15s",
+      "name": "Y15s",
+      "slug": "vivo-y15s",
+      "colors": [
+        {
+          "id": 34,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 35,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 36,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 46,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 47,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 48,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 34,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 35,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 36,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y16",
+      "name": "Y16",
+      "slug": "vivo-y16",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 39,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 49,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 50,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 51,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 38,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 39,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y18",
+      "name": "Y18",
+      "slug": "vivo-y18",
+      "colors": [
+        {
+          "id": 40,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 41,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 42,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 52,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 53,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 54,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 40,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 41,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 42,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y18s",
+      "name": "Y18s",
+      "slug": "vivo-y18s",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 45,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 55,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 56,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 57,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 44,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 45,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y18i",
+      "name": "Y18i",
+      "slug": "vivo-y18i",
+      "colors": [
+        {
+          "id": 46,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 47,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 48,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 58,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 59,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 60,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 46,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 47,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 48,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y20",
+      "name": "Y20",
+      "slug": "vivo-y20-2020",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 51,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 61,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 62,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 63,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 50,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 51,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y20i",
+      "name": "Y20i",
+      "slug": "vivo-y20i",
+      "colors": [
+        {
+          "id": 52,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 53,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 54,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 64,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 65,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 66,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 52,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 53,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 54,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y20s",
+      "name": "Y20s",
+      "slug": "vivo-y20s",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 57,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 67,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 68,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 69,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 56,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 57,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y30 5G",
+      "name": "Y30 5G",
+      "slug": "vivo-y30-5g",
+      "colors": [
+        {
+          "id": 58,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 59,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 60,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 70,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 71,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 72,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 58,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 59,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 60,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y31s",
+      "name": "Y31s",
+      "slug": "vivo-y31s",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 63,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 73,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 74,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 75,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 62,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 63,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y33T",
+      "name": "Y33T",
+      "slug": "vivo-y33t",
+      "colors": [
+        {
+          "id": 64,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 65,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 66,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 76,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 77,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 78,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 64,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 65,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 66,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y35m",
+      "name": "Y35m",
+      "slug": "vivo-y35m",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 69,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 79,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 80,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 81,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 68,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 69,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y36i",
+      "name": "Y36i",
+      "slug": "vivo-y36i",
+      "colors": [
+        {
+          "id": 70,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 71,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 72,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 82,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 83,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 84,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 70,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 71,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 72,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y37",
+      "name": "Y37",
+      "slug": "vivo-y37",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 75,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 86,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 87,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 74,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 75,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y38",
+      "name": "Y38",
+      "slug": "vivo-y38",
+      "colors": [
+        {
+          "id": 76,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 77,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 78,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 88,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 89,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 90,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 76,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 77,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 78,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y39",
+      "name": "Y39",
+      "slug": "vivo-y39",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 81,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 92,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 93,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 79,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 80,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 81,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y40",
+      "name": "Y40",
+      "slug": "vivo-y40",
+      "colors": [
+        {
+          "id": 82,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 83,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 84,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 94,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 95,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 96,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 82,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 83,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 84,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Y41",
+      "name": "Y41",
+      "slug": "vivo-y41",
+      "colors": [
+        {
+          "id": 85,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 86,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 87,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 97,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 98,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 99,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 85,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 86,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y42",
+      "name": "Y42",
+      "slug": "vivo-y42",
+      "colors": [
+        {
+          "id": 88,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 89,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 90,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 100,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 101,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 102,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 87,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 88,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y42s",
+      "name": "Y42s",
+      "slug": "vivo-y42s",
+      "colors": [
+        {
+          "id": 91,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 92,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 93,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 103,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 104,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 105,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 89,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 90,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y43s",
+      "name": "Y43s",
+      "slug": "vivo-y43s",
+      "colors": [
+        {
+          "id": 94,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 95,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 96,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 106,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 107,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 108,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 91,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 92,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y46",
+      "name": "Y46",
+      "slug": "vivo-y46",
+      "colors": [
+        {
+          "id": 97,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 98,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 99,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 109,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 110,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 111,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 93,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 94,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y47",
+      "name": "Y47",
+      "slug": "vivo-y47",
+      "colors": [
+        {
+          "id": 100,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 101,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 102,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 112,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 113,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 114,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 95,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 96,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y48",
+      "name": "Y48",
+      "slug": "vivo-y48",
+      "colors": [
+        {
+          "id": 103,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 104,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 105,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 115,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 116,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 117,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 97,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 98,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y49",
+      "name": "Y49",
+      "slug": "vivo-y49",
+      "colors": [
+        {
+          "id": 106,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 107,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 108,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 118,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 119,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 120,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 99,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 100,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y52",
+      "name": "Y52",
+      "slug": "vivo-y52",
+      "colors": [
+        {
+          "id": 109,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 110,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 111,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 121,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 122,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 123,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 101,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 102,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y52s",
+      "name": "Y52s",
+      "slug": "vivo-y52s",
+      "colors": [
+        {
+          "id": 112,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 113,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 114,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 124,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 125,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 126,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 103,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 104,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y54",
+      "name": "Y54",
+      "slug": "vivo-y54",
+      "colors": [
+        {
+          "id": 115,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 116,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 117,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 127,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 128,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 129,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 105,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 106,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y57",
+      "name": "Y57",
+      "slug": "vivo-y57",
+      "colors": [
+        {
+          "id": 118,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 119,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 120,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 130,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 131,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 132,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 107,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 108,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y58",
+      "name": "Y58",
+      "slug": "vivo-y58",
+      "colors": [
+        {
+          "id": 121,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 122,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 123,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 133,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 134,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 135,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 109,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 110,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y59",
+      "name": "Y59",
+      "slug": "vivo-y59",
+      "colors": [
+        {
+          "id": 124,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 125,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 126,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 136,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 137,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 138,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 111,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 112,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y65",
+      "name": "Y65",
+      "slug": "vivo-y65",
+      "colors": [
+        {
+          "id": 127,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 128,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 129,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 139,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 140,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 141,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 113,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 114,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y67",
+      "name": "Y67",
+      "slug": "vivo-y67",
+      "colors": [
+        {
+          "id": 130,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 131,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 132,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 142,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 143,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 144,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 115,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 116,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y68",
+      "name": "Y68",
+      "slug": "vivo-y68",
+      "colors": [
+        {
+          "id": 133,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 134,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 135,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 145,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 146,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 147,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 117,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 118,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y70s",
+      "name": "Y70s",
+      "slug": "vivo-y70s",
+      "colors": [
+        {
+          "id": 136,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 137,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 138,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 148,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 149,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 150,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 119,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 120,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Y72",
+      "name": "Y72",
+      "slug": "vivo-y72",
+      "colors": [
+        {
+          "id": 139,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 140,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 141,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 151,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 152,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 121,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 122,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y73",
+      "name": "Y73",
+      "slug": "vivo-y73",
+      "colors": [
+        {
+          "id": 142,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 143,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 144,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 153,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 154,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 123,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 124,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y73s",
+      "name": "Y73s",
+      "slug": "vivo-y73s",
+      "colors": [
+        {
+          "id": 145,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 146,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 147,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 155,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 156,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 125,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 126,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y74s",
+      "name": "Y74s",
+      "slug": "vivo-y74s",
+      "colors": [
+        {
+          "id": 148,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 149,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 150,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 157,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 158,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 127,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 128,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y76",
+      "name": "Y76",
+      "slug": "vivo-y76",
+      "colors": [
+        {
+          "id": 151,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 152,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 153,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 159,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 160,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 129,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 130,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y77",
+      "name": "Y77",
+      "slug": "vivo-y77",
+      "colors": [
+        {
+          "id": 154,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 155,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 156,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 161,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 162,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 131,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 132,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y78",
+      "name": "Y78",
+      "slug": "vivo-y78",
+      "colors": [
+        {
+          "id": 157,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 158,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 159,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 163,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 164,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 133,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 134,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y79",
+      "name": "Y79",
+      "slug": "vivo-y79",
+      "colors": [
+        {
+          "id": 160,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 161,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 162,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 165,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 166,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 135,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 136,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y80",
+      "name": "Y80",
+      "slug": "vivo-y80",
+      "colors": [
+        {
+          "id": 163,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 164,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 165,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 167,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 168,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 137,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 138,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y82",
+      "name": "Y82",
+      "slug": "vivo-y82",
+      "colors": [
+        {
+          "id": 166,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 167,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 168,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 169,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 170,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 139,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 140,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y84",
+      "name": "Y84",
+      "slug": "vivo-y84",
+      "colors": [
+        {
+          "id": 169,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 170,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 171,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 171,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 172,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 141,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 142,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y85",
+      "name": "Y85",
+      "slug": "vivo-y85",
+      "colors": [
+        {
+          "id": 172,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 173,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 174,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 173,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 174,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 143,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 144,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y86",
+      "name": "Y86",
+      "slug": "vivo-y86",
+      "colors": [
+        {
+          "id": 175,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 176,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 177,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 175,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 176,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 145,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 146,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y87",
+      "name": "Y87",
+      "slug": "vivo-y87",
+      "colors": [
+        {
+          "id": 178,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 179,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 180,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 177,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 178,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 147,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 148,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y88",
+      "name": "Y88",
+      "slug": "vivo-y88",
+      "colors": [
+        {
+          "id": 181,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 182,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 183,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 179,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 180,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 149,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 150,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y89",
+      "name": "Y89",
+      "slug": "vivo-y89",
+      "colors": [
+        {
+          "id": 184,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 185,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 186,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 181,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 182,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 151,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 152,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y90",
+      "name": "Y90",
+      "slug": "vivo-y90",
+      "colors": [
+        {
+          "id": 187,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 188,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 189,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 183,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 184,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 153,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 154,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y92",
+      "name": "Y92",
+      "slug": "vivo-y92",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 191,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 192,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 185,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 186,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 155,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 156,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y92s",
+      "name": "Y92s",
+      "slug": "vivo-y92s",
+      "colors": [
+        {
+          "id": 193,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 194,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 195,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 187,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 188,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 157,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 158,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y93s",
+      "name": "Y93s",
+      "slug": "vivo-y93s",
+      "colors": [
+        {
+          "id": 196,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 197,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 198,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 189,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 190,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 159,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 160,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y95",
+      "name": "Y95",
+      "slug": "vivo-y95",
+      "colors": [
+        {
+          "id": 199,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 200,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 201,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 191,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 192,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 161,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 162,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y96",
+      "name": "Y96",
+      "slug": "vivo-y96",
+      "colors": [
+        {
+          "id": 202,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 203,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 204,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 193,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 194,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 163,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 164,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y97",
+      "name": "Y97",
+      "slug": "vivo-y97",
+      "colors": [
+        {
+          "id": 205,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 206,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 207,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 195,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 196,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 165,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 166,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y98",
+      "name": "Y98",
+      "slug": "vivo-y98",
+      "colors": [
+        {
+          "id": 208,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 209,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 210,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 197,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 198,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 167,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 168,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Y99",
+      "name": "Y99",
+      "slug": "vivo-y99",
+      "colors": [
+        {
+          "id": 211,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 212,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 213,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 199,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 200,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 169,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 170,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO",
+      "name": "iQOO",
+      "slug": "vivo-iqoo",
+      "colors": [
+        {
+          "id": 214,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 215,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 216,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 201,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 202,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 171,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 172,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 173,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iQOO 3",
+      "name": "iQOO 3",
+      "slug": "vivo-iqoo-3",
+      "colors": [
+        {
+          "id": 217,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 218,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 219,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 203,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 204,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 174,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 175,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO 5",
+      "name": "iQOO 5",
+      "slug": "vivo-iqoo-5",
+      "colors": [
+        {
+          "id": 220,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 221,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 222,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 205,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 206,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 176,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 177,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 178,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iQOO 5 Pro",
+      "name": "iQOO 5 Pro",
+      "slug": "vivo-iqoo-5-pro",
+      "colors": [
+        {
+          "id": 223,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 224,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 225,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 207,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 208,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 179,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 180,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 181,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iQOO 7",
+      "name": "iQOO 7",
+      "slug": "vivo-iqoo-7",
+      "colors": [
+        {
+          "id": 226,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 227,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 228,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 209,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 210,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 182,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 183,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 184,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iQOO 7 Legend",
+      "name": "iQOO 7 Legend",
+      "slug": "vivo-iqoo-7-legend",
+      "colors": [
+        {
+          "id": 229,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 230,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 231,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 211,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 212,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 185,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 186,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 187,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iQOO 8",
+      "name": "iQOO 8",
+      "slug": "vivo-iqoo-8",
+      "colors": [
+        {
+          "id": 232,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 233,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 234,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 213,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 214,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 188,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 189,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 190,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iQOO 8 Pro",
+      "name": "iQOO 8 Pro",
+      "slug": "vivo-iqoo-8-pro",
+      "colors": [
+        {
+          "id": 235,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 236,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 237,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 215,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 216,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 191,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 192,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 193,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iQOO 9",
+      "name": "iQOO 9",
+      "slug": "vivo-iqoo-9",
+      "colors": [
+        {
+          "id": 238,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 239,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 240,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 217,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 218,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 219,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 194,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 195,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 196,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iQOO 9 Pro",
+      "name": "iQOO 9 Pro",
+      "slug": "vivo-iqoo-9-pro",
+      "colors": [
+        {
+          "id": 241,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 242,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 243,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 220,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 221,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 222,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 197,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 198,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 199,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iQOO 10",
+      "name": "iQOO 10",
+      "slug": "vivo-iqoo-10",
+      "colors": [
+        {
+          "id": 244,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 245,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 246,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 223,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 224,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 225,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 200,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 201,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 202,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iQOO 10 Pro",
+      "name": "iQOO 10 Pro",
+      "slug": "vivo-iqoo-10-pro",
+      "colors": [
+        {
+          "id": 247,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 248,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 249,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 226,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 227,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 228,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 203,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 204,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 205,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iQOO 11",
+      "name": "iQOO 11",
+      "slug": "vivo-iqoo-11",
+      "colors": [
+        {
+          "id": 250,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 251,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 252,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 229,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 230,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 231,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 206,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 207,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 208,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iQOO 11 Pro",
+      "name": "iQOO 11 Pro",
+      "slug": "vivo-iqoo-11-pro",
+      "colors": [
+        {
+          "id": 253,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 254,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 255,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 232,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 233,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 234,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 209,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 210,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 211,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iQOO 12",
+      "name": "iQOO 12",
+      "slug": "vivo-iqoo-12",
+      "colors": [
+        {
+          "id": 256,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 257,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 258,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 235,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 236,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 237,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 212,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 213,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 214,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iQOO 12 Pro",
+      "name": "iQOO 12 Pro",
+      "slug": "vivo-iqoo-12-pro",
+      "colors": [
+        {
+          "id": 259,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 260,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 261,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 238,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 239,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 240,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 215,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 216,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 217,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iQOO 13",
+      "name": "iQOO 13",
+      "slug": "vivo-iqoo-13",
+      "colors": [
+        {
+          "id": 262,
+          "hex_code": "#1C1C1E",
+          "name_en": "Legend Black",
+          "name_ru": "Легендарный чёрный",
+          "name_kg": "Легенда кара"
+        },
+        {
+          "id": 263,
+          "hex_code": "#F5F5F0",
+          "name_en": "Legend White",
+          "name_ru": "Легендарный белый",
+          "name_kg": "Легенда ак"
+        },
+        {
+          "id": 264,
+          "hex_code": "#B92B27",
+          "name_en": "Racing Track",
+          "name_ru": "Гоночная трасса",
+          "name_kg": "Жарыш жолу"
+        }
+      ],
+      "rams": [
+        {
+          "id": 241,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 242,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 243,
+          "name": "24GB",
+          "size_gb": 24
+        }
+      ],
+      "memories": [
+        {
+          "id": 218,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 219,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 220,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iQOO Neo 3",
+      "name": "iQOO Neo 3",
+      "slug": "vivo-iqoo-neo-3",
+      "colors": [
+        {
+          "id": 265,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 266,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 244,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 245,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 221,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 222,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Neo 5",
+      "name": "iQOO Neo 5",
+      "slug": "vivo-iqoo-neo-5",
+      "colors": [
+        {
+          "id": 267,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 268,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 246,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 247,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 223,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 224,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Neo 6",
+      "name": "iQOO Neo 6",
+      "slug": "vivo-iqoo-neo-6",
+      "colors": [
+        {
+          "id": 269,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 270,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 248,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 249,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 225,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 226,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Neo 7",
+      "name": "iQOO Neo 7",
+      "slug": "vivo-iqoo-neo-7",
+      "colors": [
+        {
+          "id": 271,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 272,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 250,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 251,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 227,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 228,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Neo 9",
+      "name": "iQOO Neo 9",
+      "slug": "vivo-iqoo-neo-9",
+      "colors": [
+        {
+          "id": 273,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 274,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 252,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 253,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 229,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 230,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Neo 10",
+      "name": "iQOO Neo 10",
+      "slug": "vivo-iqoo-neo-10",
+      "colors": [
+        {
+          "id": 275,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 276,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [
+        {
+          "id": 254,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 255,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 231,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 232,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Z1",
+      "name": "iQOO Z1",
+      "slug": "vivo-iqoo-z1",
+      "colors": [
+        {
+          "id": 277,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 278,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 256,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 257,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 258,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 233,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 234,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Z3",
+      "name": "iQOO Z3",
+      "slug": "vivo-iqoo-z3",
+      "colors": [
+        {
+          "id": 279,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 280,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 259,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 260,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 261,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 235,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 236,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Z5",
+      "name": "iQOO Z5",
+      "slug": "vivo-iqoo-z5",
+      "colors": [
+        {
+          "id": 281,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 282,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 262,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 263,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 264,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 237,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 238,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Z6",
+      "name": "iQOO Z6",
+      "slug": "vivo-iqoo-z6",
+      "colors": [
+        {
+          "id": 283,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 284,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 265,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 266,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 267,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 239,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 240,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Z7",
+      "name": "iQOO Z7",
+      "slug": "vivo-iqoo-z7",
+      "colors": [
+        {
+          "id": 285,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 286,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 268,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 269,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 270,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 241,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 242,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iQOO Z9",
+      "name": "iQOO Z9",
+      "slug": "vivo-iqoo-z9",
+      "colors": [
+        {
+          "id": 287,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 288,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 271,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 272,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 273,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 243,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 244,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    }
+  ]
+}

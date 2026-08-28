@@ -1,0 +1,3093 @@
+{
+  "name": "Tecno",
+  "slug": "tecno",
+  "models": [
+    {
+      "value": "Camon 11",
+      "name": "Camon 11",
+      "slug": "tecno-camon-11",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 3,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 2,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 2,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Camon 12",
+      "name": "Camon 12",
+      "slug": "tecno-camon-12",
+      "colors": [
+        {
+          "id": 4,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 5,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 6,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 3,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 4,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 3,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 4,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Camon 15",
+      "name": "Camon 15",
+      "slug": "tecno-camon-15",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 9,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 5,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 6,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 5,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 6,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Camon 16",
+      "name": "Camon 16",
+      "slug": "tecno-camon-16",
+      "colors": [
+        {
+          "id": 10,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 11,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 12,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 8,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 8,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Camon 17",
+      "name": "Camon 17",
+      "slug": "tecno-camon-17",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 15,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 9,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 10,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 9,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 10,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Camon 18",
+      "name": "Camon 18",
+      "slug": "tecno-camon-18",
+      "colors": [
+        {
+          "id": 16,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 17,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 18,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 11,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 12,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 11,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 12,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 19",
+      "name": "Camon 19",
+      "slug": "tecno-camon-19",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 21,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 14,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 14,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 20",
+      "name": "Camon 20",
+      "slug": "tecno-camon-20",
+      "colors": [
+        {
+          "id": 22,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 23,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 24,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 15,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 16,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 15,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 16,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 20 Pro",
+      "name": "Camon 20 Pro",
+      "slug": "tecno-camon-20-pro",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 27,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 17,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 18,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 17,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 18,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 20 Premier",
+      "name": "Camon 20 Premier",
+      "slug": "tecno-camon-20-premier",
+      "colors": [
+        {
+          "id": 28,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 29,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 30,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 20,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 20,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 30",
+      "name": "Camon 30",
+      "slug": "tecno-camon-30",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 33,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 21,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 22,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 21,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 22,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 30 Pro",
+      "name": "Camon 30 Pro",
+      "slug": "tecno-camon-30-pro",
+      "colors": [
+        {
+          "id": 34,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 35,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 36,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 23,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 24,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 23,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 24,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 30 Premier",
+      "name": "Camon 30 Premier",
+      "slug": "tecno-camon-30-premier",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 39,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 26,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 26,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 40",
+      "name": "Camon 40",
+      "slug": "tecno-camon-40",
+      "colors": [
+        {
+          "id": 40,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 41,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 42,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 27,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 28,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 27,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 28,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 40 Pro",
+      "name": "Camon 40 Pro",
+      "slug": "tecno-camon-40-pro",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 45,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 29,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 30,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 29,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 30,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Camon 40 Premier",
+      "name": "Camon 40 Premier",
+      "slug": "tecno-camon-40-premier",
+      "colors": [
+        {
+          "id": 46,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 47,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 48,
+          "hex_code": "#C9BFE0",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 32,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 32,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Phantom 6",
+      "name": "Phantom 6",
+      "slug": "tecno-phantom-6",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 33,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 34,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 33,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 34,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 35,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Phantom 8",
+      "name": "Phantom 8",
+      "slug": "tecno-phantom-8",
+      "colors": [
+        {
+          "id": 51,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 52,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 35,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 36,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 36,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 37,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 38,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Phantom 9",
+      "name": "Phantom 9",
+      "slug": "tecno-phantom-9",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 38,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 39,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 40,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 41,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Phantom X",
+      "name": "Phantom X",
+      "slug": "tecno-phantom-x",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 39,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 40,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 42,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 43,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 44,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Phantom X2",
+      "name": "Phantom X2",
+      "slug": "tecno-phantom-x2",
+      "colors": [
+        {
+          "id": 57,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 58,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 41,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 42,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 45,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 46,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 47,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Phantom X2 Pro",
+      "name": "Phantom X2 Pro",
+      "slug": "tecno-phantom-x2-pro",
+      "colors": [
+        {
+          "id": 59,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 60,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 44,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 48,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 49,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 50,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Phantom V Fold",
+      "name": "Phantom V Fold",
+      "slug": "tecno-phantom-v-fold",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium",
+          "name_ru": "Титановый",
+          "name_kg": "Титан"
+        }
+      ],
+      "rams": [
+        {
+          "id": 45,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 46,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 51,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 52,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 53,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Phantom V Flip",
+      "name": "Phantom V Flip",
+      "slug": "tecno-phantom-v-flip",
+      "colors": [
+        {
+          "id": 63,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 64,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium",
+          "name_ru": "Титановый",
+          "name_kg": "Титан"
+        }
+      ],
+      "rams": [
+        {
+          "id": 47,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 48,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 54,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 55,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 56,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Phantom V Fold 2",
+      "name": "Phantom V Fold 2",
+      "slug": "tecno-phantom-v-fold-2",
+      "colors": [
+        {
+          "id": 65,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 66,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium",
+          "name_ru": "Титановый",
+          "name_kg": "Титан"
+        }
+      ],
+      "rams": [
+        {
+          "id": 49,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 50,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 57,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 58,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 59,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Pop 2",
+      "name": "Pop 2",
+      "slug": "tecno-pop-2",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 51,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 52,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 53,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 60,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 61,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 62,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pop 3",
+      "name": "Pop 3",
+      "slug": "tecno-pop-3",
+      "colors": [
+        {
+          "id": 69,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 70,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 54,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 55,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 56,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 63,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 64,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 65,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pop 4",
+      "name": "Pop 4",
+      "slug": "tecno-pop-4",
+      "colors": [
+        {
+          "id": 71,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 72,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 57,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 58,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 59,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 66,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 67,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 68,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pop 5",
+      "name": "Pop 5",
+      "slug": "tecno-pop-5",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 60,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 61,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 62,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 69,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 70,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 71,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pop 6",
+      "name": "Pop 6",
+      "slug": "tecno-pop-6",
+      "colors": [
+        {
+          "id": 75,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 76,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 63,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 64,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 65,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 72,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 73,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 74,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pop 7",
+      "name": "Pop 7",
+      "slug": "tecno-pop-7",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 66,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 67,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 68,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 75,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 76,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 77,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pop 8",
+      "name": "Pop 8",
+      "slug": "tecno-pop-8",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 69,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 70,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 71,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 78,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 79,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 80,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pop 9",
+      "name": "Pop 9",
+      "slug": "tecno-pop-9",
+      "colors": [
+        {
+          "id": 81,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 82,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 72,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 73,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 74,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 81,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 82,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 83,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pova",
+      "name": "Pova",
+      "slug": "tecno-pova",
+      "colors": [
+        {
+          "id": 83,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 84,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        },
+        {
+          "id": 85,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 75,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 76,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 84,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 85,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pova 2",
+      "name": "Pova 2",
+      "slug": "tecno-pova-2",
+      "colors": [
+        {
+          "id": 86,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 87,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        },
+        {
+          "id": 88,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 77,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 78,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 86,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 87,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pova 3",
+      "name": "Pova 3",
+      "slug": "tecno-pova-3",
+      "colors": [
+        {
+          "id": 89,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 90,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        },
+        {
+          "id": 91,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 79,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 80,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 88,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 89,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pova 4",
+      "name": "Pova 4",
+      "slug": "tecno-pova-4",
+      "colors": [
+        {
+          "id": 92,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 93,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        },
+        {
+          "id": 94,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 81,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 82,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 90,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 91,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pova 5",
+      "name": "Pova 5",
+      "slug": "tecno-pova-5",
+      "colors": [
+        {
+          "id": 95,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 96,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        },
+        {
+          "id": 97,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 83,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 84,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 92,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 93,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pova 6",
+      "name": "Pova 6",
+      "slug": "tecno-pova-6",
+      "colors": [
+        {
+          "id": 98,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 99,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        },
+        {
+          "id": 100,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 86,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 94,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 95,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pova 6 Pro",
+      "name": "Pova 6 Pro",
+      "slug": "tecno-pova-6-pro",
+      "colors": [
+        {
+          "id": 101,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 102,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        },
+        {
+          "id": 103,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 87,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 88,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 96,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 97,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pova 7",
+      "name": "Pova 7",
+      "slug": "tecno-pova-7",
+      "colors": [
+        {
+          "id": 104,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 105,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        },
+        {
+          "id": 106,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 89,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 90,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 98,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 99,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Spark 4",
+      "name": "Spark 4",
+      "slug": "tecno-spark-4",
+      "colors": [
+        {
+          "id": 107,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 108,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 109,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 92,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 93,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 100,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 101,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Spark 5",
+      "name": "Spark 5",
+      "slug": "tecno-spark-5",
+      "colors": [
+        {
+          "id": 110,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 111,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 112,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 94,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 95,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 96,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 102,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 103,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Spark 6",
+      "name": "Spark 6",
+      "slug": "tecno-spark-6",
+      "colors": [
+        {
+          "id": 113,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 114,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 115,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 97,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 98,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 99,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 104,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 105,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Spark 7",
+      "name": "Spark 7",
+      "slug": "tecno-spark-7",
+      "colors": [
+        {
+          "id": 116,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 117,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 118,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 100,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 101,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 102,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 106,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 107,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Spark 8",
+      "name": "Spark 8",
+      "slug": "tecno-spark-8",
+      "colors": [
+        {
+          "id": 119,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 120,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 121,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 103,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 104,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 105,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 108,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 109,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Spark 9",
+      "name": "Spark 9",
+      "slug": "tecno-spark-9",
+      "colors": [
+        {
+          "id": 122,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 123,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 124,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 106,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 107,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 108,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 110,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 111,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Spark 10",
+      "name": "Spark 10",
+      "slug": "tecno-spark-10",
+      "colors": [
+        {
+          "id": 125,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 126,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 127,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 109,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 110,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 111,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 112,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 113,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Spark 10 Pro",
+      "name": "Spark 10 Pro",
+      "slug": "tecno-spark-10-pro",
+      "colors": [
+        {
+          "id": 128,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 129,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 130,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 112,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 113,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 114,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 114,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 115,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Spark 11",
+      "name": "Spark 11",
+      "slug": "tecno-spark-11",
+      "colors": [
+        {
+          "id": 131,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 132,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 133,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 115,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 116,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 117,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 116,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 117,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Spark 11 Pro",
+      "name": "Spark 11 Pro",
+      "slug": "tecno-spark-11-pro",
+      "colors": [
+        {
+          "id": 134,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 135,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 136,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 118,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 119,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 120,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 118,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 119,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Spark 20",
+      "name": "Spark 20",
+      "slug": "tecno-spark-20",
+      "colors": [
+        {
+          "id": 137,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 138,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 139,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 121,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 122,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 123,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 120,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 121,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Spark 20 Pro",
+      "name": "Spark 20 Pro",
+      "slug": "tecno-spark-20-pro",
+      "colors": [
+        {
+          "id": 140,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 141,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 142,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 124,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 125,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 126,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 122,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 123,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Spark 30",
+      "name": "Spark 30",
+      "slug": "tecno-spark-30",
+      "colors": [
+        {
+          "id": 143,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 144,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 145,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 127,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 128,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 124,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 125,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Spark 30 Pro",
+      "name": "Spark 30 Pro",
+      "slug": "tecno-spark-30-pro",
+      "colors": [
+        {
+          "id": 146,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 147,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 148,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 129,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 130,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 126,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 127,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Spark 40",
+      "name": "Spark 40",
+      "slug": "tecno-spark-40",
+      "colors": [
+        {
+          "id": 149,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 150,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 151,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 131,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 132,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 128,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 129,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Spark 40 Pro",
+      "name": "Spark 40 Pro",
+      "slug": "tecno-spark-40-pro",
+      "colors": [
+        {
+          "id": 152,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 153,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 154,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 133,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 134,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 130,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 131,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Spark Go",
+      "name": "Spark Go",
+      "slug": "tecno-spark-go",
+      "colors": [
+        {
+          "id": 155,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 156,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 157,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 135,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 136,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 137,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 132,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 133,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    }
+  ]
+}
