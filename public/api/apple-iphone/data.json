@@ -1,422 +1,2653 @@
 {
-  "name": "Apple-iPhone",
-  "slug": "apple-iphone",
+  "name": "Apple",
+  "slug": "apple",
   "models": [
     {
-      "value": "iPhone Air",
-      "name": "iPhone Air",
-      "slug": "apple-iphone-iphone-air",
-      "colors": [],
+      "value": "iPhone 4",
+      "name": "iPhone 4",
+      "slug": "apple-iphone-4",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
       "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 17",
-      "name": "iPhone 17",
-      "slug": "apple-iphone-iphone-17",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 17 Pro",
-      "name": "iPhone 17 Pro",
-      "slug": "apple-iphone-iphone-17-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 17 Pro Max",
-      "name": "iPhone 17 Pro Max",
-      "slug": "apple-iphone-iphone-17-pro-max",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 16e",
-      "name": "iPhone 16e",
-      "slug": "apple-iphone-iphone-16e",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 16 Pro Max",
-      "name": "iPhone 16 Pro Max",
-      "slug": "apple-iphone-iphone-16-pro-max",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 16 Pro",
-      "name": "iPhone 16 Pro",
-      "slug": "apple-iphone-iphone-16-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 16 Plus",
-      "name": "iPhone 16 Plus",
-      "slug": "apple-iphone-iphone-16-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 16",
-      "name": "iPhone 16",
-      "slug": "apple-iphone-iphone-16",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone SE 2022",
-      "name": "iPhone SE 2022",
-      "slug": "apple-iphone-iphone-se-2022",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 15 Pro Max",
-      "name": "iPhone 15 Pro Max",
-      "slug": "apple-iphone-iphone-15-pro-max",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 15 Pro",
-      "name": "iPhone 15 Pro",
-      "slug": "apple-iphone-iphone-15-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 15 Plus",
-      "name": "iPhone 15 Plus",
-      "slug": "apple-iphone-iphone-15-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 15",
-      "name": "iPhone 15",
-      "slug": "apple-iphone-iphone-15",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 14 Pro Max",
-      "name": "iPhone 14 Pro Max",
-      "slug": "apple-iphone-iphone-14-pro-max",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 14 Pro",
-      "name": "iPhone 14 Pro",
-      "slug": "apple-iphone-iphone-14-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 14 Plus",
-      "name": "iPhone 14 Plus",
-      "slug": "apple-iphone-iphone-14-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 14",
-      "name": "iPhone 14",
-      "slug": "apple-iphone-iphone-14",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 13 mini",
-      "name": "iPhone 13 mini",
-      "slug": "apple-iphone-iphone-13-mini",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 13 Pro Max",
-      "name": "iPhone 13 Pro Max",
-      "slug": "apple-iphone-iphone-13-pro-max",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 13 Pro",
-      "name": "iPhone 13 Pro",
-      "slug": "apple-iphone-iphone-13-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 13",
-      "name": "iPhone 13",
-      "slug": "apple-iphone-iphone-13",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone SE 2020",
-      "name": "iPhone SE 2020",
-      "slug": "apple-iphone-iphone-se-2020",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 12 mini",
-      "name": "iPhone 12 mini",
-      "slug": "apple-iphone-iphone-12-mini",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 12 Pro Max",
-      "name": "iPhone 12 Pro Max",
-      "slug": "apple-iphone-iphone-12-pro-max",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 12 Pro",
-      "name": "iPhone 12 Pro",
-      "slug": "apple-iphone-iphone-12-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 12",
-      "name": "iPhone 12",
-      "slug": "apple-iphone-iphone-12",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 11 Pro Max",
-      "name": "iPhone 11 Pro Max",
-      "slug": "apple-iphone-iphone-11-pro-max",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 11 Pro",
-      "name": "iPhone 11 Pro",
-      "slug": "apple-iphone-iphone-11-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 11",
-      "name": "iPhone 11",
-      "slug": "apple-iphone-iphone-11",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone Xr",
-      "name": "iPhone Xr",
-      "slug": "apple-iphone-iphone-xr",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone Xs Max",
-      "name": "iPhone Xs Max",
-      "slug": "apple-iphone-iphone-xs-max",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone Xs",
-      "name": "iPhone Xs",
-      "slug": "apple-iphone-iphone-xs",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone X Plus",
-      "name": "iPhone X Plus",
-      "slug": "apple-iphone-iphone-x-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone X",
-      "name": "iPhone X",
-      "slug": "apple-iphone-iphone-x",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 8 Plus",
-      "name": "iPhone 8 Plus",
-      "slug": "apple-iphone-iphone-8-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 8",
-      "name": "iPhone 8",
-      "slug": "apple-iphone-iphone-8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone SE",
-      "name": "iPhone SE",
-      "slug": "apple-iphone-iphone-se",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 7 Plus",
-      "name": "iPhone 7 Plus",
-      "slug": "apple-iphone-iphone-7-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 7",
-      "name": "iPhone 7",
-      "slug": "apple-iphone-iphone-7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 6s Plus",
-      "name": "iPhone 6s Plus",
-      "slug": "apple-iphone-iphone-6s-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 6s",
-      "name": "iPhone 6s",
-      "slug": "apple-iphone-iphone-6s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 6 Plus",
-      "name": "iPhone 6 Plus",
-      "slug": "apple-iphone-iphone-6-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 6",
-      "name": "iPhone 6",
-      "slug": "apple-iphone-iphone-6",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 5c",
-      "name": "iPhone 5c",
-      "slug": "apple-iphone-iphone-5c",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 5s",
-      "name": "iPhone 5s",
-      "slug": "apple-iphone-iphone-5s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 5",
-      "name": "iPhone 5",
-      "slug": "apple-iphone-iphone-5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "iPhone 4 CDMA",
-      "name": "iPhone 4 CDMA",
-      "slug": "apple-iphone-iphone-4-cdma",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "memories": [
+        {
+          "id": 1,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 2,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 3,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
     },
     {
       "value": "iPhone 4S",
       "name": "iPhone 4S",
-      "slug": "apple-iphone-iphone-4s",
-      "colors": [],
+      "slug": "apple-iphone-4s",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
       "rams": [],
-      "memories": []
+      "memories": [
+        {
+          "id": 4,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 5,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 6,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 7,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
     },
     {
-      "value": "iPhone 4",
-      "name": "iPhone 4",
-      "slug": "apple-iphone-iphone-4",
-      "colors": [],
+      "value": "iPhone 5",
+      "name": "iPhone 5",
+      "slug": "apple-iphone-5",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
       "rams": [],
-      "memories": []
+      "memories": [
+        {
+          "id": 8,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 9,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 10,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
     },
     {
-      "value": "iPhone 3GS",
-      "name": "iPhone 3GS",
-      "slug": "apple-iphone-iphone-3gs",
-      "colors": [],
+      "value": "iPhone 5C",
+      "name": "iPhone 5C",
+      "slug": "apple-iphone-5c",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 8,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 9,
+          "hex_code": "#F7E98E",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        },
+        {
+          "id": 10,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 11,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
       "rams": [],
-      "memories": []
+      "memories": [
+        {
+          "id": 11,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 12,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
     },
     {
-      "value": "iPhone 3G",
-      "name": "iPhone 3G",
-      "slug": "apple-iphone-iphone-3g",
-      "colors": [],
+      "value": "iPhone 5S",
+      "name": "iPhone 5S",
+      "slug": "apple-iphone-5s",
+      "colors": [
+        {
+          "id": 12,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 13,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 14,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
       "rams": [],
-      "memories": []
+      "memories": [
+        {
+          "id": 13,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 14,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 15,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "iPhone 6",
+      "name": "iPhone 6",
+      "slug": "apple-iphone-6",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 16,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 17,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 16,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 17,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 18,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "iPhone 6 Plus",
+      "name": "iPhone 6 Plus",
+      "slug": "apple-iphone-6-plus",
+      "colors": [
+        {
+          "id": 18,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 19,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 20,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 19,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 20,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 21,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "iPhone 6S",
+      "name": "iPhone 6S",
+      "slug": "apple-iphone-6s",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 22,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 23,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 24,
+          "hex_code": "#B76E79",
+          "name_en": "Rose Gold",
+          "name_ru": "Розовое золото",
+          "name_kg": "Кызгылт алтын"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 22,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 23,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 24,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 25,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "iPhone 6S Plus",
+      "name": "iPhone 6S Plus",
+      "slug": "apple-iphone-6s-plus",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 26,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 27,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 28,
+          "hex_code": "#B76E79",
+          "name_en": "Rose Gold",
+          "name_ru": "Розовое золото",
+          "name_kg": "Кызгылт алтын"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 26,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 27,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 28,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 29,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "iPhone SE 1st gen",
+      "name": "iPhone SE 1st gen",
+      "slug": "apple-iphone-se-1st-gen",
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 30,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 31,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 32,
+          "hex_code": "#B76E79",
+          "name_en": "Rose Gold",
+          "name_ru": "Розовое золото",
+          "name_kg": "Кызгылт алтын"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 30,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 31,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 32,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 33,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "iPhone 7",
+      "name": "iPhone 7",
+      "slug": "apple-iphone-7",
+      "colors": [
+        {
+          "id": 33,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 34,
+          "hex_code": "#0B0B0C",
+          "name_en": "Jet Black",
+          "name_ru": "Чёрный оникс",
+          "name_kg": "Кара оникс"
+        },
+        {
+          "id": 35,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 36,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 37,
+          "hex_code": "#B76E79",
+          "name_en": "Rose Gold",
+          "name_ru": "Розовое золото",
+          "name_kg": "Кызгылт алтын"
+        },
+        {
+          "id": 38,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 34,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 35,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 36,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone 7 Plus",
+      "name": "iPhone 7 Plus",
+      "slug": "apple-iphone-7-plus",
+      "colors": [
+        {
+          "id": 39,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 40,
+          "hex_code": "#0B0B0C",
+          "name_en": "Jet Black",
+          "name_ru": "Чёрный оникс",
+          "name_kg": "Кара оникс"
+        },
+        {
+          "id": 41,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 42,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 43,
+          "hex_code": "#B76E79",
+          "name_en": "Rose Gold",
+          "name_ru": "Розовое золото",
+          "name_kg": "Кызгылт алтын"
+        },
+        {
+          "id": 44,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 37,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 38,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 39,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone 8",
+      "name": "iPhone 8",
+      "slug": "apple-iphone-8",
+      "colors": [
+        {
+          "id": 45,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 46,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 47,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 48,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 40,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 41,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone 8 Plus",
+      "name": "iPhone 8 Plus",
+      "slug": "apple-iphone-8-plus",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 50,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 51,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 52,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 42,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 43,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone X",
+      "name": "iPhone X",
+      "slug": "apple-iphone-x",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 54,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 44,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 45,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone XR",
+      "name": "iPhone XR",
+      "slug": "apple-iphone-xr",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 57,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 58,
+          "hex_code": "#F7E98E",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        },
+        {
+          "id": 59,
+          "hex_code": "#E8927C",
+          "name_en": "Coral",
+          "name_ru": "Коралловый",
+          "name_kg": "Коралл"
+        },
+        {
+          "id": 60,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 46,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 47,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 48,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone XS",
+      "name": "iPhone XS",
+      "slug": "apple-iphone-xs",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 62,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 63,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 49,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 50,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 51,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone XS Max",
+      "name": "iPhone XS Max",
+      "slug": "apple-iphone-xs-max",
+      "colors": [
+        {
+          "id": 64,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 65,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 66,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 52,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 53,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 54,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 11",
+      "name": "iPhone 11",
+      "slug": "apple-iphone-11",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 69,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 70,
+          "hex_code": "#F7E98E",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        },
+        {
+          "id": 71,
+          "hex_code": "#D5C6DE",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        },
+        {
+          "id": 72,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 55,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 56,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 57,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone 11 Pro",
+      "name": "iPhone 11 Pro",
+      "slug": "apple-iphone-11-pro",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 74,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 75,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 76,
+          "hex_code": "#3B4D46",
+          "name_en": "Midnight Green",
+          "name_ru": "Полночный зелёный",
+          "name_kg": "Түн ортосу жашыл"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 58,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 59,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 60,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 11 Pro Max",
+      "name": "iPhone 11 Pro Max",
+      "slug": "apple-iphone-11-pro-max",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#4A4A4A",
+          "name_en": "Space Gray",
+          "name_ru": "Космический серый",
+          "name_kg": "Космос боз"
+        },
+        {
+          "id": 78,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 79,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 80,
+          "hex_code": "#3B4D46",
+          "name_en": "Midnight Green",
+          "name_ru": "Полночный зелёный",
+          "name_kg": "Түн ортосу жашыл"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 61,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 62,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 63,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone SE 2nd gen",
+      "name": "iPhone SE 2nd gen",
+      "slug": "apple-iphone-se-2nd-gen",
+      "colors": [
+        {
+          "id": 81,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 82,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 83,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 64,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 65,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 66,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone 12 mini",
+      "name": "iPhone 12 mini",
+      "slug": "apple-iphone-12-mini",
+      "colors": [
+        {
+          "id": 84,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 85,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 86,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 87,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 88,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        },
+        {
+          "id": 89,
+          "hex_code": "#D5C6DE",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 67,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 68,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 69,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone 12",
+      "name": "iPhone 12",
+      "slug": "apple-iphone-12",
+      "colors": [
+        {
+          "id": 90,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 91,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 92,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 93,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 94,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        },
+        {
+          "id": 95,
+          "hex_code": "#D5C6DE",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 70,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 71,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 72,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone 12 Pro",
+      "name": "iPhone 12 Pro",
+      "slug": "apple-iphone-12-pro",
+      "colors": [
+        {
+          "id": 96,
+          "hex_code": "#4A4A4A",
+          "name_en": "Graphite",
+          "name_ru": "Графитовый",
+          "name_kg": "Графит"
+        },
+        {
+          "id": 97,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 98,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 99,
+          "hex_code": "#A9C4D6",
+          "name_en": "Sierra Blue",
+          "name_ru": "Голубой Сьерра",
+          "name_kg": "Сьерра көк"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 73,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 74,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 75,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 12 Pro Max",
+      "name": "iPhone 12 Pro Max",
+      "slug": "apple-iphone-12-pro-max",
+      "colors": [
+        {
+          "id": 100,
+          "hex_code": "#4A4A4A",
+          "name_en": "Graphite",
+          "name_ru": "Графитовый",
+          "name_kg": "Графит"
+        },
+        {
+          "id": 101,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 102,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 103,
+          "hex_code": "#A9C4D6",
+          "name_en": "Sierra Blue",
+          "name_ru": "Голубой Сьерра",
+          "name_kg": "Сьерра көк"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 76,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 77,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 78,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 13 mini",
+      "name": "iPhone 13 mini",
+      "slug": "apple-iphone-13-mini",
+      "colors": [
+        {
+          "id": 104,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight",
+          "name_ru": "Полночный",
+          "name_kg": "Түн ортосу"
+        },
+        {
+          "id": 105,
+          "hex_code": "#F5F1E8",
+          "name_en": "Starlight",
+          "name_ru": "Звёздный свет",
+          "name_kg": "Жылдыз жарыгы"
+        },
+        {
+          "id": 106,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 107,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 108,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 79,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 80,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 81,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 13",
+      "name": "iPhone 13",
+      "slug": "apple-iphone-13",
+      "colors": [
+        {
+          "id": 109,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight",
+          "name_ru": "Полночный",
+          "name_kg": "Түн ортосу"
+        },
+        {
+          "id": 110,
+          "hex_code": "#F5F1E8",
+          "name_en": "Starlight",
+          "name_ru": "Звёздный свет",
+          "name_kg": "Жылдыз жарыгы"
+        },
+        {
+          "id": 111,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 112,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 113,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 82,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 83,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 84,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 13 Pro",
+      "name": "iPhone 13 Pro",
+      "slug": "apple-iphone-13-pro",
+      "colors": [
+        {
+          "id": 114,
+          "hex_code": "#4A4A4A",
+          "name_en": "Graphite",
+          "name_ru": "Графитовый",
+          "name_kg": "Графит"
+        },
+        {
+          "id": 115,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 116,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 117,
+          "hex_code": "#A9C4D6",
+          "name_en": "Sierra Blue",
+          "name_ru": "Голубой Сьерра",
+          "name_kg": "Сьерра көк"
+        },
+        {
+          "id": 118,
+          "hex_code": "#4E5851",
+          "name_en": "Alpine Green",
+          "name_ru": "Альпийский зелёный",
+          "name_kg": "Альп жашыл"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 85,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 86,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 87,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 88,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iPhone 13 Pro Max",
+      "name": "iPhone 13 Pro Max",
+      "slug": "apple-iphone-13-pro-max",
+      "colors": [
+        {
+          "id": 119,
+          "hex_code": "#4A4A4A",
+          "name_en": "Graphite",
+          "name_ru": "Графитовый",
+          "name_kg": "Графит"
+        },
+        {
+          "id": 120,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 121,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 122,
+          "hex_code": "#A9C4D6",
+          "name_en": "Sierra Blue",
+          "name_ru": "Голубой Сьерра",
+          "name_kg": "Сьерра көк"
+        },
+        {
+          "id": 123,
+          "hex_code": "#4E5851",
+          "name_en": "Alpine Green",
+          "name_ru": "Альпийский зелёный",
+          "name_kg": "Альп жашыл"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 89,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 90,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 91,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 92,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iPhone SE 3rd gen",
+      "name": "iPhone SE 3rd gen",
+      "slug": "apple-iphone-se-3rd-gen",
+      "colors": [
+        {
+          "id": 124,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight",
+          "name_ru": "Полночный",
+          "name_kg": "Түн ортосу"
+        },
+        {
+          "id": 125,
+          "hex_code": "#F5F1E8",
+          "name_en": "Starlight",
+          "name_ru": "Звёздный свет",
+          "name_kg": "Жылдыз жарыгы"
+        },
+        {
+          "id": 126,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 93,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 94,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 95,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "iPhone 14",
+      "name": "iPhone 14",
+      "slug": "apple-iphone-14",
+      "colors": [
+        {
+          "id": 127,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight",
+          "name_ru": "Полночный",
+          "name_kg": "Түн ортосу"
+        },
+        {
+          "id": 128,
+          "hex_code": "#F5F1E8",
+          "name_en": "Starlight",
+          "name_ru": "Звёздный свет",
+          "name_kg": "Жылдыз жарыгы"
+        },
+        {
+          "id": 129,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 130,
+          "hex_code": "#D5C6DE",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        },
+        {
+          "id": 131,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        },
+        {
+          "id": 132,
+          "hex_code": "#F7E98E",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 96,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 97,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 98,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 14 Plus",
+      "name": "iPhone 14 Plus",
+      "slug": "apple-iphone-14-plus",
+      "colors": [
+        {
+          "id": 133,
+          "hex_code": "#1C1C1E",
+          "name_en": "Midnight",
+          "name_ru": "Полночный",
+          "name_kg": "Түн ортосу"
+        },
+        {
+          "id": 134,
+          "hex_code": "#F5F1E8",
+          "name_en": "Starlight",
+          "name_ru": "Звёздный свет",
+          "name_kg": "Жылдыз жарыгы"
+        },
+        {
+          "id": 135,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 136,
+          "hex_code": "#D5C6DE",
+          "name_en": "Purple",
+          "name_ru": "Фиолетовый",
+          "name_kg": "Күлгүн"
+        },
+        {
+          "id": 137,
+          "hex_code": "#B92B27",
+          "name_en": "Product Red",
+          "name_ru": "Product Red (красный)",
+          "name_kg": "Product Red (кызыл)"
+        },
+        {
+          "id": 138,
+          "hex_code": "#F7E98E",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 99,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 100,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 101,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 14 Pro",
+      "name": "iPhone 14 Pro",
+      "slug": "apple-iphone-14-pro",
+      "colors": [
+        {
+          "id": 139,
+          "hex_code": "#1C1C1E",
+          "name_en": "Space Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 140,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 141,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 142,
+          "hex_code": "#5B4B62",
+          "name_en": "Deep Purple",
+          "name_ru": "Тёмно-фиолетовый",
+          "name_kg": "Күрөң күлгүн"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 102,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 103,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 104,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 105,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iPhone 14 Pro Max",
+      "name": "iPhone 14 Pro Max",
+      "slug": "apple-iphone-14-pro-max",
+      "colors": [
+        {
+          "id": 143,
+          "hex_code": "#1C1C1E",
+          "name_en": "Space Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 144,
+          "hex_code": "#E3E4E5",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 145,
+          "hex_code": "#F9E4C8",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        },
+        {
+          "id": 146,
+          "hex_code": "#5B4B62",
+          "name_en": "Deep Purple",
+          "name_ru": "Тёмно-фиолетовый",
+          "name_kg": "Күрөң күлгүн"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 106,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 107,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 108,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 109,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iPhone 15",
+      "name": "iPhone 15",
+      "slug": "apple-iphone-15",
+      "colors": [
+        {
+          "id": 147,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 148,
+          "hex_code": "#A9C4D6",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 149,
+          "hex_code": "#B7C6B6",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 150,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        },
+        {
+          "id": 151,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 110,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 111,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 112,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 15 Plus",
+      "name": "iPhone 15 Plus",
+      "slug": "apple-iphone-15-plus",
+      "colors": [
+        {
+          "id": 152,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 153,
+          "hex_code": "#A9C4D6",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 154,
+          "hex_code": "#B7C6B6",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        },
+        {
+          "id": 155,
+          "hex_code": "#F2E7C3",
+          "name_en": "Yellow",
+          "name_ru": "Жёлтый",
+          "name_kg": "Сары"
+        },
+        {
+          "id": 156,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 113,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 114,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 115,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 15 Pro",
+      "name": "iPhone 15 Pro",
+      "slug": "apple-iphone-15-pro",
+      "colors": [
+        {
+          "id": 157,
+          "hex_code": "#4A4A4A",
+          "name_en": "Black Titanium",
+          "name_ru": "Чёрный титан",
+          "name_kg": "Кара титан"
+        },
+        {
+          "id": 158,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Titanium",
+          "name_ru": "Белый титан",
+          "name_kg": "Ак титан"
+        },
+        {
+          "id": 159,
+          "hex_code": "#3E5C76",
+          "name_en": "Blue Titanium",
+          "name_ru": "Синий титан",
+          "name_kg": "Көк титан"
+        },
+        {
+          "id": 160,
+          "hex_code": "#C8BFA8",
+          "name_en": "Natural Titanium",
+          "name_ru": "Природный титан",
+          "name_kg": "Табигый титан"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 116,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 117,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 118,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 119,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iPhone 15 Pro Max",
+      "name": "iPhone 15 Pro Max",
+      "slug": "apple-iphone-15-pro-max",
+      "colors": [
+        {
+          "id": 161,
+          "hex_code": "#4A4A4A",
+          "name_en": "Black Titanium",
+          "name_ru": "Чёрный титан",
+          "name_kg": "Кара титан"
+        },
+        {
+          "id": 162,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Titanium",
+          "name_ru": "Белый титан",
+          "name_kg": "Ак титан"
+        },
+        {
+          "id": 163,
+          "hex_code": "#3E5C76",
+          "name_en": "Blue Titanium",
+          "name_ru": "Синий титан",
+          "name_kg": "Көк титан"
+        },
+        {
+          "id": 164,
+          "hex_code": "#C8BFA8",
+          "name_en": "Natural Titanium",
+          "name_ru": "Природный титан",
+          "name_kg": "Табигый титан"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 120,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 121,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 122,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iPhone 16",
+      "name": "iPhone 16",
+      "slug": "apple-iphone-16",
+      "colors": [
+        {
+          "id": 165,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 166,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 167,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 168,
+          "hex_code": "#7FA8A3",
+          "name_en": "Teal",
+          "name_ru": "Бирюзовый",
+          "name_kg": "Бирюза"
+        },
+        {
+          "id": 169,
+          "hex_code": "#5A6EBB",
+          "name_en": "Ultramarine",
+          "name_ru": "Ультрамарин",
+          "name_kg": "Ультрамарин"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 123,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 124,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 125,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 16 Plus",
+      "name": "iPhone 16 Plus",
+      "slug": "apple-iphone-16-plus",
+      "colors": [
+        {
+          "id": 170,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 171,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 172,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 173,
+          "hex_code": "#7FA8A3",
+          "name_en": "Teal",
+          "name_ru": "Бирюзовый",
+          "name_kg": "Бирюза"
+        },
+        {
+          "id": 174,
+          "hex_code": "#5A6EBB",
+          "name_en": "Ultramarine",
+          "name_ru": "Ультрамарин",
+          "name_kg": "Ультрамарин"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 126,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 127,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 128,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 16 Pro",
+      "name": "iPhone 16 Pro",
+      "slug": "apple-iphone-16-pro",
+      "colors": [
+        {
+          "id": 175,
+          "hex_code": "#4A4A4A",
+          "name_en": "Black Titanium",
+          "name_ru": "Чёрный титан",
+          "name_kg": "Кара титан"
+        },
+        {
+          "id": 176,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Titanium",
+          "name_ru": "Белый титан",
+          "name_kg": "Ак титан"
+        },
+        {
+          "id": 177,
+          "hex_code": "#C8BFA8",
+          "name_en": "Natural Titanium",
+          "name_ru": "Природный титан",
+          "name_kg": "Табигый титан"
+        },
+        {
+          "id": 178,
+          "hex_code": "#C9A87C",
+          "name_en": "Desert Titanium",
+          "name_ru": "Пустынный титан",
+          "name_kg": "Чөл титаны"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 129,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 130,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 131,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 132,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iPhone 16 Pro Max",
+      "name": "iPhone 16 Pro Max",
+      "slug": "apple-iphone-16-pro-max",
+      "colors": [
+        {
+          "id": 179,
+          "hex_code": "#4A4A4A",
+          "name_en": "Black Titanium",
+          "name_ru": "Чёрный титан",
+          "name_kg": "Кара титан"
+        },
+        {
+          "id": 180,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Titanium",
+          "name_ru": "Белый титан",
+          "name_kg": "Ак титан"
+        },
+        {
+          "id": 181,
+          "hex_code": "#C8BFA8",
+          "name_en": "Natural Titanium",
+          "name_ru": "Природный титан",
+          "name_kg": "Табигый титан"
+        },
+        {
+          "id": 182,
+          "hex_code": "#C9A87C",
+          "name_en": "Desert Titanium",
+          "name_ru": "Пустынный титан",
+          "name_kg": "Чөл титаны"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 133,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 134,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 135,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iPhone 16e",
+      "name": "iPhone 16e",
+      "slug": "apple-iphone-16e",
+      "colors": [
+        {
+          "id": 183,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 184,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 136,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 137,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 138,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 17",
+      "name": "iPhone 17",
+      "slug": "apple-iphone-17",
+      "colors": [
+        {
+          "id": 185,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 186,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Titanium",
+          "name_ru": "Белый титан",
+          "name_kg": "Ак титан"
+        },
+        {
+          "id": 187,
+          "hex_code": "#C8BFA8",
+          "name_en": "Natural Titanium",
+          "name_ru": "Природный титан",
+          "name_kg": "Табигый титан"
+        },
+        {
+          "id": 188,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 189,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 139,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 140,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 141,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "iPhone 17 Air",
+      "name": "iPhone 17 Air",
+      "slug": "apple-iphone-17-air",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#4A4A4A",
+          "name_en": "Black Titanium",
+          "name_ru": "Чёрный титан",
+          "name_kg": "Кара титан"
+        },
+        {
+          "id": 191,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Titanium",
+          "name_ru": "Белый титан",
+          "name_kg": "Ак титан"
+        },
+        {
+          "id": 192,
+          "hex_code": "#3E5C76",
+          "name_en": "Blue Titanium",
+          "name_ru": "Синий титан",
+          "name_kg": "Көк титан"
+        },
+        {
+          "id": 193,
+          "hex_code": "#C8BFA8",
+          "name_en": "Natural Titanium",
+          "name_ru": "Природный титан",
+          "name_kg": "Табигый титан"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 142,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 143,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 144,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "iPhone 17 Pro",
+      "name": "iPhone 17 Pro",
+      "slug": "apple-iphone-17-pro",
+      "colors": [
+        {
+          "id": 194,
+          "hex_code": "#4A4A4A",
+          "name_en": "Black Titanium",
+          "name_ru": "Чёрный титан",
+          "name_kg": "Кара титан"
+        },
+        {
+          "id": 195,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Titanium",
+          "name_ru": "Белый титан",
+          "name_kg": "Ак титан"
+        },
+        {
+          "id": 196,
+          "hex_code": "#C8BFA8",
+          "name_en": "Natural Titanium",
+          "name_ru": "Природный титан",
+          "name_kg": "Табигый титан"
+        },
+        {
+          "id": 197,
+          "hex_code": "#D96C3E",
+          "name_en": "Cosmic Orange",
+          "name_ru": "Космический оранжевый",
+          "name_kg": "Космос кызгылт сары"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 145,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 146,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 147,
+          "name": "1TB",
+          "size_gb": 1024
+        },
+        {
+          "id": 148,
+          "name": "2TB",
+          "size_gb": 2048
+        }
+      ]
+    },
+    {
+      "value": "iPhone 17 Pro Max",
+      "name": "iPhone 17 Pro Max",
+      "slug": "apple-iphone-17-pro-max",
+      "colors": [
+        {
+          "id": 198,
+          "hex_code": "#4A4A4A",
+          "name_en": "Black Titanium",
+          "name_ru": "Чёрный титан",
+          "name_kg": "Кара титан"
+        },
+        {
+          "id": 199,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Titanium",
+          "name_ru": "Белый титан",
+          "name_kg": "Ак титан"
+        },
+        {
+          "id": 200,
+          "hex_code": "#C8BFA8",
+          "name_en": "Natural Titanium",
+          "name_ru": "Природный титан",
+          "name_kg": "Табигый титан"
+        },
+        {
+          "id": 201,
+          "hex_code": "#D96C3E",
+          "name_en": "Cosmic Orange",
+          "name_ru": "Космический оранжевый",
+          "name_kg": "Космос кызгылт сары"
+        }
+      ],
+      "rams": [],
+      "memories": [
+        {
+          "id": 149,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 150,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 151,
+          "name": "1TB",
+          "size_gb": 1024
+        },
+        {
+          "id": 152,
+          "name": "2TB",
+          "size_gb": 2048
+        }
+      ]
     }
   ]
 }

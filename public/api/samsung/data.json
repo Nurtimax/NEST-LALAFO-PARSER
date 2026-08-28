@@ -1,6342 +1,2947 @@
 {
-  "name": "samsung",
+  "name": "Samsung",
   "slug": "samsung",
   "models": [
-    {
-      "value": "Galaxy S25+",
-      "name": "Galaxy S25+",
-      "slug": "samsung-galaxy-s25+",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "A10e",
-      "name": "A10e",
-      "slug": "samsung-a10e",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Ativ S",
-      "name": "Ativ S",
-      "slug": "samsung-ativ-s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B100",
-      "name": "B100",
-      "slug": "samsung-b100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B130",
-      "name": "B130",
-      "slug": "samsung-b130",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B200",
-      "name": "B200",
-      "slug": "samsung-b200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B220",
-      "name": "B220",
-      "slug": "samsung-b220",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B300",
-      "name": "B300",
-      "slug": "samsung-b300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B320",
-      "name": "B320",
-      "slug": "samsung-b320",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B520",
-      "name": "B520",
-      "slug": "samsung-b520",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B2700",
-      "name": "B2700",
-      "slug": "samsung-b2700",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B2710 Xcover",
-      "name": "B2710 Xcover",
-      "slug": "samsung-b2710-xcover",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B3210 Corbytxt",
-      "name": "B3210 Corbytxt",
-      "slug": "samsung-b3210-corbytxt",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B3310 Corby Mate",
-      "name": "B3310 Corby Mate",
-      "slug": "samsung-b3310-corby-mate",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B3410 Corbyplus",
-      "name": "B3410 Corbyplus",
-      "slug": "samsung-b3410-corbyplus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B3410W Chat",
-      "name": "B3410W Chat",
-      "slug": "samsung-b3410w-chat",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B5310 Corbypro",
-      "name": "B5310 Corbypro",
-      "slug": "samsung-b5310-corbypro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B5510 Galaxy Y Pro",
-      "name": "B5510 Galaxy Y Pro",
-      "slug": "samsung-b5510-galaxy-y-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B5702 Duos",
-      "name": "B5702 Duos",
-      "slug": "samsung-b5702-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B5722 Duos",
-      "name": "B5722 Duos",
-      "slug": "samsung-b5722-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B7300 Omnia Lite",
-      "name": "B7300 Omnia Lite",
-      "slug": "samsung-b7300-omnia-lite",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B7320 Omniapro",
-      "name": "B7320 Omniapro",
-      "slug": "samsung-b7320-omniapro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B7350 Witu Pro",
-      "name": "B7350 Witu Pro",
-      "slug": "samsung-b7350-witu-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B7510 Galaxy Pro",
-      "name": "B7510 Galaxy Pro",
-      "slug": "samsung-b7510-galaxy-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B7610 Omniapro",
-      "name": "B7610 Omniapro",
-      "slug": "samsung-b7610-omniapro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B7620 Giorgio Armani",
-      "name": "B7620 Giorgio Armani",
-      "slug": "samsung-b7620-giorgio-armani",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B7722 Duos",
-      "name": "B7722 Duos",
-      "slug": "samsung-b7722-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "B7800 Galaxy M Pro",
-      "name": "B7800 Galaxy M Pro",
-      "slug": "samsung-b7800-galaxy-m-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Blue Earth",
-      "name": "Blue Earth",
-      "slug": "samsung-blue-earth",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C100",
-      "name": "C100",
-      "slug": "samsung-c100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C110",
-      "name": "C110",
-      "slug": "samsung-c110",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C120",
-      "name": "C120",
-      "slug": "samsung-c120",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C130",
-      "name": "C130",
-      "slug": "samsung-c130",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C140",
-      "name": "C140",
-      "slug": "samsung-c140",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C160",
-      "name": "C160",
-      "slug": "samsung-c160",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C170",
-      "name": "C170",
-      "slug": "samsung-c170",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C180",
-      "name": "C180",
-      "slug": "samsung-c180",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C200",
-      "name": "C200",
-      "slug": "samsung-c200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C200N",
-      "name": "C200N",
-      "slug": "samsung-c200n",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C210",
-      "name": "C210",
-      "slug": "samsung-c210",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C225",
-      "name": "C225",
-      "slug": "samsung-c225",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C230",
-      "name": "C230",
-      "slug": "samsung-c230",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C238",
-      "name": "C238",
-      "slug": "samsung-c238",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C240",
-      "name": "C240",
-      "slug": "samsung-c240",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C250",
-      "name": "C250",
-      "slug": "samsung-c250",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C260",
-      "name": "C260",
-      "slug": "samsung-c260",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C300",
-      "name": "C300",
-      "slug": "samsung-c300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C3060R",
-      "name": "C3060R",
-      "slug": "samsung-c3060r",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C3200 Monte Bar",
-      "name": "C3200 Monte Bar",
-      "slug": "samsung-c3200-monte-bar",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C3212 Duos",
-      "name": "C3212 Duos",
-      "slug": "samsung-c3212-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C3222",
-      "name": "C3222",
-      "slug": "samsung-c3222",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C3300 Champ",
-      "name": "C3300 Champ",
-      "slug": "samsung-c3300-champ",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C3500",
-      "name": "C3500",
-      "slug": "samsung-c3500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C3510 Corby Pop Genova",
-      "name": "C3510 Corby Pop Genova",
-      "slug": "samsung-c3510-corby-pop-genova",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C3530",
-      "name": "C3530",
-      "slug": "samsung-c3530",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C3560",
-      "name": "C3560",
-      "slug": "samsung-c3560",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C5010 Squash",
-      "name": "C5010 Squash",
-      "slug": "samsung-c5010-squash",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C5212 Duos",
-      "name": "C5212 Duos",
-      "slug": "samsung-c5212-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C5510",
-      "name": "C5510",
-      "slug": "samsung-c5510",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C6112 Duos",
-      "name": "C6112 Duos",
-      "slug": "samsung-c6112-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C6625 Valencia",
-      "name": "C6625 Valencia",
-      "slug": "samsung-c6625-valencia",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "C6712 Star Ii Duos",
-      "name": "C6712 Star Ii Duos",
-      "slug": "samsung-c6712-star-ii-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D410",
-      "name": "D410",
-      "slug": "samsung-d410",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D488",
-      "name": "D488",
-      "slug": "samsung-d488",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D500",
-      "name": "D500",
-      "slug": "samsung-d500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D520",
-      "name": "D520",
-      "slug": "samsung-d520",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D550",
-      "name": "D550",
-      "slug": "samsung-d550",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D600",
-      "name": "D600",
-      "slug": "samsung-d600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D610",
-      "name": "D610",
-      "slug": "samsung-d610",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D700",
-      "name": "D700",
-      "slug": "samsung-d700",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D710",
-      "name": "D710",
-      "slug": "samsung-d710",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D720",
-      "name": "D720",
-      "slug": "samsung-d720",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D730",
-      "name": "D730",
-      "slug": "samsung-d730",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D780",
-      "name": "D780",
-      "slug": "samsung-d780",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D780 Duos",
-      "name": "D780 Duos",
-      "slug": "samsung-d780-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D780 Duos Gold Edition",
-      "name": "D780 Duos Gold Edition",
-      "slug": "samsung-d780-duos-gold-edition",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D800",
-      "name": "D800",
-      "slug": "samsung-d800",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D820",
-      "name": "D820",
-      "slug": "samsung-d820",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D830",
-      "name": "D830",
-      "slug": "samsung-d830",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D840",
-      "name": "D840",
-      "slug": "samsung-d840",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D900",
-      "name": "D900",
-      "slug": "samsung-d900",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D900I",
-      "name": "D900I",
-      "slug": "samsung-d900i",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "D980 Duos",
-      "name": "D980 Duos",
-      "slug": "samsung-d980-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E100",
-      "name": "E100",
-      "slug": "samsung-e100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E200",
-      "name": "E200",
-      "slug": "samsung-e200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E200 Eco",
-      "name": "E200 Eco",
-      "slug": "samsung-e200-eco",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E210",
-      "name": "E210",
-      "slug": "samsung-e210",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E250",
-      "name": "E250",
-      "slug": "samsung-e250",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E251",
-      "name": "E251",
-      "slug": "samsung-e251",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E300",
-      "name": "E300",
-      "slug": "samsung-e300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E330",
-      "name": "E330",
-      "slug": "samsung-e330",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E330N",
-      "name": "E330N",
-      "slug": "samsung-e330n",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E340",
-      "name": "E340",
-      "slug": "samsung-e340",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E350",
-      "name": "E350",
-      "slug": "samsung-e350",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E360",
-      "name": "E360",
-      "slug": "samsung-e360",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E370",
-      "name": "E370",
-      "slug": "samsung-e370",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E380",
-      "name": "E380",
-      "slug": "samsung-e380",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E390",
-      "name": "E390",
-      "slug": "samsung-e390",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E400",
-      "name": "E400",
-      "slug": "samsung-e400",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E410",
-      "name": "E410",
-      "slug": "samsung-e410",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E420",
-      "name": "E420",
-      "slug": "samsung-e420",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E490",
-      "name": "E490",
-      "slug": "samsung-e490",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E500",
-      "name": "E500",
-      "slug": "samsung-e500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E530",
-      "name": "E530",
-      "slug": "samsung-e530",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E570",
-      "name": "E570",
-      "slug": "samsung-e570",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E590",
-      "name": "E590",
-      "slug": "samsung-e590",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E600",
-      "name": "E600",
-      "slug": "samsung-e600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E610",
-      "name": "E610",
-      "slug": "samsung-e610",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E620",
-      "name": "E620",
-      "slug": "samsung-e620",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E630",
-      "name": "E630",
-      "slug": "samsung-e630",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E700",
-      "name": "E700",
-      "slug": "samsung-e700",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E710",
-      "name": "E710",
-      "slug": "samsung-e710",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E715",
-      "name": "E715",
-      "slug": "samsung-e715",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E720",
-      "name": "E720",
-      "slug": "samsung-e720",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E730",
-      "name": "E730",
-      "slug": "samsung-e730",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E740",
-      "name": "E740",
-      "slug": "samsung-e740",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E750",
-      "name": "E750",
-      "slug": "samsung-e750",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E760",
-      "name": "E760",
-      "slug": "samsung-e760",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E770",
-      "name": "E770",
-      "slug": "samsung-e770",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E780",
-      "name": "E780",
-      "slug": "samsung-e780",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E790",
-      "name": "E790",
-      "slug": "samsung-e790",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E800",
-      "name": "E800",
-      "slug": "samsung-e800",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E810",
-      "name": "E810",
-      "slug": "samsung-e810",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E820",
-      "name": "E820",
-      "slug": "samsung-e820",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E830",
-      "name": "E830",
-      "slug": "samsung-e830",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E840",
-      "name": "E840",
-      "slug": "samsung-e840",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E850",
-      "name": "E850",
-      "slug": "samsung-e850",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E870",
-      "name": "E870",
-      "slug": "samsung-e870",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E890",
-      "name": "E890",
-      "slug": "samsung-e890",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E900",
-      "name": "E900",
-      "slug": "samsung-e900",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E910 Serene",
-      "name": "E910 Serene",
-      "slug": "samsung-e910-serene",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E950",
-      "name": "E950",
-      "slug": "samsung-e950",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E1150",
-      "name": "E1150",
-      "slug": "samsung-e1150",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E1170",
-      "name": "E1170",
-      "slug": "samsung-e1170",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E1175",
-      "name": "E1175",
-      "slug": "samsung-e1175",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E1182",
-      "name": "E1182",
-      "slug": "samsung-e1182",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E1195",
-      "name": "E1195",
-      "slug": "samsung-e1195",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E1225",
-      "name": "E1225",
-      "slug": "samsung-e1225",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E1252",
-      "name": "E1252",
-      "slug": "samsung-e1252",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2152 Duos Lite",
-      "name": "E2152 Duos Lite",
-      "slug": "samsung-e2152-duos-lite",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2222 Duos",
-      "name": "E2222 Duos",
-      "slug": "samsung-e2222-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2230",
-      "name": "E2230",
-      "slug": "samsung-e2230",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2232",
-      "name": "E2232",
-      "slug": "samsung-e2232",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2330",
-      "name": "E2330",
-      "slug": "samsung-e2330",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2370",
-      "name": "E2370",
-      "slug": "samsung-e2370",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2530",
-      "name": "E2530",
-      "slug": "samsung-e2530",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2550",
-      "name": "E2550",
-      "slug": "samsung-e2550",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2652 Champ Duos",
-      "name": "E2652 Champ Duos",
-      "slug": "samsung-e2652-champ-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E2652W Champ Duos",
-      "name": "E2652W Champ Duos",
-      "slug": "samsung-e2652w-champ-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "E3210",
-      "name": "E3210",
-      "slug": "samsung-e3210",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Evan",
-      "name": "Evan",
-      "slug": "samsung-evan",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F110 Adidas Micoach",
-      "name": "F110 Adidas Micoach",
-      "slug": "samsung-f110-adidas-micoach",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F200",
-      "name": "F200",
-      "slug": "samsung-f200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F210",
-      "name": "F210",
-      "slug": "samsung-f210",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F250",
-      "name": "F250",
-      "slug": "samsung-f250",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F300",
-      "name": "F300",
-      "slug": "samsung-f300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F330",
-      "name": "F330",
-      "slug": "samsung-f330",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F400",
-      "name": "F400",
-      "slug": "samsung-f400",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F480 Tocco",
-      "name": "F480 Tocco",
-      "slug": "samsung-f480-tocco",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F490",
-      "name": "F490",
-      "slug": "samsung-f490",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F500",
-      "name": "F500",
-      "slug": "samsung-f500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F510",
-      "name": "F510",
-      "slug": "samsung-f510",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F520",
-      "name": "F520",
-      "slug": "samsung-f520",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "F700 Ultra Smart",
-      "name": "F700 Ultra Smart",
-      "slug": "samsung-f700-ultra-smart",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "G400 Soul",
-      "name": "G400 Soul",
-      "slug": "samsung-g400-soul",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "G600",
-      "name": "G600",
-      "slug": "samsung-g600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "G800",
-      "name": "G800",
-      "slug": "samsung-g800",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "G810",
-      "name": "G810",
-      "slug": "samsung-g810",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-B2100",
-      "name": "GT-B2100",
-      "slug": "samsung-gt-b2100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-C3010",
-      "name": "GT-C3010",
-      "slug": "samsung-gt-c3010",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-C3050",
-      "name": "GT-C3050",
-      "slug": "samsung-gt-c3050",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-C3053",
-      "name": "GT-C3053",
-      "slug": "samsung-gt-c3053",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-C3110",
-      "name": "GT-C3110",
-      "slug": "samsung-gt-c3110",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E1070",
-      "name": "GT-E1070",
-      "slug": "samsung-gt-e1070",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E1080",
-      "name": "GT-E1080",
-      "slug": "samsung-gt-e1080",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E1081T",
-      "name": "GT-E1081T",
-      "slug": "samsung-gt-e1081t",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E1100",
-      "name": "GT-E1100",
-      "slug": "samsung-gt-e1100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E1125",
-      "name": "GT-E1125",
-      "slug": "samsung-gt-e1125",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E1210",
-      "name": "GT-E1210",
-      "slug": "samsung-gt-e1210",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E1310",
-      "name": "GT-E1310",
-      "slug": "samsung-gt-e1310",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E1360",
-      "name": "GT-E1360",
-      "slug": "samsung-gt-e1360",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E2100",
-      "name": "GT-E2100",
-      "slug": "samsung-gt-e2100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E2120",
-      "name": "GT-E2120",
-      "slug": "samsung-gt-e2120",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E2121B",
-      "name": "GT-E2121B",
-      "slug": "samsung-gt-e2121b",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E2210",
-      "name": "GT-E2210",
-      "slug": "samsung-gt-e2210",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-E2510",
-      "name": "GT-E2510",
-      "slug": "samsung-gt-e2510",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S3030 Tobi",
-      "name": "GT-S3030 Tobi",
-      "slug": "samsung-gt-s3030-tobi",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S3310",
-      "name": "GT-S3310",
-      "slug": "samsung-gt-s3310",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S3500",
-      "name": "GT-S3500",
-      "slug": "samsung-gt-s3500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S5050",
-      "name": "GT-S5050",
-      "slug": "samsung-gt-s5050",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S5200",
-      "name": "GT-S5200",
-      "slug": "samsung-gt-s5200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S5230",
-      "name": "GT-S5230",
-      "slug": "samsung-gt-s5230",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S5230 GPS",
-      "name": "GT-S5230 GPS",
-      "slug": "samsung-gt-s5230-gps",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S5230 La Fleur",
-      "name": "GT-S5230 La Fleur",
-      "slug": "samsung-gt-s5230-la-fleur",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S5233",
-      "name": "GT-S5233",
-      "slug": "samsung-gt-s5233",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S5233W",
-      "name": "GT-S5233W",
-      "slug": "samsung-gt-s5233w",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S5600",
-      "name": "GT-S5600",
-      "slug": "samsung-gt-s5600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S7220",
-      "name": "GT-S7220",
-      "slug": "samsung-gt-s7220",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S7350",
-      "name": "GT-S7350",
-      "slug": "samsung-gt-s7350",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-S9402 Ego",
-      "name": "GT-S9402 Ego",
-      "slug": "samsung-gt-s9402-ego",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT-i6410 M1",
-      "name": "GT-i6410 M1",
-      "slug": "samsung-gt-i6410-m1",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "GT1200",
-      "name": "GT1200",
-      "slug": "samsung-gt1200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A01",
-      "name": "Galaxy A01",
-      "slug": "samsung-galaxy-a01",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A01 Core",
-      "name": "Galaxy A01 Core",
-      "slug": "samsung-galaxy-a01-core",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A02",
-      "name": "Galaxy A02",
-      "slug": "samsung-galaxy-a02",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A02 S",
-      "name": "Galaxy A02 S",
-      "slug": "samsung-galaxy-a02-s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A02e",
-      "name": "Galaxy A02e",
-      "slug": "samsung-galaxy-a02e",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A03",
-      "name": "Galaxy A03",
-      "slug": "samsung-galaxy-a03",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A03s",
-      "name": "Galaxy A03s",
-      "slug": "samsung-galaxy-a03s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A04",
-      "name": "Galaxy A04",
-      "slug": "samsung-galaxy-a04",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A04e",
-      "name": "Galaxy A04e",
-      "slug": "samsung-galaxy-a04e",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A04s",
-      "name": "Galaxy A04s",
-      "slug": "samsung-galaxy-a04s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A05",
-      "name": "Galaxy A05",
-      "slug": "samsung-galaxy-a05",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A05s",
-      "name": "Galaxy A05s",
-      "slug": "samsung-galaxy-a05s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A06",
-      "name": "Galaxy A06",
-      "slug": "samsung-galaxy-a06",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A07",
-      "name": "Galaxy A07",
-      "slug": "samsung-galaxy-a07",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A2 Core",
-      "name": "Galaxy A2 Core",
-      "slug": "samsung-galaxy-a2-core",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A3",
-      "name": "Galaxy A3",
-      "slug": "samsung-galaxy-a3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A3 2016",
-      "name": "Galaxy A3 2016",
-      "slug": "samsung-galaxy-a3-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A3 2017",
-      "name": "Galaxy A3 2017",
-      "slug": "samsung-galaxy-a3-2017",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A5",
-      "name": "Galaxy A5",
-      "slug": "samsung-galaxy-a5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A5 2016",
-      "name": "Galaxy A5 2016",
-      "slug": "samsung-galaxy-a5-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A5 2017",
-      "name": "Galaxy A5 2017",
-      "slug": "samsung-galaxy-a5-2017",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A6",
-      "name": "Galaxy A6",
-      "slug": "samsung-galaxy-a6",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A6 Plus",
-      "name": "Galaxy A6 Plus",
-      "slug": "samsung-galaxy-a6-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A6s",
-      "name": "Galaxy A6s",
-      "slug": "samsung-galaxy-a6s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A7",
-      "name": "Galaxy A7",
-      "slug": "samsung-galaxy-a7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A7 2016",
-      "name": "Galaxy A7 2016",
-      "slug": "samsung-galaxy-a7-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A7 2017",
-      "name": "Galaxy A7 2017",
-      "slug": "samsung-galaxy-a7-2017",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A7 2018",
-      "name": "Galaxy A7 2018",
-      "slug": "samsung-galaxy-a7-2018",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A8",
-      "name": "Galaxy A8",
-      "slug": "samsung-galaxy-a8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A8 2018",
-      "name": "Galaxy A8 2018",
-      "slug": "samsung-galaxy-a8-2018",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A8 Plus",
-      "name": "Galaxy A8 Plus",
-      "slug": "samsung-galaxy-a8-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A8 Plus 2018",
-      "name": "Galaxy A8 Plus 2018",
-      "slug": "samsung-galaxy-a8-plus-2018",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A8s",
-      "name": "Galaxy A8s",
-      "slug": "samsung-galaxy-a8s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A9",
-      "name": "Galaxy A9",
-      "slug": "samsung-galaxy-a9",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A9 2016",
-      "name": "Galaxy A9 2016",
-      "slug": "samsung-galaxy-a9-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A9 Pro 2016",
-      "name": "Galaxy A9 Pro 2016",
-      "slug": "samsung-galaxy-a9-pro-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A9 Star",
-      "name": "Galaxy A9 Star",
-      "slug": "samsung-galaxy-a9-star",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A10",
-      "name": "Galaxy A10",
-      "slug": "samsung-galaxy-a10",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A10s",
-      "name": "Galaxy A10s",
-      "slug": "samsung-galaxy-a10s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A11",
-      "name": "Galaxy A11",
-      "slug": "samsung-galaxy-a11",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A12",
-      "name": "Galaxy A12",
-      "slug": "samsung-galaxy-a12",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A13",
-      "name": "Galaxy A13",
-      "slug": "samsung-galaxy-a13",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A14",
-      "name": "Galaxy A14",
-      "slug": "samsung-galaxy-a14",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A14 5G",
-      "name": "Galaxy A14 5G",
-      "slug": "samsung-galaxy-a14-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A15",
-      "name": "Galaxy A15",
-      "slug": "samsung-galaxy-a15",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A16",
-      "name": "Galaxy A16",
-      "slug": "samsung-galaxy-a16",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A16 5G",
-      "name": "Galaxy A16 5G",
-      "slug": "samsung-galaxy-a16-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A17",
-      "name": "Galaxy A17",
-      "slug": "samsung-galaxy-a17",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A20",
-      "name": "Galaxy A20",
-      "slug": "samsung-galaxy-a20",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A20e",
-      "name": "Galaxy A20e",
-      "slug": "samsung-galaxy-a20e",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A20s",
-      "name": "Galaxy A20s",
-      "slug": "samsung-galaxy-a20s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A21",
-      "name": "Galaxy A21",
-      "slug": "samsung-galaxy-a21",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A21S",
-      "name": "Galaxy A21S",
-      "slug": "samsung-galaxy-a21s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A22",
-      "name": "Galaxy A22",
-      "slug": "samsung-galaxy-a22",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A22 5G",
-      "name": "Galaxy A22 5G",
-      "slug": "samsung-galaxy-a22-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A23",
-      "name": "Galaxy A23",
-      "slug": "samsung-galaxy-a23",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A23 5G",
-      "name": "Galaxy A23 5G",
-      "slug": "samsung-galaxy-a23-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A24 4G",
-      "name": "Galaxy A24 4G",
-      "slug": "samsung-galaxy-a24-4g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A25",
-      "name": "Galaxy A25",
-      "slug": "samsung-galaxy-a25",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A26",
-      "name": "Galaxy A26",
-      "slug": "samsung-galaxy-a26",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A26 5G",
-      "name": "Galaxy A26 5G",
-      "slug": "samsung-galaxy-a26-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A30",
-      "name": "Galaxy A30",
-      "slug": "samsung-galaxy-a30",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A30s",
-      "name": "Galaxy A30s",
-      "slug": "samsung-galaxy-a30s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A31",
-      "name": "Galaxy A31",
-      "slug": "samsung-galaxy-a31",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A32",
-      "name": "Galaxy A32",
-      "slug": "samsung-galaxy-a32",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A32 5G",
-      "name": "Galaxy A32 5G",
-      "slug": "samsung-galaxy-a32-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A33",
-      "name": "Galaxy A33",
-      "slug": "samsung-galaxy-a33",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A33 5G",
-      "name": "Galaxy A33 5G",
-      "slug": "samsung-galaxy-a33-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A34",
-      "name": "Galaxy A34",
-      "slug": "samsung-galaxy-a34",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A34 5G",
-      "name": "Galaxy A34 5G",
-      "slug": "samsung-galaxy-a34-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A35",
-      "name": "Galaxy A35",
-      "slug": "samsung-galaxy-a35",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A35 5G",
-      "name": "Galaxy A35 5G",
-      "slug": "samsung-galaxy-a35-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A36",
-      "name": "Galaxy A36",
-      "slug": "samsung-galaxy-a36",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A36 5G",
-      "name": "Galaxy A36 5G",
-      "slug": "samsung-galaxy-a36-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A37",
-      "name": "Galaxy A37",
-      "slug": "samsung-galaxy-a37",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A40",
-      "name": "Galaxy A40",
-      "slug": "samsung-galaxy-a40",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A41",
-      "name": "Galaxy A41",
-      "slug": "samsung-galaxy-a41",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A42",
-      "name": "Galaxy A42",
-      "slug": "samsung-galaxy-a42",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A42 5G",
-      "name": "Galaxy A42 5G",
-      "slug": "samsung-galaxy-a42-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A50",
-      "name": "Galaxy A50",
-      "slug": "samsung-galaxy-a50",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A50s",
-      "name": "Galaxy A50s",
-      "slug": "samsung-galaxy-a50s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A51",
-      "name": "Galaxy A51",
-      "slug": "samsung-galaxy-a51",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A51 5G",
-      "name": "Galaxy A51 5G",
-      "slug": "samsung-galaxy-a51-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A52",
-      "name": "Galaxy A52",
-      "slug": "samsung-galaxy-a52",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A52 5G",
-      "name": "Galaxy A52 5G",
-      "slug": "samsung-galaxy-a52-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A52s",
-      "name": "Galaxy A52s",
-      "slug": "samsung-galaxy-a52s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A52s 5G",
-      "name": "Galaxy A52s 5G",
-      "slug": "samsung-galaxy-a52s-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A53",
-      "name": "Galaxy A53",
-      "slug": "samsung-galaxy-a53",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A53 5G",
-      "name": "Galaxy A53 5G",
-      "slug": "samsung-galaxy-a53-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A54",
-      "name": "Galaxy A54",
-      "slug": "samsung-galaxy-a54",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A54 5G",
-      "name": "Galaxy A54 5G",
-      "slug": "samsung-galaxy-a54-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A55",
-      "name": "Galaxy A55",
-      "slug": "samsung-galaxy-a55",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A55 5G",
-      "name": "Galaxy A55 5G",
-      "slug": "samsung-galaxy-a55-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A56",
-      "name": "Galaxy A56",
-      "slug": "samsung-galaxy-a56",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A56 5G",
-      "name": "Galaxy A56 5G",
-      "slug": "samsung-galaxy-a56-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A57",
-      "name": "Galaxy A57",
-      "slug": "samsung-galaxy-a57",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A60",
-      "name": "Galaxy A60",
-      "slug": "samsung-galaxy-a60",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A70",
-      "name": "Galaxy A70",
-      "slug": "samsung-galaxy-a70",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A70s",
-      "name": "Galaxy A70s",
-      "slug": "samsung-galaxy-a70s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A71",
-      "name": "Galaxy A71",
-      "slug": "samsung-galaxy-a71",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A71 5G",
-      "name": "Galaxy A71 5G",
-      "slug": "samsung-galaxy-a71-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A72",
-      "name": "Galaxy A72",
-      "slug": "samsung-galaxy-a72",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A72 5G",
-      "name": "Galaxy A72 5G",
-      "slug": "samsung-galaxy-a72-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A73",
-      "name": "Galaxy A73",
-      "slug": "samsung-galaxy-a73",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A73 5G",
-      "name": "Galaxy A73 5G",
-      "slug": "samsung-galaxy-a73-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A80",
-      "name": "Galaxy A80",
-      "slug": "samsung-galaxy-a80",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A80s",
-      "name": "Galaxy A80s",
-      "slug": "samsung-galaxy-a80s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A90",
-      "name": "Galaxy A90",
-      "slug": "samsung-galaxy-a90",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A90 5G",
-      "name": "Galaxy A90 5G",
-      "slug": "samsung-galaxy-a90-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A91",
-      "name": "Galaxy A91",
-      "slug": "samsung-galaxy-a91",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A300",
-      "name": "Galaxy A300",
-      "slug": "samsung-galaxy-a300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A400",
-      "name": "Galaxy A400",
-      "slug": "samsung-galaxy-a400",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A500",
-      "name": "Galaxy A500",
-      "slug": "samsung-galaxy-a500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A790",
-      "name": "Galaxy A790",
-      "slug": "samsung-galaxy-a790",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A800",
-      "name": "Galaxy A800",
-      "slug": "samsung-galaxy-a800",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy A Quantum",
-      "name": "Galaxy A Quantum",
-      "slug": "samsung-galaxy-a-quantum",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Ace 2",
-      "name": "Galaxy Ace 2",
-      "slug": "samsung-galaxy-ace-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Ace 3",
-      "name": "Galaxy Ace 3",
-      "slug": "samsung-galaxy-ace-3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Ace 4",
-      "name": "Galaxy Ace 4",
-      "slug": "samsung-galaxy-ace-4",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Ace 4 Neo",
-      "name": "Galaxy Ace 4 Neo",
-      "slug": "samsung-galaxy-ace-4-neo",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Ace Duos",
-      "name": "Galaxy Ace Duos",
-      "slug": "samsung-galaxy-ace-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Ace Plus",
-      "name": "Galaxy Ace Plus",
-      "slug": "samsung-galaxy-ace-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Alpha",
-      "name": "Galaxy Alpha",
-      "slug": "samsung-galaxy-alpha",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Beam",
-      "name": "Galaxy Beam",
-      "slug": "samsung-galaxy-beam",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy C5",
-      "name": "Galaxy C5",
-      "slug": "samsung-galaxy-c5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy C5 Pro",
-      "name": "Galaxy C5 Pro",
-      "slug": "samsung-galaxy-c5-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy C7 2016",
-      "name": "Galaxy C7 2016",
-      "slug": "samsung-galaxy-c7-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy C7 Pro",
-      "name": "Galaxy C7 Pro",
-      "slug": "samsung-galaxy-c7-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy C8",
-      "name": "Galaxy C8",
-      "slug": "samsung-galaxy-c8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy C9 Pro 2016",
-      "name": "Galaxy C9 Pro 2016",
-      "slug": "samsung-galaxy-c9-pro-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Chat",
-      "name": "Galaxy Chat",
-      "slug": "samsung-galaxy-chat",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Core",
-      "name": "Galaxy Core",
-      "slug": "samsung-galaxy-core",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Core 2",
-      "name": "Galaxy Core 2",
-      "slug": "samsung-galaxy-core-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Core Advance",
-      "name": "Galaxy Core Advance",
-      "slug": "samsung-galaxy-core-advance",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Core Lafleur",
-      "name": "Galaxy Core Lafleur",
-      "slug": "samsung-galaxy-core-lafleur",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Core Max",
-      "name": "Galaxy Core Max",
-      "slug": "samsung-galaxy-core-max",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy E5",
-      "name": "Galaxy E5",
-      "slug": "samsung-galaxy-e5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy E7",
-      "name": "Galaxy E7",
-      "slug": "samsung-galaxy-e7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Express",
-      "name": "Galaxy Express",
-      "slug": "samsung-galaxy-express",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F02s",
-      "name": "Galaxy F02s",
-      "slug": "samsung-galaxy-f02s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F04",
-      "name": "Galaxy F04",
-      "slug": "samsung-galaxy-f04",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F12",
-      "name": "Galaxy F12",
-      "slug": "samsung-galaxy-f12",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F14",
-      "name": "Galaxy F14",
-      "slug": "samsung-galaxy-f14",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F15",
-      "name": "Galaxy F15",
-      "slug": "samsung-galaxy-f15",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F22",
-      "name": "Galaxy F22",
-      "slug": "samsung-galaxy-f22",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F23",
-      "name": "Galaxy F23",
-      "slug": "samsung-galaxy-f23",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F34",
-      "name": "Galaxy F34",
-      "slug": "samsung-galaxy-f34",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F41",
-      "name": "Galaxy F41",
-      "slug": "samsung-galaxy-f41",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F42 5G",
-      "name": "Galaxy F42 5G",
-      "slug": "samsung-galaxy-f42-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F52 5G",
-      "name": "Galaxy F52 5G",
-      "slug": "samsung-galaxy-f52-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F54 5G",
-      "name": "Galaxy F54 5G",
-      "slug": "samsung-galaxy-f54-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F55",
-      "name": "Galaxy F55",
-      "slug": "samsung-galaxy-f55",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy F56",
-      "name": "Galaxy F56",
-      "slug": "samsung-galaxy-f56",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Fame",
-      "name": "Galaxy Fame",
-      "slug": "samsung-galaxy-fame",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Fame Lite Lafleur",
-      "name": "Galaxy Fame Lite Lafleur",
-      "slug": "samsung-galaxy-fame-lite-lafleur",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Fold",
-      "name": "Galaxy Fold",
-      "slug": "samsung-galaxy-fold",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Fold 2",
-      "name": "Galaxy Fold 2",
-      "slug": "samsung-galaxy-fold-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Fold 4",
-      "name": "Galaxy Fold 4",
-      "slug": "samsung-galaxy-fold-4",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Fold 5G",
-      "name": "Galaxy Fold 5G",
-      "slug": "samsung-galaxy-fold-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Folder",
-      "name": "Galaxy Folder",
-      "slug": "samsung-galaxy-folder",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Grand",
-      "name": "Galaxy Grand",
-      "slug": "samsung-galaxy-grand",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Grand 2",
-      "name": "Galaxy Grand 2",
-      "slug": "samsung-galaxy-grand-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Grand Dual Sim",
-      "name": "Galaxy Grand Dual Sim",
-      "slug": "samsung-galaxy-grand-dual-sim",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Grand Neo",
-      "name": "Galaxy Grand Neo",
-      "slug": "samsung-galaxy-grand-neo",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Grand Neo Plus",
-      "name": "Galaxy Grand Neo Plus",
-      "slug": "samsung-galaxy-grand-neo-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J1",
-      "name": "Galaxy J1",
-      "slug": "samsung-galaxy-j1",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J1 2016",
-      "name": "Galaxy J1 2016",
-      "slug": "samsung-galaxy-j1-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J1 Duos",
-      "name": "Galaxy J1 Duos",
-      "slug": "samsung-galaxy-j1-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J1 Mini",
-      "name": "Galaxy J1 Mini",
-      "slug": "samsung-galaxy-j1-mini",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J2 2016",
-      "name": "Galaxy J2 2016",
-      "slug": "samsung-galaxy-j2-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J2 Core",
-      "name": "Galaxy J2 Core",
-      "slug": "samsung-galaxy-j2-core",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J2 Prime",
-      "name": "Galaxy J2 Prime",
-      "slug": "samsung-galaxy-j2-prime",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J2 Pro 2016",
-      "name": "Galaxy J2 Pro 2016",
-      "slug": "samsung-galaxy-j2-pro-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J2 Pro 2018",
-      "name": "Galaxy J2 Pro 2018",
-      "slug": "samsung-galaxy-j2-pro-2018",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J3 2016",
-      "name": "Galaxy J3 2016",
-      "slug": "samsung-galaxy-j3-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J3 2017",
-      "name": "Galaxy J3 2017",
-      "slug": "samsung-galaxy-j3-2017",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J3 2018",
-      "name": "Galaxy J3 2018",
-      "slug": "samsung-galaxy-j3-2018",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J4 2018",
-      "name": "Galaxy J4 2018",
-      "slug": "samsung-galaxy-j4-2018",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J4 Plus",
-      "name": "Galaxy J4 Plus",
-      "slug": "samsung-galaxy-j4-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J5",
-      "name": "Galaxy J5",
-      "slug": "samsung-galaxy-j5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J5 2016",
-      "name": "Galaxy J5 2016",
-      "slug": "samsung-galaxy-j5-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J5 Prime",
-      "name": "Galaxy J5 Prime",
-      "slug": "samsung-galaxy-j5-prime",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J6",
-      "name": "Galaxy J6",
-      "slug": "samsung-galaxy-j6",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J6 Plus",
-      "name": "Galaxy J6 Plus",
-      "slug": "samsung-galaxy-j6-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J7",
-      "name": "Galaxy J7",
-      "slug": "samsung-galaxy-j7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J7 2016",
-      "name": "Galaxy J7 2016",
-      "slug": "samsung-galaxy-j7-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J7 2017",
-      "name": "Galaxy J7 2017",
-      "slug": "samsung-galaxy-j7-2017",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J7 2018",
-      "name": "Galaxy J7 2018",
-      "slug": "samsung-galaxy-j7-2018",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J7 Prime",
-      "name": "Galaxy J7 Prime",
-      "slug": "samsung-galaxy-j7-prime",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy J8",
-      "name": "Galaxy J8",
-      "slug": "samsung-galaxy-j8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy K Zoom",
-      "name": "Galaxy K Zoom",
-      "slug": "samsung-galaxy-k-zoom",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Luna",
-      "name": "Galaxy Luna",
-      "slug": "samsung-galaxy-luna",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M01",
-      "name": "Galaxy M01",
-      "slug": "samsung-galaxy-m01",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M01 Core",
-      "name": "Galaxy M01 Core",
-      "slug": "samsung-galaxy-m01-core",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M02",
-      "name": "Galaxy M02",
-      "slug": "samsung-galaxy-m02",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M02s",
-      "name": "Galaxy M02s",
-      "slug": "samsung-galaxy-m02s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M04",
-      "name": "Galaxy M04",
-      "slug": "samsung-galaxy-m04",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M10",
-      "name": "Galaxy M10",
-      "slug": "samsung-galaxy-m10",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M10s",
-      "name": "Galaxy M10s",
-      "slug": "samsung-galaxy-m10s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M11",
-      "name": "Galaxy M11",
-      "slug": "samsung-galaxy-m11",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M12",
-      "name": "Galaxy M12",
-      "slug": "samsung-galaxy-m12",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M13",
-      "name": "Galaxy M13",
-      "slug": "samsung-galaxy-m13",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M14",
-      "name": "Galaxy M14",
-      "slug": "samsung-galaxy-m14",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M14 5G",
-      "name": "Galaxy M14 5G",
-      "slug": "samsung-galaxy-m14-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M15",
-      "name": "Galaxy M15",
-      "slug": "samsung-galaxy-m15",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M20",
-      "name": "Galaxy M20",
-      "slug": "samsung-galaxy-m20",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M21",
-      "name": "Galaxy M21",
-      "slug": "samsung-galaxy-m21",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M21 2021",
-      "name": "Galaxy M21 2021",
-      "slug": "samsung-galaxy-m21-2021",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M21s",
-      "name": "Galaxy M21s",
-      "slug": "samsung-galaxy-m21s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M22",
-      "name": "Galaxy M22",
-      "slug": "samsung-galaxy-m22",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M23",
-      "name": "Galaxy M23",
-      "slug": "samsung-galaxy-m23",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M23 5G",
-      "name": "Galaxy M23 5G",
-      "slug": "samsung-galaxy-m23-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M30",
-      "name": "Galaxy M30",
-      "slug": "samsung-galaxy-m30",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M30s",
-      "name": "Galaxy M30s",
-      "slug": "samsung-galaxy-m30s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M31",
-      "name": "Galaxy M31",
-      "slug": "samsung-galaxy-m31",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M31s",
-      "name": "Galaxy M31s",
-      "slug": "samsung-galaxy-m31s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M32",
-      "name": "Galaxy M32",
-      "slug": "samsung-galaxy-m32",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M32 5G",
-      "name": "Galaxy M32 5G",
-      "slug": "samsung-galaxy-m32-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M33 5G",
-      "name": "Galaxy M33 5G",
-      "slug": "samsung-galaxy-m33-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M34 5G",
-      "name": "Galaxy M34 5G",
-      "slug": "samsung-galaxy-m34-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M35",
-      "name": "Galaxy M35",
-      "slug": "samsung-galaxy-m35",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M36",
-      "name": "Galaxy M36",
-      "slug": "samsung-galaxy-m36",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M40",
-      "name": "Galaxy M40",
-      "slug": "samsung-galaxy-m40",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M42 5G",
-      "name": "Galaxy M42 5G",
-      "slug": "samsung-galaxy-m42-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M51",
-      "name": "Galaxy M51",
-      "slug": "samsung-galaxy-m51",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M52",
-      "name": "Galaxy M52",
-      "slug": "samsung-galaxy-m52",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M52 5G",
-      "name": "Galaxy M52 5G",
-      "slug": "samsung-galaxy-m52-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M53",
-      "name": "Galaxy M53",
-      "slug": "samsung-galaxy-m53",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M54",
-      "name": "Galaxy M54",
-      "slug": "samsung-galaxy-m54",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M54 5G",
-      "name": "Galaxy M54 5G",
-      "slug": "samsung-galaxy-m54-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M55",
-      "name": "Galaxy M55",
-      "slug": "samsung-galaxy-m55",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M56",
-      "name": "Galaxy M56",
-      "slug": "samsung-galaxy-m56",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy M62",
-      "name": "Galaxy M62",
-      "slug": "samsung-galaxy-m62",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Mega 2",
-      "name": "Galaxy Mega 2",
-      "slug": "samsung-galaxy-mega-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Mega 5.8",
-      "name": "Galaxy Mega 5.8",
-      "slug": "samsung-galaxy-mega-5.8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Mega 6.3",
-      "name": "Galaxy Mega 6.3",
-      "slug": "samsung-galaxy-mega-6.3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Mini 2",
-      "name": "Galaxy Mini 2",
-      "slug": "samsung-galaxy-mini-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Music",
-      "name": "Galaxy Music",
-      "slug": "samsung-galaxy-music",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Nexus",
-      "name": "Galaxy Nexus",
-      "slug": "samsung-galaxy-nexus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note",
-      "name": "Galaxy Note",
-      "slug": "samsung-galaxy-note",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 2",
-      "name": "Galaxy Note 2",
-      "slug": "samsung-galaxy-note-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 3",
-      "name": "Galaxy Note 3",
-      "slug": "samsung-galaxy-note-3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 3 Neo",
-      "name": "Galaxy Note 3 Neo",
-      "slug": "samsung-galaxy-note-3-neo",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 4",
-      "name": "Galaxy Note 4",
-      "slug": "samsung-galaxy-note-4",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 5",
-      "name": "Galaxy Note 5",
-      "slug": "samsung-galaxy-note-5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 7",
-      "name": "Galaxy Note 7",
-      "slug": "samsung-galaxy-note-7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 8",
-      "name": "Galaxy Note 8",
-      "slug": "samsung-galaxy-note-8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 9",
-      "name": "Galaxy Note 9",
-      "slug": "samsung-galaxy-note-9",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note20",
-      "name": "Galaxy Note20",
-      "slug": "samsung-galaxy-note20",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 20",
-      "name": "Galaxy Note 20",
-      "slug": "samsung-galaxy-note-20",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note 20 Ultra",
-      "name": "Galaxy Note 20 Ultra",
-      "slug": "samsung-galaxy-note-20-ultra",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Note Edge",
-      "name": "Galaxy Note Edge",
-      "slug": "samsung-galaxy-note-edge",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy On5",
-      "name": "Galaxy On5",
-      "slug": "samsung-galaxy-on5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy On5 2016",
-      "name": "Galaxy On5 2016",
-      "slug": "samsung-galaxy-on5-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy On5 Pro",
-      "name": "Galaxy On5 Pro",
-      "slug": "samsung-galaxy-on5-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy On6",
-      "name": "Galaxy On6",
-      "slug": "samsung-galaxy-on6",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy On7",
-      "name": "Galaxy On7",
-      "slug": "samsung-galaxy-on7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy On7 2016",
-      "name": "Galaxy On7 2016",
-      "slug": "samsung-galaxy-on7-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy On7 Pro",
-      "name": "Galaxy On7 Pro",
-      "slug": "samsung-galaxy-on7-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy On8",
-      "name": "Galaxy On8",
-      "slug": "samsung-galaxy-on8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Pocket",
-      "name": "Galaxy Pocket",
-      "slug": "samsung-galaxy-pocket",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Pocket Duos",
-      "name": "Galaxy Pocket Duos",
-      "slug": "samsung-galaxy-pocket-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Pocket Neo",
-      "name": "Galaxy Pocket Neo",
-      "slug": "samsung-galaxy-pocket-neo",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Premier",
-      "name": "Galaxy Premier",
-      "slug": "samsung-galaxy-premier",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Quantum 2",
-      "name": "Galaxy Quantum 2",
-      "slug": "samsung-galaxy-quantum-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Round",
-      "name": "Galaxy Round",
-      "slug": "samsung-galaxy-round",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S2 Plus",
-      "name": "Galaxy S2 Plus",
-      "slug": "samsung-galaxy-s2-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S3 Mini",
-      "name": "Galaxy S3 Mini",
-      "slug": "samsung-galaxy-s3-mini",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S4",
-      "name": "Galaxy S4",
-      "slug": "samsung-galaxy-s4",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S4 Mini Plus",
-      "name": "Galaxy S4 Mini Plus",
-      "slug": "samsung-galaxy-s4-mini-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S5",
-      "name": "Galaxy S5",
-      "slug": "samsung-galaxy-s5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S5 Active",
-      "name": "Galaxy S5 Active",
-      "slug": "samsung-galaxy-s5-active",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S5 Duos",
-      "name": "Galaxy S5 Duos",
-      "slug": "samsung-galaxy-s5-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S5 Mini",
-      "name": "Galaxy S5 Mini",
-      "slug": "samsung-galaxy-s5-mini",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S6",
-      "name": "Galaxy S6",
-      "slug": "samsung-galaxy-s6",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S6 Edge",
-      "name": "Galaxy S6 Edge",
-      "slug": "samsung-galaxy-s6-edge",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S6 Edge Plus",
-      "name": "Galaxy S6 Edge Plus",
-      "slug": "samsung-galaxy-s6-edge-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S7",
-      "name": "Galaxy S7",
-      "slug": "samsung-galaxy-s7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S7 Edge",
-      "name": "Galaxy S7 Edge",
-      "slug": "samsung-galaxy-s7-edge",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S7 Edge Duos",
-      "name": "Galaxy S7 Edge Duos",
-      "slug": "samsung-galaxy-s7-edge-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S7 Edge Duos 2016",
-      "name": "Galaxy S7 Edge Duos 2016",
-      "slug": "samsung-galaxy-s7-edge-duos-2016",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S8",
-      "name": "Galaxy S8",
-      "slug": "samsung-galaxy-s8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S8 Plus",
-      "name": "Galaxy S8 Plus",
-      "slug": "samsung-galaxy-s8-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S9",
-      "name": "Galaxy S9",
-      "slug": "samsung-galaxy-s9",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S9 Plus",
-      "name": "Galaxy S9 Plus",
-      "slug": "samsung-galaxy-s9-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S10",
-      "name": "Galaxy S10",
-      "slug": "samsung-galaxy-s10",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S10 5G",
-      "name": "Galaxy S10 5G",
-      "slug": "samsung-galaxy-s10-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S10 Lite",
-      "name": "Galaxy S10 Lite",
-      "slug": "samsung-galaxy-s10-lite",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S10 Plus",
-      "name": "Galaxy S10 Plus",
-      "slug": "samsung-galaxy-s10-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S10e",
-      "name": "Galaxy S10e",
-      "slug": "samsung-galaxy-s10e",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S20",
-      "name": "Galaxy S20",
-      "slug": "samsung-galaxy-s20",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S20 Plus",
-      "name": "Galaxy S20 Plus",
-      "slug": "samsung-galaxy-s20-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S20 Ultra",
-      "name": "Galaxy S20 Ultra",
-      "slug": "samsung-galaxy-s20-ultra",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
     {
       "value": "Galaxy S21",
       "name": "Galaxy S21",
       "slug": "samsung-galaxy-s21",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 3,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 4,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 2,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 2,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 3,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
-      "value": "Galaxy S21 5G",
-      "name": "Galaxy S21 5G",
-      "slug": "samsung-galaxy-s21-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S21 FE",
-      "name": "Galaxy S21 FE",
-      "slug": "samsung-galaxy-s21-fe",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S21 Plus",
-      "name": "Galaxy S21 Plus",
+      "value": "Galaxy S21+",
+      "name": "Galaxy S21+",
       "slug": "samsung-galaxy-s21-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S21 Plus 5G",
-      "name": "Galaxy S21 Plus 5G",
-      "slug": "samsung-galaxy-s21-plus-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 7,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 8,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 3,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 4,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 5,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 6,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S21 Ultra",
       "name": "Galaxy S21 Ultra",
       "slug": "samsung-galaxy-s21-ultra",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#4A4A4A",
+          "name_en": "Titanium Black",
+          "name_ru": "Титановый чёрный",
+          "name_kg": "Титан кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium Gray",
+          "name_ru": "Титановый серый",
+          "name_kg": "Титан боз"
+        },
+        {
+          "id": 11,
+          "hex_code": "#6C5B9E",
+          "name_en": "Titanium Violet",
+          "name_ru": "Титановый фиолетовый",
+          "name_kg": "Титан күлгүн"
+        },
+        {
+          "id": 12,
+          "hex_code": "#F5F5F0",
+          "name_en": "Titanium White",
+          "name_ru": "Титановый белый",
+          "name_kg": "Титан ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 5,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 8,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 9,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
     },
     {
-      "value": "Galaxy S21 Ultra 5G",
-      "name": "Galaxy S21 Ultra 5G",
-      "slug": "samsung-galaxy-s21-ultra-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy S21 FE",
+      "name": "Galaxy S21 FE",
+      "slug": "samsung-galaxy-s21-fe",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 15,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 16,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 6,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 7,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 10,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 11,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 12,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S22",
       "name": "Galaxy S22",
       "slug": "samsung-galaxy-s22",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 19,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 20,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 8,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 9,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 14,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 15,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
-      "value": "Galaxy S22 5G",
-      "name": "Galaxy S22 5G",
-      "slug": "samsung-galaxy-s22-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S22 Plus",
-      "name": "Galaxy S22 Plus",
+      "value": "Galaxy S22+",
+      "name": "Galaxy S22+",
       "slug": "samsung-galaxy-s22-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 23,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 24,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 10,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 16,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 17,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 18,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S22 Ultra",
       "name": "Galaxy S22 Ultra",
       "slug": "samsung-galaxy-s22-ultra",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#4A4A4A",
+          "name_en": "Titanium Black",
+          "name_ru": "Титановый чёрный",
+          "name_kg": "Титан кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium Gray",
+          "name_ru": "Титановый серый",
+          "name_kg": "Титан боз"
+        },
+        {
+          "id": 27,
+          "hex_code": "#6C5B9E",
+          "name_en": "Titanium Violet",
+          "name_ru": "Титановый фиолетовый",
+          "name_kg": "Титан күлгүн"
+        },
+        {
+          "id": 28,
+          "hex_code": "#F5F5F0",
+          "name_en": "Titanium White",
+          "name_ru": "Титановый белый",
+          "name_kg": "Титан ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 11,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 12,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 20,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 21,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
     },
     {
       "value": "Galaxy S23",
       "name": "Galaxy S23",
       "slug": "samsung-galaxy-s23",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 29,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 30,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 31,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 32,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 14,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 22,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 23,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 24,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
-      "value": "Galaxy S23 FE",
-      "name": "Galaxy S23 FE",
-      "slug": "samsung-galaxy-s23-fe",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S23 Plus",
-      "name": "Galaxy S23 Plus",
+      "value": "Galaxy S23+",
+      "name": "Galaxy S23+",
       "slug": "samsung-galaxy-s23-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 33,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 34,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 35,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 36,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 15,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 26,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 27,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S23 Ultra",
       "name": "Galaxy S23 Ultra",
       "slug": "samsung-galaxy-s23-ultra",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#4A4A4A",
+          "name_en": "Titanium Black",
+          "name_ru": "Титановый чёрный",
+          "name_kg": "Титан кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium Gray",
+          "name_ru": "Титановый серый",
+          "name_kg": "Титан боз"
+        },
+        {
+          "id": 39,
+          "hex_code": "#6C5B9E",
+          "name_en": "Titanium Violet",
+          "name_ru": "Титановый фиолетовый",
+          "name_kg": "Титан күлгүн"
+        },
+        {
+          "id": 40,
+          "hex_code": "#F5F5F0",
+          "name_en": "Titanium White",
+          "name_ru": "Титановый белый",
+          "name_kg": "Титан ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 16,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 17,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 28,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 29,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 30,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Galaxy S23 FE",
+      "name": "Galaxy S23 FE",
+      "slug": "samsung-galaxy-s23-fe",
+      "colors": [
+        {
+          "id": 41,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 42,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 43,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 44,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 18,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 19,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 32,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 33,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S24",
       "name": "Galaxy S24",
       "slug": "samsung-galaxy-s24",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 45,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 46,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 47,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 48,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 20,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 21,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 34,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 35,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 36,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
-      "value": "Galaxy S24 FE",
-      "name": "Galaxy S24 FE",
-      "slug": "samsung-galaxy-s24-fe",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy S24+",
+      "name": "Galaxy S24+",
+      "slug": "samsung-galaxy-s24-plus",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 51,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 52,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 22,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 38,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 39,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S24 Ultra",
       "name": "Galaxy S24 Ultra",
       "slug": "samsung-galaxy-s24-ultra",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#4A4A4A",
+          "name_en": "Titanium Black",
+          "name_ru": "Титановый чёрный",
+          "name_kg": "Титан кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium Gray",
+          "name_ru": "Титановый серый",
+          "name_kg": "Титан боз"
+        },
+        {
+          "id": 55,
+          "hex_code": "#6C5B9E",
+          "name_en": "Titanium Violet",
+          "name_ru": "Титановый фиолетовый",
+          "name_kg": "Титан күлгүн"
+        },
+        {
+          "id": 56,
+          "hex_code": "#F5F5F0",
+          "name_en": "Titanium White",
+          "name_ru": "Титановый белый",
+          "name_kg": "Титан ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 23,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 24,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 40,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 41,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 42,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
     },
     {
-      "value": "Galaxy S24+",
-      "name": "Galaxy S24+",
-      "slug": "samsung-galaxy-s24+",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy S24 FE",
+      "name": "Galaxy S24 FE",
+      "slug": "samsung-galaxy-s24-fe",
+      "colors": [
+        {
+          "id": 57,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 58,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 59,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 60,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 26,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 44,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 45,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S25",
       "name": "Galaxy S25",
       "slug": "samsung-galaxy-s25",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 63,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 64,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 27,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 28,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 46,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 47,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 48,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
-      "value": "Galaxy S25 Edge",
-      "name": "Galaxy S25 Edge",
-      "slug": "samsung-galaxy-s25-edge",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S25 FE",
-      "name": "Galaxy S25 FE",
-      "slug": "samsung-galaxy-s25-fe",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S25 Plus",
-      "name": "Galaxy S25 Plus",
+      "value": "Galaxy S25+",
+      "name": "Galaxy S25+",
       "slug": "samsung-galaxy-s25-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy S25 Slim",
-      "name": "Galaxy S25 Slim",
-      "slug": "samsung-galaxy-s25-slim",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 65,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 66,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 67,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 68,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 29,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 50,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 51,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S25 Ultra",
       "name": "Galaxy S25 Ultra",
       "slug": "samsung-galaxy-s25-ultra",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 69,
+          "hex_code": "#4A4A4A",
+          "name_en": "Titanium Black",
+          "name_ru": "Титановый чёрный",
+          "name_kg": "Титан кара"
+        },
+        {
+          "id": 70,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium Gray",
+          "name_ru": "Титановый серый",
+          "name_kg": "Титан боз"
+        },
+        {
+          "id": 71,
+          "hex_code": "#6C5B9E",
+          "name_en": "Titanium Violet",
+          "name_ru": "Титановый фиолетовый",
+          "name_kg": "Титан күлгүн"
+        },
+        {
+          "id": 72,
+          "hex_code": "#F5F5F0",
+          "name_en": "Titanium White",
+          "name_ru": "Титановый белый",
+          "name_kg": "Титан ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 30,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 31,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 52,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 53,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 54,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Galaxy S25 Edge",
+      "name": "Galaxy S25 Edge",
+      "slug": "samsung-galaxy-s25-edge",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 75,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 76,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 32,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 33,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 56,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 57,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S26",
       "name": "Galaxy S26",
       "slug": "samsung-galaxy-s26",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 79,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 80,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 34,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 35,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 58,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 59,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 60,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Galaxy S26+",
+      "name": "Galaxy S26+",
+      "slug": "samsung-galaxy-s26-plus",
+      "colors": [
+        {
+          "id": 81,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 82,
+          "hex_code": "#D6D9DB",
+          "name_en": "Phantom Silver",
+          "name_ru": "Призрачный серебристый",
+          "name_kg": "Фантом күмүш"
+        },
+        {
+          "id": 83,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 84,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 36,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 62,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 63,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
     },
     {
       "value": "Galaxy S26 Ultra",
       "name": "Galaxy S26 Ultra",
       "slug": "samsung-galaxy-s26-ultra",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 85,
+          "hex_code": "#4A4A4A",
+          "name_en": "Titanium Black",
+          "name_ru": "Титановый чёрный",
+          "name_kg": "Титан кара"
+        },
+        {
+          "id": 86,
+          "hex_code": "#8A8D91",
+          "name_en": "Titanium Gray",
+          "name_ru": "Титановый серый",
+          "name_kg": "Титан боз"
+        },
+        {
+          "id": 87,
+          "hex_code": "#6C5B9E",
+          "name_en": "Titanium Violet",
+          "name_ru": "Титановый фиолетовый",
+          "name_kg": "Титан күлгүн"
+        },
+        {
+          "id": 88,
+          "hex_code": "#F5F5F0",
+          "name_en": "Titanium White",
+          "name_ru": "Титановый белый",
+          "name_kg": "Титан ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 38,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 64,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 65,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 66,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
     },
     {
-      "value": "Galaxy S26+",
-      "name": "Galaxy S26+",
-      "slug": "samsung-galaxy-s26+",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A05",
+      "name": "Galaxy A05",
+      "slug": "samsung-galaxy-a05",
+      "colors": [
+        {
+          "id": 89,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 90,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 91,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 39,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 40,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 41,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 68,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 69,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy S Advance",
-      "name": "Galaxy S Advance",
-      "slug": "samsung-galaxy-s-advance",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A05s",
+      "name": "Galaxy A05s",
+      "slug": "samsung-galaxy-a05s",
+      "colors": [
+        {
+          "id": 92,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 93,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 94,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 42,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 43,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 44,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 70,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 71,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 72,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy S Duos",
-      "name": "Galaxy S Duos",
-      "slug": "samsung-galaxy-s-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A06",
+      "name": "Galaxy A06",
+      "slug": "samsung-galaxy-a06",
+      "colors": [
+        {
+          "id": 95,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 96,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 97,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 45,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 46,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 47,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 74,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 75,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy S Duos 2",
-      "name": "Galaxy S Duos 2",
-      "slug": "samsung-galaxy-s-duos-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A15",
+      "name": "Galaxy A15",
+      "slug": "samsung-galaxy-a15",
+      "colors": [
+        {
+          "id": 98,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 99,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 100,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 48,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 49,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 50,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 76,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 77,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 78,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy S Light",
-      "name": "Galaxy S Light",
-      "slug": "samsung-galaxy-s-light",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A16",
+      "name": "Galaxy A16",
+      "slug": "samsung-galaxy-a16",
+      "colors": [
+        {
+          "id": 101,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 102,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 103,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 51,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 52,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 53,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 79,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 80,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 81,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Star 2",
-      "name": "Galaxy Star 2",
-      "slug": "samsung-galaxy-star-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A17",
+      "name": "Galaxy A17",
+      "slug": "samsung-galaxy-a17",
+      "colors": [
+        {
+          "id": 104,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 105,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 106,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 54,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 55,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 56,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 82,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 83,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 84,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Trend Lafleur",
-      "name": "Galaxy Trend Lafleur",
-      "slug": "samsung-galaxy-trend-lafleur",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A25",
+      "name": "Galaxy A25",
+      "slug": "samsung-galaxy-a25",
+      "colors": [
+        {
+          "id": 107,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 108,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 109,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 57,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 58,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 59,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 85,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 86,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 87,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Trend Plus S7580",
-      "name": "Galaxy Trend Plus S7580",
-      "slug": "samsung-galaxy-trend-plus-s7580",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A26",
+      "name": "Galaxy A26",
+      "slug": "samsung-galaxy-a26",
+      "colors": [
+        {
+          "id": 110,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 111,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 112,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 60,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 61,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 62,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 88,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 89,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 90,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Wide 5",
-      "name": "Galaxy Wide 5",
-      "slug": "samsung-galaxy-wide-5",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A35",
+      "name": "Galaxy A35",
+      "slug": "samsung-galaxy-a35",
+      "colors": [
+        {
+          "id": 113,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 114,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 115,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 63,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 64,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 65,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 91,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 92,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 93,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Win",
-      "name": "Galaxy Win",
-      "slug": "samsung-galaxy-win",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A36",
+      "name": "Galaxy A36",
+      "slug": "samsung-galaxy-a36",
+      "colors": [
+        {
+          "id": 116,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 117,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 118,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 66,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 67,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 68,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 94,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 95,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 96,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Win 2",
-      "name": "Galaxy Win 2",
-      "slug": "samsung-galaxy-win-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A37",
+      "name": "Galaxy A37",
+      "slug": "samsung-galaxy-a37",
+      "colors": [
+        {
+          "id": 119,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 120,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 121,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 69,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 70,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 71,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 97,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 98,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 99,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy XCover 5",
-      "name": "Galaxy XCover 5",
-      "slug": "samsung-galaxy-xcover-5",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A55",
+      "name": "Galaxy A55",
+      "slug": "samsung-galaxy-a55",
+      "colors": [
+        {
+          "id": 122,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 123,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 124,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 72,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 73,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 74,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 100,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 101,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 102,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy XCover 6 Pro",
-      "name": "Galaxy XCover 6 Pro",
-      "slug": "samsung-galaxy-xcover-6-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A56",
+      "name": "Galaxy A56",
+      "slug": "samsung-galaxy-a56",
+      "colors": [
+        {
+          "id": 125,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 126,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 127,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 75,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 76,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 77,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 103,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 104,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 105,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy XCover 7",
-      "name": "Galaxy XCover 7",
-      "slug": "samsung-galaxy-xcover-7",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy A57",
+      "name": "Galaxy A57",
+      "slug": "samsung-galaxy-a57",
+      "colors": [
+        {
+          "id": 128,
+          "hex_code": "#1C1C1E",
+          "name_en": "Awesome Black",
+          "name_ru": "Потрясающий чёрный",
+          "name_kg": "Керемет кара"
+        },
+        {
+          "id": 129,
+          "hex_code": "#F5F5F0",
+          "name_en": "Awesome White",
+          "name_ru": "Потрясающий белый",
+          "name_kg": "Керемет ак"
+        },
+        {
+          "id": 130,
+          "hex_code": "#4A5D7E",
+          "name_en": "Awesome Blue",
+          "name_ru": "Потрясающий синий",
+          "name_kg": "Керемет көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 78,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 79,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 80,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 106,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 107,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 108,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Xcover 2",
-      "name": "Galaxy Xcover 2",
-      "slug": "samsung-galaxy-xcover-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy M15",
+      "name": "Galaxy M15",
+      "slug": "samsung-galaxy-m15",
+      "colors": [
+        {
+          "id": 131,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 132,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 133,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 81,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 82,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 109,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 110,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Xcover 3",
-      "name": "Galaxy Xcover 3",
-      "slug": "samsung-galaxy-xcover-3",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy M35",
+      "name": "Galaxy M35",
+      "slug": "samsung-galaxy-m35",
+      "colors": [
+        {
+          "id": 134,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 135,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 136,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 83,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 84,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 111,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 112,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Xcover 4",
-      "name": "Galaxy Xcover 4",
-      "slug": "samsung-galaxy-xcover-4",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy M55",
+      "name": "Galaxy M55",
+      "slug": "samsung-galaxy-m55",
+      "colors": [
+        {
+          "id": 137,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 138,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 139,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 86,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 113,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 114,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
     },
     {
-      "value": "Galaxy Y Duos",
-      "name": "Galaxy Y Duos",
-      "slug": "samsung-galaxy-y-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Y Pro Duos",
-      "name": "Galaxy Y Pro Duos",
-      "slug": "samsung-galaxy-y-pro-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Young",
-      "name": "Galaxy Young",
-      "slug": "samsung-galaxy-young",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Young 2",
-      "name": "Galaxy Young 2",
-      "slug": "samsung-galaxy-young-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Young Duos",
-      "name": "Galaxy Young Duos",
-      "slug": "samsung-galaxy-young-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Flip 3",
-      "name": "Galaxy Z Flip 3",
-      "slug": "samsung-galaxy-z-flip-3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Flip 3 5G",
-      "name": "Galaxy Z Flip 3 5G",
-      "slug": "samsung-galaxy-z-flip-3-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Flip 4",
-      "name": "Galaxy Z Flip 4",
-      "slug": "samsung-galaxy-z-flip-4",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Flip 5",
-      "name": "Galaxy Z Flip 5",
-      "slug": "samsung-galaxy-z-flip-5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Flip6",
-      "name": "Galaxy Z Flip6",
-      "slug": "samsung-galaxy-z-flip6",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Flip 6",
-      "name": "Galaxy Z Flip 6",
-      "slug": "samsung-galaxy-z-flip-6",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Flip7",
-      "name": "Galaxy Z Flip7",
-      "slug": "samsung-galaxy-z-flip7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Flip7 FE",
-      "name": "Galaxy Z Flip7 FE",
-      "slug": "samsung-galaxy-z-flip7-fe",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Flip 7 FE",
-      "name": "Galaxy Z Flip 7 FE",
-      "slug": "samsung-galaxy-z-flip-7-fe",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Fold 2",
-      "name": "Galaxy Z Fold 2",
-      "slug": "samsung-galaxy-z-fold-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Fold 3",
-      "name": "Galaxy Z Fold 3",
-      "slug": "samsung-galaxy-z-fold-3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Fold 4",
-      "name": "Galaxy Z Fold 4",
-      "slug": "samsung-galaxy-z-fold-4",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Fold 5",
-      "name": "Galaxy Z Fold 5",
-      "slug": "samsung-galaxy-z-fold-5",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "value": "Galaxy Z Fold5",
+      "name": "Galaxy Z Fold5",
+      "slug": "samsung-galaxy-z-fold5",
+      "colors": [
+        {
+          "id": 140,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 141,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 142,
+          "hex_code": "#A9C4D6",
+          "name_en": "Icy Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 87,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 88,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 115,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 116,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 117,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
     },
     {
       "value": "Galaxy Z Fold6",
       "name": "Galaxy Z Fold6",
       "slug": "samsung-galaxy-z-fold6",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Fold 6",
-      "name": "Galaxy Z Fold 6",
-      "slug": "samsung-galaxy-z-fold-6",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Fold 7",
-      "name": "Galaxy Z Fold 7",
-      "slug": "samsung-galaxy-z-fold-7",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 143,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 144,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 145,
+          "hex_code": "#A9C4D6",
+          "name_en": "Icy Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 89,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 90,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 118,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 119,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 120,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
     },
     {
       "value": "Galaxy Z Fold7",
       "name": "Galaxy Z Fold7",
       "slug": "samsung-galaxy-z-fold7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z Fold SE",
-      "name": "Galaxy Z Fold SE",
-      "slug": "samsung-galaxy-z-fold-se",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Galaxy Z TriFold",
-      "name": "Galaxy Z TriFold",
-      "slug": "samsung-galaxy-z-trifold",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Grand Neo I9060",
-      "name": "Grand Neo I9060",
-      "slug": "samsung-grand-neo-i9060",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I200",
-      "name": "I200",
-      "slug": "samsung-i200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I300",
-      "name": "I300",
-      "slug": "samsung-i300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I300X",
-      "name": "I300X",
-      "slug": "samsung-i300x",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I310",
-      "name": "I310",
-      "slug": "samsung-i310",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I320",
-      "name": "I320",
-      "slug": "samsung-i320",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I400",
-      "name": "I400",
-      "slug": "samsung-i400",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I450",
-      "name": "I450",
-      "slug": "samsung-i450",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I500",
-      "name": "I500",
-      "slug": "samsung-i500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I520",
-      "name": "I520",
-      "slug": "samsung-i520",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I550",
-      "name": "I550",
-      "slug": "samsung-i550",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I560",
-      "name": "I560",
-      "slug": "samsung-i560",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I600",
-      "name": "I600",
-      "slug": "samsung-i600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I620",
-      "name": "I620",
-      "slug": "samsung-i620",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I700",
-      "name": "I700",
-      "slug": "samsung-i700",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I710",
-      "name": "I710",
-      "slug": "samsung-i710",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I740",
-      "name": "I740",
-      "slug": "samsung-i740",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I750",
-      "name": "I750",
-      "slug": "samsung-i750",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I780",
-      "name": "I780",
-      "slug": "samsung-i780",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I900 Omnia Witu",
-      "name": "I900 Omnia Witu",
-      "slug": "samsung-i900-omnia-witu",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I5500 Galaxy 5",
-      "name": "I5500 Galaxy 5",
-      "slug": "samsung-i5500-galaxy-5",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I5510 Galaxy 551",
-      "name": "I5510 Galaxy 551",
-      "slug": "samsung-i5510-galaxy-551",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I5700 Spica",
-      "name": "I5700 Spica",
-      "slug": "samsung-i5700-spica",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I5800 Galaxy 3",
-      "name": "I5800 Galaxy 3",
-      "slug": "samsung-i5800-galaxy-3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I5801 Galaxy Apollo",
-      "name": "I5801 Galaxy Apollo",
-      "slug": "samsung-i5801-galaxy-apollo",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I7110",
-      "name": "I7110",
-      "slug": "samsung-i7110",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I7500",
-      "name": "I7500",
-      "slug": "samsung-i7500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I8150 Galaxy W",
-      "name": "I8150 Galaxy W",
-      "slug": "samsung-i8150-galaxy-w",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I8320",
-      "name": "I8320",
-      "slug": "samsung-i8320",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I8350 Omnia M",
-      "name": "I8350 Omnia M",
-      "slug": "samsung-i8350-omnia-m",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I8350 Omnia W",
-      "name": "I8350 Omnia W",
-      "slug": "samsung-i8350-omnia-w",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I8510 Innov8",
-      "name": "I8510 Innov8",
-      "slug": "samsung-i8510-innov8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I8520 Halo",
-      "name": "I8520 Halo",
-      "slug": "samsung-i8520-halo",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I8700 Omnia 7",
-      "name": "I8700 Omnia 7",
-      "slug": "samsung-i8700-omnia-7",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I8910 Omnia Hd",
-      "name": "I8910 Omnia Hd",
-      "slug": "samsung-i8910-omnia-hd",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I8910 Omnia Hd Gold Edition",
-      "name": "I8910 Omnia Hd Gold Edition",
-      "slug": "samsung-i8910-omnia-hd-gold-edition",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9000 Galaxy S",
-      "name": "I9000 Galaxy S",
-      "slug": "samsung-i9000-galaxy-s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9001 Galaxy S 2011 Edition",
-      "name": "I9001 Galaxy S 2011 Edition",
-      "slug": "samsung-i9001-galaxy-s-2011-edition",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9003 Galaxy S Sclcd",
-      "name": "I9003 Galaxy S Sclcd",
-      "slug": "samsung-i9003-galaxy-s-sclcd",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9010 Giorgio Armani Galaxy S",
-      "name": "I9010 Giorgio Armani Galaxy S",
-      "slug": "samsung-i9010-giorgio-armani-galaxy-s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9100 Galaxy S Ii",
-      "name": "I9100 Galaxy S Ii",
-      "slug": "samsung-i9100-galaxy-s-ii",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9103 Galaxy R",
-      "name": "I9103 Galaxy R",
-      "slug": "samsung-i9103-galaxy-r",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9190 Galaxy S4 Mini",
-      "name": "I9190 Galaxy S4 Mini",
-      "slug": "samsung-i9190-galaxy-s4-mini",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9295 Galaxy S4 Active",
-      "name": "I9295 Galaxy S4 Active",
-      "slug": "samsung-i9295-galaxy-s4-active",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9300 Galaxy S3",
-      "name": "I9300 Galaxy S3",
-      "slug": "samsung-i9300-galaxy-s3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "I9500 Galaxy S4",
-      "name": "I9500 Galaxy S4",
-      "slug": "samsung-i9500-galaxy-s4",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "J150",
-      "name": "J150",
-      "slug": "samsung-j150",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "J210",
-      "name": "J210",
-      "slug": "samsung-j210",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "J400",
-      "name": "J400",
-      "slug": "samsung-j400",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "J600",
-      "name": "J600",
-      "slug": "samsung-j600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "J610",
-      "name": "J610",
-      "slug": "samsung-j610",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "J700",
-      "name": "J700",
-      "slug": "samsung-j700",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "J750",
-      "name": "J750",
-      "slug": "samsung-j750",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "J770",
-      "name": "J770",
-      "slug": "samsung-j770",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "J800 Luxe",
-      "name": "J800 Luxe",
-      "slug": "samsung-j800-luxe",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "L170",
-      "name": "L170",
-      "slug": "samsung-l170",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "L310",
-      "name": "L310",
-      "slug": "samsung-l310",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "L320",
-      "name": "L320",
-      "slug": "samsung-l320",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "L600",
-      "name": "L600",
-      "slug": "samsung-l600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "L700",
-      "name": "L700",
-      "slug": "samsung-l700",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "L760",
-      "name": "L760",
-      "slug": "samsung-l760",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "L770",
-      "name": "L770",
-      "slug": "samsung-l770",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "L811",
-      "name": "L811",
-      "slug": "samsung-l811",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "L870",
-      "name": "L870",
-      "slug": "samsung-l870",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Leader 8",
-      "name": "Leader 8",
-      "slug": "samsung-leader-8",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M110 Solid",
-      "name": "M110 Solid",
-      "slug": "samsung-m110-solid",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M150",
-      "name": "M150",
-      "slug": "samsung-m150",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M200",
-      "name": "M200",
-      "slug": "samsung-m200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M300",
-      "name": "M300",
-      "slug": "samsung-m300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M310",
-      "name": "M310",
-      "slug": "samsung-m310",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M600",
-      "name": "M600",
-      "slug": "samsung-m600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M610",
-      "name": "M610",
-      "slug": "samsung-m610",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M620",
-      "name": "M620",
-      "slug": "samsung-m620",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M2310",
-      "name": "M2310",
-      "slug": "samsung-m2310",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M2510",
-      "name": "M2510",
-      "slug": "samsung-m2510",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M3200 Beat S",
-      "name": "M3200 Beat S",
-      "slug": "samsung-m3200-beat-s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M3310",
-      "name": "M3310",
-      "slug": "samsung-m3310",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M3510 Beat B",
-      "name": "M3510 Beat B",
-      "slug": "samsung-m3510-beat-b",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M3710 Corby Beat",
-      "name": "M3710 Corby Beat",
-      "slug": "samsung-m3710-corby-beat",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M5650 Lindy",
-      "name": "M5650 Lindy",
-      "slug": "samsung-m5650-lindy",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M6710 Beat Disc",
-      "name": "M6710 Beat Disc",
-      "slug": "samsung-m6710-beat-disc",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M7600 Beat DJ",
-      "name": "M7600 Beat DJ",
-      "slug": "samsung-m7600-beat-dj",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M8800 Pixon",
-      "name": "M8800 Pixon",
-      "slug": "samsung-m8800-pixon",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "M8910 Pixon12",
-      "name": "M8910 Pixon12",
-      "slug": "samsung-m8910-pixon12",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "N500",
-      "name": "N500",
-      "slug": "samsung-n500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "N600",
-      "name": "N600",
-      "slug": "samsung-n600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "N620",
-      "name": "N620",
-      "slug": "samsung-n620",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Nexus S",
-      "name": "Nexus S",
-      "slug": "samsung-nexus-s",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Note 10",
-      "name": "Note 10",
-      "slug": "samsung-note-10",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Note 10 5G",
-      "name": "Note 10 5G",
-      "slug": "samsung-note-10-5g",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Note 10 Lite",
-      "name": "Note 10 Lite",
-      "slug": "samsung-note-10-lite",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Note 10 Plus",
-      "name": "Note 10 Plus",
-      "slug": "samsung-note-10-plus",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P100",
-      "name": "P100",
-      "slug": "samsung-p100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P300",
-      "name": "P300",
-      "slug": "samsung-p300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P310",
-      "name": "P310",
-      "slug": "samsung-p310",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P400",
-      "name": "P400",
-      "slug": "samsung-p400",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P410",
-      "name": "P410",
-      "slug": "samsung-p410",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P510",
-      "name": "P510",
-      "slug": "samsung-p510",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P705",
-      "name": "P705",
-      "slug": "samsung-p705",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P730",
-      "name": "P730",
-      "slug": "samsung-p730",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P735",
-      "name": "P735",
-      "slug": "samsung-p735",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P738",
-      "name": "P738",
-      "slug": "samsung-p738",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P850",
-      "name": "P850",
-      "slug": "samsung-p850",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P860",
-      "name": "P860",
-      "slug": "samsung-p860",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P900",
-      "name": "P900",
-      "slug": "samsung-p900",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P930",
-      "name": "P930",
-      "slug": "samsung-p930",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "P960",
-      "name": "P960",
-      "slug": "samsung-p960",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "R210",
-      "name": "R210",
-      "slug": "samsung-r210",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S200",
-      "name": "S200",
-      "slug": "samsung-s200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S300",
-      "name": "S300",
-      "slug": "samsung-s300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S400I",
-      "name": "S400I",
-      "slug": "samsung-s400i",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S410I",
-      "name": "S410I",
-      "slug": "samsung-s410i",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S500",
-      "name": "S500",
-      "slug": "samsung-s500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S3100",
-      "name": "S3100",
-      "slug": "samsung-s3100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S3350 Chat 335",
-      "name": "S3350 Chat 335",
-      "slug": "samsung-s3350-chat-335",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S3370 Corby",
-      "name": "S3370 Corby",
-      "slug": "samsung-s3370-corby",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S3550 Shark Slider",
-      "name": "S3550 Shark Slider",
-      "slug": "samsung-s3550-shark-slider",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S3600",
-      "name": "S3600",
-      "slug": "samsung-s3600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S3650 Corby",
-      "name": "S3650 Corby",
-      "slug": "samsung-s3650-corby",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S3850 Corby II",
-      "name": "S3850 Corby II",
-      "slug": "samsung-s3850-corby-ii",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5150 Diva Folder",
-      "name": "S5150 Diva Folder",
-      "slug": "samsung-s5150-diva-folder",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5250 Wave 2",
-      "name": "S5250 Wave 2",
-      "slug": "samsung-s5250-wave-2",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5260 Star II",
-      "name": "S5260 Star II",
-      "slug": "samsung-s5260-star-ii",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5330 Wave 2 Pro",
-      "name": "S5330 Wave 2 Pro",
-      "slug": "samsung-s5330-wave-2-pro",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5350 Shark",
-      "name": "S5350 Shark",
-      "slug": "samsung-s5350-shark",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5360 Galaxy Y",
-      "name": "S5360 Galaxy Y",
-      "slug": "samsung-s5360-galaxy-y",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5380 Wave Y",
-      "name": "S5380 Wave Y",
-      "slug": "samsung-s5380-wave-y",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5500 Eco",
-      "name": "S5500 Eco",
-      "slug": "samsung-s5500-eco",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5510",
-      "name": "S5510",
-      "slug": "samsung-s5510",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5550 Shark Amoled",
-      "name": "S5550 Shark Amoled",
-      "slug": "samsung-s5550-shark-amoled",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5560 Marvel",
-      "name": "S5560 Marvel",
-      "slug": "samsung-s5560-marvel",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5570 Galaxy Mini",
-      "name": "S5570 Galaxy Mini",
-      "slug": "samsung-s5570-galaxy-mini",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5600V Blade",
-      "name": "S5600V Blade",
-      "slug": "samsung-s5600v-blade",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5610",
-      "name": "S5610",
-      "slug": "samsung-s5610",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5620 Monte",
-      "name": "S5620 Monte",
-      "slug": "samsung-s5620-monte",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5630C",
-      "name": "S5630C",
-      "slug": "samsung-s5630c",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5660 Galaxy Gio",
-      "name": "S5660 Galaxy Gio",
-      "slug": "samsung-s5660-galaxy-gio",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5670 Galaxy Fit",
-      "name": "S5670 Galaxy Fit",
-      "slug": "samsung-s5670-galaxy-fit",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5750 Wave 575",
-      "name": "S5750 Wave 575",
-      "slug": "samsung-s5750-wave-575",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5780 Wave 578",
-      "name": "S5780 Wave 578",
-      "slug": "samsung-s5780-wave-578",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S5830 Galaxy Ace",
-      "name": "S5830 Galaxy Ace",
-      "slug": "samsung-s5830-galaxy-ace",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S7070 Diva",
-      "name": "S7070 Diva",
-      "slug": "samsung-s7070-diva",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S7230E Wave 723",
-      "name": "S7230E Wave 723",
-      "slug": "samsung-s7230e-wave-723",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S7230E Wave 723 La Fleur",
-      "name": "S7230E Wave 723 La Fleur",
-      "slug": "samsung-s7230e-wave-723-la-fleur",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S7250 Wave M",
-      "name": "S7250 Wave M",
-      "slug": "samsung-s7250-wave-m",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S7320E Wave 723",
-      "name": "S7320E Wave 723",
-      "slug": "samsung-s7320e-wave-723",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S7330",
-      "name": "S7330",
-      "slug": "samsung-s7330",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S7550 Blue Earth",
-      "name": "S7550 Blue Earth",
-      "slug": "samsung-s7550-blue-earth",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S8000 Jet",
-      "name": "S8000 Jet",
-      "slug": "samsung-s8000-jet",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S8003 Jet",
-      "name": "S8003 Jet",
-      "slug": "samsung-s8003-jet",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S8300 Ultra Touch",
-      "name": "S8300 Ultra Touch",
-      "slug": "samsung-s8300-ultra-touch",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S8500 Wave",
-      "name": "S8500 Wave",
-      "slug": "samsung-s8500-wave",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S8530 Wave II",
-      "name": "S8530 Wave II",
-      "slug": "samsung-s8530-wave-ii",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S8600 Wave 3",
-      "name": "S8600 Wave 3",
-      "slug": "samsung-s8600-wave-3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "S9110",
-      "name": "S9110",
-      "slug": "samsung-s9110",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Star 3",
-      "name": "Star 3",
-      "slug": "samsung-star-3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Star 3 Duos",
-      "name": "Star 3 Duos",
-      "slug": "samsung-star-3-duos",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "T100",
-      "name": "T100",
-      "slug": "samsung-t100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "T400",
-      "name": "T400",
-      "slug": "samsung-t400",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "T500",
-      "name": "T500",
-      "slug": "samsung-t500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "T929 Memoir",
-      "name": "T929 Memoir",
-      "slug": "samsung-t929-memoir",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "U100",
-      "name": "U100",
-      "slug": "samsung-u100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "U300",
-      "name": "U300",
-      "slug": "samsung-u300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "U600",
-      "name": "U600",
-      "slug": "samsung-u600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "U700",
-      "name": "U700",
-      "slug": "samsung-u700",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "U800 Soul",
-      "name": "U800 Soul",
-      "slug": "samsung-u800-soul",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "U900 Soul",
-      "name": "U900 Soul",
-      "slug": "samsung-u900-soul",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Ultra Touch S8300",
-      "name": "Ultra Touch S8300",
-      "slug": "samsung-ultra-touch-s8300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "V200",
-      "name": "V200",
-      "slug": "samsung-v200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X100",
-      "name": "X100",
-      "slug": "samsung-x100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X120",
-      "name": "X120",
-      "slug": "samsung-x120",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X140",
-      "name": "X140",
-      "slug": "samsung-x140",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X150",
-      "name": "X150",
-      "slug": "samsung-x150",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X200",
-      "name": "X200",
-      "slug": "samsung-x200",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X210",
-      "name": "X210",
-      "slug": "samsung-x210",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X300",
-      "name": "X300",
-      "slug": "samsung-x300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X400",
-      "name": "X400",
-      "slug": "samsung-x400",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X427",
-      "name": "X427",
-      "slug": "samsung-x427",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X430",
-      "name": "X430",
-      "slug": "samsung-x430",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X450",
-      "name": "X450",
-      "slug": "samsung-x450",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X460",
-      "name": "X460",
-      "slug": "samsung-x460",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X480",
-      "name": "X480",
-      "slug": "samsung-x480",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X481",
-      "name": "X481",
-      "slug": "samsung-x481",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X490",
-      "name": "X490",
-      "slug": "samsung-x490",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X500",
-      "name": "X500",
-      "slug": "samsung-x500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X510",
-      "name": "X510",
-      "slug": "samsung-x510",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X520",
-      "name": "X520",
-      "slug": "samsung-x520",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X530",
-      "name": "X530",
-      "slug": "samsung-x530",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X600",
-      "name": "X600",
-      "slug": "samsung-x600",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X610",
-      "name": "X610",
-      "slug": "samsung-x610",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X620",
-      "name": "X620",
-      "slug": "samsung-x620",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X630",
-      "name": "X630",
-      "slug": "samsung-x630",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X640",
-      "name": "X640",
-      "slug": "samsung-x640",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X650",
-      "name": "X650",
-      "slug": "samsung-x650",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X660",
-      "name": "X660",
-      "slug": "samsung-x660",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X670",
-      "name": "X670",
-      "slug": "samsung-x670",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X680",
-      "name": "X680",
-      "slug": "samsung-x680",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X700",
-      "name": "X700",
-      "slug": "samsung-x700",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X710",
-      "name": "X710",
-      "slug": "samsung-x710",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X800",
-      "name": "X800",
-      "slug": "samsung-x800",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X810",
-      "name": "X810",
-      "slug": "samsung-x810",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X820",
-      "name": "X820",
-      "slug": "samsung-x820",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X830",
-      "name": "X830",
-      "slug": "samsung-x830",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X900",
-      "name": "X900",
-      "slug": "samsung-x900",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "X910",
-      "name": "X910",
-      "slug": "samsung-x910",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z",
-      "name": "Z",
-      "slug": "samsung-z",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z1",
-      "name": "Z1",
-      "slug": "samsung-z1",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z3",
-      "name": "Z3",
-      "slug": "samsung-z3",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z100",
-      "name": "Z100",
-      "slug": "samsung-z100",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z105",
-      "name": "Z105",
-      "slug": "samsung-z105",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z107",
-      "name": "Z107",
-      "slug": "samsung-z107",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z110",
-      "name": "Z110",
-      "slug": "samsung-z110",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z130",
-      "name": "Z130",
-      "slug": "samsung-z130",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z150",
-      "name": "Z150",
-      "slug": "samsung-z150",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z170",
-      "name": "Z170",
-      "slug": "samsung-z170",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z230",
-      "name": "Z230",
-      "slug": "samsung-z230",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z240",
-      "name": "Z240",
-      "slug": "samsung-z240",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z300",
-      "name": "Z300",
-      "slug": "samsung-z300",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z350",
-      "name": "Z350",
-      "slug": "samsung-z350",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z400",
-      "name": "Z400",
-      "slug": "samsung-z400",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z500",
-      "name": "Z500",
-      "slug": "samsung-z500",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z510",
-      "name": "Z510",
-      "slug": "samsung-z510",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z540",
-      "name": "Z540",
-      "slug": "samsung-z540",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z550",
-      "name": "Z550",
-      "slug": "samsung-z550",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z560",
-      "name": "Z560",
-      "slug": "samsung-z560",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z700",
-      "name": "Z700",
-      "slug": "samsung-z700",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z710",
-      "name": "Z710",
-      "slug": "samsung-z710",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "Z Flip",
-      "name": "Z Flip",
-      "slug": "samsung-z-flip",
-      "colors": [],
-      "rams": [],
-      "memories": []
-    },
-    {
-      "value": "i8000 Omnia II",
-      "name": "i8000 Omnia II",
-      "slug": "samsung-i8000-omnia-ii",
-      "colors": [],
-      "rams": [],
-      "memories": []
+      "colors": [
+        {
+          "id": 146,
+          "hex_code": "#0B0B0C",
+          "name_en": "Phantom Black",
+          "name_ru": "Призрачный чёрный",
+          "name_kg": "Фантом кара"
+        },
+        {
+          "id": 147,
+          "hex_code": "#F1E9D2",
+          "name_en": "Cream",
+          "name_ru": "Кремовый",
+          "name_kg": "Крем"
+        },
+        {
+          "id": 148,
+          "hex_code": "#A9C4D6",
+          "name_en": "Icy Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 92,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 121,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 122,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 123,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Galaxy Z Flip5",
+      "name": "Galaxy Z Flip5",
+      "slug": "samsung-galaxy-z-flip5",
+      "colors": [
+        {
+          "id": 149,
+          "hex_code": "#B7C6B6",
+          "name_en": "Mint",
+          "name_ru": "Мятный",
+          "name_kg": "Мента"
+        },
+        {
+          "id": 150,
+          "hex_code": "#4A4A4A",
+          "name_en": "Graphite",
+          "name_ru": "Графитовый",
+          "name_kg": "Графит"
+        },
+        {
+          "id": 151,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 93,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 94,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 124,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 125,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Galaxy Z Flip6",
+      "name": "Galaxy Z Flip6",
+      "slug": "samsung-galaxy-z-flip6",
+      "colors": [
+        {
+          "id": 152,
+          "hex_code": "#B7C6B6",
+          "name_en": "Mint",
+          "name_ru": "Мятный",
+          "name_kg": "Мента"
+        },
+        {
+          "id": 153,
+          "hex_code": "#4A4A4A",
+          "name_en": "Graphite",
+          "name_ru": "Графитовый",
+          "name_kg": "Графит"
+        },
+        {
+          "id": 154,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 95,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 96,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 126,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 127,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Galaxy Z Flip7",
+      "name": "Galaxy Z Flip7",
+      "slug": "samsung-galaxy-z-flip7",
+      "colors": [
+        {
+          "id": 155,
+          "hex_code": "#B7C6B6",
+          "name_en": "Mint",
+          "name_ru": "Мятный",
+          "name_kg": "Мента"
+        },
+        {
+          "id": 156,
+          "hex_code": "#4A4A4A",
+          "name_en": "Graphite",
+          "name_ru": "Графитовый",
+          "name_kg": "Графит"
+        },
+        {
+          "id": 157,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 97,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 98,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 128,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 129,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Galaxy Z Flip7 FE",
+      "name": "Galaxy Z Flip7 FE",
+      "slug": "samsung-galaxy-z-flip7-fe",
+      "colors": [
+        {
+          "id": 158,
+          "hex_code": "#B7C6B6",
+          "name_en": "Mint",
+          "name_ru": "Мятный",
+          "name_kg": "Мента"
+        },
+        {
+          "id": 159,
+          "hex_code": "#4A4A4A",
+          "name_en": "Graphite",
+          "name_ru": "Графитовый",
+          "name_kg": "Графит"
+        },
+        {
+          "id": 160,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender",
+          "name_ru": "Лавандовый",
+          "name_kg": "Лаванда"
+        }
+      ],
+      "rams": [
+        {
+          "id": 99,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 100,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 130,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 131,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Galaxy Note20",
+      "name": "Galaxy Note20",
+      "slug": "samsung-galaxy-note20",
+      "colors": [
+        {
+          "id": 161,
+          "hex_code": "#1C1C1E",
+          "name_en": "Mystic Black",
+          "name_ru": "Мистический чёрный",
+          "name_kg": "Мистик кара"
+        },
+        {
+          "id": 162,
+          "hex_code": "#8C6A4E",
+          "name_en": "Mystic Bronze",
+          "name_ru": "Мистическая бронза",
+          "name_kg": "Мистик коло"
+        },
+        {
+          "id": 163,
+          "hex_code": "#F5F5F0",
+          "name_en": "Mystic White",
+          "name_ru": "Мистический белый",
+          "name_kg": "Мистик ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 101,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 102,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 132,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 133,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Galaxy Note20 Ultra",
+      "name": "Galaxy Note20 Ultra",
+      "slug": "samsung-galaxy-note20-ultra",
+      "colors": [
+        {
+          "id": 164,
+          "hex_code": "#1C1C1E",
+          "name_en": "Mystic Black",
+          "name_ru": "Мистический чёрный",
+          "name_kg": "Мистик кара"
+        },
+        {
+          "id": 165,
+          "hex_code": "#8C6A4E",
+          "name_en": "Mystic Bronze",
+          "name_ru": "Мистическая бронза",
+          "name_kg": "Мистик коло"
+        },
+        {
+          "id": 166,
+          "hex_code": "#F5F5F0",
+          "name_en": "Mystic White",
+          "name_ru": "Мистический белый",
+          "name_kg": "Мистик ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 103,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 104,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 134,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 135,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Galaxy XCover7",
+      "name": "Galaxy XCover7",
+      "slug": "samsung-galaxy-xcover7",
+      "colors": [
+        {
+          "id": 167,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        }
+      ],
+      "rams": [
+        {
+          "id": 105,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 136,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Galaxy XCover6 Pro",
+      "name": "Galaxy XCover6 Pro",
+      "slug": "samsung-galaxy-xcover6-pro",
+      "colors": [
+        {
+          "id": 168,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        }
+      ],
+      "rams": [
+        {
+          "id": 106,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 137,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
     }
   ]
 }
