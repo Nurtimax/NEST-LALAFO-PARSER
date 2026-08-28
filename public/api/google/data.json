@@ -1,0 +1,1462 @@
+{
+  "name": "Google",
+  "slug": "google",
+  "models": [
+    {
+      "value": "Pixel",
+      "name": "Pixel",
+      "slug": "google-pixel",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 2,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 2",
+      "name": "Pixel 2",
+      "slug": "google-pixel-2",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 2,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 3,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 4,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 2 XL",
+      "name": "Pixel 2 XL",
+      "slug": "google-pixel-2-xl",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 3,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 5,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 6,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 3",
+      "name": "Pixel 3",
+      "slug": "google-pixel-3",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        },
+        {
+          "id": 9,
+          "hex_code": "#EED9DC",
+          "name_en": "Not Pink",
+          "name_ru": "Не розовый",
+          "name_kg": "Кызгылт эмес"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 8,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 3 XL",
+      "name": "Pixel 3 XL",
+      "slug": "google-pixel-3-xl",
+      "colors": [
+        {
+          "id": 10,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 11,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        },
+        {
+          "id": 12,
+          "hex_code": "#EED9DC",
+          "name_en": "Not Pink",
+          "name_ru": "Не розовый",
+          "name_kg": "Кызгылт эмес"
+        }
+      ],
+      "rams": [
+        {
+          "id": 5,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 9,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 10,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 3A",
+      "name": "Pixel 3A",
+      "slug": "google-pixel-3a",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        },
+        {
+          "id": 15,
+          "hex_code": "#D5C6DE",
+          "name_en": "Purple-ish",
+          "name_ru": "Слегка фиолетовый",
+          "name_kg": "Бир аз күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 6,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 11,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pixel 3A XL",
+      "name": "Pixel 3A XL",
+      "slug": "google-pixel-3a-xl",
+      "colors": [
+        {
+          "id": 16,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 17,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        },
+        {
+          "id": 18,
+          "hex_code": "#D5C6DE",
+          "name_en": "Purple-ish",
+          "name_ru": "Слегка фиолетовый",
+          "name_kg": "Бир аз күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 12,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Pixel 4",
+      "name": "Pixel 4",
+      "slug": "google-pixel-4",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 8,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 14,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 4 XL",
+      "name": "Pixel 4 XL",
+      "slug": "google-pixel-4-xl",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 9,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 15,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 16,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 4A",
+      "name": "Pixel 4A",
+      "slug": "google-pixel-4a",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        }
+      ],
+      "rams": [
+        {
+          "id": 10,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 17,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 4A 5G",
+      "name": "Pixel 4A 5G",
+      "slug": "google-pixel-4a-5g",
+      "colors": [
+        {
+          "id": 24,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        }
+      ],
+      "rams": [
+        {
+          "id": 11,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 18,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 5",
+      "name": "Pixel 5",
+      "slug": "google-pixel-5",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#94A89A",
+          "name_en": "Sorta Sage",
+          "name_ru": "Немного шалфей",
+          "name_kg": "Бир аз саж"
+        }
+      ],
+      "rams": [
+        {
+          "id": 12,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 5A 5G",
+      "name": "Pixel 5A 5G",
+      "slug": "google-pixel-5a-5g",
+      "colors": [
+        {
+          "id": 27,
+          "hex_code": "#1C1C1E",
+          "name_en": "Mostly Black",
+          "name_ru": "Преимущественно чёрный",
+          "name_kg": "Негизинен кара"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 20,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 6",
+      "name": "Pixel 6",
+      "slug": "google-pixel-6",
+      "colors": [
+        {
+          "id": 28,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 29,
+          "hex_code": "#F5F5F0",
+          "name_en": "Snow",
+          "name_ru": "Снежный",
+          "name_kg": "Кар"
+        },
+        {
+          "id": 30,
+          "hex_code": "#8C8874",
+          "name_en": "Hazel",
+          "name_ru": "Ореховый",
+          "name_kg": "Жаңгак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 14,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 21,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 22,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pixel 6 Pro",
+      "name": "Pixel 6 Pro",
+      "slug": "google-pixel-6-pro",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 32,
+          "hex_code": "#F5F5F0",
+          "name_en": "Snow",
+          "name_ru": "Снежный",
+          "name_kg": "Кар"
+        },
+        {
+          "id": 33,
+          "hex_code": "#8C8874",
+          "name_en": "Hazel",
+          "name_ru": "Ореховый",
+          "name_kg": "Жаңгак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 15,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 23,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 24,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 25,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Pixel 6A",
+      "name": "Pixel 6A",
+      "slug": "google-pixel-6a",
+      "colors": [
+        {
+          "id": 34,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 35,
+          "hex_code": "#F5F5F0",
+          "name_en": "Snow",
+          "name_ru": "Снежный",
+          "name_kg": "Кар"
+        },
+        {
+          "id": 36,
+          "hex_code": "#8C8874",
+          "name_en": "Hazel",
+          "name_ru": "Ореховый",
+          "name_kg": "Жаңгак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 16,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 26,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 7",
+      "name": "Pixel 7",
+      "slug": "google-pixel-7",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 38,
+          "hex_code": "#F5F5F0",
+          "name_en": "Snow",
+          "name_ru": "Снежный",
+          "name_kg": "Кар"
+        },
+        {
+          "id": 39,
+          "hex_code": "#8C8874",
+          "name_en": "Hazel",
+          "name_ru": "Ореховый",
+          "name_kg": "Жаңгак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 17,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 27,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 28,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pixel 7 Pro",
+      "name": "Pixel 7 Pro",
+      "slug": "google-pixel-7-pro",
+      "colors": [
+        {
+          "id": 40,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 41,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 42,
+          "hex_code": "#4A5D7E",
+          "name_en": "Bay",
+          "name_ru": "Морской залив",
+          "name_kg": "Булуң"
+        }
+      ],
+      "rams": [
+        {
+          "id": 18,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 29,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 30,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 31,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Pixel 7a",
+      "name": "Pixel 7a",
+      "slug": "google-pixel-7a",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#4A4A4A",
+          "name_en": "Charcoal",
+          "name_ru": "Угольный",
+          "name_kg": "Көмүр"
+        },
+        {
+          "id": 44,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 45,
+          "hex_code": "#94A89A",
+          "name_en": "Aloe",
+          "name_ru": "Алоэ",
+          "name_kg": "Алоэ"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 32,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "Pixel 8",
+      "name": "Pixel 8",
+      "slug": "google-pixel-8",
+      "colors": [
+        {
+          "id": 46,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 47,
+          "hex_code": "#F5F5F0",
+          "name_en": "Snow",
+          "name_ru": "Снежный",
+          "name_kg": "Кар"
+        },
+        {
+          "id": 48,
+          "hex_code": "#8C8874",
+          "name_en": "Hazel",
+          "name_ru": "Ореховый",
+          "name_kg": "Жаңгак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 20,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 33,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 34,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pixel 8 Pro",
+      "name": "Pixel 8 Pro",
+      "slug": "google-pixel-8-pro",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 50,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 51,
+          "hex_code": "#4A5D7E",
+          "name_en": "Bay",
+          "name_ru": "Морской залив",
+          "name_kg": "Булуң"
+        }
+      ],
+      "rams": [
+        {
+          "id": 21,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 35,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 36,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 37,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 38,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Pixel 8a",
+      "name": "Pixel 8a",
+      "slug": "google-pixel-8a",
+      "colors": [
+        {
+          "id": 52,
+          "hex_code": "#4A4A4A",
+          "name_en": "Charcoal",
+          "name_ru": "Угольный",
+          "name_kg": "Көмүр"
+        },
+        {
+          "id": 53,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 54,
+          "hex_code": "#94A89A",
+          "name_en": "Aloe",
+          "name_ru": "Алоэ",
+          "name_kg": "Алоэ"
+        }
+      ],
+      "rams": [
+        {
+          "id": 22,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 39,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 40,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pixel 9",
+      "name": "Pixel 9",
+      "slug": "google-pixel-9",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 56,
+          "hex_code": "#F5F5F0",
+          "name_en": "Snow",
+          "name_ru": "Снежный",
+          "name_kg": "Кар"
+        },
+        {
+          "id": 57,
+          "hex_code": "#8C8874",
+          "name_en": "Hazel",
+          "name_ru": "Ореховый",
+          "name_kg": "Жаңгак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 23,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 41,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 42,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pixel 9 Pro",
+      "name": "Pixel 9 Pro",
+      "slug": "google-pixel-9-pro",
+      "colors": [
+        {
+          "id": 58,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 59,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 60,
+          "hex_code": "#4A5D7E",
+          "name_en": "Bay",
+          "name_ru": "Морской залив",
+          "name_kg": "Булуң"
+        }
+      ],
+      "rams": [
+        {
+          "id": 24,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 44,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 45,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 46,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Pixel 9 Pro Fold",
+      "name": "Pixel 9 Pro Fold",
+      "slug": "google-pixel-9-pro-fold",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 62,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 47,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 48,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Pixel 9 Pro XL",
+      "name": "Pixel 9 Pro XL",
+      "slug": "google-pixel-9-pro-xl",
+      "colors": [
+        {
+          "id": 63,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 64,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 65,
+          "hex_code": "#4A5D7E",
+          "name_en": "Bay",
+          "name_ru": "Морской залив",
+          "name_kg": "Булуң"
+        }
+      ],
+      "rams": [
+        {
+          "id": 26,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 50,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 51,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 52,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Pixel 9a",
+      "name": "Pixel 9a",
+      "slug": "google-pixel-9a",
+      "colors": [
+        {
+          "id": 66,
+          "hex_code": "#4A4A4A",
+          "name_en": "Charcoal",
+          "name_ru": "Угольный",
+          "name_kg": "Көмүр"
+        },
+        {
+          "id": 67,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 68,
+          "hex_code": "#94A89A",
+          "name_en": "Aloe",
+          "name_ru": "Алоэ",
+          "name_kg": "Алоэ"
+        }
+      ],
+      "rams": [
+        {
+          "id": 27,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 53,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 54,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pixel 10",
+      "name": "Pixel 10",
+      "slug": "google-pixel-10",
+      "colors": [
+        {
+          "id": 69,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 70,
+          "hex_code": "#F5F5F0",
+          "name_en": "Snow",
+          "name_ru": "Снежный",
+          "name_kg": "Кар"
+        },
+        {
+          "id": 71,
+          "hex_code": "#8C8874",
+          "name_en": "Hazel",
+          "name_ru": "Ореховый",
+          "name_kg": "Жаңгак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 28,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 56,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pixel 10 Pro",
+      "name": "Pixel 10 Pro",
+      "slug": "google-pixel-10-pro",
+      "colors": [
+        {
+          "id": 72,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 73,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 74,
+          "hex_code": "#4A5D7E",
+          "name_en": "Bay",
+          "name_ru": "Морской залив",
+          "name_kg": "Булуң"
+        }
+      ],
+      "rams": [
+        {
+          "id": 29,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 57,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 58,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 59,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Pixel 10 Pro XL",
+      "name": "Pixel 10 Pro XL",
+      "slug": "google-pixel-10-pro-xl",
+      "colors": [
+        {
+          "id": 75,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 76,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 77,
+          "hex_code": "#4A5D7E",
+          "name_en": "Bay",
+          "name_ru": "Морской залив",
+          "name_kg": "Булуң"
+        }
+      ],
+      "rams": [
+        {
+          "id": 30,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 60,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 61,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 62,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "value": "Pixel 10a",
+      "name": "Pixel 10a",
+      "slug": "google-pixel-10a",
+      "colors": [
+        {
+          "id": 78,
+          "hex_code": "#4A4A4A",
+          "name_en": "Charcoal",
+          "name_ru": "Угольный",
+          "name_kg": "Көмүр"
+        },
+        {
+          "id": 79,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        },
+        {
+          "id": 80,
+          "hex_code": "#94A89A",
+          "name_en": "Aloe",
+          "name_ru": "Алоэ",
+          "name_kg": "Алоэ"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 63,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 64,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "Pixel Fold",
+      "name": "Pixel Fold",
+      "slug": "google-pixel-fold",
+      "colors": [
+        {
+          "id": 81,
+          "hex_code": "#1C1C1E",
+          "name_en": "Obsidian",
+          "name_ru": "Обсидиан",
+          "name_kg": "Обсидиан"
+        },
+        {
+          "id": 82,
+          "hex_code": "#F5F1E8",
+          "name_en": "Porcelain",
+          "name_ru": "Фарфоровый",
+          "name_kg": "Фарфор"
+        }
+      ],
+      "rams": [
+        {
+          "id": 32,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 65,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 66,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Pixel XL",
+      "name": "Pixel XL",
+      "slug": "google-pixel-xl",
+      "colors": [
+        {
+          "id": 83,
+          "hex_code": "#1C1C1E",
+          "name_en": "Just Black",
+          "name_ru": "Просто чёрный",
+          "name_kg": "Так эле кара"
+        },
+        {
+          "id": 84,
+          "hex_code": "#F5F5F0",
+          "name_en": "Clearly White",
+          "name_ru": "Прозрачно белый",
+          "name_kg": "Тунук ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 33,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 68,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    }
+  ]
+}
