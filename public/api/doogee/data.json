@@ -1,0 +1,2445 @@
+{
+  "name": "DOOGEE",
+  "slug": "doogee",
+  "models": [
+    {
+      "value": "Blade10",
+      "name": "Blade10",
+      "slug": "doogee-blade10",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 2,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 3,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 2,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 3,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Blade10 Max",
+      "name": "Blade10 Max",
+      "slug": "doogee-blade10-max",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 4,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 5,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 6,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 4,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 5,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 6,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Blade10 Pro",
+      "name": "Blade10 Pro",
+      "slug": "doogee-blade10-pro",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 8,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 9,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 8,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 9,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "Blade10 Ultra",
+      "name": "Blade10 Ultra",
+      "slug": "doogee-blade10-ultra",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 10,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 11,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 12,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 10,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 11,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 12,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "DK10",
+      "name": "DK10",
+      "slug": "doogee-dk10",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 14,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 14,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "N50",
+      "name": "N50",
+      "slug": "doogee-n50",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#1C1C1E",
+          "name_en": "Space Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#6C5B9E",
+          "name_en": "Twilight Purple",
+          "name_ru": "Сумеречный фиолетовый",
+          "name_kg": "Иңир күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 15,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 16,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 15,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 16,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "N50 Pro",
+      "name": "N50 Pro",
+      "slug": "doogee-n50-pro",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Space Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#6C5B9E",
+          "name_en": "Twilight Purple",
+          "name_ru": "Сумеречный фиолетовый",
+          "name_kg": "Иңир күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 17,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 18,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 17,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 18,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "N55",
+      "name": "N55",
+      "slug": "doogee-n55",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#1C1C1E",
+          "name_en": "Space Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 16,
+          "hex_code": "#6C5B9E",
+          "name_en": "Twilight Purple",
+          "name_ru": "Сумеречный фиолетовый",
+          "name_kg": "Иңир күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 20,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 20,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "N55 Plus",
+      "name": "N55 Plus",
+      "slug": "doogee-n55-plus",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Space Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#6C5B9E",
+          "name_en": "Twilight Purple",
+          "name_ru": "Сумеречный фиолетовый",
+          "name_kg": "Иңир күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 21,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 22,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 21,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 22,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "N55 Pro",
+      "name": "N55 Pro",
+      "slug": "doogee-n55-pro",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Space Black",
+          "name_ru": "Космический чёрный",
+          "name_kg": "Космос кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#6C5B9E",
+          "name_en": "Twilight Purple",
+          "name_ru": "Сумеречный фиолетовый",
+          "name_kg": "Иңир күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 23,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 24,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 23,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 24,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S41",
+      "name": "S41",
+      "slug": "doogee-s41",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 22,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 23,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 26,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 26,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "S51",
+      "name": "S51",
+      "slug": "doogee-s51",
+      "colors": [
+        {
+          "id": 24,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 27,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 28,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 27,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 28,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "S61",
+      "name": "S61",
+      "slug": "doogee-s61",
+      "colors": [
+        {
+          "id": 27,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 28,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 29,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 29,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 30,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 29,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 30,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "S61 Pro",
+      "name": "S61 Pro",
+      "slug": "doogee-s61-pro",
+      "colors": [
+        {
+          "id": 30,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 32,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 32,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "S88 Plus",
+      "name": "S88 Plus",
+      "slug": "doogee-s88-plus",
+      "colors": [
+        {
+          "id": 33,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 34,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 35,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 33,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 34,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 33,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 34,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "S88 Pro",
+      "name": "S88 Pro",
+      "slug": "doogee-s88-pro",
+      "colors": [
+        {
+          "id": 36,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 35,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 36,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 35,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 36,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "S89",
+      "name": "S89",
+      "slug": "doogee-s89",
+      "colors": [
+        {
+          "id": 39,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 40,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 41,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 38,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 37,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 38,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "S89 Pro",
+      "name": "S89 Pro",
+      "slug": "doogee-s89-pro",
+      "colors": [
+        {
+          "id": 42,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 39,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 40,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 39,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 40,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "value": "S96 GT",
+      "name": "S96 GT",
+      "slug": "doogee-s96-gt",
+      "colors": [
+        {
+          "id": 45,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 46,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 41,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 42,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 41,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 42,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S96 Pro",
+      "name": "S96 Pro",
+      "slug": "doogee-s96-pro",
+      "colors": [
+        {
+          "id": 47,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 48,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 44,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 44,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S98",
+      "name": "S98",
+      "slug": "doogee-s98",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 45,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 46,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 45,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 46,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S98 Pro",
+      "name": "S98 Pro",
+      "slug": "doogee-s98-pro",
+      "colors": [
+        {
+          "id": 51,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 52,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 47,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 48,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 47,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 48,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S99",
+      "name": "S99",
+      "slug": "doogee-s99",
+      "colors": [
+        {
+          "id": 53,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 54,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 49,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 50,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 49,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 50,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S100",
+      "name": "S100",
+      "slug": "doogee-s100",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 51,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 52,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 51,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 52,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S100 Pro",
+      "name": "S100 Pro",
+      "slug": "doogee-s100-pro",
+      "colors": [
+        {
+          "id": 57,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 58,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 53,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 54,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 53,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 54,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S110",
+      "name": "S110",
+      "slug": "doogee-s110",
+      "colors": [
+        {
+          "id": 59,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 60,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 55,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 56,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 55,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 56,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S118",
+      "name": "S118",
+      "slug": "doogee-s118",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 57,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 58,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 57,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 58,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S200",
+      "name": "S200",
+      "slug": "doogee-s200",
+      "colors": [
+        {
+          "id": 63,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 64,
+          "hex_code": "#4E5851",
+          "name_en": "Camo Green",
+          "name_ru": "Камуфляж зелёный",
+          "name_kg": "Камуфляж жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 59,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 60,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 59,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 60,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "S cyber",
+      "name": "S cyber",
+      "slug": "doogee-s-cyber",
+      "colors": [
+        {
+          "id": 65,
+          "hex_code": "#5A6EBB",
+          "name_en": "Cyberpunk",
+          "name_ru": "Киберпанк",
+          "name_kg": "Киберпанк"
+        },
+        {
+          "id": 66,
+          "hex_code": "#F2E7C3",
+          "name_en": "Punk Yellow",
+          "name_ru": "Панк жёлтый",
+          "name_kg": "Панк сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 61,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 62,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 62,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "Smini",
+      "name": "Smini",
+      "slug": "doogee-smini",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#5A6EBB",
+          "name_en": "Cyberpunk",
+          "name_ru": "Киберпанк",
+          "name_kg": "Киберпанк"
+        },
+        {
+          "id": 68,
+          "hex_code": "#F2E7C3",
+          "name_en": "Punk Yellow",
+          "name_ru": "Панк жёлтый",
+          "name_kg": "Панк сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 63,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 64,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 63,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 64,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "S punk",
+      "name": "S punk",
+      "slug": "doogee-s-punk",
+      "colors": [
+        {
+          "id": 69,
+          "hex_code": "#5A6EBB",
+          "name_en": "Cyberpunk",
+          "name_ru": "Киберпанк",
+          "name_kg": "Киберпанк"
+        },
+        {
+          "id": 70,
+          "hex_code": "#F2E7C3",
+          "name_en": "Punk Yellow",
+          "name_ru": "Панк жёлтый",
+          "name_kg": "Панк сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 65,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 66,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 65,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 66,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "value": "V10",
+      "name": "V10",
+      "slug": "doogee-v10",
+      "colors": [
+        {
+          "id": 71,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 72,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 73,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 67,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 68,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 67,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 68,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V11",
+      "name": "V11",
+      "slug": "doogee-v11",
+      "colors": [
+        {
+          "id": 74,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 75,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 76,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 69,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 70,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 69,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 70,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V20",
+      "name": "V20",
+      "slug": "doogee-v20",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 78,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 79,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 71,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 72,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 71,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 72,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V20 Pro",
+      "name": "V20 Pro",
+      "slug": "doogee-v20-pro",
+      "colors": [
+        {
+          "id": 80,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 81,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 82,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 73,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 74,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 73,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 74,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V20S",
+      "name": "V20S",
+      "slug": "doogee-v20s",
+      "colors": [
+        {
+          "id": 83,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 84,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 85,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 75,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 76,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 75,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 76,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V30",
+      "name": "V30",
+      "slug": "doogee-v30",
+      "colors": [
+        {
+          "id": 86,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 87,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 88,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 77,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 78,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 77,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 78,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V30 Pro",
+      "name": "V30 Pro",
+      "slug": "doogee-v30-pro",
+      "colors": [
+        {
+          "id": 89,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 90,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 91,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 79,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 80,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 79,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 80,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V30T",
+      "name": "V30T",
+      "slug": "doogee-v30t",
+      "colors": [
+        {
+          "id": 92,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 93,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 94,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 81,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 82,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 81,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 82,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V31 GT",
+      "name": "V31 GT",
+      "slug": "doogee-v31-gt",
+      "colors": [
+        {
+          "id": 95,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 96,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 97,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 83,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 84,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 83,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 84,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V40",
+      "name": "V40",
+      "slug": "doogee-v40",
+      "colors": [
+        {
+          "id": 98,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 99,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 100,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 86,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 85,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 86,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V40 Pro",
+      "name": "V40 Pro",
+      "slug": "doogee-v40-pro",
+      "colors": [
+        {
+          "id": 101,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 102,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 103,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 87,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 88,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 87,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 88,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V Max",
+      "name": "V Max",
+      "slug": "doogee-v-max",
+      "colors": [
+        {
+          "id": 104,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 105,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 106,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 89,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 90,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 89,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 90,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V Max Plus",
+      "name": "V Max Plus",
+      "slug": "doogee-v-max-plus",
+      "colors": [
+        {
+          "id": 107,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 108,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 109,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 92,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 91,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 92,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "V Max Pro",
+      "name": "V Max Pro",
+      "slug": "doogee-v-max-pro",
+      "colors": [
+        {
+          "id": 110,
+          "hex_code": "#4E5851",
+          "name_en": "Army Green",
+          "name_ru": "Армейский зелёный",
+          "name_kg": "Аскер жашыл"
+        },
+        {
+          "id": 111,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 112,
+          "hex_code": "#D96C3E",
+          "name_en": "Orange",
+          "name_ru": "Оранжевый",
+          "name_kg": "Кызгылт сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 93,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 94,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 93,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 94,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "value": "X97",
+      "name": "X97",
+      "slug": "doogee-x97",
+      "colors": [
+        {
+          "id": 113,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 114,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 95,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 96,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 97,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 95,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 96,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 97,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "X97 Pro",
+      "name": "X97 Pro",
+      "slug": "doogee-x97-pro",
+      "colors": [
+        {
+          "id": 115,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 116,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 98,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 99,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 100,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 98,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 99,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 100,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "X98",
+      "name": "X98",
+      "slug": "doogee-x98",
+      "colors": [
+        {
+          "id": 117,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 118,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 101,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 102,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 103,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 101,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 102,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 103,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "value": "X98 Pro",
+      "name": "X98 Pro",
+      "slug": "doogee-x98-pro",
+      "colors": [
+        {
+          "id": 119,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 120,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 104,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 105,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 106,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 104,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 105,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 106,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    }
+  ]
+}
