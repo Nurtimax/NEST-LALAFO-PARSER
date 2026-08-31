@@ -1,0 +1,6661 @@
+{
+  "id": 3,
+  "title": "Xiaomi",
+  "slug": "xiaomi",
+  "models": [
+    {
+      "name": "11T",
+      "slug": "xiaomi-11t",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 3,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 4,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 2,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 2,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "11T Pro",
+      "slug": "xiaomi-11t-pro",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 7,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 8,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 3,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 4,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 3,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 4,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "11i HyperCharge",
+      "slug": "xiaomi-11i-hypercharge",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 11,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 12,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 5,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 6,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 5,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 6,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "12",
+      "slug": "xiaomi-12",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 15,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 16,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 8,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 8,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "12 Pro",
+      "slug": "xiaomi-12-pro",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 19,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 20,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 9,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 10,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 9,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 10,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "12 Ultra",
+      "slug": "xiaomi-12-ultra",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 23,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 11,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 12,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 11,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 12,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 13,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "12S",
+      "slug": "xiaomi-12s",
+      "colors": [
+        {
+          "id": 24,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 25,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 26,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 27,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 14,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 14,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 15,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "12S Pro",
+      "slug": "xiaomi-12s-pro",
+      "colors": [
+        {
+          "id": 28,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 29,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 30,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 31,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 15,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 16,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 16,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 17,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "12S Ultra",
+      "slug": "xiaomi-12s-ultra",
+      "colors": [
+        {
+          "id": 32,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 33,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 34,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 17,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 18,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 18,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 19,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 20,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "12T",
+      "slug": "xiaomi-12t",
+      "colors": [
+        {
+          "id": 35,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 36,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 37,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 38,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 20,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 21,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 22,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "12T Pro",
+      "slug": "xiaomi-12t-pro",
+      "colors": [
+        {
+          "id": 39,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 40,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 41,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 42,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 21,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 22,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 23,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 24,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "13",
+      "slug": "xiaomi-13",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 45,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 46,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 23,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 24,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 25,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 26,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "13 Pro",
+      "slug": "xiaomi-13-pro",
+      "colors": [
+        {
+          "id": 47,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 48,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 49,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 50,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 25,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 26,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 27,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 28,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "13 Lite",
+      "slug": "xiaomi-13-lite",
+      "colors": [
+        {
+          "id": 51,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 52,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 53,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 54,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 27,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 28,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 29,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 30,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "13 Ultra",
+      "slug": "xiaomi-13-ultra",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 57,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 29,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 30,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 31,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 32,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 33,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "13T",
+      "slug": "xiaomi-13t",
+      "colors": [
+        {
+          "id": 58,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 59,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 60,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 61,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 31,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 32,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 34,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 35,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "13T Pro",
+      "slug": "xiaomi-13t-pro",
+      "colors": [
+        {
+          "id": 62,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 63,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 64,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 65,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 33,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 34,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 36,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 37,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "14",
+      "slug": "xiaomi-14",
+      "colors": [
+        {
+          "id": 66,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 67,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 68,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 69,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 35,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 36,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 38,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 39,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "14 Civi",
+      "slug": "xiaomi-14-civi",
+      "colors": [
+        {
+          "id": 70,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 71,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 72,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 37,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 38,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 40,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 41,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 42,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "14 Pro",
+      "slug": "xiaomi-14-pro",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 75,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 76,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 39,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 40,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 43,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 44,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "14 Ultra",
+      "slug": "xiaomi-14-ultra",
+      "colors": [
+        {
+          "id": 77,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 78,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 79,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 41,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 42,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 45,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 46,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 47,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "14T",
+      "slug": "xiaomi-14t",
+      "colors": [
+        {
+          "id": 80,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 81,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 82,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 83,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 43,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 44,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 48,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 49,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "14T Pro",
+      "slug": "xiaomi-14t-pro",
+      "colors": [
+        {
+          "id": 84,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 85,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 86,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 87,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 45,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 46,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 50,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 51,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "15",
+      "slug": "xiaomi-15",
+      "colors": [
+        {
+          "id": 88,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 89,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 90,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 91,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 47,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 48,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 52,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 53,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "15 Pro",
+      "slug": "xiaomi-15-pro",
+      "colors": [
+        {
+          "id": 92,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 93,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 94,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 95,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 49,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 50,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 54,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 55,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "15 Ultra",
+      "slug": "xiaomi-15-ultra",
+      "colors": [
+        {
+          "id": 96,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 97,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 98,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 51,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 52,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 56,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 57,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 58,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "16",
+      "slug": "xiaomi-16",
+      "colors": [
+        {
+          "id": 99,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 100,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 101,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 102,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 53,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 54,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 59,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 60,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "16 Pro",
+      "slug": "xiaomi-16-pro",
+      "colors": [
+        {
+          "id": 103,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 104,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 105,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 106,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 55,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 56,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 61,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 62,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "16 Ultra",
+      "slug": "xiaomi-16-ultra",
+      "colors": [
+        {
+          "id": 107,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 108,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 109,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 57,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 58,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 63,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 64,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 65,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "17",
+      "slug": "xiaomi-17",
+      "colors": [
+        {
+          "id": 110,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 111,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 112,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 113,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 59,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 60,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 66,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 67,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "17 Pro",
+      "slug": "xiaomi-17-pro",
+      "colors": [
+        {
+          "id": 114,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 115,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 116,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 117,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 61,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 62,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 68,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 69,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "17 Pro Max",
+      "slug": "xiaomi-17-pro-max",
+      "colors": [
+        {
+          "id": 118,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 119,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 120,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 121,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 63,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 64,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 70,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 71,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "17 Ultra",
+      "slug": "xiaomi-17-ultra",
+      "colors": [
+        {
+          "id": 122,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 123,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 124,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 65,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 66,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 72,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 73,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 74,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "A3",
+      "slug": "xiaomi-a3",
+      "colors": [
+        {
+          "id": 125,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 126,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 67,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 68,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 75,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 76,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 77,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Black Shark",
+      "slug": "xiaomi-black-shark",
+      "colors": [
+        {
+          "id": 127,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 128,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 69,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 70,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 78,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 79,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 2",
+      "slug": "xiaomi-black-shark-2",
+      "colors": [
+        {
+          "id": 129,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 130,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 71,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 72,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 80,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 81,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 2 Pro",
+      "slug": "xiaomi-black-shark-2-pro",
+      "colors": [
+        {
+          "id": 131,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 132,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 73,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 74,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 82,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 83,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 3",
+      "slug": "xiaomi-black-shark-3",
+      "colors": [
+        {
+          "id": 133,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 134,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 75,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 76,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 84,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 85,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 3 Pro",
+      "slug": "xiaomi-black-shark-3-pro",
+      "colors": [
+        {
+          "id": 135,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 136,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 77,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 78,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 86,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 87,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 3S",
+      "slug": "xiaomi-black-shark-3s",
+      "colors": [
+        {
+          "id": 137,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 138,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 79,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 80,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 88,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 89,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 4",
+      "slug": "xiaomi-black-shark-4",
+      "colors": [
+        {
+          "id": 139,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 140,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 81,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 82,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 90,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 91,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 4 Pro",
+      "slug": "xiaomi-black-shark-4-pro",
+      "colors": [
+        {
+          "id": 141,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 142,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 83,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 84,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 92,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 93,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 4S",
+      "slug": "xiaomi-black-shark-4s",
+      "colors": [
+        {
+          "id": 143,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 144,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 85,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 86,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 94,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 95,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 4S Pro",
+      "slug": "xiaomi-black-shark-4s-pro",
+      "colors": [
+        {
+          "id": 145,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 146,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 87,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 88,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 96,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 97,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 5",
+      "slug": "xiaomi-black-shark-5",
+      "colors": [
+        {
+          "id": 147,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 148,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 89,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 90,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 98,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 99,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark 5 Pro",
+      "slug": "xiaomi-black-shark-5-pro",
+      "colors": [
+        {
+          "id": 149,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 150,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 91,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 92,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 100,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 101,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Black Shark Helo",
+      "slug": "xiaomi-black-shark-helo",
+      "colors": [
+        {
+          "id": 151,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 152,
+          "hex_code": "#71797E",
+          "name_en": "Gray",
+          "name_ru": "Серый",
+          "name_kg": "Боз"
+        }
+      ],
+      "rams": [
+        {
+          "id": 93,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 94,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 102,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 103,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Civi",
+      "slug": "xiaomi-civi",
+      "colors": [
+        {
+          "id": 153,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 154,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 155,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 95,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 96,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 104,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 105,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 106,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Civi 1S",
+      "slug": "xiaomi-civi-1s",
+      "colors": [
+        {
+          "id": 156,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 157,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 158,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 97,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 98,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 107,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 108,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 109,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Civi 2",
+      "slug": "xiaomi-civi-2",
+      "colors": [
+        {
+          "id": 159,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 160,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 161,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 99,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 100,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 110,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 111,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 112,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Civi 3",
+      "slug": "xiaomi-civi-3",
+      "colors": [
+        {
+          "id": 162,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 163,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 164,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 101,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 102,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 113,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 114,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 115,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Civi Pro",
+      "slug": "xiaomi-civi-pro",
+      "colors": [
+        {
+          "id": 165,
+          "hex_code": "#EED9DC",
+          "name_en": "Pink",
+          "name_ru": "Розовый",
+          "name_kg": "Кызгылт"
+        },
+        {
+          "id": 166,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 167,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 103,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 104,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 116,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 117,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 118,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "M1S",
+      "slug": "xiaomi-m1s",
+      "colors": [
+        {
+          "id": 168,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 169,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 105,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 106,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 119,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 120,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 121,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Mi2A",
+      "slug": "xiaomi-mi2a",
+      "colors": [
+        {
+          "id": 170,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 171,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 107,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 108,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 122,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 123,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi2S",
+      "slug": "xiaomi-mi2s",
+      "colors": [
+        {
+          "id": 172,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 173,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 109,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 110,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 124,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 125,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi3",
+      "slug": "xiaomi-mi3",
+      "colors": [
+        {
+          "id": 174,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 175,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 111,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 112,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 126,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 127,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi4",
+      "slug": "xiaomi-mi4",
+      "colors": [
+        {
+          "id": 176,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 177,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 113,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 114,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 128,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 129,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi4c",
+      "slug": "xiaomi-mi4c",
+      "colors": [
+        {
+          "id": 178,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 179,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 115,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 116,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 130,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 131,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi4i",
+      "slug": "xiaomi-mi4i",
+      "colors": [
+        {
+          "id": 180,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 181,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 117,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 118,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 132,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 133,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi4S",
+      "slug": "xiaomi-mi4s",
+      "colors": [
+        {
+          "id": 182,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 183,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 119,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 120,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 134,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 135,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi5",
+      "slug": "xiaomi-mi5",
+      "colors": [
+        {
+          "id": 184,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 185,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 121,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 122,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 136,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 137,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi5C",
+      "slug": "xiaomi-mi5c",
+      "colors": [
+        {
+          "id": 186,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 187,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 123,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 124,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 138,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 139,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi5S",
+      "slug": "xiaomi-mi5s",
+      "colors": [
+        {
+          "id": 188,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 189,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 125,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 126,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 140,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 141,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi5S Plus",
+      "slug": "xiaomi-mi5s-plus",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 191,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 127,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 128,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 142,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 143,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi6",
+      "slug": "xiaomi-mi6",
+      "colors": [
+        {
+          "id": 192,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 193,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 129,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 130,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 144,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 145,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mi 8",
+      "slug": "xiaomi-mi-8",
+      "colors": [
+        {
+          "id": 194,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 195,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 196,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 197,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 131,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 132,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 146,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 147,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 148,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 8 Lite",
+      "slug": "xiaomi-mi-8-lite",
+      "colors": [
+        {
+          "id": 198,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 199,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 200,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 201,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 133,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 134,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 149,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 150,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 151,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 8 Pro",
+      "slug": "xiaomi-mi-8-pro",
+      "colors": [
+        {
+          "id": 202,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 203,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 204,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 205,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 135,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 136,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 152,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 153,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 154,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 8 SE",
+      "slug": "xiaomi-mi-8-se",
+      "colors": [
+        {
+          "id": 206,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 207,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 208,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 209,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 137,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 138,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 155,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 156,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 157,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 9",
+      "slug": "xiaomi-mi-9",
+      "colors": [
+        {
+          "id": 210,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 211,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 212,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 213,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 139,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 140,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 158,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 159,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 160,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 9 Lite",
+      "slug": "xiaomi-mi-9-lite",
+      "colors": [
+        {
+          "id": 214,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 215,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 216,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 217,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 141,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 142,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 161,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 162,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 163,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 9 Pro",
+      "slug": "xiaomi-mi-9-pro",
+      "colors": [
+        {
+          "id": 218,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 219,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 220,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 221,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 143,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 144,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 164,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 165,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 166,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 9 SE",
+      "slug": "xiaomi-mi-9-se",
+      "colors": [
+        {
+          "id": 222,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 223,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 224,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 225,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 145,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 146,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 167,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 168,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 169,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 9T",
+      "slug": "xiaomi-mi-9t",
+      "colors": [
+        {
+          "id": 226,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 227,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 228,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 229,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 147,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 148,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 170,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 171,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 172,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 9T Pro",
+      "slug": "xiaomi-mi-9t-pro",
+      "colors": [
+        {
+          "id": 230,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 231,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 232,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 233,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 149,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 150,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 173,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 174,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 175,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10 5G",
+      "slug": "xiaomi-mi-10-5g",
+      "colors": [
+        {
+          "id": 234,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 235,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 236,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 237,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 151,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 152,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 176,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 177,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10 Lite 5G",
+      "slug": "xiaomi-mi-10-lite-5g",
+      "colors": [
+        {
+          "id": 238,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 239,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 240,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 241,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 153,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 154,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 178,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 179,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10 Pro",
+      "slug": "xiaomi-mi-10-pro",
+      "colors": [
+        {
+          "id": 242,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 243,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 244,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 245,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 155,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 156,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 180,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 181,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10 Pro 5G",
+      "slug": "xiaomi-mi-10-pro-5g",
+      "colors": [
+        {
+          "id": 246,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 247,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 248,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 249,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 157,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 158,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 182,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 183,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10 Ultra",
+      "slug": "xiaomi-mi-10-ultra",
+      "colors": [
+        {
+          "id": 250,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 251,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 252,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 159,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 160,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 184,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 185,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 186,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Mi 10 Youth 5G",
+      "slug": "xiaomi-mi-10-youth-5g",
+      "colors": [
+        {
+          "id": 253,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 254,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 255,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 256,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 161,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 162,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 187,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 188,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10S",
+      "slug": "xiaomi-mi-10s",
+      "colors": [
+        {
+          "id": 257,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 258,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 259,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 260,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 163,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 164,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 189,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 190,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10T",
+      "slug": "xiaomi-mi-10t",
+      "colors": [
+        {
+          "id": 261,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 262,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 263,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 264,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 165,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 166,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 191,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 192,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10T Lite",
+      "slug": "xiaomi-mi-10t-lite",
+      "colors": [
+        {
+          "id": 265,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 266,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 267,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 268,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 167,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 168,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 193,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 194,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10T Pro",
+      "slug": "xiaomi-mi-10t-pro",
+      "colors": [
+        {
+          "id": 269,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 270,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 271,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 272,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 169,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 170,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 195,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 196,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 10i 5G",
+      "slug": "xiaomi-mi-10i-5g",
+      "colors": [
+        {
+          "id": 273,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 274,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 275,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 276,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 171,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 172,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 197,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 198,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 11",
+      "slug": "xiaomi-mi-11",
+      "colors": [
+        {
+          "id": 277,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 278,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 279,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 280,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 173,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 174,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 199,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 200,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 11 Lite",
+      "slug": "xiaomi-mi-11-lite",
+      "colors": [
+        {
+          "id": 281,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 282,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 283,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 284,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 175,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 176,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 201,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 202,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 11 Pro",
+      "slug": "xiaomi-mi-11-pro",
+      "colors": [
+        {
+          "id": 285,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 286,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 287,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 288,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 177,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 178,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 203,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 204,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 11 Ultra",
+      "slug": "xiaomi-mi-11-ultra",
+      "colors": [
+        {
+          "id": 289,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 290,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 291,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 179,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 180,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 205,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 206,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 207,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Mi 11X",
+      "slug": "xiaomi-mi-11x",
+      "colors": [
+        {
+          "id": 292,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 293,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 294,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 295,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 181,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 182,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 208,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 209,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 11X Pro",
+      "slug": "xiaomi-mi-11x-pro",
+      "colors": [
+        {
+          "id": 296,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 297,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 298,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 299,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 183,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 184,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 210,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 211,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 11i",
+      "slug": "xiaomi-mi-11i",
+      "colors": [
+        {
+          "id": 300,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 301,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 302,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 303,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 185,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 186,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 212,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 213,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 12 Lite",
+      "slug": "xiaomi-mi-12-lite",
+      "colors": [
+        {
+          "id": 304,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 305,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 306,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 307,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 187,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 188,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 214,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 215,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi 12 Ultra",
+      "slug": "xiaomi-mi-12-ultra",
+      "colors": [
+        {
+          "id": 308,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 309,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 310,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver Chrome",
+          "name_ru": "Серебристый хром",
+          "name_kg": "Күмүш хром"
+        }
+      ],
+      "rams": [
+        {
+          "id": 189,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 190,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 216,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 217,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 218,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Mi 12X",
+      "slug": "xiaomi-mi-12x",
+      "colors": [
+        {
+          "id": 311,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 312,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 313,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 314,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 191,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 192,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 219,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 220,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi A1",
+      "slug": "xiaomi-mi-a1",
+      "colors": [
+        {
+          "id": 315,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 316,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 193,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 194,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 221,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 222,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 223,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Mi A2",
+      "slug": "xiaomi-mi-a2",
+      "colors": [
+        {
+          "id": 317,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 318,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 195,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 196,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 224,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 225,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 226,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Mi A2 Lite",
+      "slug": "xiaomi-mi-a2-lite",
+      "colors": [
+        {
+          "id": 319,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 320,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 197,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 198,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 227,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 228,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 229,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Mi A3",
+      "slug": "xiaomi-mi-a3",
+      "colors": [
+        {
+          "id": 321,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 322,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 199,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 200,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 230,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 231,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 232,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Mi CC9",
+      "slug": "xiaomi-mi-cc9",
+      "colors": [
+        {
+          "id": 323,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 324,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 325,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 326,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 201,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 202,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 233,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 234,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 235,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi CC9 Pro",
+      "slug": "xiaomi-mi-cc9-pro",
+      "colors": [
+        {
+          "id": 327,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 328,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 329,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 330,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 203,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 204,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 236,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 237,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 238,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi CC9e",
+      "slug": "xiaomi-mi-cc9e",
+      "colors": [
+        {
+          "id": 331,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 332,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 333,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 334,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 205,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 206,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 239,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 240,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 241,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi Max",
+      "slug": "xiaomi-mi-max",
+      "colors": [
+        {
+          "id": 335,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 336,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 337,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 338,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 207,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 208,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 242,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 243,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi Max 2",
+      "slug": "xiaomi-mi-max-2",
+      "colors": [
+        {
+          "id": 339,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 340,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 341,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 342,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 209,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 210,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 244,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 245,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 246,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi Max 3",
+      "slug": "xiaomi-mi-max-3",
+      "colors": [
+        {
+          "id": 343,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 344,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        },
+        {
+          "id": 345,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 346,
+          "hex_code": "#94A89A",
+          "name_en": "Green",
+          "name_ru": "Зелёный",
+          "name_kg": "Жашыл"
+        }
+      ],
+      "rams": [
+        {
+          "id": 211,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 212,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 247,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 248,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 249,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Mi Mix",
+      "slug": "xiaomi-mi-mix",
+      "colors": [
+        {
+          "id": 347,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 348,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 213,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 214,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 250,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 251,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 252,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Mi Mix 2S",
+      "slug": "xiaomi-mi-mix-2s",
+      "colors": [
+        {
+          "id": 349,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 350,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 215,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 216,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 253,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 254,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 255,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Mi Mix 3",
+      "slug": "xiaomi-mi-mix-3",
+      "colors": [
+        {
+          "id": 351,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 352,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 217,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 218,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 256,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 257,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 258,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Mi Mix 3 5G",
+      "slug": "xiaomi-mi-mix-3-5g",
+      "colors": [
+        {
+          "id": 353,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 354,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 219,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 220,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 259,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 260,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 261,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Mi Mix Alpha",
+      "slug": "xiaomi-mi-mix-alpha",
+      "colors": [
+        {
+          "id": 355,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 356,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 221,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 222,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 262,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 263,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 264,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Mi Mix Flip",
+      "slug": "xiaomi-mi-mix-flip",
+      "colors": [
+        {
+          "id": 357,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 358,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 223,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 224,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 265,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 266,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 267,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Mi Mix Fold",
+      "slug": "xiaomi-mi-mix-fold",
+      "colors": [
+        {
+          "id": 359,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 360,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 225,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 226,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 268,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 269,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 270,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Mi Note",
+      "slug": "xiaomi-note",
+      "colors": [
+        {
+          "id": 361,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 362,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 227,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 228,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 271,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 272,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 273,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Mi Note 2",
+      "slug": "xiaomi-note-2",
+      "colors": [
+        {
+          "id": 363,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 364,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 229,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 230,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 274,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 275,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 276,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Mi Note 3",
+      "slug": "xiaomi-note-3",
+      "colors": [
+        {
+          "id": 365,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 366,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 231,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 232,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 277,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 278,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 279,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Mi Note Pro",
+      "slug": "xiaomi-note-pro",
+      "colors": [
+        {
+          "id": 367,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 368,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 233,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 234,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 280,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 281,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 282,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Mi Two",
+      "slug": "xiaomi-two",
+      "colors": [
+        {
+          "id": 369,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 370,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 235,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 236,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 283,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 284,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Mix 4",
+      "slug": "xiaomi-mix-4",
+      "colors": [
+        {
+          "id": 371,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 372,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 237,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 238,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 285,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 286,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 287,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Mix Fold 2",
+      "slug": "xiaomi-mix-fold-2",
+      "colors": [
+        {
+          "id": 373,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 374,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 239,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 240,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 288,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 289,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 290,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Mix Fold 3",
+      "slug": "xiaomi-mix-fold-3",
+      "colors": [
+        {
+          "id": 375,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black Ceramic",
+          "name_ru": "Чёрная керамика",
+          "name_kg": "Кара керамика"
+        },
+        {
+          "id": 376,
+          "hex_code": "#F5F5F0",
+          "name_en": "White Ceramic",
+          "name_ru": "Белая керамика",
+          "name_kg": "Ак керамика"
+        }
+      ],
+      "rams": [
+        {
+          "id": 241,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 242,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 291,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 292,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 293,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Note 5A",
+      "slug": "xiaomi-note-5a",
+      "colors": [
+        {
+          "id": 377,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 378,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 243,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 244,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 294,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 295,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 296,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Red Rice",
+      "slug": "xiaomi-red-rice",
+      "colors": [
+        {
+          "id": 379,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 380,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 245,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 246,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 297,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 298,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Red Rice 1S",
+      "slug": "xiaomi-red-rice-1s",
+      "colors": [
+        {
+          "id": 381,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 382,
+          "hex_code": "#F5F5F0",
+          "name_en": "White",
+          "name_ru": "Белый",
+          "name_kg": "Ак"
+        }
+      ],
+      "rams": [
+        {
+          "id": 247,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 248,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 299,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 300,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    }
+  ]
+}

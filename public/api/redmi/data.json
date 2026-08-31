@@ -1,0 +1,8123 @@
+{
+  "id": 2,
+  "name": "Redmi",
+  "slug": "redmi",
+  "models": [
+    {
+      "name": "Redmi 4",
+      "slug": "redmi-4",
+      "colors": [
+        {
+          "id": 1,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 2,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 1,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 2,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 1,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 2,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 4 Pro",
+      "slug": "redmi-4-pro",
+      "colors": [
+        {
+          "id": 3,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 4,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 3,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 4,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 3,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 4,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 4A",
+      "slug": "redmi-4a",
+      "colors": [
+        {
+          "id": 5,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 6,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 5,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 6,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 5,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 6,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 4X",
+      "slug": "redmi-4x",
+      "colors": [
+        {
+          "id": 7,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 8,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 7,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 8,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 7,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 8,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 5",
+      "slug": "redmi-5",
+      "colors": [
+        {
+          "id": 9,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 10,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 9,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 10,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 9,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 10,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 5 Plus",
+      "slug": "redmi-5-plus",
+      "colors": [
+        {
+          "id": 11,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 12,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 11,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 12,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 11,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 12,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 5A",
+      "slug": "redmi-5a",
+      "colors": [
+        {
+          "id": 13,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 14,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 13,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 14,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 13,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 14,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 6",
+      "slug": "redmi-6",
+      "colors": [
+        {
+          "id": 15,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 16,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 15,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 16,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 15,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 16,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 6 Pro",
+      "slug": "redmi-6-pro",
+      "colors": [
+        {
+          "id": 17,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 18,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 17,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 18,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 17,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 18,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 6A",
+      "slug": "redmi-6a",
+      "colors": [
+        {
+          "id": 19,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 20,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 19,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 20,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 19,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 20,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi 7",
+      "slug": "redmi-7",
+      "colors": [
+        {
+          "id": 21,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 22,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 21,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 22,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 23,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 21,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 22,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 23,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 7A",
+      "slug": "redmi-7a",
+      "colors": [
+        {
+          "id": 23,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 24,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 24,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 25,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 26,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 24,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 25,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 26,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 8",
+      "slug": "redmi-8",
+      "colors": [
+        {
+          "id": 25,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 26,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 27,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 27,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 28,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 29,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 27,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 28,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 29,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 8 Pro",
+      "slug": "redmi-8-pro",
+      "colors": [
+        {
+          "id": 28,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 29,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 30,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 30,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 31,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 32,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 30,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 31,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 32,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 8A",
+      "slug": "redmi-8a",
+      "colors": [
+        {
+          "id": 31,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 32,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 33,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 33,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 34,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 35,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 33,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 34,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 35,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 9",
+      "slug": "redmi-9",
+      "colors": [
+        {
+          "id": 34,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 35,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 36,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 36,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 37,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 38,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 36,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 37,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 38,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 9 Prime",
+      "slug": "redmi-9-prime",
+      "colors": [
+        {
+          "id": 37,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 38,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 39,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 39,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 40,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 41,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 39,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 40,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 41,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 9A",
+      "slug": "redmi-9a",
+      "colors": [
+        {
+          "id": 40,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 41,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 42,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 42,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 43,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 44,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 42,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 43,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 44,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 9AT",
+      "slug": "redmi-9at",
+      "colors": [
+        {
+          "id": 43,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 44,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 45,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 45,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 46,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 47,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 45,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 46,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 47,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 9i",
+      "slug": "redmi-9i",
+      "colors": [
+        {
+          "id": 46,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 47,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 48,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 48,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 49,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 50,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 48,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 49,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 50,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 9C",
+      "slug": "redmi-9c",
+      "colors": [
+        {
+          "id": 49,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 50,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 51,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 51,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 52,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 53,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 51,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 52,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 53,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi 10",
+      "slug": "redmi-10",
+      "colors": [
+        {
+          "id": 52,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 53,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 54,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 54,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 55,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 56,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 54,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 55,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 56,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 10 5G",
+      "slug": "redmi-10-5g",
+      "colors": [
+        {
+          "id": 55,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 56,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 57,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 57,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 58,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 59,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 57,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 58,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 59,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 10 Power",
+      "slug": "redmi-10-power",
+      "colors": [
+        {
+          "id": 58,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 59,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 60,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 60,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 61,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 62,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 60,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 61,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 62,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 10 Prime",
+      "slug": "redmi-10-prime",
+      "colors": [
+        {
+          "id": 61,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 62,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 63,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 63,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 64,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 65,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 63,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 64,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 65,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 10A",
+      "slug": "redmi-10a",
+      "colors": [
+        {
+          "id": 64,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 65,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 66,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 66,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 67,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 68,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 66,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 67,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 68,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 10C",
+      "slug": "redmi-10c",
+      "colors": [
+        {
+          "id": 67,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 68,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 69,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 69,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 70,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 71,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 69,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 70,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 71,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 10X",
+      "slug": "redmi-10x",
+      "colors": [
+        {
+          "id": 70,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 71,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 72,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 72,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 73,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 74,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 72,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 73,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 74,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 10X Pro",
+      "slug": "redmi-10x-pro",
+      "colors": [
+        {
+          "id": 73,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 74,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 75,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 75,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 76,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 77,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 75,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 76,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 77,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 11 Prime 4G",
+      "slug": "redmi-11-prime-4g",
+      "colors": [
+        {
+          "id": 76,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 77,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 78,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 78,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 79,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 80,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 78,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 79,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 80,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 11 Prime 5G",
+      "slug": "redmi-11-prime-5g",
+      "colors": [
+        {
+          "id": 79,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 80,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 81,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 81,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 82,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 83,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 81,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 82,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 83,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 11A",
+      "slug": "redmi-11a",
+      "colors": [
+        {
+          "id": 82,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 83,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 84,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 84,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 85,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 86,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 84,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 85,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 86,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 12",
+      "slug": "redmi-12",
+      "colors": [
+        {
+          "id": 85,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 86,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 87,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 87,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 88,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 89,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 87,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 88,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 89,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 12 5G",
+      "slug": "redmi-12-5g",
+      "colors": [
+        {
+          "id": 88,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 89,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 90,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 90,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 91,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 92,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 90,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 91,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 92,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 12C",
+      "slug": "redmi-12c",
+      "colors": [
+        {
+          "id": 91,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 92,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 93,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 93,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 94,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 95,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 93,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 94,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 95,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 13",
+      "slug": "redmi-13",
+      "colors": [
+        {
+          "id": 94,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 95,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 96,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 96,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 97,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 98,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 96,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 97,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 98,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 13C",
+      "slug": "redmi-13c",
+      "colors": [
+        {
+          "id": 97,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 98,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 99,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 99,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 100,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 101,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 99,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 100,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 101,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi 14C",
+      "slug": "redmi-14c",
+      "colors": [
+        {
+          "id": 100,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 101,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 102,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 102,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 103,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 104,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 102,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 103,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 104,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi 15",
+      "slug": "redmi-15",
+      "colors": [
+        {
+          "id": 103,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 104,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 105,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 105,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 106,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 107,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 105,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 106,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 107,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi 15 4G",
+      "slug": "redmi-4g",
+      "colors": [
+        {
+          "id": 106,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 107,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 108,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 108,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 109,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 110,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 108,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 109,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 110,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi 15C",
+      "slug": "redmi-15c",
+      "colors": [
+        {
+          "id": 109,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 110,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 111,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 111,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 112,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 113,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 111,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 112,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 113,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi 20X",
+      "slug": "redmi-20x",
+      "colors": [
+        {
+          "id": 112,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 113,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        },
+        {
+          "id": 114,
+          "hex_code": "#C9A87C",
+          "name_en": "Gold",
+          "name_ru": "Золотой",
+          "name_kg": "Алтын"
+        }
+      ],
+      "rams": [
+        {
+          "id": 114,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 115,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 116,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 114,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 115,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 116,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi A1",
+      "slug": "redmi-a1",
+      "colors": [
+        {
+          "id": 115,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 116,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 117,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 118,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 117,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 118,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi A1 Plus",
+      "slug": "redmi-a1-plus",
+      "colors": [
+        {
+          "id": 117,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 118,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 119,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 120,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 119,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 120,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi A2",
+      "slug": "redmi-a2",
+      "colors": [
+        {
+          "id": 119,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 120,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 121,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 122,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 121,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 122,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi A2 Plus",
+      "slug": "redmi-a2-plus",
+      "colors": [
+        {
+          "id": 121,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 122,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 123,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 124,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 123,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 124,
+          "name": "64GB",
+          "size_gb": 64
+        }
+      ]
+    },
+    {
+      "name": "Redmi A3",
+      "slug": "redmi-a3",
+      "colors": [
+        {
+          "id": 123,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 124,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 125,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 126,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 125,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 126,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi A3x",
+      "slug": "redmi-a3x",
+      "colors": [
+        {
+          "id": 125,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 126,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 127,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 128,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 127,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 128,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi A5",
+      "slug": "redmi-a5",
+      "colors": [
+        {
+          "id": 127,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 128,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 129,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 130,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 129,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 130,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi A7 Pro",
+      "slug": "redmi-a7-pro",
+      "colors": [
+        {
+          "id": 129,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 130,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 131,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 132,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 131,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 132,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Go",
+      "slug": "redmi-go",
+      "colors": [
+        {
+          "id": 131,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 132,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 133,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 134,
+          "name": "4GB",
+          "size_gb": 4
+        }
+      ],
+      "memories": [
+        {
+          "id": 133,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 134,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi K20",
+      "slug": "redmi-k20",
+      "colors": [
+        {
+          "id": 133,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 134,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 135,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 135,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 136,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 135,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 136,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi K20 Pro",
+      "slug": "redmi-k20-pro",
+      "colors": [
+        {
+          "id": 136,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 137,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 138,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 137,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 138,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 137,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 138,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi K30",
+      "slug": "redmi-k30",
+      "colors": [
+        {
+          "id": 139,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 140,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 141,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 139,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 140,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 139,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 140,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi K30 Pro",
+      "slug": "redmi-k30-pro",
+      "colors": [
+        {
+          "id": 142,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 143,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 144,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 141,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 142,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 141,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 142,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi K30 Ultra",
+      "slug": "redmi-k30-ultra",
+      "colors": [
+        {
+          "id": 145,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 146,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 147,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 143,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 144,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 143,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 144,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi K30S",
+      "slug": "redmi-k30s",
+      "colors": [
+        {
+          "id": 148,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 149,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 150,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 145,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 146,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 145,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 146,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi K30i",
+      "slug": "redmi-k30i",
+      "colors": [
+        {
+          "id": 151,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 152,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 153,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 147,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 148,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 147,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 148,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi K40",
+      "slug": "redmi-k40",
+      "colors": [
+        {
+          "id": 154,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 155,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 156,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 149,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 150,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 149,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 150,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 151,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K40 Gaming",
+      "slug": "redmi-k40-gaming",
+      "colors": [
+        {
+          "id": 157,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 158,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 159,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 151,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 152,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 152,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 153,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 154,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K40 Pro",
+      "slug": "redmi-k40-pro",
+      "colors": [
+        {
+          "id": 160,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 161,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 162,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 153,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 154,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 155,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 156,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 157,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K40 Pro Plus",
+      "slug": "redmi-k40-pro-plus",
+      "colors": [
+        {
+          "id": 163,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 164,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 165,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 155,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 156,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 158,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 159,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 160,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K40S",
+      "slug": "redmi-k40s",
+      "colors": [
+        {
+          "id": 166,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 167,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 168,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 157,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 158,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 161,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 162,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 163,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K50",
+      "slug": "redmi-k50",
+      "colors": [
+        {
+          "id": 169,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 170,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 171,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 159,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 160,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 164,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 165,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 166,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K50 Gaming",
+      "slug": "redmi-k50-gaming",
+      "colors": [
+        {
+          "id": 172,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 173,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 174,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 161,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 162,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 167,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 168,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 169,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K50 Pro",
+      "slug": "redmi-k50-pro",
+      "colors": [
+        {
+          "id": 175,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 176,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 177,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 163,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 164,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 170,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 171,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 172,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K50 Ultra",
+      "slug": "redmi-k50-ultra",
+      "colors": [
+        {
+          "id": 178,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 179,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 180,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 165,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 166,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 173,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 174,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 175,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K50i",
+      "slug": "redmi-k50i",
+      "colors": [
+        {
+          "id": 181,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 182,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 183,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 167,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 168,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 176,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 177,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 178,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi K60",
+      "slug": "redmi-k60",
+      "colors": [
+        {
+          "id": 184,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 185,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 186,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 169,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 170,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 179,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 180,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 181,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K60 Pro",
+      "slug": "redmi-k60-pro",
+      "colors": [
+        {
+          "id": 187,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 188,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 189,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 171,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 172,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 182,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 183,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 184,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K60 Ultra",
+      "slug": "redmi-k60-ultra",
+      "colors": [
+        {
+          "id": 190,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 191,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 192,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 173,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 174,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 185,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 186,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 187,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K60E",
+      "slug": "redmi-k60e",
+      "colors": [
+        {
+          "id": 193,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 194,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 195,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 175,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 176,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 188,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 189,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 190,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K70",
+      "slug": "redmi-k70",
+      "colors": [
+        {
+          "id": 196,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 197,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 198,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 177,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 178,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 191,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 192,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 193,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K70 Pro",
+      "slug": "redmi-k70-pro",
+      "colors": [
+        {
+          "id": 199,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 200,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 201,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 179,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 180,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 194,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 195,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 196,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K70E",
+      "slug": "redmi-k70e",
+      "colors": [
+        {
+          "id": 202,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 203,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 204,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 181,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 182,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 197,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 198,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 199,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K80",
+      "slug": "redmi-k80",
+      "colors": [
+        {
+          "id": 205,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 206,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 207,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 183,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 184,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 200,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 201,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 202,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K80 Pro",
+      "slug": "redmi-k80-pro",
+      "colors": [
+        {
+          "id": 208,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 209,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 210,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 185,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 186,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 203,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 204,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 205,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K80 Ultra",
+      "slug": "redmi-k80-ultra",
+      "colors": [
+        {
+          "id": 211,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 212,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 213,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 187,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 188,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 206,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 207,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 208,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K90",
+      "slug": "redmi-k90",
+      "colors": [
+        {
+          "id": 214,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 215,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 216,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 189,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 190,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 209,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 210,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 211,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K90 Pro",
+      "slug": "redmi-k90-pro",
+      "colors": [
+        {
+          "id": 217,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 218,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 219,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 191,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 192,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 212,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 213,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 214,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi K90 Pro Max",
+      "slug": "redmi-k90-pro-max",
+      "colors": [
+        {
+          "id": 220,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 221,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 222,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 193,
+          "name": "12GB",
+          "size_gb": 12
+        },
+        {
+          "id": 194,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ],
+      "memories": [
+        {
+          "id": 215,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 216,
+          "name": "512GB",
+          "size_gb": 512
+        },
+        {
+          "id": 217,
+          "name": "1TB",
+          "size_gb": 1024
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 2",
+      "slug": "redmi-note-2",
+      "colors": [
+        {
+          "id": 223,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 224,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 225,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 195,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 196,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 218,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 219,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 3",
+      "slug": "redmi-note-3",
+      "colors": [
+        {
+          "id": 226,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 227,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 228,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 197,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 198,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 220,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 221,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 3 Pro",
+      "slug": "redmi-note-3-pro",
+      "colors": [
+        {
+          "id": 229,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 230,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 231,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 199,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 200,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 222,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 223,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 3 Pro Se",
+      "slug": "redmi-note-3-pro-se",
+      "colors": [
+        {
+          "id": 232,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 233,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 234,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 201,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 202,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 224,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 225,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 4",
+      "slug": "redmi-note-4",
+      "colors": [
+        {
+          "id": 235,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 236,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 237,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 203,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 204,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 226,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 227,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 4G",
+      "slug": "redmi-note-4g",
+      "colors": [
+        {
+          "id": 238,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 239,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 240,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 205,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 206,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 228,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 229,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 4G Dual Sim",
+      "slug": "redmi-note-4g-dual-sim",
+      "colors": [
+        {
+          "id": 241,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 242,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 243,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 207,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 208,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 230,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 231,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 4X",
+      "slug": "redmi-note-4x",
+      "colors": [
+        {
+          "id": 244,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 245,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 246,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 209,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 210,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 232,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 233,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 5",
+      "slug": "redmi-note-5",
+      "colors": [
+        {
+          "id": 247,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 248,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 249,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 211,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 212,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 234,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 235,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 5 Pro",
+      "slug": "redmi-note-5-pro",
+      "colors": [
+        {
+          "id": 250,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 251,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 252,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 213,
+          "name": "2GB",
+          "size_gb": 2
+        },
+        {
+          "id": 214,
+          "name": "3GB",
+          "size_gb": 3
+        }
+      ],
+      "memories": [
+        {
+          "id": 236,
+          "name": "16GB",
+          "size_gb": 16
+        },
+        {
+          "id": 237,
+          "name": "32GB",
+          "size_gb": 32
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 6 Pro",
+      "slug": "redmi-note-6-pro",
+      "colors": [
+        {
+          "id": 253,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 254,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 255,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 215,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 216,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 217,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 238,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 239,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 240,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 7",
+      "slug": "redmi-note-7",
+      "colors": [
+        {
+          "id": 256,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 257,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 258,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 218,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 219,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 220,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 241,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 242,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 243,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 7 Pro",
+      "slug": "redmi-note-7-pro",
+      "colors": [
+        {
+          "id": 259,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 260,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 261,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 221,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 222,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 223,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 244,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 245,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 246,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 7S",
+      "slug": "redmi-note-7s",
+      "colors": [
+        {
+          "id": 262,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 263,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 264,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 224,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 225,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 226,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 247,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 248,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 249,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 8",
+      "slug": "redmi-note-8",
+      "colors": [
+        {
+          "id": 265,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 266,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 267,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 227,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 228,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 229,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 250,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 251,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 252,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 8 Pro",
+      "slug": "redmi-note-8-pro",
+      "colors": [
+        {
+          "id": 268,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 269,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 270,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 230,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 231,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 232,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 253,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 254,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 255,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 8T",
+      "slug": "redmi-note-8t",
+      "colors": [
+        {
+          "id": 271,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 272,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 273,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 233,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 234,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 235,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 256,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 257,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 258,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 9",
+      "slug": "redmi-note-9",
+      "colors": [
+        {
+          "id": 274,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 275,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 276,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 236,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 237,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 238,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 259,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 260,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 261,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 9 Pro",
+      "slug": "redmi-note-9-pro",
+      "colors": [
+        {
+          "id": 277,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 278,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 279,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 239,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 240,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 241,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 262,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 263,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 264,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 9 Pro Max",
+      "slug": "redmi-note-9-pro-max",
+      "colors": [
+        {
+          "id": 280,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 281,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 282,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 242,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 243,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 244,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 265,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 266,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 267,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 9S",
+      "slug": "redmi-note-9s",
+      "colors": [
+        {
+          "id": 283,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 284,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 285,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 245,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 246,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 247,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 268,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 269,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 270,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 9T",
+      "slug": "redmi-note-9t",
+      "colors": [
+        {
+          "id": 286,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 287,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 288,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 248,
+          "name": "3GB",
+          "size_gb": 3
+        },
+        {
+          "id": 249,
+          "name": "4GB",
+          "size_gb": 4
+        },
+        {
+          "id": 250,
+          "name": "6GB",
+          "size_gb": 6
+        }
+      ],
+      "memories": [
+        {
+          "id": 271,
+          "name": "32GB",
+          "size_gb": 32
+        },
+        {
+          "id": 272,
+          "name": "64GB",
+          "size_gb": 64
+        },
+        {
+          "id": 273,
+          "name": "128GB",
+          "size_gb": 128
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 10",
+      "slug": "redmi-note-10",
+      "colors": [
+        {
+          "id": 289,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 290,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 291,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 251,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 252,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 274,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 275,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 10 Lite",
+      "slug": "redmi-note-10-lite",
+      "colors": [
+        {
+          "id": 292,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 293,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 294,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 253,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 254,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 276,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 277,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 10 Pro",
+      "slug": "redmi-note-10-pro",
+      "colors": [
+        {
+          "id": 295,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 296,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 297,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 255,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 256,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 278,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 279,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 10 Pro Max",
+      "slug": "redmi-note-10-pro-max",
+      "colors": [
+        {
+          "id": 298,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 299,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 300,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 257,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 258,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 280,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 281,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 10S",
+      "slug": "redmi-note-10s",
+      "colors": [
+        {
+          "id": 301,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 302,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 303,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 259,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 260,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 282,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 283,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 10T",
+      "slug": "redmi-note-10t",
+      "colors": [
+        {
+          "id": 304,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 305,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 306,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 261,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 262,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 284,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 285,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11",
+      "slug": "redmi-note-11",
+      "colors": [
+        {
+          "id": 307,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 308,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 309,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 263,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 264,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 286,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 287,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11 Pro",
+      "slug": "redmi-note-11-pro",
+      "colors": [
+        {
+          "id": 310,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 311,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 312,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 265,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 266,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 288,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 289,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11 Pro 5G",
+      "slug": "redmi-note-11-pro-5g",
+      "colors": [
+        {
+          "id": 313,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 314,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 315,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 267,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 268,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 290,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 291,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11 Pro Plus",
+      "slug": "redmi-note-11-pro-plus",
+      "colors": [
+        {
+          "id": 316,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 317,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 318,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 269,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 270,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 292,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 293,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11S",
+      "slug": "redmi-note-11s",
+      "colors": [
+        {
+          "id": 319,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 320,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 321,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 271,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 272,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 294,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 295,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11E",
+      "slug": "redmi-note-11e",
+      "colors": [
+        {
+          "id": 322,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 323,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 324,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 273,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 274,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 296,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 297,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11R",
+      "slug": "redmi-note-11r",
+      "colors": [
+        {
+          "id": 325,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 326,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 327,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 275,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 276,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 298,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 299,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11S",
+      "slug": "redmi-note-11s",
+      "colors": [
+        {
+          "id": 328,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 329,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 330,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 277,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 278,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 300,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 301,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11SE",
+      "slug": "redmi-note-11se",
+      "colors": [
+        {
+          "id": 331,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 332,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 333,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 279,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 280,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 302,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 303,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11S 5G",
+      "slug": "redmi-note-11s-5g",
+      "colors": [
+        {
+          "id": 334,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 335,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 336,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 281,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 282,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 304,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 305,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11E Pro",
+      "slug": "redmi-note-11e-pro",
+      "colors": [
+        {
+          "id": 337,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 338,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 339,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 283,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 284,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 306,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 307,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11T",
+      "slug": "redmi-note-11t",
+      "colors": [
+        {
+          "id": 340,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 341,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 342,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 285,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 286,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 308,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 309,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11T Pro",
+      "slug": "redmi-note-11t-pro",
+      "colors": [
+        {
+          "id": 343,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 344,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 345,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 287,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 288,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 310,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 311,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 11T Pro Plus",
+      "slug": "redmi-note-11t-pro-plus",
+      "colors": [
+        {
+          "id": 346,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 347,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 348,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 289,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 290,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 312,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 313,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 12",
+      "slug": "redmi-note-12",
+      "colors": [
+        {
+          "id": 349,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 350,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 351,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 291,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 292,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 314,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 315,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 12 Pro 5G",
+      "slug": "redmi-note-12-pro-5g",
+      "colors": [
+        {
+          "id": 352,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 353,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 354,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 293,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 294,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 316,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 317,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 12 Pro Plus",
+      "slug": "redmi-note-12-pro-plus",
+      "colors": [
+        {
+          "id": 355,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 356,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 357,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 295,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 296,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 318,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 319,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 12 Pro Plus 5G",
+      "slug": "redmi-note-12-pro-plus-5g",
+      "colors": [
+        {
+          "id": 358,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 359,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 360,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 297,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 298,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 320,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 321,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 12 Turbo",
+      "slug": "redmi-note-12-turbo",
+      "colors": [
+        {
+          "id": 361,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 362,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 363,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 299,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 300,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 322,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 323,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 12R",
+      "slug": "redmi-note-12r",
+      "colors": [
+        {
+          "id": 364,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 365,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 366,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 301,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 302,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 324,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 325,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 12R Pro",
+      "slug": "redmi-note-12r-pro",
+      "colors": [
+        {
+          "id": 367,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 368,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 369,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 303,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 304,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 326,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 327,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 12S",
+      "slug": "redmi-note-12s",
+      "colors": [
+        {
+          "id": 370,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 371,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 372,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 305,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 306,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 328,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 329,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 12T Pro",
+      "slug": "redmi-note-12t-pro",
+      "colors": [
+        {
+          "id": 373,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 374,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 375,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 307,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 308,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 330,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 331,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 13",
+      "slug": "redmi-note-13",
+      "colors": [
+        {
+          "id": 376,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 377,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 378,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 309,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 310,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 332,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 333,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 334,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 13 Pro",
+      "slug": "redmi-note-13-pro",
+      "colors": [
+        {
+          "id": 379,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 380,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 381,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 311,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 312,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 335,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 336,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 337,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 13 Pro Plus",
+      "slug": "redmi-note-13-pro-plus",
+      "colors": [
+        {
+          "id": 382,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 383,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 384,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 313,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 314,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 338,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 339,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 340,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 13R",
+      "slug": "redmi-note-13r",
+      "colors": [
+        {
+          "id": 385,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 386,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 387,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 315,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 316,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 341,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 342,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 343,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 13R Pro",
+      "slug": "redmi-note-13r-pro",
+      "colors": [
+        {
+          "id": 388,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 389,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 390,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 317,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 318,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 344,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 345,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 346,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 14",
+      "slug": "redmi-note-14",
+      "colors": [
+        {
+          "id": 391,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 392,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 393,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 319,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 320,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 347,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 348,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 349,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 14 Pro",
+      "slug": "redmi-note-14-pro",
+      "colors": [
+        {
+          "id": 394,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 395,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 396,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 321,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 322,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 350,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 351,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 352,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 14 Pro Plus",
+      "slug": "redmi-note-14-pro-plus",
+      "colors": [
+        {
+          "id": 397,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 398,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 399,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 323,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 324,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 353,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 354,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 355,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 15",
+      "slug": "redmi-note-15",
+      "colors": [
+        {
+          "id": 400,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 401,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 402,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 325,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 326,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 356,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 357,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 358,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 15 Pro",
+      "slug": "redmi-note-15-pro",
+      "colors": [
+        {
+          "id": 403,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 404,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 405,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 327,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 328,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 359,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 360,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 361,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 15 Pro Plus",
+      "slug": "redmi-note-15-pro-plus",
+      "colors": [
+        {
+          "id": 406,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 407,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 408,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 329,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 330,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 362,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 363,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 364,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 16",
+      "slug": "redmi-note-16",
+      "colors": [
+        {
+          "id": 409,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 410,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 411,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 331,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 332,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 365,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 366,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 367,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi Note 16 Pro",
+      "slug": "redmi-note-16-pro",
+      "colors": [
+        {
+          "id": 412,
+          "hex_code": "#1C1C1E",
+          "name_en": "Graphite Black",
+          "name_ru": "Графитовый чёрный",
+          "name_kg": "Графит кара"
+        },
+        {
+          "id": 413,
+          "hex_code": "#A9C4D6",
+          "name_en": "Ice Blue",
+          "name_ru": "Ледяной синий",
+          "name_kg": "Муз көк"
+        },
+        {
+          "id": 414,
+          "hex_code": "#C9BFE0",
+          "name_en": "Lavender Purple",
+          "name_ru": "Лавандовый фиолетовый",
+          "name_kg": "Лаванда күлгүн"
+        }
+      ],
+      "rams": [
+        {
+          "id": 333,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 334,
+          "name": "12GB",
+          "size_gb": 12
+        }
+      ],
+      "memories": [
+        {
+          "id": 368,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 369,
+          "name": "256GB",
+          "size_gb": 256
+        },
+        {
+          "id": 370,
+          "name": "512GB",
+          "size_gb": 512
+        }
+      ]
+    },
+    {
+      "name": "Redmi S2",
+      "slug": "redmi-s2",
+      "colors": [
+        {
+          "id": 415,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 416,
+          "hex_code": "#4A5D7E",
+          "name_en": "Blue",
+          "name_ru": "Синий",
+          "name_kg": "Көк"
+        }
+      ],
+      "rams": [
+        {
+          "id": 335,
+          "name": "1GB",
+          "size_gb": 1
+        },
+        {
+          "id": 336,
+          "name": "2GB",
+          "size_gb": 2
+        }
+      ],
+      "memories": [
+        {
+          "id": 371,
+          "name": "8GB",
+          "size_gb": 8
+        },
+        {
+          "id": 372,
+          "name": "16GB",
+          "size_gb": 16
+        }
+      ]
+    },
+    {
+      "name": "Redmi Turbo 3",
+      "slug": "redmi-turbo-3",
+      "colors": [
+        {
+          "id": 417,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 418,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 419,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 337,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 338,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 373,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 374,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Turbo 4",
+      "slug": "redmi-turbo-4",
+      "colors": [
+        {
+          "id": 420,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 421,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 422,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 339,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 340,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 375,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 376,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Turbo 5",
+      "slug": "redmi-turbo-5",
+      "colors": [
+        {
+          "id": 423,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 424,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 425,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 341,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 342,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 377,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 378,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    },
+    {
+      "name": "Redmi Turbo 5 Max",
+      "slug": "redmi-turbo-5-max",
+      "colors": [
+        {
+          "id": 426,
+          "hex_code": "#1C1C1E",
+          "name_en": "Black",
+          "name_ru": "Чёрный",
+          "name_kg": "Кара"
+        },
+        {
+          "id": 427,
+          "hex_code": "#D6D9DB",
+          "name_en": "Silver",
+          "name_ru": "Серебристый",
+          "name_kg": "Күмүш"
+        },
+        {
+          "id": 428,
+          "hex_code": "#F2E7C3",
+          "name_en": "Racing Yellow",
+          "name_ru": "Гоночный жёлтый",
+          "name_kg": "Жарыш сары"
+        }
+      ],
+      "rams": [
+        {
+          "id": 343,
+          "name": "6GB",
+          "size_gb": 6
+        },
+        {
+          "id": 344,
+          "name": "8GB",
+          "size_gb": 8
+        }
+      ],
+      "memories": [
+        {
+          "id": 379,
+          "name": "128GB",
+          "size_gb": 128
+        },
+        {
+          "id": 380,
+          "name": "256GB",
+          "size_gb": 256
+        }
+      ]
+    }
+  ]
+}
