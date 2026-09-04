@@ -1,0 +1,54 @@
+{
+  "name": "JMEV",
+  "slug": "cars/jmev",
+  "models": [
+    {
+      "value": "EV2",
+      "name": "EV2",
+      "slug": "jmev-ev2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EV3",
+      "name": "EV3",
+      "slug": "jmev-ev3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EX5",
+      "name": "EX5",
+      "slug": "jmev-ex5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GSE/Yi",
+      "name": "GSE/Yi",
+      "slug": "jmev-gse/yi",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "jmev-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "jmev-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

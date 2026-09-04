@@ -1,0 +1,94 @@
+{
+  "name": "MG",
+  "slug": "cars/mg",
+  "models": [
+    {
+      "value": "F",
+      "name": "F",
+      "slug": "mg-f",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MGA",
+      "name": "MGA",
+      "slug": "mg-mga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MGB",
+      "name": "MGB",
+      "slug": "mg-mgb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Midget",
+      "name": "Midget",
+      "slug": "mg-midget",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "mg-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "T-Series",
+      "name": "T-Series",
+      "slug": "mg-t-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "TF",
+      "name": "TF",
+      "slug": "mg-tf",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ZR",
+      "name": "ZR",
+      "slug": "mg-zr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ZS",
+      "name": "ZS",
+      "slug": "mg-zs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ZT",
+      "name": "ZT",
+      "slug": "mg-zt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "mg-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

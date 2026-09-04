@@ -1,0 +1,38 @@
+{
+  "name": "RAF",
+  "slug": "cars/raf",
+  "models": [
+    {
+      "value": "977",
+      "name": "977",
+      "slug": "raf-977",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2203",
+      "name": "2203",
+      "slug": "raf-2203",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "raf-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "raf-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

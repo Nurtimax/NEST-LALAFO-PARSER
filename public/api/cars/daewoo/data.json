@@ -1,0 +1,246 @@
+{
+  "name": "Daewoo",
+  "slug": "cars/daewoo",
+  "models": [
+    {
+      "value": "Arcadia",
+      "name": "Arcadia",
+      "slug": "daewoo-arcadia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chairman",
+      "name": "Chairman",
+      "slug": "daewoo-chairman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Damas",
+      "name": "Damas",
+      "slug": "daewoo-damas",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Espero",
+      "name": "Espero",
+      "slug": "daewoo-espero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Evanda",
+      "name": "Evanda",
+      "slug": "daewoo-evanda",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G2X",
+      "name": "G2X",
+      "slug": "daewoo-g2x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gentra",
+      "name": "Gentra",
+      "slug": "daewoo-gentra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kalos",
+      "name": "Kalos",
+      "slug": "daewoo-kalos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Korando",
+      "name": "Korando",
+      "slug": "daewoo-korando",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lacetti",
+      "name": "Lacetti",
+      "slug": "daewoo-lacetti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lanos",
+      "name": "Lanos",
+      "slug": "daewoo-lanos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LeMans",
+      "name": "LeMans",
+      "slug": "daewoo-lemans",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Leganza",
+      "name": "Leganza",
+      "slug": "daewoo-leganza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Magnus",
+      "name": "Magnus",
+      "slug": "daewoo-magnus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Matiz",
+      "name": "Matiz",
+      "slug": "daewoo-matiz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Musso",
+      "name": "Musso",
+      "slug": "daewoo-musso",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nexia",
+      "name": "Nexia",
+      "slug": "daewoo-nexia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nubira",
+      "name": "Nubira",
+      "slug": "daewoo-nubira",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Prince",
+      "name": "Prince",
+      "slug": "daewoo-prince",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Racer",
+      "name": "Racer",
+      "slug": "daewoo-racer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rezzo",
+      "name": "Rezzo",
+      "slug": "daewoo-rezzo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "daewoo-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sens",
+      "name": "Sens",
+      "slug": "daewoo-sens",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Statesman",
+      "name": "Statesman",
+      "slug": "daewoo-statesman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tacuma",
+      "name": "Tacuma",
+      "slug": "daewoo-tacuma",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tico",
+      "name": "Tico",
+      "slug": "daewoo-tico",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tosca",
+      "name": "Tosca",
+      "slug": "daewoo-tosca",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Winstorm",
+      "name": "Winstorm",
+      "slug": "daewoo-winstorm",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Лабо",
+      "name": "Лабо",
+      "slug": "daewoo-лабо",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "daewoo-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Ravon",
+  "slug": "cars/ravon",
+  "models": [
+    {
+      "value": "Gentra",
+      "name": "Gentra",
+      "slug": "ravon-gentra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Matiz",
+      "name": "Matiz",
+      "slug": "ravon-matiz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nexia",
+      "name": "Nexia",
+      "slug": "ravon-nexia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R2",
+      "name": "R2",
+      "slug": "ravon-r2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R4",
+      "name": "R4",
+      "slug": "ravon-r4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "ravon-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "ravon-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

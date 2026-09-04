@@ -1,0 +1,46 @@
+{
+  "name": "Hummer",
+  "slug": "cars/hummer",
+  "models": [
+    {
+      "value": "H1",
+      "name": "H1",
+      "slug": "hummer-h1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "H2",
+      "name": "H2",
+      "slug": "hummer-h2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "H3",
+      "name": "H3",
+      "slug": "hummer-h3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "hummer-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "hummer-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "JAC",
+  "slug": "cars/jac",
+  "models": [
+    {
+      "value": "J2",
+      "name": "J2",
+      "slug": "jac-j2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "J5",
+      "name": "J5",
+      "slug": "jac-j5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Refine",
+      "name": "Refine",
+      "slug": "jac-refine",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rein",
+      "name": "Rein",
+      "slug": "jac-rein",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "jac-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S5",
+      "name": "S5",
+      "slug": "jac-s5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "jac-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Hafei",
+  "slug": "cars/hafei",
+  "models": [
+    {
+      "value": "Brio",
+      "name": "Brio",
+      "slug": "hafei-brio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Princip",
+      "name": "Princip",
+      "slug": "hafei-princip",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "hafei-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Saibao",
+      "name": "Saibao",
+      "slug": "hafei-saibao",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sigma",
+      "name": "Sigma",
+      "slug": "hafei-sigma",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Simbo",
+      "name": "Simbo",
+      "slug": "hafei-simbo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "hafei-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

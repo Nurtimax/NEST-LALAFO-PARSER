@@ -1,0 +1,278 @@
+{
+  "name": "Alfa Romeo",
+  "slug": "cars/alfa-romeo",
+  "models": [
+    {
+      "value": "4C",
+      "name": "4C",
+      "slug": "alfa romeo-4c",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "8C",
+      "name": "8C",
+      "slug": "alfa romeo-8c",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "33",
+      "name": "33",
+      "slug": "alfa romeo-33",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "75",
+      "name": "75",
+      "slug": "alfa romeo-75",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "90",
+      "name": "90",
+      "slug": "alfa romeo-90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "145",
+      "name": "145",
+      "slug": "alfa romeo-145",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "146",
+      "name": "146",
+      "slug": "alfa romeo-146",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "147",
+      "name": "147",
+      "slug": "alfa romeo-147",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "155",
+      "name": "155",
+      "slug": "alfa romeo-155",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "156",
+      "name": "156",
+      "slug": "alfa romeo-156",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "159",
+      "name": "159",
+      "slug": "alfa romeo-159",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "164",
+      "name": "164",
+      "slug": "alfa romeo-164",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "166",
+      "name": "166",
+      "slug": "alfa romeo-166",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1750",
+      "name": "1750",
+      "slug": "alfa romeo-1750",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2600",
+      "name": "2600",
+      "slug": "alfa romeo-2600",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Alfa 6",
+      "name": "Alfa 6",
+      "slug": "alfa romeo-alfa-6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Alfasud",
+      "name": "Alfasud",
+      "slug": "alfa romeo-alfasud",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Alfetta",
+      "name": "Alfetta",
+      "slug": "alfa romeo-alfetta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Arna",
+      "name": "Arna",
+      "slug": "alfa romeo-arna",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Brera",
+      "name": "Brera",
+      "slug": "alfa romeo-brera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Duetto",
+      "name": "Duetto",
+      "slug": "alfa romeo-duetto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GT",
+      "name": "GT",
+      "slug": "alfa romeo-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GTV",
+      "name": "GTV",
+      "slug": "alfa romeo-gtv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Giulia",
+      "name": "Giulia",
+      "slug": "alfa romeo-giulia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Giulia Sprint",
+      "name": "Giulia Sprint",
+      "slug": "alfa romeo-giulia-sprint",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Giulietta",
+      "name": "Giulietta",
+      "slug": "alfa romeo-giulietta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MiTo",
+      "name": "MiTo",
+      "slug": "alfa romeo-mito",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Montreal",
+      "name": "Montreal",
+      "slug": "alfa romeo-montreal",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RZ",
+      "name": "RZ",
+      "slug": "alfa romeo-rz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "alfa romeo-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SZ",
+      "name": "SZ",
+      "slug": "alfa romeo-sz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Spider",
+      "name": "Spider",
+      "slug": "alfa romeo-spider",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sprint",
+      "name": "Sprint",
+      "slug": "alfa romeo-sprint",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "alfa romeo-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

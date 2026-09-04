@@ -1,0 +1,110 @@
+{
+  "name": "Lotus",
+  "slug": "cars/lotus",
+  "models": [
+    {
+      "value": "340R",
+      "name": "340R",
+      "slug": "lotus-340r",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eclat",
+      "name": "Eclat",
+      "slug": "lotus-eclat",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Elan",
+      "name": "Elan",
+      "slug": "lotus-elan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Elise",
+      "name": "Elise",
+      "slug": "lotus-elise",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Elite",
+      "name": "Elite",
+      "slug": "lotus-elite",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Esprit",
+      "name": "Esprit",
+      "slug": "lotus-esprit",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Europa",
+      "name": "Europa",
+      "slug": "lotus-europa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Europa S",
+      "name": "Europa S",
+      "slug": "lotus-europa-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Evora",
+      "name": "Evora",
+      "slug": "lotus-evora",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Excel",
+      "name": "Excel",
+      "slug": "lotus-excel",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Exige",
+      "name": "Exige",
+      "slug": "lotus-exige",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "lotus-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "lotus-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

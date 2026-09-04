@@ -1,0 +1,134 @@
+{
+  "name": "FAW",
+  "slug": "cars/faw",
+  "models": [
+    {
+      "value": "Admiral",
+      "name": "Admiral",
+      "slug": "faw-admiral",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Besturn",
+      "name": "Besturn",
+      "slug": "faw-besturn",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Besturn B50",
+      "name": "Besturn B50",
+      "slug": "faw-besturn-b50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Besturn B70",
+      "name": "Besturn B70",
+      "slug": "faw-besturn-b70",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "City Golf",
+      "name": "City Golf",
+      "slug": "faw-city-golf",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jetta",
+      "name": "Jetta",
+      "slug": "faw-jetta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jinn",
+      "name": "Jinn",
+      "slug": "faw-jinn",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Landmark",
+      "name": "Landmark",
+      "slug": "faw-landmark",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Oley",
+      "name": "Oley",
+      "slug": "faw-oley",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "faw-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V2",
+      "name": "V2",
+      "slug": "faw-v2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V5",
+      "name": "V5",
+      "slug": "faw-v5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vela",
+      "name": "Vela",
+      "slug": "faw-vela",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vita",
+      "name": "Vita",
+      "slug": "faw-vita",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vizi",
+      "name": "Vizi",
+      "slug": "faw-vizi",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "faw-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

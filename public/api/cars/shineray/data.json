@@ -1,0 +1,38 @@
+{
+  "name": "Shineray",
+  "slug": "cars/shineray",
+  "models": [
+    {
+      "value": "M7",
+      "name": "M7",
+      "slug": "shineray-m7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "shineray-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X30",
+      "name": "X30",
+      "slug": "shineray-x30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "shineray-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

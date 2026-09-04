@@ -1,0 +1,102 @@
+{
+  "name": "GMC",
+  "slug": "cars/gmc",
+  "models": [
+    {
+      "value": "Acadia",
+      "name": "Acadia",
+      "slug": "gmc-acadia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Canyon",
+      "name": "Canyon",
+      "slug": "gmc-canyon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Envoy",
+      "name": "Envoy",
+      "slug": "gmc-envoy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jimmy",
+      "name": "Jimmy",
+      "slug": "gmc-jimmy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "gmc-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Savana",
+      "name": "Savana",
+      "slug": "gmc-savana",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sierra",
+      "name": "Sierra",
+      "slug": "gmc-sierra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Suburban",
+      "name": "Suburban",
+      "slug": "gmc-suburban",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Typhoon",
+      "name": "Typhoon",
+      "slug": "gmc-typhoon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vandura",
+      "name": "Vandura",
+      "slug": "gmc-vandura",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Yukon",
+      "name": "Yukon",
+      "slug": "gmc-yukon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "gmc-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

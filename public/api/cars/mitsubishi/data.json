@@ -1,0 +1,614 @@
+{
+  "name": "Mitsubishi",
+  "slug": "cars/mitsubishi",
+  "models": [
+    {
+      "value": "3000GT",
+      "name": "3000GT",
+      "slug": "mitsubishi-3000gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ASX",
+      "name": "ASX",
+      "slug": "mitsubishi-asx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Airtrek",
+      "name": "Airtrek",
+      "slug": "mitsubishi-airtrek",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aspire",
+      "name": "Aspire",
+      "slug": "mitsubishi-aspire",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Attrage",
+      "name": "Attrage",
+      "slug": "mitsubishi-attrage",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Canter",
+      "name": "Canter",
+      "slug": "mitsubishi-canter",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Carisma",
+      "name": "Carisma",
+      "slug": "mitsubishi-carisma",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Celeste",
+      "name": "Celeste",
+      "slug": "mitsubishi-celeste",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Challenger",
+      "name": "Challenger",
+      "slug": "mitsubishi-challenger",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chariot",
+      "name": "Chariot",
+      "slug": "mitsubishi-chariot",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Colt",
+      "name": "Colt",
+      "slug": "mitsubishi-colt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cordia",
+      "name": "Cordia",
+      "slug": "mitsubishi-cordia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Debonair",
+      "name": "Debonair",
+      "slug": "mitsubishi-debonair",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Delica",
+      "name": "Delica",
+      "slug": "mitsubishi-delica",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Delica D:5",
+      "name": "Delica D:5",
+      "slug": "mitsubishi-delica-d:5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Destinator",
+      "name": "Destinator",
+      "slug": "mitsubishi-destinator",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Diamante",
+      "name": "Diamante",
+      "slug": "mitsubishi-diamante",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dingo",
+      "name": "Dingo",
+      "slug": "mitsubishi-dingo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dion",
+      "name": "Dion",
+      "slug": "mitsubishi-dion",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EK Wagon",
+      "name": "EK Wagon",
+      "slug": "mitsubishi-ek-wagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eclipse",
+      "name": "Eclipse",
+      "slug": "mitsubishi-eclipse",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eclipse Cross",
+      "name": "Eclipse Cross",
+      "slug": "mitsubishi-eclipse-cross",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emeraude",
+      "name": "Emeraude",
+      "slug": "mitsubishi-emeraude",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Endeavor",
+      "name": "Endeavor",
+      "slug": "mitsubishi-endeavor",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eterna",
+      "name": "Eterna",
+      "slug": "mitsubishi-eterna",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FTO",
+      "name": "FTO",
+      "slug": "mitsubishi-fto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fuso Canter",
+      "name": "Fuso Canter",
+      "slug": "mitsubishi-fuso-canter",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GTO",
+      "name": "GTO",
+      "slug": "mitsubishi-gto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galant",
+      "name": "Galant",
+      "slug": "mitsubishi-galant",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grandis",
+      "name": "Grandis",
+      "slug": "mitsubishi-grandis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jeep",
+      "name": "Jeep",
+      "slug": "mitsubishi-jeep",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "L200",
+      "name": "L200",
+      "slug": "mitsubishi-l200",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "L300",
+      "name": "L300",
+      "slug": "mitsubishi-l300",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "L400",
+      "name": "L400",
+      "slug": "mitsubishi-l400",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lancer",
+      "name": "Lancer",
+      "slug": "mitsubishi-lancer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lancer Evolution",
+      "name": "Lancer Evolution",
+      "slug": "mitsubishi-lancer-evolution",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Legnum",
+      "name": "Legnum",
+      "slug": "mitsubishi-legnum",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Libero",
+      "name": "Libero",
+      "slug": "mitsubishi-libero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Minica",
+      "name": "Minica",
+      "slug": "mitsubishi-minica",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Minicab MiEV",
+      "name": "Minicab MiEV",
+      "slug": "mitsubishi-minicab-miev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mirage",
+      "name": "Mirage",
+      "slug": "mitsubishi-mirage",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Montero",
+      "name": "Montero",
+      "slug": "mitsubishi-montero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Montero Sport",
+      "name": "Montero Sport",
+      "slug": "mitsubishi-montero-sport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nativa",
+      "name": "Nativa",
+      "slug": "mitsubishi-nativa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Outlander",
+      "name": "Outlander",
+      "slug": "mitsubishi-outlander",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Outlander Sport",
+      "name": "Outlander Sport",
+      "slug": "mitsubishi-outlander-sport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pajero",
+      "name": "Pajero",
+      "slug": "mitsubishi-pajero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pajero Evolution",
+      "name": "Pajero Evolution",
+      "slug": "mitsubishi-pajero-evolution",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pajero Junior",
+      "name": "Pajero Junior",
+      "slug": "mitsubishi-pajero-junior",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pajero Mini",
+      "name": "Pajero Mini",
+      "slug": "mitsubishi-pajero-mini",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pajero Pinin",
+      "name": "Pajero Pinin",
+      "slug": "mitsubishi-pajero-pinin",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pajero Sport",
+      "name": "Pajero Sport",
+      "slug": "mitsubishi-pajero-sport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pajero iO",
+      "name": "Pajero iO",
+      "slug": "mitsubishi-pajero-io",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Proudia",
+      "name": "Proudia",
+      "slug": "mitsubishi-proudia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RVR",
+      "name": "RVR",
+      "slug": "mitsubishi-rvr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Santamo",
+      "name": "Santamo",
+      "slug": "mitsubishi-santamo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sapporo",
+      "name": "Sapporo",
+      "slug": "mitsubishi-sapporo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Shogun",
+      "name": "Shogun",
+      "slug": "mitsubishi-shogun",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Shogun Pinin",
+      "name": "Shogun Pinin",
+      "slug": "mitsubishi-shogun-pinin",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sigma",
+      "name": "Sigma",
+      "slug": "mitsubishi-sigma",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sigma/Magna",
+      "name": "Sigma/Magna",
+      "slug": "mitsubishi-sigma/magna",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Space Gear",
+      "name": "Space Gear",
+      "slug": "mitsubishi-space-gear",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Space Runner",
+      "name": "Space Runner",
+      "slug": "mitsubishi-space-runner",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Space Star",
+      "name": "Space Star",
+      "slug": "mitsubishi-space-star",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Space Wagon",
+      "name": "Space Wagon",
+      "slug": "mitsubishi-space-wagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Starion",
+      "name": "Starion",
+      "slug": "mitsubishi-starion",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Toppo",
+      "name": "Toppo",
+      "slug": "mitsubishi-toppo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tredia",
+      "name": "Tredia",
+      "slug": "mitsubishi-tredia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xforce",
+      "name": "Xforce",
+      "slug": "mitsubishi-xforce",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xpander",
+      "name": "Xpander",
+      "slug": "mitsubishi-xpander",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xpander Cross",
+      "name": "Xpander Cross",
+      "slug": "mitsubishi-xpander-cross",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Zinger",
+      "name": "Zinger",
+      "slug": "mitsubishi-zinger",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i",
+      "name": "i",
+      "slug": "mitsubishi-i",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i-MiEV",
+      "name": "i-MiEV",
+      "slug": "mitsubishi-i-miev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i 17",
+      "name": "i 17",
+      "slug": "mitsubishi-i-17",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "mitsubishi-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

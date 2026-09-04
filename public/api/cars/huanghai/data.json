@@ -1,0 +1,54 @@
+{
+  "name": "Huanghai",
+  "slug": "cars/huanghai",
+  "models": [
+    {
+      "value": "Antelope",
+      "name": "Antelope",
+      "slug": "huanghai-antelope",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Landscape",
+      "name": "Landscape",
+      "slug": "huanghai-landscape",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Major",
+      "name": "Major",
+      "slug": "huanghai-major",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Plutus",
+      "name": "Plutus",
+      "slug": "huanghai-plutus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "huanghai-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "huanghai-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

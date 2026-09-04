@@ -1,0 +1,70 @@
+{
+  "name": "VIS",
+  "slug": "cars/vis",
+  "models": [
+    {
+      "value": "1705",
+      "name": "1705",
+      "slug": "vis-1705",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1706",
+      "name": "1706",
+      "slug": "vis-1706",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2345",
+      "name": "2345",
+      "slug": "vis-2345",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2346",
+      "name": "2346",
+      "slug": "vis-2346",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2347",
+      "name": "2347",
+      "slug": "vis-2347",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2349",
+      "name": "2349",
+      "slug": "vis-2349",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "vis-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "vis-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Microcar",
+  "slug": "cars/microcar",
+  "models": [
+    {
+      "value": "F8C",
+      "name": "F8C",
+      "slug": "microcar-f8c",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M.go",
+      "name": "M.go",
+      "slug": "microcar-m.go",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M8",
+      "name": "M8",
+      "slug": "microcar-m8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MC",
+      "name": "MC",
+      "slug": "microcar-mc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "microcar-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Virgo",
+      "name": "Virgo",
+      "slug": "microcar-virgo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "microcar-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

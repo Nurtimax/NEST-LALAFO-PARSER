@@ -1,0 +1,126 @@
+{
+  "name": "LIFAN",
+  "slug": "cars/lifan",
+  "models": [
+    {
+      "value": "Breez",
+      "name": "Breez",
+      "slug": "lifan-breez",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Breez (520)",
+      "name": "Breez (520)",
+      "slug": "lifan-breez-(520)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cebrium",
+      "name": "Cebrium",
+      "slug": "lifan-cebrium",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cebrium (720)",
+      "name": "Cebrium (720)",
+      "slug": "lifan-cebrium-(720)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Celliya",
+      "name": "Celliya",
+      "slug": "lifan-celliya",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Celliya (530)",
+      "name": "Celliya (530)",
+      "slug": "lifan-celliya-(530)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Naz",
+      "name": "Naz",
+      "slug": "lifan-naz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "lifan-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Smily",
+      "name": "Smily",
+      "slug": "lifan-smily",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Smily (320)",
+      "name": "Smily (320)",
+      "slug": "lifan-smily-(320)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Solano",
+      "name": "Solano",
+      "slug": "lifan-solano",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Solano (620)",
+      "name": "Solano (620)",
+      "slug": "lifan-solano-(620)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X50",
+      "name": "X50",
+      "slug": "lifan-x50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X60",
+      "name": "X60",
+      "slug": "lifan-x60",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "lifan-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

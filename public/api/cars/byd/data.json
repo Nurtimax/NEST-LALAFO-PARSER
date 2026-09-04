@@ -1,0 +1,478 @@
+{
+  "name": "BYD",
+  "slug": "cars/byd",
+  "models": [
+    {
+      "value": "D1",
+      "name": "D1",
+      "slug": "byd-d1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Destroyer 05",
+      "name": "Destroyer 05",
+      "slug": "byd-destroyer-05",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dolphin",
+      "name": "Dolphin",
+      "slug": "byd-dolphin",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E1",
+      "name": "E1",
+      "slug": "byd-e1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E2",
+      "name": "E2",
+      "slug": "byd-e2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E3",
+      "name": "E3",
+      "slug": "byd-e3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E5",
+      "name": "E5",
+      "slug": "byd-e5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E6",
+      "name": "E6",
+      "slug": "byd-e6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E9",
+      "name": "E9",
+      "slug": "byd-e9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ET",
+      "name": "ET",
+      "slug": "byd-et",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F0",
+      "name": "F0",
+      "slug": "byd-f0",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F2",
+      "name": "F2",
+      "slug": "byd-f2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F3",
+      "name": "F3",
+      "slug": "byd-f3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F5",
+      "name": "F5",
+      "slug": "byd-f5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F6",
+      "name": "F6",
+      "slug": "byd-f6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F8",
+      "name": "F8",
+      "slug": "byd-f8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FangChengBao Leopard 3",
+      "name": "FangChengBao Leopard 3",
+      "slug": "byd-fangchengbao-leopard-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FangChengBao Leopard 5",
+      "name": "FangChengBao Leopard 5",
+      "slug": "byd-fangchengbao-leopard-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FangChengBao Leopard 8",
+      "name": "FangChengBao Leopard 8",
+      "slug": "byd-fangchengbao-leopard-8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FangChengBao Titanium 7",
+      "name": "FangChengBao Titanium 7",
+      "slug": "byd-fangchengbao-titanium-7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Flyer",
+      "name": "Flyer",
+      "slug": "byd-flyer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Frigate 07",
+      "name": "Frigate 07",
+      "slug": "byd-frigate-07",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G3",
+      "name": "G3",
+      "slug": "byd-g3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G6",
+      "name": "G6",
+      "slug": "byd-g6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Han",
+      "name": "Han",
+      "slug": "byd-han",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Han EV",
+      "name": "Han EV",
+      "slug": "byd-han-ev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Han L",
+      "name": "Han L",
+      "slug": "byd-han-l",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "L3",
+      "name": "L3",
+      "slug": "byd-l3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M6",
+      "name": "M6",
+      "slug": "byd-m6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Qin",
+      "name": "Qin",
+      "slug": "byd-qin",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Qin L",
+      "name": "Qin L",
+      "slug": "byd-qin-l",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "byd-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S6",
+      "name": "S6",
+      "slug": "byd-s6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S8",
+      "name": "S8",
+      "slug": "byd-s8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sea Lion 05",
+      "name": "Sea Lion 05",
+      "slug": "byd-sea-lion-05",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sea Lion 06",
+      "name": "Sea Lion 06",
+      "slug": "byd-sea-lion-06",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sea Lion 07",
+      "name": "Sea Lion 07",
+      "slug": "byd-sea-lion-07",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Seagull",
+      "name": "Seagull",
+      "slug": "byd-seagull",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Seal",
+      "name": "Seal",
+      "slug": "byd-seal",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Seal 06",
+      "name": "Seal 06",
+      "slug": "byd-seal-06",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Seal 06 GT",
+      "name": "Seal 06 GT",
+      "slug": "byd-seal-06-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Seal 07",
+      "name": "Seal 07",
+      "slug": "byd-seal-07",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Song EV",
+      "name": "Song EV",
+      "slug": "byd-song-ev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Song L",
+      "name": "Song L",
+      "slug": "byd-song-l",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Song Max",
+      "name": "Song Max",
+      "slug": "byd-song-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Song Plus",
+      "name": "Song Plus",
+      "slug": "byd-song-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Song Pro",
+      "name": "Song Pro",
+      "slug": "byd-song-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tang",
+      "name": "Tang",
+      "slug": "byd-tang",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tang EV600",
+      "name": "Tang EV600",
+      "slug": "byd-tang-ev600",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tang L",
+      "name": "Tang L",
+      "slug": "byd-tang-l",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xia",
+      "name": "Xia",
+      "slug": "byd-xia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Yangwang U7",
+      "name": "Yangwang U7",
+      "slug": "byd-yangwang-u7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Yangwang U8",
+      "name": "Yangwang U8",
+      "slug": "byd-yangwang-u8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Yangwang U9",
+      "name": "Yangwang U9",
+      "slug": "byd-yangwang-u9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Yuan",
+      "name": "Yuan",
+      "slug": "byd-yuan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Yuan Plus",
+      "name": "Yuan Plus",
+      "slug": "byd-yuan-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Yuan Pro",
+      "name": "Yuan Pro",
+      "slug": "byd-yuan-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Yuan Up",
+      "name": "Yuan Up",
+      "slug": "byd-yuan-up",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "byd-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

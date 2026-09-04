@@ -1,0 +1,294 @@
+{
+  "name": "Changan",
+  "slug": "cars/changan",
+  "models": [
+    {
+      "value": "Alsvin",
+      "name": "Alsvin",
+      "slug": "changan-alsvin",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Alsvin V3",
+      "name": "Alsvin V3",
+      "slug": "changan-alsvin-v3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Alsvin V5",
+      "name": "Alsvin V5",
+      "slug": "changan-alsvin-v5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Auchan A600 EV",
+      "name": "Auchan A600 EV",
+      "slug": "changan-auchan-a600-ev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Benben E-Star",
+      "name": "Benben E-Star",
+      "slug": "changan-benben-e-star",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Benni",
+      "name": "Benni",
+      "slug": "changan-benni",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CM-8",
+      "name": "CM-8",
+      "slug": "changan-cm-8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS15",
+      "name": "CS15",
+      "slug": "changan-cs15",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS35",
+      "name": "CS35",
+      "slug": "changan-cs35",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS35 Plus",
+      "name": "CS35 Plus",
+      "slug": "changan-cs35-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS55",
+      "name": "CS55",
+      "slug": "changan-cs55",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS55 Plus",
+      "name": "CS55 Plus",
+      "slug": "changan-cs55-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS75",
+      "name": "CS75",
+      "slug": "changan-cs75",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS75 Plus",
+      "name": "CS75 Plus",
+      "slug": "changan-cs75-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS85",
+      "name": "CS85",
+      "slug": "changan-cs85",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS85 Coupe",
+      "name": "CS85 Coupe",
+      "slug": "changan-cs85-coupe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CS95",
+      "name": "CS95",
+      "slug": "changan-cs95",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX20",
+      "name": "CX20",
+      "slug": "changan-cx20",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX70",
+      "name": "CX70",
+      "slug": "changan-cx70",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eado",
+      "name": "Eado",
+      "slug": "changan-eado",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eado Plus",
+      "name": "Eado Plus",
+      "slug": "changan-eado-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hunter Plus",
+      "name": "Hunter Plus",
+      "slug": "changan-hunter-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kaicene F70",
+      "name": "Kaicene F70",
+      "slug": "changan-kaicene-f70",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lamore",
+      "name": "Lamore",
+      "slug": "changan-lamore",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Qiyuan Q05",
+      "name": "Qiyuan Q05",
+      "slug": "changan-qiyuan-q05",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Raeton",
+      "name": "Raeton",
+      "slug": "changan-raeton",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Raeton CC",
+      "name": "Raeton CC",
+      "slug": "changan-raeton-cc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "changan-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Uni-K",
+      "name": "Uni-K",
+      "slug": "changan-uni-k",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Uni-T",
+      "name": "Uni-T",
+      "slug": "changan-uni-t",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Uni-V",
+      "name": "Uni-V",
+      "slug": "changan-uni-v",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Uni-Z",
+      "name": "Uni-Z",
+      "slug": "changan-uni-z",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X5 Plus",
+      "name": "X5 Plus",
+      "slug": "changan-x5-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X7 Plus",
+      "name": "X7 Plus",
+      "slug": "changan-x7-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Z-Chine",
+      "name": "Z-Chine",
+      "slug": "changan-z-chine",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "changan-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Voyah",
+  "slug": "cars/voyah",
+  "models": [
+    {
+      "value": "Chasing light",
+      "name": "Chasing light",
+      "slug": "voyah-chasing-light",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dream",
+      "name": "Dream",
+      "slug": "voyah-dream",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "voyah-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Бесплатно",
+      "name": "Бесплатно",
+      "slug": "voyah-бесплатно",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "voyah-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

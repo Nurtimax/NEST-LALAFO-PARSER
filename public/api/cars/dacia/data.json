@@ -1,0 +1,78 @@
+{
+  "name": "Dacia",
+  "slug": "cars/dacia",
+  "models": [
+    {
+      "value": "1310",
+      "name": "1310",
+      "slug": "dacia-1310",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dokker",
+      "name": "Dokker",
+      "slug": "dacia-dokker",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Duster",
+      "name": "Duster",
+      "slug": "dacia-duster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lodgy",
+      "name": "Lodgy",
+      "slug": "dacia-lodgy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Logan",
+      "name": "Logan",
+      "slug": "dacia-logan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nova",
+      "name": "Nova",
+      "slug": "dacia-nova",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "dacia-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sandero",
+      "name": "Sandero",
+      "slug": "dacia-sandero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "dacia-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

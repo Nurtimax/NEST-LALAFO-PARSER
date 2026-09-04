@@ -1,0 +1,270 @@
+{
+  "name": "Москвич",
+  "slug": "cars/moskvich",
+  "models": [
+    {
+      "value": "400",
+      "name": "400",
+      "slug": "москвич-400",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "401",
+      "name": "401",
+      "slug": "москвич-401",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "402",
+      "name": "402",
+      "slug": "москвич-402",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "403",
+      "name": "403",
+      "slug": "москвич-403",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "407",
+      "name": "407",
+      "slug": "москвич-407",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "408",
+      "name": "408",
+      "slug": "москвич-408",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "410",
+      "name": "410",
+      "slug": "москвич-410",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "411",
+      "name": "411",
+      "slug": "москвич-411",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "412",
+      "name": "412",
+      "slug": "москвич-412",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "420",
+      "name": "420",
+      "slug": "москвич-420",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "422",
+      "name": "422",
+      "slug": "москвич-422",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "423",
+      "name": "423",
+      "slug": "москвич-423",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "424",
+      "name": "424",
+      "slug": "москвич-424",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "426",
+      "name": "426",
+      "slug": "москвич-426",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "427",
+      "name": "427",
+      "slug": "москвич-427",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "430",
+      "name": "430",
+      "slug": "москвич-430",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "432",
+      "name": "432",
+      "slug": "москвич-432",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "434",
+      "name": "434",
+      "slug": "москвич-434",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2136",
+      "name": "2136",
+      "slug": "москвич-2136",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2137",
+      "name": "2137",
+      "slug": "москвич-2137",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2138",
+      "name": "2138",
+      "slug": "москвич-2138",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2140",
+      "name": "2140",
+      "slug": "москвич-2140",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2141",
+      "name": "2141",
+      "slug": "москвич-2141",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2335",
+      "name": "2335",
+      "slug": "москвич-2335",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2733",
+      "name": "2733",
+      "slug": "москвич-2733",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2734",
+      "name": "2734",
+      "slug": "москвич-2734",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Duet",
+      "name": "Duet",
+      "slug": "москвич-duet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "москвич-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Иван Калита",
+      "name": "Иван Калита",
+      "slug": "москвич-иван-калита",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Князь Владимир",
+      "name": "Князь Владимир",
+      "slug": "москвич-князь-владимир",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Святогор",
+      "name": "Святогор",
+      "slug": "москвич-святогор",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Юрий Долгорукий",
+      "name": "Юрий Долгорукий",
+      "slug": "москвич-юрий-долгорукий",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "москвич-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

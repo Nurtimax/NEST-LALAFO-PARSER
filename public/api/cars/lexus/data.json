@@ -1,0 +1,190 @@
+{
+  "name": "Lexus",
+  "slug": "cars/lexus",
+  "models": [
+    {
+      "value": "CT",
+      "name": "CT",
+      "slug": "lexus-ct",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ES",
+      "name": "ES",
+      "slug": "lexus-es",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GL",
+      "name": "GL",
+      "slug": "lexus-gl",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GS",
+      "name": "GS",
+      "slug": "lexus-gs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GX",
+      "name": "GX",
+      "slug": "lexus-gx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "HS",
+      "name": "HS",
+      "slug": "lexus-hs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "IS",
+      "name": "IS",
+      "slug": "lexus-is",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "IS F",
+      "name": "IS F",
+      "slug": "lexus-is-f",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LC",
+      "name": "LC",
+      "slug": "lexus-lc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LFA",
+      "name": "LFA",
+      "slug": "lexus-lfa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LM",
+      "name": "LM",
+      "slug": "lexus-lm",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LS",
+      "name": "LS",
+      "slug": "lexus-ls",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LX",
+      "name": "LX",
+      "slug": "lexus-lx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "NX",
+      "name": "NX",
+      "slug": "lexus-nx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RC",
+      "name": "RC",
+      "slug": "lexus-rc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RX",
+      "name": "RX",
+      "slug": "lexus-rx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RX 2",
+      "name": "RX 2",
+      "slug": "lexus-rx-2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RZ",
+      "name": "RZ",
+      "slug": "lexus-rz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "lexus-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SC",
+      "name": "SC",
+      "slug": "lexus-sc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "TX",
+      "name": "TX",
+      "slug": "lexus-tx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "UX",
+      "name": "UX",
+      "slug": "lexus-ux",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "lexus-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

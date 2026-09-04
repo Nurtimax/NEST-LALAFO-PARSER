@@ -1,0 +1,870 @@
+{
+  "name": "Nissan",
+  "slug": "cars/nissan",
+  "models": [
+    {
+      "value": "100 NX",
+      "name": "100 NX",
+      "slug": "nissan-100-nx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "180SX",
+      "name": "180SX",
+      "slug": "nissan-180sx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "200SX",
+      "name": "200SX",
+      "slug": "nissan-200sx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "240SX",
+      "name": "240SX",
+      "slug": "nissan-240sx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "300ZX",
+      "name": "300ZX",
+      "slug": "nissan-300zx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "350",
+      "name": "350",
+      "slug": "nissan-350",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "350Z",
+      "name": "350Z",
+      "slug": "nissan-350z",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "370Z",
+      "name": "370Z",
+      "slug": "nissan-370z",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "AD",
+      "name": "AD",
+      "slug": "nissan-ad",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Almera",
+      "name": "Almera",
+      "slug": "nissan-almera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Almera Classic",
+      "name": "Almera Classic",
+      "slug": "nissan-almera-classic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Almera Tino",
+      "name": "Almera Tino",
+      "slug": "nissan-almera-tino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Altima",
+      "name": "Altima",
+      "slug": "nissan-altima",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ariya",
+      "name": "Ariya",
+      "slug": "nissan-ariya",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Armada",
+      "name": "Armada",
+      "slug": "nissan-armada",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Avenir",
+      "name": "Avenir",
+      "slug": "nissan-avenir",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bassara",
+      "name": "Bassara",
+      "slug": "nissan-bassara",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bluebird",
+      "name": "Bluebird",
+      "slug": "nissan-bluebird",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Caravan",
+      "name": "Caravan",
+      "slug": "nissan-caravan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cedric",
+      "name": "Cedric",
+      "slug": "nissan-cedric",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cefiro",
+      "name": "Cefiro",
+      "slug": "nissan-cefiro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cherry",
+      "name": "Cherry",
+      "slug": "nissan-cherry",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cima",
+      "name": "Cima",
+      "slug": "nissan-cima",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Crew",
+      "name": "Crew",
+      "slug": "nissan-crew",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cube",
+      "name": "Cube",
+      "slug": "nissan-cube",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Datsun",
+      "name": "Datsun",
+      "slug": "nissan-datsun",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dayz",
+      "name": "Dayz",
+      "slug": "nissan-dayz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Elgrand",
+      "name": "Elgrand",
+      "slug": "nissan-elgrand",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Expert",
+      "name": "Expert",
+      "slug": "nissan-expert",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fairlady Z",
+      "name": "Fairlady Z",
+      "slug": "nissan-fairlady-z",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Frontier",
+      "name": "Frontier",
+      "slug": "nissan-frontier",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fuga",
+      "name": "Fuga",
+      "slug": "nissan-fuga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GT-R",
+      "name": "GT-R",
+      "slug": "nissan-gt-r",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gloria",
+      "name": "Gloria",
+      "slug": "nissan-gloria",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Homy",
+      "name": "Homy",
+      "slug": "nissan-homy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Juke",
+      "name": "Juke",
+      "slug": "nissan-juke",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kicks",
+      "name": "Kicks",
+      "slug": "nissan-kicks",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kix",
+      "name": "Kix",
+      "slug": "nissan-kix",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kubistar",
+      "name": "Kubistar",
+      "slug": "nissan-kubistar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lafesta",
+      "name": "Lafesta",
+      "slug": "nissan-lafesta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Largo",
+      "name": "Largo",
+      "slug": "nissan-largo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Latio",
+      "name": "Latio",
+      "slug": "nissan-latio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Laurel",
+      "name": "Laurel",
+      "slug": "nissan-laurel",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Leaf",
+      "name": "Leaf",
+      "slug": "nissan-leaf",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Leopard",
+      "name": "Leopard",
+      "slug": "nissan-leopard",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Liberty",
+      "name": "Liberty",
+      "slug": "nissan-liberty",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lucino",
+      "name": "Lucino",
+      "slug": "nissan-lucino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "March",
+      "name": "March",
+      "slug": "nissan-march",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Maxima",
+      "name": "Maxima",
+      "slug": "nissan-maxima",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Micra",
+      "name": "Micra",
+      "slug": "nissan-micra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Micra CC",
+      "name": "Micra CC",
+      "slug": "nissan-micra-cc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mistral",
+      "name": "Mistral",
+      "slug": "nissan-mistral",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Moco",
+      "name": "Moco",
+      "slug": "nissan-moco",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "N7",
+      "name": "N7",
+      "slug": "nissan-n7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "NP300",
+      "name": "NP300",
+      "slug": "nissan-np300",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "NV100 Clipper",
+      "name": "NV100 Clipper",
+      "slug": "nissan-nv100-clipper",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "NV200",
+      "name": "NV200",
+      "slug": "nissan-nv200",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "NV350 Caravan",
+      "name": "NV350 Caravan",
+      "slug": "nissan-nv350-caravan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Navara",
+      "name": "Navara",
+      "slug": "nissan-navara",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Navara (Frontier)",
+      "name": "Navara (Frontier)",
+      "slug": "nissan-navara-(frontier)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Note",
+      "name": "Note",
+      "slug": "nissan-note",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Otti",
+      "name": "Otti",
+      "slug": "nissan-otti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pathfinder",
+      "name": "Pathfinder",
+      "slug": "nissan-pathfinder",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Patrol",
+      "name": "Patrol",
+      "slug": "nissan-patrol",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pickup",
+      "name": "Pickup",
+      "slug": "nissan-pickup",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pixo",
+      "name": "Pixo",
+      "slug": "nissan-pixo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Prairie",
+      "name": "Prairie",
+      "slug": "nissan-prairie",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Presage",
+      "name": "Presage",
+      "slug": "nissan-presage",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Presea",
+      "name": "Presea",
+      "slug": "nissan-presea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "President",
+      "name": "President",
+      "slug": "nissan-president",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Primastar",
+      "name": "Primastar",
+      "slug": "nissan-primastar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Primera",
+      "name": "Primera",
+      "slug": "nissan-primera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Primera Camino",
+      "name": "Primera Camino",
+      "slug": "nissan-primera-camino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pulsar",
+      "name": "Pulsar",
+      "slug": "nissan-pulsar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Qashqai",
+      "name": "Qashqai",
+      "slug": "nissan-qashqai",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Qashqai+2",
+      "name": "Qashqai+2",
+      "slug": "nissan-qashqai+2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Quest",
+      "name": "Quest",
+      "slug": "nissan-quest",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R Nessa",
+      "name": "R Nessa",
+      "slug": "nissan-r-nessa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rasheen",
+      "name": "Rasheen",
+      "slug": "nissan-rasheen",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rogue",
+      "name": "Rogue",
+      "slug": "nissan-rogue",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rogue Sport",
+      "name": "Rogue Sport",
+      "slug": "nissan-rogue-sport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roox",
+      "name": "Roox",
+      "slug": "nissan-roox",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Safari",
+      "name": "Safari",
+      "slug": "nissan-safari",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sentra",
+      "name": "Sentra",
+      "slug": "nissan-sentra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Serena",
+      "name": "Serena",
+      "slug": "nissan-serena",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Silvia",
+      "name": "Silvia",
+      "slug": "nissan-silvia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Skyline",
+      "name": "Skyline",
+      "slug": "nissan-skyline",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Skyline Crossover",
+      "name": "Skyline Crossover",
+      "slug": "nissan-skyline-crossover",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stagea",
+      "name": "Stagea",
+      "slug": "nissan-stagea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sunny",
+      "name": "Sunny",
+      "slug": "nissan-sunny",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sylphy",
+      "name": "Sylphy",
+      "slug": "nissan-sylphy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Teana",
+      "name": "Teana",
+      "slug": "nissan-teana",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Terra",
+      "name": "Terra",
+      "slug": "nissan-terra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Terrano",
+      "name": "Terrano",
+      "slug": "nissan-terrano",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Terrano II",
+      "name": "Terrano II",
+      "slug": "nissan-terrano-ii",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Terrano Regulus",
+      "name": "Terrano Regulus",
+      "slug": "nissan-terrano-regulus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tiida",
+      "name": "Tiida",
+      "slug": "nissan-tiida",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tino",
+      "name": "Tino",
+      "slug": "nissan-tino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Titan",
+      "name": "Titan",
+      "slug": "nissan-titan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Urvan",
+      "name": "Urvan",
+      "slug": "nissan-urvan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vanette",
+      "name": "Vanette",
+      "slug": "nissan-vanette",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Versa",
+      "name": "Versa",
+      "slug": "nissan-versa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wingroad",
+      "name": "Wingroad",
+      "slug": "nissan-wingroad",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X-Terra",
+      "name": "X-Terra",
+      "slug": "nissan-x-terra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X-Trail",
+      "name": "X-Trail",
+      "slug": "nissan-x-trail",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Z",
+      "name": "Z",
+      "slug": "nissan-z",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Мурано",
+      "name": "Мурано",
+      "slug": "nissan-мурано",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "nissan-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

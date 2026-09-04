@@ -1,0 +1,374 @@
+{
+  "name": "BMW",
+  "slug": "cars/bmw",
+  "models": [
+    {
+      "value": "1 series",
+      "name": "1 series",
+      "slug": "bmw-1-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1M",
+      "name": "1M",
+      "slug": "bmw-1m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2 series",
+      "name": "2 series",
+      "slug": "bmw-2-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2 серия Active Tourer",
+      "name": "2 серия Active Tourer",
+      "slug": "bmw-2-серия-active-tourer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3 series",
+      "name": "3 series",
+      "slug": "bmw-3-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "4 series",
+      "name": "4 series",
+      "slug": "bmw-4-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "5 series",
+      "name": "5 series",
+      "slug": "bmw-5-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "6 series",
+      "name": "6 series",
+      "slug": "bmw-6-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "7 series",
+      "name": "7 series",
+      "slug": "bmw-7-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "8 series",
+      "name": "8 series",
+      "slug": "bmw-8-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "520",
+      "name": "520",
+      "slug": "bmw-520",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "525",
+      "name": "525",
+      "slug": "bmw-525",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "530",
+      "name": "530",
+      "slug": "bmw-530",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M2",
+      "name": "M2",
+      "slug": "bmw-m2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M3",
+      "name": "M3",
+      "slug": "bmw-m3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M4",
+      "name": "M4",
+      "slug": "bmw-m4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M5",
+      "name": "M5",
+      "slug": "bmw-m5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M6",
+      "name": "M6",
+      "slug": "bmw-m6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M8",
+      "name": "M8",
+      "slug": "bmw-m8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X1",
+      "name": "X1",
+      "slug": "bmw-x1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X2",
+      "name": "X2",
+      "slug": "bmw-x2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X3",
+      "name": "X3",
+      "slug": "bmw-x3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X3 M",
+      "name": "X3 M",
+      "slug": "bmw-x3-m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X4",
+      "name": "X4",
+      "slug": "bmw-x4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X4 M",
+      "name": "X4 M",
+      "slug": "bmw-x4-m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X5",
+      "name": "X5",
+      "slug": "bmw-x5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X5 M",
+      "name": "X5 M",
+      "slug": "bmw-x5-m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X6",
+      "name": "X6",
+      "slug": "bmw-x6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X6 M",
+      "name": "X6 M",
+      "slug": "bmw-x6-m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X7",
+      "name": "X7",
+      "slug": "bmw-x7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XM",
+      "name": "XM",
+      "slug": "bmw-xm",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Z1",
+      "name": "Z1",
+      "slug": "bmw-z1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Z3",
+      "name": "Z3",
+      "slug": "bmw-z3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Z3 M",
+      "name": "Z3 M",
+      "slug": "bmw-z3-m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Z4",
+      "name": "Z4",
+      "slug": "bmw-z4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Z4 M",
+      "name": "Z4 M",
+      "slug": "bmw-z4-m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Z8",
+      "name": "Z8",
+      "slug": "bmw-z8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i3",
+      "name": "i3",
+      "slug": "bmw-i3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i4",
+      "name": "i4",
+      "slug": "bmw-i4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i5",
+      "name": "i5",
+      "slug": "bmw-i5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i7",
+      "name": "i7",
+      "slug": "bmw-i7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i8",
+      "name": "i8",
+      "slug": "bmw-i8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "iX",
+      "name": "iX",
+      "slug": "bmw-ix",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "iX1",
+      "name": "iX1",
+      "slug": "bmw-ix1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "iX3",
+      "name": "iX3",
+      "slug": "bmw-ix3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "bmw-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "name": "ВАЗ (ЛАДА)",
+  "slug": "cars/vaz-lada",
+  "models": [
+    {
+      "value": "4x4 Нива",
+      "name": "4x4 Нива",
+      "slug": "ваз (лада)-4x4-нива",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1111 Oka",
+      "name": "1111 Oka",
+      "slug": "ваз (лада)-1111-oka",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2101",
+      "name": "2101",
+      "slug": "ваз (лада)-2101",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2102",
+      "name": "2102",
+      "slug": "ваз (лада)-2102",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2103 ",
+      "name": "2103",
+      "slug": "ваз (лада)-2103",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2104",
+      "name": "2104",
+      "slug": "ваз (лада)-2104",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2105",
+      "name": "2105",
+      "slug": "ваз (лада)-2105",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2106",
+      "name": "2106",
+      "slug": "ваз (лада)-2106",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2107",
+      "name": "2107",
+      "slug": "ваз (лада)-2107",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2108",
+      "name": "2108",
+      "slug": "ваз (лада)-2108",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2109",
+      "name": "2109",
+      "slug": "ваз (лада)-2109",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2110",
+      "name": "2110",
+      "slug": "ваз (лада)-2110",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2111",
+      "name": "2111",
+      "slug": "ваз (лада)-2111",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2112",
+      "name": "2112",
+      "slug": "ваз (лада)-2112",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2113",
+      "name": "2113",
+      "slug": "ваз (лада)-2113",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2114",
+      "name": "2114",
+      "slug": "ваз (лада)-2114",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2115",
+      "name": "2115",
+      "slug": "ваз (лада)-2115",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2120 Надежда",
+      "name": "2120 Надежда",
+      "slug": "ваз (лада)-2120-надежда",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2121 (4x4)",
+      "name": "2121 (4x4)",
+      "slug": "ваз (лада)-2121-(4x4)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2123",
+      "name": "2123",
+      "slug": "ваз (лада)-2123",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "21099",
+      "name": "21099",
+      "slug": "ваз (лада)-21099",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aura",
+      "name": "Aura",
+      "slug": "ваз (лада)-aura",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Granta",
+      "name": "Granta",
+      "slug": "ваз (лада)-granta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kalina",
+      "name": "Kalina",
+      "slug": "ваз (лада)-kalina",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Largus",
+      "name": "Largus",
+      "slug": "ваз (лада)-largus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Priora",
+      "name": "Priora",
+      "slug": "ваз (лада)-priora",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "ваз (лада)-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Samara",
+      "name": "Samara",
+      "slug": "ваз (лада)-samara",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vesta",
+      "name": "Vesta",
+      "slug": "ваз (лада)-vesta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XRAY",
+      "name": "XRAY",
+      "slug": "ваз (лада)-xray",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "ваз (лада)-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "Iran Khodro",
+  "slug": "cars/iran-khodro",
+  "models": [
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "iran khodro-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Samand",
+      "name": "Samand",
+      "slug": "iran khodro-samand",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "iran khodro-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "Asia",
+  "slug": "cars/asia",
+  "models": [
+    {
+      "value": "Hi-topic",
+      "name": "Hi-topic",
+      "slug": "asia-hi-topic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Retona",
+      "name": "Retona",
+      "slug": "asia-retona",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "asia-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rocsta",
+      "name": "Rocsta",
+      "slug": "asia-rocsta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rocstra",
+      "name": "Rocstra",
+      "slug": "asia-rocstra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "asia-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

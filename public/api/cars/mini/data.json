@@ -1,0 +1,174 @@
+{
+  "name": "Mini",
+  "slug": "cars/mini",
+  "models": [
+    {
+      "value": "Classic Mini",
+      "name": "Classic Mini",
+      "slug": "mini-classic-mini",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cooper",
+      "name": "Cooper",
+      "slug": "mini-cooper",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cooper Clubman",
+      "name": "Cooper Clubman",
+      "slug": "mini-cooper-clubman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cooper Clubvan",
+      "name": "Cooper Clubvan",
+      "slug": "mini-cooper-clubvan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cooper Countryman",
+      "name": "Cooper Countryman",
+      "slug": "mini-cooper-countryman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cooper Paceman",
+      "name": "Cooper Paceman",
+      "slug": "mini-cooper-paceman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cooper S",
+      "name": "Cooper S",
+      "slug": "mini-cooper-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cooper S Clubman",
+      "name": "Cooper S Clubman",
+      "slug": "mini-cooper-s-clubman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cooper S Countryman",
+      "name": "Cooper S Countryman",
+      "slug": "mini-cooper-s-countryman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cooper S Paceman",
+      "name": "Cooper S Paceman",
+      "slug": "mini-cooper-s-paceman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "John Cooper Works",
+      "name": "John Cooper Works",
+      "slug": "mini-john-cooper-works",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "John Cooper Works Clubman",
+      "name": "John Cooper Works Clubman",
+      "slug": "mini-john-cooper-works-clubman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "John Cooper Works Countryman",
+      "name": "John Cooper Works Countryman",
+      "slug": "mini-john-cooper-works-countryman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "John Cooper Works Paceman",
+      "name": "John Cooper Works Paceman",
+      "slug": "mini-john-cooper-works-paceman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mini Cooper (2002-Present)",
+      "name": "Mini Cooper (2002-Present)",
+      "slug": "mini-mini-cooper-(2002-present)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mini Cooper S (2002-Present)",
+      "name": "Mini Cooper S (2002-Present)",
+      "slug": "mini-mini-cooper-s-(2002-present)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "One",
+      "name": "One",
+      "slug": "mini-one",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "One Clubman",
+      "name": "One Clubman",
+      "slug": "mini-one-clubman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "One Countryman",
+      "name": "One Countryman",
+      "slug": "mini-one-countryman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "mini-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "mini-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

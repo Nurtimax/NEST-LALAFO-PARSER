@@ -1,0 +1,166 @@
+{
+  "name": "Jeep",
+  "slug": "cars/jeep",
+  "models": [
+    {
+      "value": "Avenger",
+      "name": "Avenger",
+      "slug": "jeep-avenger",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CJ",
+      "name": "CJ",
+      "slug": "jeep-cj",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cherokee",
+      "name": "Cherokee",
+      "slug": "jeep-cherokee",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Comanche",
+      "name": "Comanche",
+      "slug": "jeep-comanche",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Commander",
+      "name": "Commander",
+      "slug": "jeep-commander",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Commando",
+      "name": "Commando",
+      "slug": "jeep-commando",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Compass",
+      "name": "Compass",
+      "slug": "jeep-compass",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gladiator",
+      "name": "Gladiator",
+      "slug": "jeep-gladiator",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Cherokee",
+      "name": "Grand Cherokee",
+      "slug": "jeep-grand-cherokee",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Wagoneer",
+      "name": "Grand Wagoneer",
+      "slug": "jeep-grand-wagoneer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Laredo",
+      "name": "Laredo",
+      "slug": "jeep-laredo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Liberty",
+      "name": "Liberty",
+      "slug": "jeep-liberty",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Patriot",
+      "name": "Patriot",
+      "slug": "jeep-patriot",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Renegade",
+      "name": "Renegade",
+      "slug": "jeep-renegade",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "jeep-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "TJ",
+      "name": "TJ",
+      "slug": "jeep-tj",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wagoneer",
+      "name": "Wagoneer",
+      "slug": "jeep-wagoneer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wrangler",
+      "name": "Wrangler",
+      "slug": "jeep-wrangler",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "YJ",
+      "name": "YJ",
+      "slug": "jeep-yj",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "jeep-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,278 @@
+{
+  "name": "Volvo",
+  "slug": "cars/volvo",
+  "models": [
+    {
+      "value": "140",
+      "name": "140",
+      "slug": "volvo-140",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "164",
+      "name": "164",
+      "slug": "volvo-164",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "240",
+      "name": "240",
+      "slug": "volvo-240",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "260",
+      "name": "260",
+      "slug": "volvo-260",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "340",
+      "name": "340",
+      "slug": "volvo-340",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "360",
+      "name": "360",
+      "slug": "volvo-360",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "440",
+      "name": "440",
+      "slug": "volvo-440",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "460",
+      "name": "460",
+      "slug": "volvo-460",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "480",
+      "name": "480",
+      "slug": "volvo-480",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "740",
+      "name": "740",
+      "slug": "volvo-740",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "760",
+      "name": "760",
+      "slug": "volvo-760",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "780",
+      "name": "780",
+      "slug": "volvo-780",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "850",
+      "name": "850",
+      "slug": "volvo-850",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "940",
+      "name": "940",
+      "slug": "volvo-940",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "960",
+      "name": "960",
+      "slug": "volvo-960",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C30",
+      "name": "C30",
+      "slug": "volvo-c30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C70",
+      "name": "C70",
+      "slug": "volvo-c70",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Laplander",
+      "name": "Laplander",
+      "slug": "volvo-laplander",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "P1800",
+      "name": "P1800",
+      "slug": "volvo-p1800",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "volvo-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S40",
+      "name": "S40",
+      "slug": "volvo-s40",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S70",
+      "name": "S70",
+      "slug": "volvo-s70",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S80",
+      "name": "S80",
+      "slug": "volvo-s80",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S90",
+      "name": "S90",
+      "slug": "volvo-s90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V40",
+      "name": "V40",
+      "slug": "volvo-v40",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V40 Cross Country",
+      "name": "V40 Cross Country",
+      "slug": "volvo-v40-cross-country",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V50",
+      "name": "V50",
+      "slug": "volvo-v50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V60",
+      "name": "V60",
+      "slug": "volvo-v60",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V90",
+      "name": "V90",
+      "slug": "volvo-v90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XC (Cross Country)",
+      "name": "XC (Cross Country)",
+      "slug": "volvo-xc-(cross-country)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XC60",
+      "name": "XC60",
+      "slug": "volvo-xc60",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XC70",
+      "name": "XC70",
+      "slug": "volvo-xc70",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XC90",
+      "name": "XC90",
+      "slug": "volvo-xc90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "volvo-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

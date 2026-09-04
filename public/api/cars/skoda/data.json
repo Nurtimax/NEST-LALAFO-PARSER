@@ -1,0 +1,198 @@
+{
+  "name": "Skoda",
+  "slug": "cars/skoda",
+  "models": [
+    {
+      "value": "105",
+      "name": "105",
+      "slug": "skoda-105",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "130",
+      "name": "130",
+      "slug": "skoda-130",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "135",
+      "name": "135",
+      "slug": "skoda-135",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Citigo",
+      "name": "Citigo",
+      "slug": "skoda-citigo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fabia",
+      "name": "Fabia",
+      "slug": "skoda-fabia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fabia 2",
+      "name": "Fabia 2",
+      "slug": "skoda-fabia-2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fabia RS",
+      "name": "Fabia RS",
+      "slug": "skoda-fabia-rs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fabia Scout",
+      "name": "Fabia Scout",
+      "slug": "skoda-fabia-scout",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Favorit",
+      "name": "Favorit",
+      "slug": "skoda-favorit",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Felicia",
+      "name": "Felicia",
+      "slug": "skoda-felicia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Felicia Van",
+      "name": "Felicia Van",
+      "slug": "skoda-felicia-van",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Forman",
+      "name": "Forman",
+      "slug": "skoda-forman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Octavia",
+      "name": "Octavia",
+      "slug": "skoda-octavia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Octavia RS",
+      "name": "Octavia RS",
+      "slug": "skoda-octavia-rs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Octavia Scout",
+      "name": "Octavia Scout",
+      "slug": "skoda-octavia-scout",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pickup",
+      "name": "Pickup",
+      "slug": "skoda-pickup",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Praktik",
+      "name": "Praktik",
+      "slug": "skoda-praktik",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rapid",
+      "name": "Rapid",
+      "slug": "skoda-rapid",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "skoda-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roomster",
+      "name": "Roomster",
+      "slug": "skoda-roomster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roomster Scout",
+      "name": "Roomster Scout",
+      "slug": "skoda-roomster-scout",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Superb",
+      "name": "Superb",
+      "slug": "skoda-superb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Yeti",
+      "name": "Yeti",
+      "slug": "skoda-yeti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "skoda-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

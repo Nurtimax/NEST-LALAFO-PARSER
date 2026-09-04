@@ -1,0 +1,606 @@
+{
+  "name": "Chevrolet",
+  "slug": "cars/chevrolet",
+  "models": [
+    {
+      "value": "Alero",
+      "name": "Alero",
+      "slug": "chevrolet-alero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Astro",
+      "name": "Astro",
+      "slug": "chevrolet-astro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Avalanche",
+      "name": "Avalanche",
+      "slug": "chevrolet-avalanche",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aveo",
+      "name": "Aveo",
+      "slug": "chevrolet-aveo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Beretta",
+      "name": "Beretta",
+      "slug": "chevrolet-beretta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Blazer",
+      "name": "Blazer",
+      "slug": "chevrolet-blazer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bolt",
+      "name": "Bolt",
+      "slug": "chevrolet-bolt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Camaro",
+      "name": "Camaro",
+      "slug": "chevrolet-camaro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Caprice",
+      "name": "Caprice",
+      "slug": "chevrolet-caprice",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Captiva",
+      "name": "Captiva",
+      "slug": "chevrolet-captiva",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cavalier",
+      "name": "Cavalier",
+      "slug": "chevrolet-cavalier",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Celta",
+      "name": "Celta",
+      "slug": "chevrolet-celta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chevelle",
+      "name": "Chevelle",
+      "slug": "chevrolet-chevelle",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chevette",
+      "name": "Chevette",
+      "slug": "chevrolet-chevette",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Classic",
+      "name": "Classic",
+      "slug": "chevrolet-classic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cobalt",
+      "name": "Cobalt",
+      "slug": "chevrolet-cobalt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Colorado",
+      "name": "Colorado",
+      "slug": "chevrolet-colorado",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Corsica",
+      "name": "Corsica",
+      "slug": "chevrolet-corsica",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Corvette",
+      "name": "Corvette",
+      "slug": "chevrolet-corvette",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cruze",
+      "name": "Cruze",
+      "slug": "chevrolet-cruze",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cruze (HR)",
+      "name": "Cruze (HR)",
+      "slug": "chevrolet-cruze-(hr)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Damas",
+      "name": "Damas",
+      "slug": "chevrolet-damas",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Epica",
+      "name": "Epica",
+      "slug": "chevrolet-epica",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Equinox",
+      "name": "Equinox",
+      "slug": "chevrolet-equinox",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Evanda",
+      "name": "Evanda",
+      "slug": "chevrolet-evanda",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Express",
+      "name": "Express",
+      "slug": "chevrolet-express",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G20 Van",
+      "name": "G20 Van",
+      "slug": "chevrolet-g20-van",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Groove",
+      "name": "Groove",
+      "slug": "chevrolet-groove",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "HHR",
+      "name": "HHR",
+      "slug": "chevrolet-hhr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Impala",
+      "name": "Impala",
+      "slug": "chevrolet-impala",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kalos",
+      "name": "Kalos",
+      "slug": "chevrolet-kalos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LUV D-MAX",
+      "name": "LUV D-MAX",
+      "slug": "chevrolet-luv-d-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lacetti",
+      "name": "Lacetti",
+      "slug": "chevrolet-lacetti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lanos",
+      "name": "Lanos",
+      "slug": "chevrolet-lanos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lumina",
+      "name": "Lumina",
+      "slug": "chevrolet-lumina",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MW",
+      "name": "MW",
+      "slug": "chevrolet-mw",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Malibu",
+      "name": "Malibu",
+      "slug": "chevrolet-malibu",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Matiz",
+      "name": "Matiz",
+      "slug": "chevrolet-matiz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Menlo",
+      "name": "Menlo",
+      "slug": "chevrolet-menlo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Metro",
+      "name": "Metro",
+      "slug": "chevrolet-metro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Monte Carlo",
+      "name": "Monte Carlo",
+      "slug": "chevrolet-monte-carlo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Monza",
+      "name": "Monza",
+      "slug": "chevrolet-monza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nexia",
+      "name": "Nexia",
+      "slug": "chevrolet-nexia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Niva",
+      "name": "Niva",
+      "slug": "chevrolet-niva",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nubira",
+      "name": "Nubira",
+      "slug": "chevrolet-nubira",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Onix",
+      "name": "Onix",
+      "slug": "chevrolet-onix",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Orlando",
+      "name": "Orlando",
+      "slug": "chevrolet-orlando",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Prizm",
+      "name": "Prizm",
+      "slug": "chevrolet-prizm",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rezzo",
+      "name": "Rezzo",
+      "slug": "chevrolet-rezzo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "chevrolet-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S-10",
+      "name": "S-10",
+      "slug": "chevrolet-s-10",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SS",
+      "name": "SS",
+      "slug": "chevrolet-ss",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SSR",
+      "name": "SSR",
+      "slug": "chevrolet-ssr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sail",
+      "name": "Sail",
+      "slug": "chevrolet-sail",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Seeker",
+      "name": "Seeker",
+      "slug": "chevrolet-seeker",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Silverado",
+      "name": "Silverado",
+      "slug": "chevrolet-silverado",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Silverado 1500",
+      "name": "Silverado 1500",
+      "slug": "chevrolet-silverado-1500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Silverado 2500",
+      "name": "Silverado 2500",
+      "slug": "chevrolet-silverado-2500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Spark",
+      "name": "Spark",
+      "slug": "chevrolet-spark",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Suburban",
+      "name": "Suburban",
+      "slug": "chevrolet-suburban",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tacuma",
+      "name": "Tacuma",
+      "slug": "chevrolet-tacuma",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tahoe",
+      "name": "Tahoe",
+      "slug": "chevrolet-tahoe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tavera",
+      "name": "Tavera",
+      "slug": "chevrolet-tavera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tracker",
+      "name": "Tracker",
+      "slug": "chevrolet-tracker",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trailblazer",
+      "name": "Trailblazer",
+      "slug": "chevrolet-trailblazer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trans Sport",
+      "name": "Trans Sport",
+      "slug": "chevrolet-trans-sport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Traverse",
+      "name": "Traverse",
+      "slug": "chevrolet-traverse",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trax",
+      "name": "Trax",
+      "slug": "chevrolet-trax",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Uplander",
+      "name": "Uplander",
+      "slug": "chevrolet-uplander",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Van",
+      "name": "Van",
+      "slug": "chevrolet-van",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Venture",
+      "name": "Venture",
+      "slug": "chevrolet-venture",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Viva",
+      "name": "Viva",
+      "slug": "chevrolet-viva",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Volt",
+      "name": "Volt",
+      "slug": "chevrolet-volt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Соник",
+      "name": "Соник",
+      "slug": "chevrolet-соник",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "chevrolet-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

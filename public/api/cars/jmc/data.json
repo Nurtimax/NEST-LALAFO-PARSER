@@ -1,0 +1,30 @@
+{
+  "name": "JMC",
+  "slug": "cars/jmc",
+  "models": [
+    {
+      "value": "Baodian",
+      "name": "Baodian",
+      "slug": "jmc-baodian",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "jmc-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "jmc-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

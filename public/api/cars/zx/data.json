@@ -1,0 +1,54 @@
+{
+  "name": "ZX",
+  "slug": "cars/zx",
+  "models": [
+    {
+      "value": "Admiral",
+      "name": "Admiral",
+      "slug": "zx-admiral",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GrandTige",
+      "name": "GrandTige",
+      "slug": "zx-grandtige",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GrandTiger",
+      "name": "GrandTiger",
+      "slug": "zx-grandtiger",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Landmark",
+      "name": "Landmark",
+      "slug": "zx-landmark",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "zx-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "zx-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

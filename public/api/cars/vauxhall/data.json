@@ -1,0 +1,454 @@
+{
+  "name": "Vauxhall",
+  "slug": "cars/vauxhall",
+  "models": [
+    {
+      "value": "Adam",
+      "name": "Adam",
+      "slug": "vauxhall-adam",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Agila",
+      "name": "Agila",
+      "slug": "vauxhall-agila",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Albany",
+      "name": "Albany",
+      "slug": "vauxhall-albany",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ardea",
+      "name": "Ardea",
+      "slug": "vauxhall-ardea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Astra",
+      "name": "Astra",
+      "slug": "vauxhall-astra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bedford Astramax",
+      "name": "Bedford Astramax",
+      "slug": "vauxhall-bedford-astramax",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bedford Beagle",
+      "name": "Bedford Beagle",
+      "slug": "vauxhall-bedford-beagle",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bedford CF Van",
+      "name": "Bedford CF Van",
+      "slug": "vauxhall-bedford-cf-van",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bedford Dormobile",
+      "name": "Bedford Dormobile",
+      "slug": "vauxhall-bedford-dormobile",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bedford Midi",
+      "name": "Bedford Midi",
+      "slug": "vauxhall-bedford-midi",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bedford Rascal",
+      "name": "Bedford Rascal",
+      "slug": "vauxhall-bedford-rascal",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Belmont",
+      "name": "Belmont",
+      "slug": "vauxhall-belmont",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cadet",
+      "name": "Cadet",
+      "slug": "vauxhall-cadet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Calibra",
+      "name": "Calibra",
+      "slug": "vauxhall-calibra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Carlton",
+      "name": "Carlton",
+      "slug": "vauxhall-carlton",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cavalier",
+      "name": "Cavalier",
+      "slug": "vauxhall-cavalier",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chevette",
+      "name": "Chevette",
+      "slug": "vauxhall-chevette",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Combo",
+      "name": "Combo",
+      "slug": "vauxhall-combo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Corsa",
+      "name": "Corsa",
+      "slug": "vauxhall-corsa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cresta",
+      "name": "Cresta",
+      "slug": "vauxhall-cresta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Envoy",
+      "name": "Envoy",
+      "slug": "vauxhall-envoy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Epic",
+      "name": "Epic",
+      "slug": "vauxhall-epic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Equus",
+      "name": "Equus",
+      "slug": "vauxhall-equus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Firenza",
+      "name": "Firenza",
+      "slug": "vauxhall-firenza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Frontera",
+      "name": "Frontera",
+      "slug": "vauxhall-frontera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Magnum",
+      "name": "Magnum",
+      "slug": "vauxhall-magnum",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Manta",
+      "name": "Manta",
+      "slug": "vauxhall-manta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Meriva",
+      "name": "Meriva",
+      "slug": "vauxhall-meriva",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Monaro",
+      "name": "Monaro",
+      "slug": "vauxhall-monaro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Monterey",
+      "name": "Monterey",
+      "slug": "vauxhall-monterey",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Movano",
+      "name": "Movano",
+      "slug": "vauxhall-movano",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nova",
+      "name": "Nova",
+      "slug": "vauxhall-nova",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Omega",
+      "name": "Omega",
+      "slug": "vauxhall-omega",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "vauxhall-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Royale",
+      "name": "Royale",
+      "slug": "vauxhall-royale",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SRV",
+      "name": "SRV",
+      "slug": "vauxhall-srv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Senator",
+      "name": "Senator",
+      "slug": "vauxhall-senator",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Signum",
+      "name": "Signum",
+      "slug": "vauxhall-signum",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Silver Aero",
+      "name": "Silver Aero",
+      "slug": "vauxhall-silver-aero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Silver Bullet",
+      "name": "Silver Bullet",
+      "slug": "vauxhall-silver-bullet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sintra",
+      "name": "Sintra",
+      "slug": "vauxhall-sintra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Six",
+      "name": "Six",
+      "slug": "vauxhall-six",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tigra",
+      "name": "Tigra",
+      "slug": "vauxhall-tigra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trixx",
+      "name": "Trixx",
+      "slug": "vauxhall-trixx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "VX4/90",
+      "name": "VX4/90",
+      "slug": "vauxhall-vx4/90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "VX220",
+      "name": "VX220",
+      "slug": "vauxhall-vx220",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "VXR8",
+      "name": "VXR8",
+      "slug": "vauxhall-vxr8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vectra",
+      "name": "Vectra",
+      "slug": "vauxhall-vectra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Velox",
+      "name": "Velox",
+      "slug": "vauxhall-velox",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ventora",
+      "name": "Ventora",
+      "slug": "vauxhall-ventora",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Viceroy",
+      "name": "Viceroy",
+      "slug": "vauxhall-viceroy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Victor",
+      "name": "Victor",
+      "slug": "vauxhall-victor",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Viscount",
+      "name": "Viscount",
+      "slug": "vauxhall-viscount",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vivaro",
+      "name": "Vivaro",
+      "slug": "vauxhall-vivaro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Zafira",
+      "name": "Zafira",
+      "slug": "vauxhall-zafira",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "vauxhall-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

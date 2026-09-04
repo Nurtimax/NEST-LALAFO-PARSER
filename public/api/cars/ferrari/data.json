@@ -1,0 +1,782 @@
+{
+  "name": "Ferrari",
+  "slug": "cars/ferrari",
+  "models": [
+    {
+      "value": "3.2 Mondial",
+      "name": "3.2 Mondial",
+      "slug": "ferrari-3.2-mondial",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3.2 Mondial Cabriolet",
+      "name": "3.2 Mondial Cabriolet",
+      "slug": "ferrari-3.2-mondial-cabriolet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "206 gt Dino",
+      "name": "206 gt Dino",
+      "slug": "ferrari-206-gt-dino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "208",
+      "name": "208",
+      "slug": "ferrari-208",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "208 GT/4",
+      "name": "208 GT/4",
+      "slug": "ferrari-208-gt/4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "208 GTB",
+      "name": "208 GTB",
+      "slug": "ferrari-208-gtb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "208 GTB Turbo",
+      "name": "208 GTB Turbo",
+      "slug": "ferrari-208-gtb-turbo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "208 GTS",
+      "name": "208 GTS",
+      "slug": "ferrari-208-gts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "208 GTS Turbo",
+      "name": "208 GTS Turbo",
+      "slug": "ferrari-208-gts-turbo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "246 gt Dino",
+      "name": "246 gt Dino",
+      "slug": "ferrari-246-gt-dino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "246 gts Dino",
+      "name": "246 gts Dino",
+      "slug": "ferrari-246-gts-dino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "288 Evoluzione",
+      "name": "288 Evoluzione",
+      "slug": "ferrari-288-evoluzione",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "288 GTO",
+      "name": "288 GTO",
+      "slug": "ferrari-288-gto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "308 GT/4",
+      "name": "308 GT/4",
+      "slug": "ferrari-308-gt/4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "308 GTB ( FRP )",
+      "name": "308 GTB ( FRP )",
+      "slug": "ferrari-308-gtb-(-frp-)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "308 GTB ( Steel )",
+      "name": "308 GTB ( Steel )",
+      "slug": "ferrari-308-gtb-(-steel-)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "308 GTB i",
+      "name": "308 GTB i",
+      "slug": "ferrari-308-gtb-i",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "308 GTB qv",
+      "name": "308 GTB qv",
+      "slug": "ferrari-308-gtb-qv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "308 GTS",
+      "name": "308 GTS",
+      "slug": "ferrari-308-gts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "308 GTS i",
+      "name": "308 GTS i",
+      "slug": "ferrari-308-gts-i",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "308 GTS qv",
+      "name": "308 GTS qv",
+      "slug": "ferrari-308-gts-qv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "328",
+      "name": "328",
+      "slug": "ferrari-328",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "328 GTB",
+      "name": "328 GTB",
+      "slug": "ferrari-328-gtb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "328 GTS",
+      "name": "328 GTS",
+      "slug": "ferrari-328-gts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348",
+      "name": "348",
+      "slug": "ferrari-348",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 Challenge",
+      "name": "348 Challenge",
+      "slug": "ferrari-348-challenge",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 GT/C LM",
+      "name": "348 GT/C LM",
+      "slug": "ferrari-348-gt/c-lm",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 GTB",
+      "name": "348 GTB",
+      "slug": "ferrari-348-gtb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 GT Competizione",
+      "name": "348 GT Competizione",
+      "slug": "ferrari-348-gt-competizione",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 GTS",
+      "name": "348 GTS",
+      "slug": "ferrari-348-gts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 Serie Speciale",
+      "name": "348 Serie Speciale",
+      "slug": "ferrari-348-serie-speciale",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 Spider",
+      "name": "348 Spider",
+      "slug": "ferrari-348-spider",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 Zagato",
+      "name": "348 Zagato",
+      "slug": "ferrari-348-zagato",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 tb",
+      "name": "348 tb",
+      "slug": "ferrari-348-tb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "348 ts",
+      "name": "348 ts",
+      "slug": "ferrari-348-ts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "360",
+      "name": "360",
+      "slug": "ferrari-360",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "360 GT",
+      "name": "360 GT",
+      "slug": "ferrari-360-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "360 Modena",
+      "name": "360 Modena",
+      "slug": "ferrari-360-modena",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "360 Modena Challenge",
+      "name": "360 Modena Challenge",
+      "slug": "ferrari-360-modena-challenge",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "360 Modena Challenge Stradale",
+      "name": "360 Modena Challenge Stradale",
+      "slug": "ferrari-360-modena-challenge-stradale",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "360 Modena Spider",
+      "name": "360 Modena Spider",
+      "slug": "ferrari-360-modena-spider",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "365 GT4/BB",
+      "name": "365 GT4/BB",
+      "slug": "ferrari-365-gt4/bb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "430 Scuderia",
+      "name": "430 Scuderia",
+      "slug": "ferrari-430-scuderia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "456 GT",
+      "name": "456 GT",
+      "slug": "ferrari-456-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "456 GTA",
+      "name": "456 GTA",
+      "slug": "ferrari-456-gta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "456 M GT",
+      "name": "456 M GT",
+      "slug": "ferrari-456-m-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "456M GT - Scaglietti",
+      "name": "456M GT - Scaglietti",
+      "slug": "ferrari-456m-gt---scaglietti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "458 Italia",
+      "name": "458 Italia",
+      "slug": "ferrari-458-italia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "458 Spider",
+      "name": "458 Spider",
+      "slug": "ferrari-458-spider",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "500 TRC",
+      "name": "500 TRC",
+      "slug": "ferrari-500-trc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "512 BB",
+      "name": "512 BB",
+      "slug": "ferrari-512-bb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "512 BBi",
+      "name": "512 BBi",
+      "slug": "ferrari-512-bbi",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "512 TR",
+      "name": "512 TR",
+      "slug": "ferrari-512-tr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "512 TR Speciale",
+      "name": "512 TR Speciale",
+      "slug": "ferrari-512-tr-speciale",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "550",
+      "name": "550",
+      "slug": "ferrari-550",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "550 Barchetta Pininfarina",
+      "name": "550 Barchetta Pininfarina",
+      "slug": "ferrari-550-barchetta-pininfarina",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "550 Maranello",
+      "name": "550 Maranello",
+      "slug": "ferrari-550-maranello",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "575M Maranello",
+      "name": "575M Maranello",
+      "slug": "ferrari-575m-maranello",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "599 GTB Fiorano",
+      "name": "599 GTB Fiorano",
+      "slug": "ferrari-599-gtb-fiorano",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "612 Scaglietti",
+      "name": "612 Scaglietti",
+      "slug": "ferrari-612-scaglietti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "735 S",
+      "name": "735 S",
+      "slug": "ferrari-735-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "750 S",
+      "name": "750 S",
+      "slug": "ferrari-750-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "857 S",
+      "name": "857 S",
+      "slug": "ferrari-857-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Berlinetta Boxer",
+      "name": "Berlinetta Boxer",
+      "slug": "ferrari-berlinetta-boxer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "California",
+      "name": "California",
+      "slug": "ferrari-california",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Enzo",
+      "name": "Enzo",
+      "slug": "ferrari-enzo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Enzo Ferrari",
+      "name": "Enzo Ferrari",
+      "slug": "ferrari-enzo-ferrari",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F3",
+      "name": "F3",
+      "slug": "ferrari-f3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F12berlinetta",
+      "name": "F12berlinetta",
+      "slug": "ferrari-f12berlinetta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F40",
+      "name": "F40",
+      "slug": "ferrari-f40",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F 50",
+      "name": "F 50",
+      "slug": "ferrari-f-50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F355 Berlinetta",
+      "name": "F355 Berlinetta",
+      "slug": "ferrari-f355-berlinetta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F355 Berlinetta CSE",
+      "name": "F355 Berlinetta CSE",
+      "slug": "ferrari-f355-berlinetta-cse",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F355 Challenge",
+      "name": "F355 Challenge",
+      "slug": "ferrari-f355-challenge",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F355 Club Italia",
+      "name": "F355 Club Italia",
+      "slug": "ferrari-f355-club-italia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F355 F1 Berlinetta",
+      "name": "F355 F1 Berlinetta",
+      "slug": "ferrari-f355-f1-berlinetta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F355 F1 GTS",
+      "name": "F355 F1 GTS",
+      "slug": "ferrari-f355-f1-gts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F355 F1 Spider",
+      "name": "F355 F1 Spider",
+      "slug": "ferrari-f355-f1-spider",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F355 GTS",
+      "name": "F355 GTS",
+      "slug": "ferrari-f355-gts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F355 Spider",
+      "name": "F355 Spider",
+      "slug": "ferrari-f355-spider",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F430",
+      "name": "F430",
+      "slug": "ferrari-f430",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F430 Challenge",
+      "name": "F430 Challenge",
+      "slug": "ferrari-f430-challenge",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F430 Spider",
+      "name": "F430 Spider",
+      "slug": "ferrari-f430-spider",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F 512 M",
+      "name": "F 512 M",
+      "slug": "ferrari-f-512-m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FF",
+      "name": "FF",
+      "slug": "ferrari-ff",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GTB Turbo",
+      "name": "GTB Turbo",
+      "slug": "ferrari-gtb-turbo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GTS Turbo",
+      "name": "GTS Turbo",
+      "slug": "ferrari-gts-turbo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mondial",
+      "name": "Mondial",
+      "slug": "ferrari-mondial",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mondial 8",
+      "name": "Mondial 8",
+      "slug": "ferrari-mondial-8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mondial Cabriolet",
+      "name": "Mondial Cabriolet",
+      "slug": "ferrari-mondial-cabriolet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mondial qv",
+      "name": "Mondial qv",
+      "slug": "ferrari-mondial-qv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mondial t",
+      "name": "Mondial t",
+      "slug": "ferrari-mondial-t",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mondial t Cabriolet",
+      "name": "Mondial t Cabriolet",
+      "slug": "ferrari-mondial-t-cabriolet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "ferrari-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SUPERAMERICA",
+      "name": "SUPERAMERICA",
+      "slug": "ferrari-superamerica",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Testarossa",
+      "name": "Testarossa",
+      "slug": "ferrari-testarossa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "ferrari-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

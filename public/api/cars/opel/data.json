@@ -1,0 +1,422 @@
+{
+  "name": "Opel",
+  "slug": "cars/opel",
+  "models": [
+    {
+      "value": "Adam",
+      "name": "Adam",
+      "slug": "opel-adam",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Admiral",
+      "name": "Admiral",
+      "slug": "opel-admiral",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Agila",
+      "name": "Agila",
+      "slug": "opel-agila",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ampera",
+      "name": "Ampera",
+      "slug": "opel-ampera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Antara",
+      "name": "Antara",
+      "slug": "opel-antara",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ardea",
+      "name": "Ardea",
+      "slug": "opel-ardea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Arena",
+      "name": "Arena",
+      "slug": "opel-arena",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ascona",
+      "name": "Ascona",
+      "slug": "opel-ascona",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Astra",
+      "name": "Astra",
+      "slug": "opel-astra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Astra GTC",
+      "name": "Astra GTC",
+      "slug": "opel-astra-gtc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Astra OPC",
+      "name": "Astra OPC",
+      "slug": "opel-astra-opc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cabrio",
+      "name": "Cabrio",
+      "slug": "opel-cabrio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Calibra",
+      "name": "Calibra",
+      "slug": "opel-calibra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Calibra337",
+      "name": "Calibra337",
+      "slug": "opel-calibra337",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Campo",
+      "name": "Campo",
+      "slug": "opel-campo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cascada",
+      "name": "Cascada",
+      "slug": "opel-cascada",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Combo",
+      "name": "Combo",
+      "slug": "opel-combo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Commodore",
+      "name": "Commodore",
+      "slug": "opel-commodore",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Corsa",
+      "name": "Corsa",
+      "slug": "opel-corsa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Corsa OPC",
+      "name": "Corsa OPC",
+      "slug": "opel-corsa-opc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Crossland",
+      "name": "Crossland",
+      "slug": "opel-crossland",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Diplomat",
+      "name": "Diplomat",
+      "slug": "opel-diplomat",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Frontera",
+      "name": "Frontera",
+      "slug": "opel-frontera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GT",
+      "name": "GT",
+      "slug": "opel-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grandland X",
+      "name": "Grandland X",
+      "slug": "opel-grandland-x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Insignia",
+      "name": "Insignia",
+      "slug": "opel-insignia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Insignia OPC",
+      "name": "Insignia OPC",
+      "slug": "opel-insignia-opc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kadett",
+      "name": "Kadett",
+      "slug": "opel-kadett",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Karl",
+      "name": "Karl",
+      "slug": "opel-karl",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Manta",
+      "name": "Manta",
+      "slug": "opel-manta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Meriva",
+      "name": "Meriva",
+      "slug": "opel-meriva",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mokka",
+      "name": "Mokka",
+      "slug": "opel-mokka",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Monterey",
+      "name": "Monterey",
+      "slug": "opel-monterey",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Monza",
+      "name": "Monza",
+      "slug": "opel-monza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Movano",
+      "name": "Movano",
+      "slug": "opel-movano",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Olympia",
+      "name": "Olympia",
+      "slug": "opel-olympia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Omega",
+      "name": "Omega",
+      "slug": "opel-omega",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Opel GT",
+      "name": "Opel GT",
+      "slug": "opel-opel-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rekord",
+      "name": "Rekord",
+      "slug": "opel-rekord",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "opel-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Senator",
+      "name": "Senator",
+      "slug": "opel-senator",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Signum",
+      "name": "Signum",
+      "slug": "opel-signum",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sintra",
+      "name": "Sintra",
+      "slug": "opel-sintra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Speedster",
+      "name": "Speedster",
+      "slug": "opel-speedster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tigra",
+      "name": "Tigra",
+      "slug": "opel-tigra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trans",
+      "name": "Trans",
+      "slug": "opel-trans",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vectra",
+      "name": "Vectra",
+      "slug": "opel-vectra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vita",
+      "name": "Vita",
+      "slug": "opel-vita",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vivaro",
+      "name": "Vivaro",
+      "slug": "opel-vivaro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Zafira",
+      "name": "Zafira",
+      "slug": "opel-zafira",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Zafira Life",
+      "name": "Zafira Life",
+      "slug": "opel-zafira-life",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "opel-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "name": "Cadillac",
+  "slug": "cars/cadillac",
+  "models": [
+    {
+      "value": "ATS",
+      "name": "ATS",
+      "slug": "cadillac-ats",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Allante",
+      "name": "Allante",
+      "slug": "cadillac-allante",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "BLS",
+      "name": "BLS",
+      "slug": "cadillac-bls",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Brougham",
+      "name": "Brougham",
+      "slug": "cadillac-brougham",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CTS",
+      "name": "CTS",
+      "slug": "cadillac-cts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CTS-V",
+      "name": "CTS-V",
+      "slug": "cadillac-cts-v",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Catera",
+      "name": "Catera",
+      "slug": "cadillac-catera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "DE Ville",
+      "name": "DE Ville",
+      "slug": "cadillac-de-ville",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "DTS",
+      "name": "DTS",
+      "slug": "cadillac-dts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "DeVille & DTS",
+      "name": "DeVille & DTS",
+      "slug": "cadillac-deville-&-dts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eldorado",
+      "name": "Eldorado",
+      "slug": "cadillac-eldorado",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Escalade",
+      "name": "Escalade",
+      "slug": "cadillac-escalade",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fleetwood",
+      "name": "Fleetwood",
+      "slug": "cadillac-fleetwood",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "cadillac-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SRX",
+      "name": "SRX",
+      "slug": "cadillac-srx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "STS",
+      "name": "STS",
+      "slug": "cadillac-sts",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "STS-V",
+      "name": "STS-V",
+      "slug": "cadillac-sts-v",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Seville",
+      "name": "Seville",
+      "slug": "cadillac-seville",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XLR",
+      "name": "XLR",
+      "slug": "cadillac-xlr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XLR-V",
+      "name": "XLR-V",
+      "slug": "cadillac-xlr-v",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XT5",
+      "name": "XT5",
+      "slug": "cadillac-xt5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "cadillac-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

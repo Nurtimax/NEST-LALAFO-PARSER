@@ -1,0 +1,142 @@
+{
+  "name": "Saab",
+  "slug": "cars/saab",
+  "models": [
+    {
+      "value": "9-2X",
+      "name": "9-2X",
+      "slug": "saab-9-2x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "9-3",
+      "name": "9-3",
+      "slug": "saab-9-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "9-5",
+      "name": "9-5",
+      "slug": "saab-9-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "9-7X",
+      "name": "9-7X",
+      "slug": "saab-9-7x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "90",
+      "name": "90",
+      "slug": "saab-90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "95",
+      "name": "95",
+      "slug": "saab-95",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "96 ",
+      "name": "96",
+      "slug": "saab-96",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "98",
+      "name": "98",
+      "slug": "saab-98",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "99",
+      "name": "99",
+      "slug": "saab-99",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "900 ",
+      "name": "900",
+      "slug": "saab-900",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "9000",
+      "name": "9000",
+      "slug": "saab-9000",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "39150",
+      "name": "39150",
+      "slug": "saab-39150",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "39211",
+      "name": "39211",
+      "slug": "saab-39211",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "saab-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sonnet",
+      "name": "Sonnet",
+      "slug": "saab-sonnet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Спортивный",
+      "name": "Спортивный",
+      "slug": "saab-спортивный",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "saab-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "BAW",
+  "slug": "cars/baw",
+  "models": [
+    {
+      "value": "Fenix",
+      "name": "Fenix",
+      "slug": "baw-fenix",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "baw-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tonik",
+      "name": "Tonik",
+      "slug": "baw-tonik",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "baw-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

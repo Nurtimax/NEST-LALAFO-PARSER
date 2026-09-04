@@ -1,0 +1,558 @@
+{
+  "name": "Volkswagen",
+  "slug": "cars/volkswagen",
+  "models": [
+    {
+      "value": "Amarok",
+      "name": "Amarok",
+      "slug": "volkswagen-amarok",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Arteon",
+      "name": "Arteon",
+      "slug": "volkswagen-arteon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Atlas",
+      "name": "Atlas",
+      "slug": "volkswagen-atlas",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bettle",
+      "name": "Bettle",
+      "slug": "volkswagen-bettle",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bora",
+      "name": "Bora",
+      "slug": "volkswagen-bora",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bus/Vanagon",
+      "name": "Bus/Vanagon",
+      "slug": "volkswagen-bus/vanagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cabrio",
+      "name": "Cabrio",
+      "slug": "volkswagen-cabrio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Caddy",
+      "name": "Caddy",
+      "slug": "volkswagen-caddy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "California",
+      "name": "California",
+      "slug": "volkswagen-california",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Caravelle",
+      "name": "Caravelle",
+      "slug": "volkswagen-caravelle",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "City Golf",
+      "name": "City Golf",
+      "slug": "volkswagen-city-golf",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Corrado",
+      "name": "Corrado",
+      "slug": "volkswagen-corrado",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Crafter",
+      "name": "Crafter",
+      "slug": "volkswagen-crafter",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Derby",
+      "name": "Derby",
+      "slug": "volkswagen-derby",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eos",
+      "name": "Eos",
+      "slug": "volkswagen-eos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EuroVan",
+      "name": "EuroVan",
+      "slug": "volkswagen-eurovan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fox",
+      "name": "Fox",
+      "slug": "volkswagen-fox",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gol",
+      "name": "Gol",
+      "slug": "volkswagen-gol",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Golf",
+      "name": "Golf",
+      "slug": "volkswagen-golf",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Golf GTI",
+      "name": "Golf GTI",
+      "slug": "volkswagen-golf-gti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Golf Plus",
+      "name": "Golf Plus",
+      "slug": "volkswagen-golf-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Golf R",
+      "name": "Golf R",
+      "slug": "volkswagen-golf-r",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Golf Sportsvan",
+      "name": "Golf Sportsvan",
+      "slug": "volkswagen-golf-sportsvan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Golf V",
+      "name": "Golf V",
+      "slug": "volkswagen-golf-v",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Golf Variant",
+      "name": "Golf Variant",
+      "slug": "volkswagen-golf-variant",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ID.3",
+      "name": "ID.3",
+      "slug": "volkswagen-id.3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ID.4",
+      "name": "ID.4",
+      "slug": "volkswagen-id.4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ID.6",
+      "name": "ID.6",
+      "slug": "volkswagen-id.6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ID.7",
+      "name": "ID.7",
+      "slug": "volkswagen-id.7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ID. Polo",
+      "name": "ID. Polo",
+      "slug": "volkswagen-id.-polo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jetta",
+      "name": "Jetta",
+      "slug": "volkswagen-jetta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kaefer",
+      "name": "Kaefer",
+      "slug": "volkswagen-kaefer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lavida",
+      "name": "Lavida",
+      "slug": "volkswagen-lavida",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lupo",
+      "name": "Lupo",
+      "slug": "volkswagen-lupo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Magotan",
+      "name": "Magotan",
+      "slug": "volkswagen-magotan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Multivan",
+      "name": "Multivan",
+      "slug": "volkswagen-multivan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Passat",
+      "name": "Passat",
+      "slug": "volkswagen-passat",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Passat CC",
+      "name": "Passat CC",
+      "slug": "volkswagen-passat-cc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Passat Variant",
+      "name": "Passat Variant",
+      "slug": "volkswagen-passat-variant",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Phaeton",
+      "name": "Phaeton",
+      "slug": "volkswagen-phaeton",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Phideon",
+      "name": "Phideon",
+      "slug": "volkswagen-phideon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pointer",
+      "name": "Pointer",
+      "slug": "volkswagen-pointer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Polo",
+      "name": "Polo",
+      "slug": "volkswagen-polo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "volkswagen-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Routan",
+      "name": "Routan",
+      "slug": "volkswagen-routan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Santana",
+      "name": "Santana",
+      "slug": "volkswagen-santana",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sharan",
+      "name": "Sharan",
+      "slug": "volkswagen-sharan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "T-Roc",
+      "name": "T-Roc",
+      "slug": "volkswagen-t-roc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tacqua",
+      "name": "Tacqua",
+      "slug": "volkswagen-tacqua",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Talagon",
+      "name": "Talagon",
+      "slug": "volkswagen-talagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Taos",
+      "name": "Taos",
+      "slug": "volkswagen-taos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Taro",
+      "name": "Taro",
+      "slug": "volkswagen-taro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tavendor",
+      "name": "Tavendor",
+      "slug": "volkswagen-tavendor",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tayron",
+      "name": "Tayron",
+      "slug": "volkswagen-tayron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Teramont",
+      "name": "Teramont",
+      "slug": "volkswagen-teramont",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tharu",
+      "name": "Tharu",
+      "slug": "volkswagen-tharu",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tiguan",
+      "name": "Tiguan",
+      "slug": "volkswagen-tiguan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Touareg",
+      "name": "Touareg",
+      "slug": "volkswagen-touareg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Touran",
+      "name": "Touran",
+      "slug": "volkswagen-touran",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Transporter",
+      "name": "Transporter",
+      "slug": "volkswagen-transporter",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Up",
+      "name": "Up",
+      "slug": "volkswagen-up",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vento",
+      "name": "Vento",
+      "slug": "volkswagen-vento",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Volksbus",
+      "name": "Volksbus",
+      "slug": "volkswagen-volksbus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Worker",
+      "name": "Worker",
+      "slug": "volkswagen-worker",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "e-Bora",
+      "name": "e-Bora",
+      "slug": "volkswagen-e-bora",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "e-Golf",
+      "name": "e-Golf",
+      "slug": "volkswagen-e-golf",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "e-Tharu",
+      "name": "e-Tharu",
+      "slug": "volkswagen-e-tharu",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Кролик",
+      "name": "Кролик",
+      "slug": "volkswagen-кролик",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "volkswagen-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

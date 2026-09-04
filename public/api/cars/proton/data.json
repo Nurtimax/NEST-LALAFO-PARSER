@@ -1,0 +1,118 @@
+{
+  "name": "Proton",
+  "slug": "cars/proton",
+  "models": [
+    {
+      "value": "Compact",
+      "name": "Compact",
+      "slug": "proton-compact",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gen-2",
+      "name": "Gen-2",
+      "slug": "proton-gen-2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Impian",
+      "name": "Impian",
+      "slug": "proton-impian",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Juara",
+      "name": "Juara",
+      "slug": "proton-juara",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Perdana",
+      "name": "Perdana",
+      "slug": "proton-perdana",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Persona",
+      "name": "Persona",
+      "slug": "proton-persona",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Persona Compact",
+      "name": "Persona Compact",
+      "slug": "proton-persona-compact",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "proton-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Satria",
+      "name": "Satria",
+      "slug": "proton-satria",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Satria Neo",
+      "name": "Satria Neo",
+      "slug": "proton-satria-neo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Savvy",
+      "name": "Savvy",
+      "slug": "proton-savvy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Waja",
+      "name": "Waja",
+      "slug": "proton-waja",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wira",
+      "name": "Wira",
+      "slug": "proton-wira",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "proton-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "name": "Zeekr",
+  "slug": "cars/zeekr",
+  "models": [
+    {
+      "value": "001",
+      "name": "001",
+      "slug": "zeekr-001",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "007",
+      "name": "007",
+      "slug": "zeekr-007",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "7X",
+      "name": "7X",
+      "slug": "zeekr-7x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "8X",
+      "name": "8X",
+      "slug": "zeekr-8x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "009",
+      "name": "009",
+      "slug": "zeekr-009",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "9X",
+      "name": "9X",
+      "slug": "zeekr-9x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mix",
+      "name": "Mix",
+      "slug": "zeekr-mix",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "zeekr-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Х",
+      "name": "Х",
+      "slug": "zeekr-х",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "zeekr-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

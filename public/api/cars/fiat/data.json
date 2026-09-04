@@ -1,0 +1,398 @@
+{
+  "name": "Fiat",
+  "slug": "cars/fiat",
+  "models": [
+    {
+      "value": "124",
+      "name": "124",
+      "slug": "fiat-124",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "126",
+      "name": "126",
+      "slug": "fiat-126",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "127",
+      "name": "127",
+      "slug": "fiat-127",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "128",
+      "name": "128",
+      "slug": "fiat-128",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "130",
+      "name": "130",
+      "slug": "fiat-130",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "131",
+      "name": "131",
+      "slug": "fiat-131",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "132",
+      "name": "132",
+      "slug": "fiat-132",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "500",
+      "name": "500",
+      "slug": "fiat-500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "600",
+      "name": "600",
+      "slug": "fiat-600",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "850",
+      "name": "850",
+      "slug": "fiat-850",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2300",
+      "name": "2300",
+      "slug": "fiat-2300",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Albea",
+      "name": "Albea",
+      "slug": "fiat-albea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Argenta",
+      "name": "Argenta",
+      "slug": "fiat-argenta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Barchetta",
+      "name": "Barchetta",
+      "slug": "fiat-barchetta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Brava",
+      "name": "Brava",
+      "slug": "fiat-brava",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bravo",
+      "name": "Bravo",
+      "slug": "fiat-bravo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cinquecento",
+      "name": "Cinquecento",
+      "slug": "fiat-cinquecento",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Croma",
+      "name": "Croma",
+      "slug": "fiat-croma",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dino",
+      "name": "Dino",
+      "slug": "fiat-dino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Doblo",
+      "name": "Doblo",
+      "slug": "fiat-doblo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ducato",
+      "name": "Ducato",
+      "slug": "fiat-ducato",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ducato 1",
+      "name": "Ducato 1",
+      "slug": "fiat-ducato-1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fiorino",
+      "name": "Fiorino",
+      "slug": "fiat-fiorino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Freemont",
+      "name": "Freemont",
+      "slug": "fiat-freemont",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grande Punto",
+      "name": "Grande Punto",
+      "slug": "fiat-grande-punto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Idea",
+      "name": "Idea",
+      "slug": "fiat-idea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Linea",
+      "name": "Linea",
+      "slug": "fiat-linea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Marea",
+      "name": "Marea",
+      "slug": "fiat-marea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Marea Weekend",
+      "name": "Marea Weekend",
+      "slug": "fiat-marea-weekend",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mirafiori",
+      "name": "Mirafiori",
+      "slug": "fiat-mirafiori",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Multipla",
+      "name": "Multipla",
+      "slug": "fiat-multipla",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Palio",
+      "name": "Palio",
+      "slug": "fiat-palio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Punto",
+      "name": "Punto",
+      "slug": "fiat-punto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Regata",
+      "name": "Regata",
+      "slug": "fiat-regata",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ritmo",
+      "name": "Ritmo",
+      "slug": "fiat-ritmo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "fiat-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Scudo",
+      "name": "Scudo",
+      "slug": "fiat-scudo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sedici",
+      "name": "Sedici",
+      "slug": "fiat-sedici",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Seicento",
+      "name": "Seicento",
+      "slug": "fiat-seicento",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Siena",
+      "name": "Siena",
+      "slug": "fiat-siena",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stilo",
+      "name": "Stilo",
+      "slug": "fiat-stilo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Strada",
+      "name": "Strada",
+      "slug": "fiat-strada",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tempra",
+      "name": "Tempra",
+      "slug": "fiat-tempra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tipo",
+      "name": "Tipo",
+      "slug": "fiat-tipo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ulysse",
+      "name": "Ulysse",
+      "slug": "fiat-ulysse",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Uno",
+      "name": "Uno",
+      "slug": "fiat-uno",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X19",
+      "name": "X19",
+      "slug": "fiat-x19",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Панда",
+      "name": "Панда",
+      "slug": "fiat-панда",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "fiat-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

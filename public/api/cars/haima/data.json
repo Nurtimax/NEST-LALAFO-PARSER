@@ -1,0 +1,62 @@
+{
+  "name": "Haima",
+  "slug": "cars/haima",
+  "models": [
+    {
+      "value": "Brio",
+      "name": "Brio",
+      "slug": "haima-brio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M3",
+      "name": "M3",
+      "slug": "haima-m3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Princip",
+      "name": "Princip",
+      "slug": "haima-princip",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "haima-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Simbo",
+      "name": "Simbo",
+      "slug": "haima-simbo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "М3",
+      "name": "М3",
+      "slug": "haima-м3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "haima-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

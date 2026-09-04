@@ -1,0 +1,134 @@
+{
+  "name": "Mercury",
+  "slug": "cars/mercury",
+  "models": [
+    {
+      "value": "Capri",
+      "name": "Capri",
+      "slug": "mercury-capri",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Comet",
+      "name": "Comet",
+      "slug": "mercury-comet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cougar",
+      "name": "Cougar",
+      "slug": "mercury-cougar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Marquis",
+      "name": "Grand Marquis",
+      "slug": "mercury-grand-marquis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mariner",
+      "name": "Mariner",
+      "slug": "mercury-mariner",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Marquis",
+      "name": "Marquis",
+      "slug": "mercury-marquis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Montego",
+      "name": "Montego",
+      "slug": "mercury-montego",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Monterey",
+      "name": "Monterey",
+      "slug": "mercury-monterey",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mountaineer",
+      "name": "Mountaineer",
+      "slug": "mercury-mountaineer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mystique",
+      "name": "Mystique",
+      "slug": "mercury-mystique",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "mercury-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sable",
+      "name": "Sable",
+      "slug": "mercury-sable",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Topaz",
+      "name": "Topaz",
+      "slug": "mercury-topaz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tracer",
+      "name": "Tracer",
+      "slug": "mercury-tracer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Villager",
+      "name": "Villager",
+      "slug": "mercury-villager",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "mercury-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

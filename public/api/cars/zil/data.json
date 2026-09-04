@@ -1,0 +1,62 @@
+{
+  "name": "ЗИЛ",
+  "slug": "cars/zil",
+  "models": [
+    {
+      "value": "110",
+      "name": "110",
+      "slug": "зил-110",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "114",
+      "name": "114",
+      "slug": "зил-114",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "116",
+      "name": "116",
+      "slug": "зил-116",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "4104",
+      "name": "4104",
+      "slug": "зил-4104",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "4105",
+      "name": "4105",
+      "slug": "зил-4105",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "зил-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "зил-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

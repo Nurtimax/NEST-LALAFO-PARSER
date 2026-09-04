@@ -1,0 +1,158 @@
+{
+  "name": "Acura",
+  "slug": "cars/acura",
+  "models": [
+    {
+      "value": "CL",
+      "name": "CL",
+      "slug": "acura-cl",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CSX",
+      "name": "CSX",
+      "slug": "acura-csx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EL",
+      "name": "EL",
+      "slug": "acura-el",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ILX",
+      "name": "ILX",
+      "slug": "acura-ilx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Integra",
+      "name": "Integra",
+      "slug": "acura-integra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Legend",
+      "name": "Legend",
+      "slug": "acura-legend",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MDX",
+      "name": "MDX",
+      "slug": "acura-mdx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "NSX",
+      "name": "NSX",
+      "slug": "acura-nsx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RDX",
+      "name": "RDX",
+      "slug": "acura-rdx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RL",
+      "name": "RL",
+      "slug": "acura-rl",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RSX",
+      "name": "RSX",
+      "slug": "acura-rsx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "acura-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SLX",
+      "name": "SLX",
+      "slug": "acura-slx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "TL",
+      "name": "TL",
+      "slug": "acura-tl",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "TLX",
+      "name": "TLX",
+      "slug": "acura-tlx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "TSX",
+      "name": "TSX",
+      "slug": "acura-tsx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vigor",
+      "name": "Vigor",
+      "slug": "acura-vigor",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ZDX",
+      "name": "ZDX",
+      "slug": "acura-zdx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "acura-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "name": "Seat",
+  "slug": "cars/seat",
+  "models": [
+    {
+      "value": "132",
+      "name": "132",
+      "slug": "seat-132",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Alhambra",
+      "name": "Alhambra",
+      "slug": "seat-alhambra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Altea",
+      "name": "Altea",
+      "slug": "seat-altea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Altea Freetrack",
+      "name": "Altea Freetrack",
+      "slug": "seat-altea-freetrack",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Altea XL",
+      "name": "Altea XL",
+      "slug": "seat-altea-xl",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aros",
+      "name": "Aros",
+      "slug": "seat-aros",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Arosa",
+      "name": "Arosa",
+      "slug": "seat-arosa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cordoba",
+      "name": "Cordoba",
+      "slug": "seat-cordoba",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fura",
+      "name": "Fura",
+      "slug": "seat-fura",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ibiza",
+      "name": "Ibiza",
+      "slug": "seat-ibiza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ibiza FR",
+      "name": "Ibiza FR",
+      "slug": "seat-ibiza-fr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Inca",
+      "name": "Inca",
+      "slug": "seat-inca",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Leon FR",
+      "name": "Leon FR",
+      "slug": "seat-leon-fr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Malaga",
+      "name": "Malaga",
+      "slug": "seat-malaga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Marbella",
+      "name": "Marbella",
+      "slug": "seat-marbella",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "seat-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ronda",
+      "name": "Ronda",
+      "slug": "seat-ronda",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Terra",
+      "name": "Terra",
+      "slug": "seat-terra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Toledo",
+      "name": "Toledo",
+      "slug": "seat-toledo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "seat-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

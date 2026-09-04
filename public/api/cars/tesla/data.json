@@ -1,0 +1,62 @@
+{
+  "name": "Tesla",
+  "slug": "cars/tesla",
+  "models": [
+    {
+      "value": "Cybertruck",
+      "name": "Cybertruck",
+      "slug": "tesla-cybertruck",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Model 3",
+      "name": "Model 3",
+      "slug": "tesla-model-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Model S",
+      "name": "Model S",
+      "slug": "tesla-model-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Model X",
+      "name": "Model X",
+      "slug": "tesla-model-x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Model Y",
+      "name": "Model Y",
+      "slug": "tesla-model-y",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "tesla-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "tesla-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

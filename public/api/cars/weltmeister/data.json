@@ -1,0 +1,54 @@
+{
+  "name": "Weltmeister",
+  "slug": "cars/weltmeister",
+  "models": [
+    {
+      "value": "E5",
+      "name": "E5",
+      "slug": "weltmeister-e5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EX5",
+      "name": "EX5",
+      "slug": "weltmeister-ex5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EX6 Plus",
+      "name": "EX6 Plus",
+      "slug": "weltmeister-ex6-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "weltmeister-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "W6",
+      "name": "W6",
+      "slug": "weltmeister-w6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "weltmeister-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "name": "Ssangyong",
+  "slug": "cars/ssangyong",
+  "models": [
+    {
+      "value": "Actyon",
+      "name": "Actyon",
+      "slug": "ssangyong-actyon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Actyon Sports",
+      "name": "Actyon Sports",
+      "slug": "ssangyong-actyon-sports",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chairman",
+      "name": "Chairman",
+      "slug": "ssangyong-chairman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Istana",
+      "name": "Istana",
+      "slug": "ssangyong-istana",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kallista",
+      "name": "Kallista",
+      "slug": "ssangyong-kallista",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Korando",
+      "name": "Korando",
+      "slug": "ssangyong-korando",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Korando Family",
+      "name": "Korando Family",
+      "slug": "ssangyong-korando-family",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Korando Sports",
+      "name": "Korando Sports",
+      "slug": "ssangyong-korando-sports",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Korando Turismo",
+      "name": "Korando Turismo",
+      "slug": "ssangyong-korando-turismo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kyron",
+      "name": "Kyron",
+      "slug": "ssangyong-kyron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Musso",
+      "name": "Musso",
+      "slug": "ssangyong-musso",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nomad",
+      "name": "Nomad",
+      "slug": "ssangyong-nomad",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rexton",
+      "name": "Rexton",
+      "slug": "ssangyong-rexton",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rexton Khan",
+      "name": "Rexton Khan",
+      "slug": "ssangyong-rexton-khan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rexton Sports",
+      "name": "Rexton Sports",
+      "slug": "ssangyong-rexton-sports",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "ssangyong-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rodius",
+      "name": "Rodius",
+      "slug": "ssangyong-rodius",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stavic",
+      "name": "Stavic",
+      "slug": "ssangyong-stavic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tager",
+      "name": "Tager",
+      "slug": "ssangyong-tager",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tivoli",
+      "name": "Tivoli",
+      "slug": "ssangyong-tivoli",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Torres",
+      "name": "Torres",
+      "slug": "ssangyong-torres",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Семейный",
+      "name": "Семейный",
+      "slug": "ssangyong-семейный",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "ssangyong-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

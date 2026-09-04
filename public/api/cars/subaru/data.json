@@ -1,0 +1,286 @@
+{
+  "name": "Subaru",
+  "slug": "cars/subaru",
+  "models": [
+    {
+      "value": "Ascent",
+      "name": "Ascent",
+      "slug": "subaru-ascent",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "B9 Tribeca",
+      "name": "B9 Tribeca",
+      "slug": "subaru-b9-tribeca",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "BRZ",
+      "name": "BRZ",
+      "slug": "subaru-brz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Baja",
+      "name": "Baja",
+      "slug": "subaru-baja",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chiffon",
+      "name": "Chiffon",
+      "slug": "subaru-chiffon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Crosstrek",
+      "name": "Crosstrek",
+      "slug": "subaru-crosstrek",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dex",
+      "name": "Dex",
+      "slug": "subaru-dex",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dias Wagon",
+      "name": "Dias Wagon",
+      "slug": "subaru-dias-wagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Domingo",
+      "name": "Domingo",
+      "slug": "subaru-domingo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Exiga",
+      "name": "Exiga",
+      "slug": "subaru-exiga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Forester",
+      "name": "Forester",
+      "slug": "subaru-forester",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Impreza",
+      "name": "Impreza",
+      "slug": "subaru-impreza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Impreza WRX",
+      "name": "Impreza WRX",
+      "slug": "subaru-impreza-wrx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Impreza WRX STI",
+      "name": "Impreza WRX STI",
+      "slug": "subaru-impreza-wrx-sti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Justy",
+      "name": "Justy",
+      "slug": "subaru-justy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Legacy",
+      "name": "Legacy",
+      "slug": "subaru-legacy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Legacy Lancaster",
+      "name": "Legacy Lancaster",
+      "slug": "subaru-legacy-lancaster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Leone",
+      "name": "Leone",
+      "slug": "subaru-leone",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Levorg",
+      "name": "Levorg",
+      "slug": "subaru-levorg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Libero",
+      "name": "Libero",
+      "slug": "subaru-libero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Outback",
+      "name": "Outback",
+      "slug": "subaru-outback",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pleo",
+      "name": "Pleo",
+      "slug": "subaru-pleo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R1",
+      "name": "R1",
+      "slug": "subaru-r1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R2",
+      "name": "R2",
+      "slug": "subaru-r2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SVX",
+      "name": "SVX",
+      "slug": "subaru-svx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Solterra",
+      "name": "Solterra",
+      "slug": "subaru-solterra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stella",
+      "name": "Stella",
+      "slug": "subaru-stella",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Traviq",
+      "name": "Traviq",
+      "slug": "subaru-traviq",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tribeca",
+      "name": "Tribeca",
+      "slug": "subaru-tribeca",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vivio",
+      "name": "Vivio",
+      "slug": "subaru-vivio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "WRX",
+      "name": "WRX",
+      "slug": "subaru-wrx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "WRX STI",
+      "name": "WRX STI",
+      "slug": "subaru-wrx-sti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XT",
+      "name": "XT",
+      "slug": "subaru-xt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XV",
+      "name": "XV",
+      "slug": "subaru-xv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "subaru-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

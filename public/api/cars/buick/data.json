@@ -1,0 +1,158 @@
+{
+  "name": "Buick",
+  "slug": "cars/buick",
+  "models": [
+    {
+      "value": "Allure",
+      "name": "Allure",
+      "slug": "buick-allure",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Century",
+      "name": "Century",
+      "slug": "buick-century",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Electra",
+      "name": "Electra",
+      "slug": "buick-electra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Enclave",
+      "name": "Enclave",
+      "slug": "buick-enclave",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Excelle",
+      "name": "Excelle",
+      "slug": "buick-excelle",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GL8",
+      "name": "GL8",
+      "slug": "buick-gl8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LeSabre",
+      "name": "LeSabre",
+      "slug": "buick-lesabre",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Park Avenue",
+      "name": "Park Avenue",
+      "slug": "buick-park-avenue",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rainer",
+      "name": "Rainer",
+      "slug": "buick-rainer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Reatta",
+      "name": "Reatta",
+      "slug": "buick-reatta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Regal",
+      "name": "Regal",
+      "slug": "buick-regal",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rendezvous",
+      "name": "Rendezvous",
+      "slug": "buick-rendezvous",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Riviera",
+      "name": "Riviera",
+      "slug": "buick-riviera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadmaster",
+      "name": "Roadmaster",
+      "slug": "buick-roadmaster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "buick-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Royaum",
+      "name": "Royaum",
+      "slug": "buick-royaum",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Skylark",
+      "name": "Skylark",
+      "slug": "buick-skylark",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Седан",
+      "name": "Седан",
+      "slug": "buick-седан",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "buick-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "name": "Maserati",
+  "slug": "cars/maserati",
+  "models": [
+    {
+      "value": "222",
+      "name": "222",
+      "slug": "maserati-222",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "422",
+      "name": "422",
+      "slug": "maserati-422",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3200 GT",
+      "name": "3200 GT",
+      "slug": "maserati-3200-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "4200 GT",
+      "name": "4200 GT",
+      "slug": "maserati-4200-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "4300 GT Coupe",
+      "name": "4300 GT Coupe",
+      "slug": "maserati-4300-gt-coupe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Barchetta Stradale",
+      "name": "Barchetta Stradale",
+      "slug": "maserati-barchetta-stradale",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Biturbo",
+      "name": "Biturbo",
+      "slug": "maserati-biturbo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chubasco",
+      "name": "Chubasco",
+      "slug": "maserati-chubasco",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ghibli",
+      "name": "Ghibli",
+      "slug": "maserati-ghibli",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GranCabrio",
+      "name": "GranCabrio",
+      "slug": "maserati-grancabrio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GranSport",
+      "name": "GranSport",
+      "slug": "maserati-gransport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GranTurismo",
+      "name": "GranTurismo",
+      "slug": "maserati-granturismo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kyalami",
+      "name": "Kyalami",
+      "slug": "maserati-kyalami",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QUATTROPORTE",
+      "name": "QUATTROPORTE",
+      "slug": "maserati-quattroporte",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "maserati-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Spyder",
+      "name": "Spyder",
+      "slug": "maserati-spyder",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "maserati-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

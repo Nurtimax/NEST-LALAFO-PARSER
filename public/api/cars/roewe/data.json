@@ -1,0 +1,262 @@
+{
+  "name": "Roewe",
+  "slug": "cars/roewe",
+  "models": [
+    {
+      "value": "350",
+      "name": "350",
+      "slug": "roewe-350",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "360",
+      "name": "360",
+      "slug": "roewe-360",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "550",
+      "name": "550",
+      "slug": "roewe-550",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "750",
+      "name": "750",
+      "slug": "roewe-750",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Clever",
+      "name": "Clever",
+      "slug": "roewe-clever",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E50",
+      "name": "E50",
+      "slug": "roewe-e50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E550",
+      "name": "E550",
+      "slug": "roewe-e550",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E950",
+      "name": "E950",
+      "slug": "roewe-e950",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ER6",
+      "name": "ER6",
+      "slug": "roewe-er6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ERX5",
+      "name": "ERX5",
+      "slug": "roewe-erx5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ei5",
+      "name": "Ei5",
+      "slug": "roewe-ei5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ei6",
+      "name": "Ei6",
+      "slug": "roewe-ei6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ei6 Max",
+      "name": "Ei6 Max",
+      "slug": "roewe-ei6-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MG 950",
+      "name": "MG 950",
+      "slug": "roewe-mg-950",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Marvel R",
+      "name": "Marvel R",
+      "slug": "roewe-marvel-r",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Marvel R7",
+      "name": "Marvel R7",
+      "slug": "roewe-marvel-r7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Marvel X",
+      "name": "Marvel X",
+      "slug": "roewe-marvel-x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RX3",
+      "name": "RX3",
+      "slug": "roewe-rx3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RX5",
+      "name": "RX5",
+      "slug": "roewe-rx5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RX5 Max",
+      "name": "RX5 Max",
+      "slug": "roewe-rx5-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RX5 eMax",
+      "name": "RX5 eMax",
+      "slug": "roewe-rx5-emax",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RX8",
+      "name": "RX8",
+      "slug": "roewe-rx8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "roewe-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "W5",
+      "name": "W5",
+      "slug": "roewe-w5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Whale",
+      "name": "Whale",
+      "slug": "roewe-whale",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i5",
+      "name": "i5",
+      "slug": "roewe-i5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i6",
+      "name": "i6",
+      "slug": "roewe-i6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i6 Max",
+      "name": "i6 Max",
+      "slug": "roewe-i6-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i6 Max EV",
+      "name": "i6 Max EV",
+      "slug": "roewe-i6-max-ev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "iMax8",
+      "name": "iMax8",
+      "slug": "roewe-imax8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "iMax8 EV",
+      "name": "iMax8 EV",
+      "slug": "roewe-imax8-ev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "roewe-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "Aixam",
+  "slug": "cars/aixam",
+  "models": [
+    {
+      "value": "400",
+      "name": "400",
+      "slug": "aixam-400",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "500",
+      "name": "500",
+      "slug": "aixam-500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MAC",
+      "name": "MAC",
+      "slug": "aixam-mac",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "aixam-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "aixam-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

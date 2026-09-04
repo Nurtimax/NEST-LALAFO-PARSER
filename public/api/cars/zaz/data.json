@@ -1,0 +1,126 @@
+{
+  "name": "ЗАЗ",
+  "slug": "cars/zaz",
+  "models": [
+    {
+      "value": "955 Zaporozhez",
+      "name": "955 Zaporozhez",
+      "slug": "заз-955-zaporozhez",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "965 Zaporozhec",
+      "name": "965 Zaporozhec",
+      "slug": "заз-965-zaporozhec",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "966 Zaporozhec",
+      "name": "966 Zaporozhec",
+      "slug": "заз-966-zaporozhec",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "968 Запорожец",
+      "name": "968 Запорожец",
+      "slug": "заз-968-запорожец",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1102 Tavriya",
+      "name": "1102 Tavriya",
+      "slug": "заз-1102-tavriya",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1103 Slavuta",
+      "name": "1103 Slavuta",
+      "slug": "заз-1103-slavuta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1105 Dana",
+      "name": "1105 Dana",
+      "slug": "заз-1105-dana",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1125",
+      "name": "1125",
+      "slug": "заз-1125",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1140",
+      "name": "1140",
+      "slug": "заз-1140",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chance",
+      "name": "Chance",
+      "slug": "заз-chance",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Forza",
+      "name": "Forza",
+      "slug": "заз-forza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "заз-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sens",
+      "name": "Sens",
+      "slug": "заз-sens",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vida",
+      "name": "Vida",
+      "slug": "заз-vida",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "заз-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

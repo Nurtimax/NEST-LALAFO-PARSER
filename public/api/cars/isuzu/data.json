@@ -1,0 +1,254 @@
+{
+  "name": "Isuzu",
+  "slug": "cars/isuzu",
+  "models": [
+    {
+      "value": "Alterra",
+      "name": "Alterra",
+      "slug": "isuzu-alterra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Amigo",
+      "name": "Amigo",
+      "slug": "isuzu-amigo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ascender",
+      "name": "Ascender",
+      "slug": "isuzu-ascender",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aska",
+      "name": "Aska",
+      "slug": "isuzu-aska",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Axiom",
+      "name": "Axiom",
+      "slug": "isuzu-axiom",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bighorn",
+      "name": "Bighorn",
+      "slug": "isuzu-bighorn",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CVR",
+      "name": "CVR",
+      "slug": "isuzu-cvr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Campo",
+      "name": "Campo",
+      "slug": "isuzu-campo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Crosswind",
+      "name": "Crosswind",
+      "slug": "isuzu-crosswind",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "D-Max",
+      "name": "D-Max",
+      "slug": "isuzu-d-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Deca",
+      "name": "Deca",
+      "slug": "isuzu-deca",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Faster",
+      "name": "Faster",
+      "slug": "isuzu-faster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Filly",
+      "name": "Filly",
+      "slug": "isuzu-filly",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gemini",
+      "name": "Gemini",
+      "slug": "isuzu-gemini",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Highlander",
+      "name": "Highlander",
+      "slug": "isuzu-highlander",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hombre",
+      "name": "Hombre",
+      "slug": "isuzu-hombre",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "I-series",
+      "name": "I-series",
+      "slug": "isuzu-i-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Impulse",
+      "name": "Impulse",
+      "slug": "isuzu-impulse",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MU",
+      "name": "MU",
+      "slug": "isuzu-mu",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Midi",
+      "name": "Midi",
+      "slug": "isuzu-midi",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Oasis",
+      "name": "Oasis",
+      "slug": "isuzu-oasis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Piazza",
+      "name": "Piazza",
+      "slug": "isuzu-piazza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pickup",
+      "name": "Pickup",
+      "slug": "isuzu-pickup",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "isuzu-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rodeo",
+      "name": "Rodeo",
+      "slug": "isuzu-rodeo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sportivo",
+      "name": "Sportivo",
+      "slug": "isuzu-sportivo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stylus",
+      "name": "Stylus",
+      "slug": "isuzu-stylus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trooper",
+      "name": "Trooper",
+      "slug": "isuzu-trooper",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "VehiCross",
+      "name": "VehiCross",
+      "slug": "isuzu-vehicross",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wizard",
+      "name": "Wizard",
+      "slug": "isuzu-wizard",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "isuzu-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

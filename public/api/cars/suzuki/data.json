@@ -1,0 +1,510 @@
+{
+  "name": "Suzuki",
+  "slug": "cars/suzuki",
+  "models": [
+    {
+      "value": "A-Star",
+      "name": "A-Star",
+      "slug": "suzuki-a-star",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "APV",
+      "name": "APV",
+      "slug": "suzuki-apv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aerio",
+      "name": "Aerio",
+      "slug": "suzuki-aerio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Alto",
+      "name": "Alto",
+      "slug": "suzuki-alto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Alto Lapin",
+      "name": "Alto Lapin",
+      "slug": "suzuki-alto-lapin",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Baleno",
+      "name": "Baleno",
+      "slug": "suzuki-baleno",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cappuccino",
+      "name": "Cappuccino",
+      "slug": "suzuki-cappuccino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Carry",
+      "name": "Carry",
+      "slug": "suzuki-carry",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Celerio",
+      "name": "Celerio",
+      "slug": "suzuki-celerio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cervo",
+      "name": "Cervo",
+      "slug": "suzuki-cervo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ciaz",
+      "name": "Ciaz",
+      "slug": "suzuki-ciaz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cultus",
+      "name": "Cultus",
+      "slug": "suzuki-cultus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cultus Wagon",
+      "name": "Cultus Wagon",
+      "slug": "suzuki-cultus-wagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "DZire",
+      "name": "DZire",
+      "slug": "suzuki-dzire",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eeco",
+      "name": "Eeco",
+      "slug": "suzuki-eeco",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ertiga",
+      "name": "Ertiga",
+      "slug": "suzuki-ertiga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Escudo",
+      "name": "Escudo",
+      "slug": "suzuki-escudo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Esteem",
+      "name": "Esteem",
+      "slug": "suzuki-esteem",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Esteem / Cultus Crescent",
+      "name": "Esteem / Cultus Crescent",
+      "slug": "suzuki-esteem-/-cultus-crescent",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Every",
+      "name": "Every",
+      "slug": "suzuki-every",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Every Landy",
+      "name": "Every Landy",
+      "slug": "suzuki-every-landy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Forenza",
+      "name": "Forenza",
+      "slug": "suzuki-forenza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Forenza / Reno",
+      "name": "Forenza / Reno",
+      "slug": "suzuki-forenza-/-reno",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fronte",
+      "name": "Fronte",
+      "slug": "suzuki-fronte",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fronx",
+      "name": "Fronx",
+      "slug": "suzuki-fronx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Escudo",
+      "name": "Grand Escudo",
+      "slug": "suzuki-grand-escudo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Vitara",
+      "name": "Grand Vitara",
+      "slug": "suzuki-grand-vitara",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hustler",
+      "name": "Hustler",
+      "slug": "suzuki-hustler",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ignis",
+      "name": "Ignis",
+      "slug": "suzuki-ignis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jimny",
+      "name": "Jimny",
+      "slug": "suzuki-jimny",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kei",
+      "name": "Kei",
+      "slug": "suzuki-kei",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kizashi",
+      "name": "Kizashi",
+      "slug": "suzuki-kizashi",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LJ-Series",
+      "name": "LJ-Series",
+      "slug": "suzuki-lj-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Landy",
+      "name": "Landy",
+      "slug": "suzuki-landy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Liana",
+      "name": "Liana",
+      "slug": "suzuki-liana",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MR Wagon",
+      "name": "MR Wagon",
+      "slug": "suzuki-mr-wagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Maruti",
+      "name": "Maruti",
+      "slug": "suzuki-maruti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MightyBoy",
+      "name": "MightyBoy",
+      "slug": "suzuki-mightyboy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Reno",
+      "name": "Reno",
+      "slug": "suzuki-reno",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "suzuki-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S-Presso",
+      "name": "S-Presso",
+      "slug": "suzuki-s-presso",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SA 310",
+      "name": "SA 310",
+      "slug": "suzuki-sa-310",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SC100",
+      "name": "SC100",
+      "slug": "suzuki-sc100",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SJ-Series",
+      "name": "SJ-Series",
+      "slug": "suzuki-sj-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SX4",
+      "name": "SX4",
+      "slug": "suzuki-sx4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Samurai",
+      "name": "Samurai",
+      "slug": "suzuki-samurai",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Santana",
+      "name": "Santana",
+      "slug": "suzuki-santana",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sidekick",
+      "name": "Sidekick",
+      "slug": "suzuki-sidekick",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Solio",
+      "name": "Solio",
+      "slug": "suzuki-solio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Spacia",
+      "name": "Spacia",
+      "slug": "suzuki-spacia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Splash",
+      "name": "Splash",
+      "slug": "suzuki-splash",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Suzuki Twin",
+      "name": "Suzuki Twin",
+      "slug": "suzuki-suzuki-twin",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Swift",
+      "name": "Swift",
+      "slug": "suzuki-swift",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Swift/Cultus",
+      "name": "Swift/Cultus",
+      "slug": "suzuki-swift/cultus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Verona",
+      "name": "Verona",
+      "slug": "suzuki-verona",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vitara",
+      "name": "Vitara",
+      "slug": "suzuki-vitara",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wagon R",
+      "name": "Wagon R",
+      "slug": "suzuki-wagon-r",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wagon R+",
+      "name": "Wagon R+",
+      "slug": "suzuki-wagon-r+",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X-90",
+      "name": "X-90",
+      "slug": "suzuki-x-90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XL7",
+      "name": "XL7",
+      "slug": "suzuki-xl7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xbee",
+      "name": "Xbee",
+      "slug": "suzuki-xbee",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Палетта",
+      "name": "Палетта",
+      "slug": "suzuki-палетта",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "suzuki-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

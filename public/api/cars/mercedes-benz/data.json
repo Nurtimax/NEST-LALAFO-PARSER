@@ -1,0 +1,638 @@
+{
+  "name": "Mercedes-Benz",
+  "slug": "cars/mercedes-benz",
+  "models": [
+    {
+      "value": "190",
+      "name": "190",
+      "slug": "mercedes-benz-190",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "220",
+      "name": "220",
+      "slug": "mercedes-benz-220",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A-Class",
+      "name": "A-Class",
+      "slug": "mercedes-benz-a-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A-Class AMG",
+      "name": "A-Class AMG",
+      "slug": "mercedes-benz-a-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "AMG GT",
+      "name": "AMG GT",
+      "slug": "mercedes-benz-amg-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "B-Class",
+      "name": "B-Class",
+      "slug": "mercedes-benz-b-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C-Class",
+      "name": "C-Class",
+      "slug": "mercedes-benz-c-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C-class AMG",
+      "name": "C-class AMG",
+      "slug": "mercedes-benz-c-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CL-Class",
+      "name": "CL-Class",
+      "slug": "mercedes-benz-cl-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CL- Class AMG",
+      "name": "CL- Class AMG",
+      "slug": "mercedes-benz-cl--class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CLA-Class",
+      "name": "CLA-Class",
+      "slug": "mercedes-benz-cla-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CLA-Class AMG",
+      "name": "CLA-Class AMG",
+      "slug": "mercedes-benz-cla-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CLC-Class",
+      "name": "CLC-Class",
+      "slug": "mercedes-benz-clc-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CLE-Class",
+      "name": "CLE-Class",
+      "slug": "mercedes-benz-cle-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CLE-Class AMG",
+      "name": "CLE-Class AMG",
+      "slug": "mercedes-benz-cle-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CLK-Class",
+      "name": "CLK-Class",
+      "slug": "mercedes-benz-clk-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CLK-Class AMG",
+      "name": "CLK-Class AMG",
+      "slug": "mercedes-benz-clk-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CLS-Class",
+      "name": "CLS-Class",
+      "slug": "mercedes-benz-cls-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CLS-Class AMG",
+      "name": "CLS-Class AMG",
+      "slug": "mercedes-benz-cls-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Citan",
+      "name": "Citan",
+      "slug": "mercedes-benz-citan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E-Class",
+      "name": "E-Class",
+      "slug": "mercedes-benz-e-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E-класс AMG",
+      "name": "E-класс AMG",
+      "slug": "mercedes-benz-e-класс-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EQA",
+      "name": "EQA",
+      "slug": "mercedes-benz-eqa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EQB",
+      "name": "EQB",
+      "slug": "mercedes-benz-eqb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EQC",
+      "name": "EQC",
+      "slug": "mercedes-benz-eqc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EQE",
+      "name": "EQE",
+      "slug": "mercedes-benz-eqe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EQE SUV",
+      "name": "EQE SUV",
+      "slug": "mercedes-benz-eqe-suv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EQS",
+      "name": "EQS",
+      "slug": "mercedes-benz-eqs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EQS SUV",
+      "name": "EQS SUV",
+      "slug": "mercedes-benz-eqs-suv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EQV",
+      "name": "EQV",
+      "slug": "mercedes-benz-eqv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G-Class",
+      "name": "G-Class",
+      "slug": "mercedes-benz-g-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G-class AMG",
+      "name": "G-class AMG",
+      "slug": "mercedes-benz-g-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GL-Class",
+      "name": "GL-Class",
+      "slug": "mercedes-benz-gl-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GL-class AMG",
+      "name": "GL-class AMG",
+      "slug": "mercedes-benz-gl-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLA-Class",
+      "name": "GLA-Class",
+      "slug": "mercedes-benz-gla-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLA-Class AMG",
+      "name": "GLA-Class AMG",
+      "slug": "mercedes-benz-gla-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLB-Class",
+      "name": "GLB-Class",
+      "slug": "mercedes-benz-glb-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLB-Class AMG",
+      "name": "GLB-Class AMG",
+      "slug": "mercedes-benz-glb-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLC-Class",
+      "name": "GLC-Class",
+      "slug": "mercedes-benz-glc-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLC-Class AMG",
+      "name": "GLC-Class AMG",
+      "slug": "mercedes-benz-glc-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLC Coupe",
+      "name": "GLC Coupe",
+      "slug": "mercedes-benz-glc-coupe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLC Coupe AMG",
+      "name": "GLC Coupe AMG",
+      "slug": "mercedes-benz-glc-coupe-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLE-Class",
+      "name": "GLE-Class",
+      "slug": "mercedes-benz-gle-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLE-Class AMG",
+      "name": "GLE-Class AMG",
+      "slug": "mercedes-benz-gle-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLE Coupe",
+      "name": "GLE Coupe",
+      "slug": "mercedes-benz-gle-coupe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLE Coupe AMG",
+      "name": "GLE Coupe AMG",
+      "slug": "mercedes-benz-gle-coupe-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLK-Class",
+      "name": "GLK-Class",
+      "slug": "mercedes-benz-glk-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLS-Class",
+      "name": "GLS-Class",
+      "slug": "mercedes-benz-gls-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GLS -Class AMG",
+      "name": "GLS -Class AMG",
+      "slug": "mercedes-benz-gls--class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M-Class",
+      "name": "M-Class",
+      "slug": "mercedes-benz-m-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M-class AMG",
+      "name": "M-class AMG",
+      "slug": "mercedes-benz-m-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MB 100",
+      "name": "MB 100",
+      "slug": "mercedes-benz-mb-100",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ML-Class",
+      "name": "ML-Class",
+      "slug": "mercedes-benz-ml-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ML-Class AMG",
+      "name": "ML-Class AMG",
+      "slug": "mercedes-benz-ml-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R-Class",
+      "name": "R-Class",
+      "slug": "mercedes-benz-r-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R-Class AMG",
+      "name": "R-Class AMG",
+      "slug": "mercedes-benz-r-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "mercedes-benz-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S-Class",
+      "name": "S-Class",
+      "slug": "mercedes-benz-s-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S-class AMG",
+      "name": "S-class AMG",
+      "slug": "mercedes-benz-s-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SL-Class",
+      "name": "SL-Class",
+      "slug": "mercedes-benz-sl-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SL-Class AMG",
+      "name": "SL-Class AMG",
+      "slug": "mercedes-benz-sl-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SLC-Class",
+      "name": "SLC-Class",
+      "slug": "mercedes-benz-slc-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SLC-Class AMG",
+      "name": "SLC-Class AMG",
+      "slug": "mercedes-benz-slc-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SLK-Class",
+      "name": "SLK-Class",
+      "slug": "mercedes-benz-slk-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SLK-Class AMG",
+      "name": "SLK-Class AMG",
+      "slug": "mercedes-benz-slk-class-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SLR-Class",
+      "name": "SLR-Class",
+      "slug": "mercedes-benz-slr-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SLR McLaren",
+      "name": "SLR McLaren",
+      "slug": "mercedes-benz-slr-mclaren",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SLS AMG",
+      "name": "SLS AMG",
+      "slug": "mercedes-benz-sls-amg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "T1",
+      "name": "T1",
+      "slug": "mercedes-benz-t1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V-Class",
+      "name": "V-Class",
+      "slug": "mercedes-benz-v-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vaneo",
+      "name": "Vaneo",
+      "slug": "mercedes-benz-vaneo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vario",
+      "name": "Vario",
+      "slug": "mercedes-benz-vario",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Viano",
+      "name": "Viano",
+      "slug": "mercedes-benz-viano",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vito",
+      "name": "Vito",
+      "slug": "mercedes-benz-vito",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "W123",
+      "name": "W123",
+      "slug": "mercedes-benz-w123",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "W124",
+      "name": "W124",
+      "slug": "mercedes-benz-w124",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X-Class",
+      "name": "X-Class",
+      "slug": "mercedes-benz-x-class",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Спринтер",
+      "name": "Спринтер",
+      "slug": "mercedes-benz-спринтер",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "mercedes-benz-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

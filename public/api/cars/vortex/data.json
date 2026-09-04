@@ -1,0 +1,46 @@
+{
+  "name": "Vortex",
+  "slug": "cars/vortex",
+  "models": [
+    {
+      "value": "Corda",
+      "name": "Corda",
+      "slug": "vortex-corda",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Estima",
+      "name": "Estima",
+      "slug": "vortex-estima",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "vortex-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tingo",
+      "name": "Tingo",
+      "slug": "vortex-tingo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "vortex-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

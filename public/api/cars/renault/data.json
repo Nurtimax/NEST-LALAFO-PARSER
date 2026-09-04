@@ -1,0 +1,702 @@
+{
+  "name": "Renault",
+  "slug": "cars/renault",
+  "models": [
+    {
+      "value": "4CV",
+      "name": "4CV",
+      "slug": "renault-4cv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "5",
+      "name": "5",
+      "slug": "renault-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "9 ",
+      "name": "9",
+      "slug": "renault-9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "11",
+      "name": "11",
+      "slug": "renault-11",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "12",
+      "name": "12",
+      "slug": "renault-12",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "14 ",
+      "name": "14",
+      "slug": "renault-14",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "15",
+      "name": "15",
+      "slug": "renault-15",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "16",
+      "name": "16",
+      "slug": "renault-16",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "17",
+      "name": "17",
+      "slug": "renault-17",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "18",
+      "name": "18",
+      "slug": "renault-18",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "19 ",
+      "name": "19",
+      "slug": "renault-19",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "20",
+      "name": "20",
+      "slug": "renault-20",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "21",
+      "name": "21",
+      "slug": "renault-21",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "25 ",
+      "name": "25",
+      "slug": "renault-25",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Alaskan",
+      "name": "Alaskan",
+      "slug": "renault-alaskan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Arkana",
+      "name": "Arkana",
+      "slug": "renault-arkana",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Avantime",
+      "name": "Avantime",
+      "slug": "renault-avantime",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Captur",
+      "name": "Captur",
+      "slug": "renault-captur",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Caravelle",
+      "name": "Caravelle",
+      "slug": "renault-caravelle",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "City K-ZE",
+      "name": "City K-ZE",
+      "slug": "renault-city-k-ze",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Clio",
+      "name": "Clio",
+      "slug": "renault-clio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Clio Campus",
+      "name": "Clio Campus",
+      "slug": "renault-clio-campus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Clio RS",
+      "name": "Clio RS",
+      "slug": "renault-clio-rs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dauphine",
+      "name": "Dauphine",
+      "slug": "renault-dauphine",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dokker",
+      "name": "Dokker",
+      "slug": "renault-dokker",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Duster",
+      "name": "Duster",
+      "slug": "renault-duster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Espace",
+      "name": "Espace",
+      "slug": "renault-espace",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Estafette",
+      "name": "Estafette",
+      "slug": "renault-estafette",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Express",
+      "name": "Express",
+      "slug": "renault-express",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Floride",
+      "name": "Floride",
+      "slug": "renault-floride",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fluence",
+      "name": "Fluence",
+      "slug": "renault-fluence",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fuego",
+      "name": "Fuego",
+      "slug": "renault-fuego",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GTA",
+      "name": "GTA",
+      "slug": "renault-gta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gordini",
+      "name": "Gordini",
+      "slug": "renault-gordini",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Espace",
+      "name": "Grand Espace",
+      "slug": "renault-grand-espace",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Scenic",
+      "name": "Grand Scenic",
+      "slug": "renault-grand-scenic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kadjar",
+      "name": "Kadjar",
+      "slug": "renault-kadjar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kangoo",
+      "name": "Kangoo",
+      "slug": "renault-kangoo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kaptur",
+      "name": "Kaptur",
+      "slug": "renault-kaptur",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Koleos",
+      "name": "Koleos",
+      "slug": "renault-koleos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kwid",
+      "name": "Kwid",
+      "slug": "renault-kwid",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Laguna",
+      "name": "Laguna",
+      "slug": "renault-laguna",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Latitude",
+      "name": "Latitude",
+      "slug": "renault-latitude",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lodgy",
+      "name": "Lodgy",
+      "slug": "renault-lodgy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Logan",
+      "name": "Logan",
+      "slug": "renault-logan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Logan Stepway",
+      "name": "Logan Stepway",
+      "slug": "renault-logan-stepway",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mascott",
+      "name": "Mascott",
+      "slug": "renault-mascott",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Master",
+      "name": "Master",
+      "slug": "renault-master",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Megane",
+      "name": "Megane",
+      "slug": "renault-megane",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Megane RS",
+      "name": "Megane RS",
+      "slug": "renault-megane-rs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Modus",
+      "name": "Modus",
+      "slug": "renault-modus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QM6",
+      "name": "QM6",
+      "slug": "renault-qm6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R4",
+      "name": "R4",
+      "slug": "renault-r4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R5",
+      "name": "R5",
+      "slug": "renault-r5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R8",
+      "name": "R8",
+      "slug": "renault-r8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R9",
+      "name": "R9",
+      "slug": "renault-r9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R10",
+      "name": "R10",
+      "slug": "renault-r10",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R11",
+      "name": "R11",
+      "slug": "renault-r11",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R14",
+      "name": "R14",
+      "slug": "renault-r14",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R16",
+      "name": "R16",
+      "slug": "renault-r16",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R18",
+      "name": "R18",
+      "slug": "renault-r18",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R19",
+      "name": "R19",
+      "slug": "renault-r19",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R20",
+      "name": "R20",
+      "slug": "renault-r20",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R21",
+      "name": "R21",
+      "slug": "renault-r21",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R25",
+      "name": "R25",
+      "slug": "renault-r25",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R30",
+      "name": "R30",
+      "slug": "renault-r30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rapid",
+      "name": "Rapid",
+      "slug": "renault-rapid",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "renault-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rodeo",
+      "name": "Rodeo",
+      "slug": "renault-rodeo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SM6",
+      "name": "SM6",
+      "slug": "renault-sm6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Safrane",
+      "name": "Safrane",
+      "slug": "renault-safrane",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sandero",
+      "name": "Sandero",
+      "slug": "renault-sandero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sandero Stepway",
+      "name": "Sandero Stepway",
+      "slug": "renault-sandero-stepway",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Scenic",
+      "name": "Scenic",
+      "slug": "renault-scenic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sport Spider",
+      "name": "Sport Spider",
+      "slug": "renault-sport-spider",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Super 5",
+      "name": "Super 5",
+      "slug": "renault-super-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Symbol",
+      "name": "Symbol",
+      "slug": "renault-symbol",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Talisman",
+      "name": "Talisman",
+      "slug": "renault-talisman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Traffic",
+      "name": "Traffic",
+      "slug": "renault-traffic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trafic",
+      "name": "Trafic",
+      "slug": "renault-trafic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Twingo",
+      "name": "Twingo",
+      "slug": "renault-twingo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Twizy",
+      "name": "Twizy",
+      "slug": "renault-twizy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vel Satis",
+      "name": "Vel Satis",
+      "slug": "renault-vel-satis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vel Statis",
+      "name": "Vel Statis",
+      "slug": "renault-vel-statis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wind",
+      "name": "Wind",
+      "slug": "renault-wind",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Zoe",
+      "name": "Zoe",
+      "slug": "renault-zoe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "renault-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

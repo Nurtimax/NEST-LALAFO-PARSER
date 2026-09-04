@@ -1,0 +1,78 @@
+{
+  "name": "Brilliance",
+  "slug": "cars/brilliance",
+  "models": [
+    {
+      "value": "FRV (BS2)",
+      "name": "FRV (BS2)",
+      "slug": "brilliance-frv-(bs2)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "H230",
+      "name": "H230",
+      "slug": "brilliance-h230",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "H530",
+      "name": "H530",
+      "slug": "brilliance-h530",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M1 (BS6)",
+      "name": "M1 (BS6)",
+      "slug": "brilliance-m1-(bs6)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M2 (BS4)",
+      "name": "M2 (BS4)",
+      "slug": "brilliance-m2-(bs4)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M3 (BC3)",
+      "name": "M3 (BC3)",
+      "slug": "brilliance-m3-(bc3)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "brilliance-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V5",
+      "name": "V5",
+      "slug": "brilliance-v5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "brilliance-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

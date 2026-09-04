@@ -1,0 +1,214 @@
+{
+  "name": "Jaguar",
+  "slug": "cars/jaguar",
+  "models": [
+    {
+      "value": "3.8",
+      "name": "3.8",
+      "slug": "jaguar-3.8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E-type",
+      "name": "E-type",
+      "slug": "jaguar-e-type",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F-Pace",
+      "name": "F-Pace",
+      "slug": "jaguar-f-pace",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F-type",
+      "name": "F-type",
+      "slug": "jaguar-f-type",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "I-Pace",
+      "name": "I-Pace",
+      "slug": "jaguar-i-pace",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "jaguar-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S-type",
+      "name": "S-type",
+      "slug": "jaguar-s-type",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SS",
+      "name": "SS",
+      "slug": "jaguar-ss",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Type C",
+      "name": "Type C",
+      "slug": "jaguar-type-c",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X-type",
+      "name": "X-type",
+      "slug": "jaguar-x-type",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XE",
+      "name": "XE",
+      "slug": "jaguar-xe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XF",
+      "name": "XF",
+      "slug": "jaguar-xf",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XFR",
+      "name": "XFR",
+      "slug": "jaguar-xfr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XJ",
+      "name": "XJ",
+      "slug": "jaguar-xj",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XJ6",
+      "name": "XJ6",
+      "slug": "jaguar-xj6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XJ8",
+      "name": "XJ8",
+      "slug": "jaguar-xj8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XJ220",
+      "name": "XJ220",
+      "slug": "jaguar-xj220",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XJR",
+      "name": "XJR",
+      "slug": "jaguar-xjr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XJS",
+      "name": "XJS",
+      "slug": "jaguar-xjs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XK",
+      "name": "XK",
+      "slug": "jaguar-xk",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XK8",
+      "name": "XK8",
+      "slug": "jaguar-xk8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XK 120",
+      "name": "XK 120",
+      "slug": "jaguar-xk-120",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XKE",
+      "name": "XKE",
+      "slug": "jaguar-xke",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XKR",
+      "name": "XKR",
+      "slug": "jaguar-xkr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XKR-S",
+      "name": "XKR-S",
+      "slug": "jaguar-xkr-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "jaguar-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "name": "Mazda",
+  "slug": "cars/mazda",
+  "models": [
+    {
+      "value": "2",
+      "name": "2",
+      "slug": "mazda-2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3",
+      "name": "3",
+      "slug": "mazda-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3 MPS",
+      "name": "3 MPS",
+      "slug": "mazda-3-mps",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "5",
+      "name": "5",
+      "slug": "mazda-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "6",
+      "name": "6",
+      "slug": "mazda-6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "6 MPS",
+      "name": "6 MPS",
+      "slug": "mazda-6-mps",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "121",
+      "name": "121",
+      "slug": "mazda-121",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "323",
+      "name": "323",
+      "slug": "mazda-323",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "616",
+      "name": "616",
+      "slug": "mazda-616",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "626",
+      "name": "626",
+      "slug": "mazda-626",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "818",
+      "name": "818",
+      "slug": "mazda-818",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "929",
+      "name": "929",
+      "slug": "mazda-929",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1300",
+      "name": "1300",
+      "slug": "mazda-1300",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "AZ-1",
+      "name": "AZ-1",
+      "slug": "mazda-az-1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "AZ-Wagon",
+      "name": "AZ-Wagon",
+      "slug": "mazda-az-wagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Atenza",
+      "name": "Atenza",
+      "slug": "mazda-atenza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Axela",
+      "name": "Axela",
+      "slug": "mazda-axela",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "B-Series",
+      "name": "B-Series",
+      "slug": "mazda-b-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "BONGO",
+      "name": "BONGO",
+      "slug": "mazda-bongo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "BT-50",
+      "name": "BT-50",
+      "slug": "mazda-bt-50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Biante",
+      "name": "Biante",
+      "slug": "mazda-biante",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bongo Friendee",
+      "name": "Bongo Friendee",
+      "slug": "mazda-bongo-friendee",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-3",
+      "name": "CX-3",
+      "slug": "mazda-cx-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-4",
+      "name": "CX-4",
+      "slug": "mazda-cx-4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-5",
+      "name": "CX-5",
+      "slug": "mazda-cx-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-7",
+      "name": "CX-7",
+      "slug": "mazda-cx-7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-8",
+      "name": "CX-8",
+      "slug": "mazda-cx-8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-9",
+      "name": "CX-9",
+      "slug": "mazda-cx-9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-30",
+      "name": "CX-30",
+      "slug": "mazda-cx-30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-50",
+      "name": "CX-50",
+      "slug": "mazda-cx-50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-60",
+      "name": "CX-60",
+      "slug": "mazda-cx-60",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-70",
+      "name": "CX-70",
+      "slug": "mazda-cx-70",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-80",
+      "name": "CX-80",
+      "slug": "mazda-cx-80",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX-90",
+      "name": "CX-90",
+      "slug": "mazda-cx-90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Capella",
+      "name": "Capella",
+      "slug": "mazda-capella",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Carol",
+      "name": "Carol",
+      "slug": "mazda-carol",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cosmo",
+      "name": "Cosmo",
+      "slug": "mazda-cosmo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cronos",
+      "name": "Cronos",
+      "slug": "mazda-cronos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Demio",
+      "name": "Demio",
+      "slug": "mazda-demio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EZ-6",
+      "name": "EZ-6",
+      "slug": "mazda-ez-6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EZ-60",
+      "name": "EZ-60",
+      "slug": "mazda-ez-60",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Efini",
+      "name": "Efini",
+      "slug": "mazda-efini",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Efini MS-6",
+      "name": "Efini MS-6",
+      "slug": "mazda-efini-ms-6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Efini MS-8",
+      "name": "Efini MS-8",
+      "slug": "mazda-efini-ms-8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Efini MS-9",
+      "name": "Efini MS-9",
+      "slug": "mazda-efini-ms-9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eunos",
+      "name": "Eunos",
+      "slug": "mazda-eunos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eunos 500",
+      "name": "Eunos 500",
+      "slug": "mazda-eunos-500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eunos 800",
+      "name": "Eunos 800",
+      "slug": "mazda-eunos-800",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eunos Cosmo",
+      "name": "Eunos Cosmo",
+      "slug": "mazda-eunos-cosmo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Familia",
+      "name": "Familia",
+      "slug": "mazda-familia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Flair",
+      "name": "Flair",
+      "slug": "mazda-flair",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lantis",
+      "name": "Lantis",
+      "slug": "mazda-lantis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Laputa",
+      "name": "Laputa",
+      "slug": "mazda-laputa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Luce",
+      "name": "Luce",
+      "slug": "mazda-luce",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MPV",
+      "name": "MPV",
+      "slug": "mazda-mpv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MX-3",
+      "name": "MX-3",
+      "slug": "mazda-mx-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MX-5",
+      "name": "MX-5",
+      "slug": "mazda-mx-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MX-6",
+      "name": "MX-6",
+      "slug": "mazda-mx-6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MX-30",
+      "name": "MX-30",
+      "slug": "mazda-mx-30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Millenia",
+      "name": "Millenia",
+      "slug": "mazda-millenia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Navajo",
+      "name": "Navajo",
+      "slug": "mazda-navajo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "PREMACY",
+      "name": "PREMACY",
+      "slug": "mazda-premacy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Proceed",
+      "name": "Proceed",
+      "slug": "mazda-proceed",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Protege",
+      "name": "Protege",
+      "slug": "mazda-protege",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RX-7",
+      "name": "RX-7",
+      "slug": "mazda-rx-7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RX-8",
+      "name": "RX-8",
+      "slug": "mazda-rx-8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Revue",
+      "name": "Revue",
+      "slug": "mazda-revue",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "mazda-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Scrum",
+      "name": "Scrum",
+      "slug": "mazda-scrum",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sentia",
+      "name": "Sentia",
+      "slug": "mazda-sentia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tribute",
+      "name": "Tribute",
+      "slug": "mazda-tribute",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Verisa",
+      "name": "Verisa",
+      "slug": "mazda-verisa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XEDOS 6",
+      "name": "XEDOS 6",
+      "slug": "mazda-xedos-6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XEDOS 9",
+      "name": "XEDOS 9",
+      "slug": "mazda-xedos-9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "mazda-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

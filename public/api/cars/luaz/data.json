@@ -1,0 +1,46 @@
+{
+  "name": "ЛуАЗ",
+  "slug": "cars/luaz",
+  "models": [
+    {
+      "value": "696",
+      "name": "696",
+      "slug": "луаз-696",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "967",
+      "name": "967",
+      "slug": "луаз-967",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "969",
+      "name": "969",
+      "slug": "луаз-969",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "луаз-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "луаз-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

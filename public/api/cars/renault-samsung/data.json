@@ -1,0 +1,78 @@
+{
+  "name": "Renault Samsung",
+  "slug": "cars/renault-samsung",
+  "models": [
+    {
+      "value": "QM3",
+      "name": "QM3",
+      "slug": "renault samsung-qm3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QM5",
+      "name": "QM5",
+      "slug": "renault samsung-qm5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QM6",
+      "name": "QM6",
+      "slug": "renault samsung-qm6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "renault samsung-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SM3",
+      "name": "SM3",
+      "slug": "renault samsung-sm3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SM5",
+      "name": "SM5",
+      "slug": "renault samsung-sm5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SM6",
+      "name": "SM6",
+      "slug": "renault samsung-sm6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SM7",
+      "name": "SM7",
+      "slug": "renault samsung-sm7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XM3",
+      "name": "XM3",
+      "slug": "renault samsung-xm3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

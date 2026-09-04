@@ -1,0 +1,46 @@
+{
+  "name": "Smart",
+  "slug": "cars/smart",
+  "models": [
+    {
+      "value": "Crossblade",
+      "name": "Crossblade",
+      "slug": "smart-crossblade",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Forfour",
+      "name": "Forfour",
+      "slug": "smart-forfour",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fortwo",
+      "name": "Fortwo",
+      "slug": "smart-fortwo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "smart-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "smart-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "name": "GAC",
+  "slug": "cars/gac",
+  "models": [
+    {
+      "value": "Aion Hyper GT",
+      "name": "Aion Hyper GT",
+      "slug": "gac-aion-hyper-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aion I60",
+      "name": "Aion I60",
+      "slug": "gac-aion-i60",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aion LX",
+      "name": "Aion LX",
+      "slug": "gac-aion-lx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aion RT",
+      "name": "Aion RT",
+      "slug": "gac-aion-rt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aion S",
+      "name": "Aion S",
+      "slug": "gac-aion-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aion V",
+      "name": "Aion V",
+      "slug": "gac-aion-v",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aion Y",
+      "name": "Aion Y",
+      "slug": "gac-aion-y",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E9",
+      "name": "E9",
+      "slug": "gac-e9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emkoo",
+      "name": "Emkoo",
+      "slug": "gac-emkoo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Empow",
+      "name": "Empow",
+      "slug": "gac-empow",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GE3",
+      "name": "GE3",
+      "slug": "gac-ge3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GN8",
+      "name": "GN8",
+      "slug": "gac-gn8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GS3",
+      "name": "GS3",
+      "slug": "gac-gs3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GS4",
+      "name": "GS4",
+      "slug": "gac-gs4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GS5",
+      "name": "GS5",
+      "slug": "gac-gs5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GS7",
+      "name": "GS7",
+      "slug": "gac-gs7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GS8",
+      "name": "GS8",
+      "slug": "gac-gs8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M6",
+      "name": "M6",
+      "slug": "gac-m6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "gac-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trumpchi E8",
+      "name": "Trumpchi E8",
+      "slug": "gac-trumpchi-e8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trumpchi M8",
+      "name": "Trumpchi M8",
+      "slug": "gac-trumpchi-m8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trumpchi S7",
+      "name": "Trumpchi S7",
+      "slug": "gac-trumpchi-s7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "iA5",
+      "name": "iA5",
+      "slug": "gac-ia5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "gac-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

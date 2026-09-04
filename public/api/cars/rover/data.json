@@ -1,0 +1,294 @@
+{
+  "name": "Rover",
+  "slug": "cars/rover",
+  "models": [
+    {
+      "value": "25 ",
+      "name": "25",
+      "slug": "rover-25",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "45 ",
+      "name": "45",
+      "slug": "rover-45",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "75",
+      "name": "75",
+      "slug": "rover-75",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "100",
+      "name": "100",
+      "slug": "rover-100",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "111",
+      "name": "111",
+      "slug": "rover-111",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "115",
+      "name": "115",
+      "slug": "rover-115",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "200",
+      "name": "200",
+      "slug": "rover-200",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "213",
+      "name": "213",
+      "slug": "rover-213",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "214",
+      "name": "214",
+      "slug": "rover-214",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "216",
+      "name": "216",
+      "slug": "rover-216",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "218",
+      "name": "218",
+      "slug": "rover-218",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "220",
+      "name": "220",
+      "slug": "rover-220",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "400",
+      "name": "400",
+      "slug": "rover-400",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "414",
+      "name": "414",
+      "slug": "rover-414",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "416",
+      "name": "416",
+      "slug": "rover-416",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "418",
+      "name": "418",
+      "slug": "rover-418",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "420",
+      "name": "420",
+      "slug": "rover-420",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "600",
+      "name": "600",
+      "slug": "rover-600",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "618",
+      "name": "618",
+      "slug": "rover-618",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "620",
+      "name": "620",
+      "slug": "rover-620",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "623",
+      "name": "623",
+      "slug": "rover-623",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "800",
+      "name": "800",
+      "slug": "rover-800",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "820",
+      "name": "820",
+      "slug": "rover-820",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "825",
+      "name": "825",
+      "slug": "rover-825",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "827",
+      "name": "827",
+      "slug": "rover-827",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "City Rover",
+      "name": "City Rover",
+      "slug": "rover-city-rover",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Concerto",
+      "name": "Concerto",
+      "slug": "rover-concerto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MGF",
+      "name": "MGF",
+      "slug": "rover-mgf",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Maestro",
+      "name": "Maestro",
+      "slug": "rover-maestro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Metro",
+      "name": "Metro",
+      "slug": "rover-metro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mini MK",
+      "name": "Mini MK",
+      "slug": "rover-mini-mk",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Montego",
+      "name": "Montego",
+      "slug": "rover-montego",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "rover-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SD",
+      "name": "SD",
+      "slug": "rover-sd",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Streetwise",
+      "name": "Streetwise",
+      "slug": "rover-streetwise",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "rover-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

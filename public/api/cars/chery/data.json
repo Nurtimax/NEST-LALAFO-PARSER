@@ -1,0 +1,158 @@
+{
+  "name": "Chery",
+  "slug": "cars/chery",
+  "models": [
+    {
+      "value": "Amulet (A15)",
+      "name": "Amulet (A15)",
+      "slug": "chery-amulet-(a15)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Arizzo 3",
+      "name": "Arizzo 3",
+      "slug": "chery-arizzo-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Arizzo 7",
+      "name": "Arizzo 7",
+      "slug": "chery-arizzo-7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bonus (A13)",
+      "name": "Bonus (A13)",
+      "slug": "chery-bonus-(a13)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bonus 3 (E3)",
+      "name": "Bonus 3 (E3)",
+      "slug": "chery-bonus-3-(e3)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CrossEastar (B14)",
+      "name": "CrossEastar (B14)",
+      "slug": "chery-crosseastar-(b14)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fora (A21)",
+      "name": "Fora (A21)",
+      "slug": "chery-fora-(a21)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "IndiS (S18D)",
+      "name": "IndiS (S18D)",
+      "slug": "chery-indis-(s18d)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kimo (A1)",
+      "name": "Kimo (A1)",
+      "slug": "chery-kimo-(a1)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M11 (A3)",
+      "name": "M11 (A3)",
+      "slug": "chery-m11-(a3)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Oriental Son (B11)",
+      "name": "Oriental Son (B11)",
+      "slug": "chery-oriental-son-(b11)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QQ6 (S21)",
+      "name": "QQ6 (S21)",
+      "slug": "chery-qq6-(s21)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "chery-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sweet (QQ)",
+      "name": "Sweet (QQ)",
+      "slug": "chery-sweet-(qq)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tiggo",
+      "name": "Tiggo",
+      "slug": "chery-tiggo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tiggo (T11)",
+      "name": "Tiggo (T11)",
+      "slug": "chery-tiggo-(t11)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tiggo 5",
+      "name": "Tiggo 5",
+      "slug": "chery-tiggo-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Very",
+      "name": "Very",
+      "slug": "chery-very",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "chery-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

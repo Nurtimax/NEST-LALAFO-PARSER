@@ -1,0 +1,566 @@
+{
+  "name": "Audi",
+  "slug": "cars/audi",
+  "models": [
+    {
+      "value": "80",
+      "name": "80",
+      "slug": "audi-80",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "90",
+      "name": "90",
+      "slug": "audi-90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "100",
+      "name": "100",
+      "slug": "audi-100",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "200",
+      "name": "200",
+      "slug": "audi-200",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A1",
+      "name": "A1",
+      "slug": "audi-a1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A2",
+      "name": "A2",
+      "slug": "audi-a2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A3",
+      "name": "A3",
+      "slug": "audi-a3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A4",
+      "name": "A4",
+      "slug": "audi-a4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A4 allroad",
+      "name": "A4 allroad",
+      "slug": "audi-a4-allroad",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A5",
+      "name": "A5",
+      "slug": "audi-a5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A6",
+      "name": "A6",
+      "slug": "audi-a6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A6 allroad",
+      "name": "A6 allroad",
+      "slug": "audi-a6-allroad",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A7",
+      "name": "A7",
+      "slug": "audi-a7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "A8",
+      "name": "A8",
+      "slug": "audi-a8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Allroad",
+      "name": "Allroad",
+      "slug": "audi-allroad",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E5",
+      "name": "E5",
+      "slug": "audi-e5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "NSU RO 80",
+      "name": "NSU RO 80",
+      "slug": "audi-nsu-ro-80",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q2",
+      "name": "Q2",
+      "slug": "audi-q2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q2L",
+      "name": "Q2L",
+      "slug": "audi-q2l",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q3",
+      "name": "Q3",
+      "slug": "audi-q3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q3 Sportback",
+      "name": "Q3 Sportback",
+      "slug": "audi-q3-sportback",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q4 Sportback e-tron",
+      "name": "Q4 Sportback e-tron",
+      "slug": "audi-q4-sportback-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q4 e-tron",
+      "name": "Q4 e-tron",
+      "slug": "audi-q4-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q5",
+      "name": "Q5",
+      "slug": "audi-q5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q5 Sportback",
+      "name": "Q5 Sportback",
+      "slug": "audi-q5-sportback",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q5 e-tron",
+      "name": "Q5 e-tron",
+      "slug": "audi-q5-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q6",
+      "name": "Q6",
+      "slug": "audi-q6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q7",
+      "name": "Q7",
+      "slug": "audi-q7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q8",
+      "name": "Q8",
+      "slug": "audi-q8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q8 Sportback e-tron",
+      "name": "Q8 Sportback e-tron",
+      "slug": "audi-q8-sportback-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q8 e-tron",
+      "name": "Q8 e-tron",
+      "slug": "audi-q8-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Quattro",
+      "name": "Quattro",
+      "slug": "audi-quattro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "R8",
+      "name": "R8",
+      "slug": "audi-r8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS 2",
+      "name": "RS 2",
+      "slug": "audi-rs-2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS 3",
+      "name": "RS 3",
+      "slug": "audi-rs-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS 4",
+      "name": "RS 4",
+      "slug": "audi-rs-4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS 5",
+      "name": "RS 5",
+      "slug": "audi-rs-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS 6",
+      "name": "RS 6",
+      "slug": "audi-rs-6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS 7",
+      "name": "RS 7",
+      "slug": "audi-rs-7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS Q3",
+      "name": "RS Q3",
+      "slug": "audi-rs-q3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS Q3 Sportback",
+      "name": "RS Q3 Sportback",
+      "slug": "audi-rs-q3-sportback",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS Q8",
+      "name": "RS Q8",
+      "slug": "audi-rs-q8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RS e-tron GT",
+      "name": "RS e-tron GT",
+      "slug": "audi-rs-e-tron-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S1",
+      "name": "S1",
+      "slug": "audi-s1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S2",
+      "name": "S2",
+      "slug": "audi-s2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S3",
+      "name": "S3",
+      "slug": "audi-s3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S4",
+      "name": "S4",
+      "slug": "audi-s4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S5",
+      "name": "S5",
+      "slug": "audi-s5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S6",
+      "name": "S6",
+      "slug": "audi-s6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S6 e-tron",
+      "name": "S6 e-tron",
+      "slug": "audi-s6-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S7",
+      "name": "S7",
+      "slug": "audi-s7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S8",
+      "name": "S8",
+      "slug": "audi-s8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SQ2",
+      "name": "SQ2",
+      "slug": "audi-sq2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SQ5",
+      "name": "SQ5",
+      "slug": "audi-sq5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SQ5 Sportback",
+      "name": "SQ5 Sportback",
+      "slug": "audi-sq5-sportback",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SQ6 e-tron",
+      "name": "SQ6 e-tron",
+      "slug": "audi-sq6-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SQ7",
+      "name": "SQ7",
+      "slug": "audi-sq7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SQ8",
+      "name": "SQ8",
+      "slug": "audi-sq8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SQ8 Sportback e-tron",
+      "name": "SQ8 Sportback e-tron",
+      "slug": "audi-sq8-sportback-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SQ8 e-tron",
+      "name": "SQ8 e-tron",
+      "slug": "audi-sq8-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S e-tron GT",
+      "name": "S e-tron GT",
+      "slug": "audi-s-e-tron-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "TT",
+      "name": "TT",
+      "slug": "audi-tt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "V8",
+      "name": "V8",
+      "slug": "audi-v8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "e-tron",
+      "name": "e-tron",
+      "slug": "audi-e-tron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "e-tron GT",
+      "name": "e-tron GT",
+      "slug": "audi-e-tron-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "e-tron S Sportback",
+      "name": "e-tron S Sportback",
+      "slug": "audi-e-tron-s-sportback",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "e-tron Sportback",
+      "name": "e-tron Sportback",
+      "slug": "audi-e-tron-sportback",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Кабриолет",
+      "name": "Кабриолет",
+      "slug": "audi-кабриолет",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Купе",
+      "name": "Купе",
+      "slug": "audi-купе",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "audi-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

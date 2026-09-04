@@ -1,0 +1,374 @@
+{
+  "name": "Daihatsu",
+  "slug": "cars/daihatsu",
+  "models": [
+    {
+      "value": "Altis",
+      "name": "Altis",
+      "slug": "daihatsu-altis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Applause",
+      "name": "Applause",
+      "slug": "daihatsu-applause",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Atrai",
+      "name": "Atrai",
+      "slug": "daihatsu-atrai",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Be-go",
+      "name": "Be-go",
+      "slug": "daihatsu-be-go",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Boon",
+      "name": "Boon",
+      "slug": "daihatsu-boon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ceria",
+      "name": "Ceria",
+      "slug": "daihatsu-ceria",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Charade",
+      "name": "Charade",
+      "slug": "daihatsu-charade",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Charmant",
+      "name": "Charmant",
+      "slug": "daihatsu-charmant",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Coo",
+      "name": "Coo",
+      "slug": "daihatsu-coo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Copen",
+      "name": "Copen",
+      "slug": "daihatsu-copen",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cuore",
+      "name": "Cuore",
+      "slug": "daihatsu-cuore",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Delta",
+      "name": "Delta",
+      "slug": "daihatsu-delta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Delta Wagon",
+      "name": "Delta Wagon",
+      "slug": "daihatsu-delta-wagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Esse",
+      "name": "Esse",
+      "slug": "daihatsu-esse",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Feroza",
+      "name": "Feroza",
+      "slug": "daihatsu-feroza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Freeclimber",
+      "name": "Freeclimber",
+      "slug": "daihatsu-freeclimber",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gran Move",
+      "name": "Gran Move",
+      "slug": "daihatsu-gran-move",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hijet",
+      "name": "Hijet",
+      "slug": "daihatsu-hijet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Leeza",
+      "name": "Leeza",
+      "slug": "daihatsu-leeza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MAX",
+      "name": "MAX",
+      "slug": "daihatsu-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Materia",
+      "name": "Materia",
+      "slug": "daihatsu-materia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mebius",
+      "name": "Mebius",
+      "slug": "daihatsu-mebius",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Midget II",
+      "name": "Midget II",
+      "slug": "daihatsu-midget-ii",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mira",
+      "name": "Mira",
+      "slug": "daihatsu-mira",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Move",
+      "name": "Move",
+      "slug": "daihatsu-move",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Naked",
+      "name": "Naked",
+      "slug": "daihatsu-naked",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Opti",
+      "name": "Opti",
+      "slug": "daihatsu-opti",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Perodua Viva",
+      "name": "Perodua Viva",
+      "slug": "daihatsu-perodua-viva",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pyzar",
+      "name": "Pyzar",
+      "slug": "daihatsu-pyzar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "daihatsu-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rocky",
+      "name": "Rocky",
+      "slug": "daihatsu-rocky",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rocky/Fourtrak",
+      "name": "Rocky/Fourtrak",
+      "slug": "daihatsu-rocky/fourtrak",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sirion",
+      "name": "Sirion",
+      "slug": "daihatsu-sirion",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sonica",
+      "name": "Sonica",
+      "slug": "daihatsu-sonica",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Storia",
+      "name": "Storia",
+      "slug": "daihatsu-storia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Taft",
+      "name": "Taft",
+      "slug": "daihatsu-taft",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tanto",
+      "name": "Tanto",
+      "slug": "daihatsu-tanto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Terios",
+      "name": "Terios",
+      "slug": "daihatsu-terios",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Thor",
+      "name": "Thor",
+      "slug": "daihatsu-thor",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trevis",
+      "name": "Trevis",
+      "slug": "daihatsu-trevis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wake",
+      "name": "Wake",
+      "slug": "daihatsu-wake",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wildcat",
+      "name": "Wildcat",
+      "slug": "daihatsu-wildcat",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xenia",
+      "name": "Xenia",
+      "slug": "daihatsu-xenia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "YRV",
+      "name": "YRV",
+      "slug": "daihatsu-yrv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Литая",
+      "name": "Литая",
+      "slug": "daihatsu-литая",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "daihatsu-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

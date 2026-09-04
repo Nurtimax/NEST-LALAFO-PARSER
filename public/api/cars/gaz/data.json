@@ -1,0 +1,334 @@
+{
+  "name": "ГАЗ",
+  "slug": "cars/gaz",
+  "models": [
+    {
+      "value": "12 ZIM",
+      "name": "12 ZIM",
+      "slug": "газ-12-zim",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "13 Chayka",
+      "name": "13 Chayka",
+      "slug": "газ-13-chayka",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "14 Chayka",
+      "name": "14 Chayka",
+      "slug": "газ-14-chayka",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "21 Volga",
+      "name": "21 Volga",
+      "slug": "газ-21-volga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "22 Volga",
+      "name": "22 Volga",
+      "slug": "газ-22-volga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "24 Volga",
+      "name": "24 Volga",
+      "slug": "газ-24-volga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "67",
+      "name": "67",
+      "slug": "газ-67",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "69",
+      "name": "69",
+      "slug": "газ-69",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2124",
+      "name": "2124",
+      "slug": "газ-2124",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2330 Тигр",
+      "name": "2330 Тигр",
+      "slug": "газ-2330-тигр",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2410",
+      "name": "2410",
+      "slug": "газ-2410",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3102 Volga",
+      "name": "3102 Volga",
+      "slug": "газ-3102-volga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3103 Волга",
+      "name": "3103 Волга",
+      "slug": "газ-3103-волга",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3105 Волга",
+      "name": "3105 Волга",
+      "slug": "газ-3105-волга",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3110",
+      "name": "3110",
+      "slug": "газ-3110",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3110 Volga",
+      "name": "3110 Volga",
+      "slug": "газ-3110-volga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3111 Volga",
+      "name": "3111 Volga",
+      "slug": "газ-3111-volga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3302",
+      "name": "3302",
+      "slug": "газ-3302",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "31029 Volga",
+      "name": "31029 Volga",
+      "slug": "газ-31029-volga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "31105 Volga",
+      "name": "31105 Volga",
+      "slug": "газ-31105-volga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "310221 Volga",
+      "name": "310221 Volga",
+      "slug": "газ-310221-volga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GAZel",
+      "name": "GAZel",
+      "slug": "газ-gazel",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GAZel 2705",
+      "name": "GAZel 2705",
+      "slug": "газ-gazel-2705",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GAZel 3221",
+      "name": "GAZel 3221",
+      "slug": "газ-gazel-3221",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GAZel 3302",
+      "name": "GAZel 3302",
+      "slug": "газ-gazel-3302",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GAZel 33023",
+      "name": "GAZel 33023",
+      "slug": "газ-gazel-33023",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GAZel Biznes",
+      "name": "GAZel Biznes",
+      "slug": "газ-gazel-biznes",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GAZel Next",
+      "name": "GAZel Next",
+      "slug": "газ-gazel-next",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gazel 9",
+      "name": "Gazel 9",
+      "slug": "газ-gazel-9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Gazel 33025",
+      "name": "Gazel 33025",
+      "slug": "газ-gazel-33025",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M-20 Pobeda",
+      "name": "M-20 Pobeda",
+      "slug": "газ-m-20-pobeda",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M1",
+      "name": "M1",
+      "slug": "газ-m1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "газ-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sobol",
+      "name": "Sobol",
+      "slug": "газ-sobol",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sobol 2217",
+      "name": "Sobol 2217",
+      "slug": "газ-sobol-2217",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sobol 2310",
+      "name": "Sobol 2310",
+      "slug": "газ-sobol-2310",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sobol 2752",
+      "name": "Sobol 2752",
+      "slug": "газ-sobol-2752",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Volga Siber",
+      "name": "Volga Siber",
+      "slug": "газ-volga-siber",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Volga Siber 204",
+      "name": "Volga Siber 204",
+      "slug": "газ-volga-siber-204",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "М-72",
+      "name": "М-72",
+      "slug": "газ-м-72",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "газ-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

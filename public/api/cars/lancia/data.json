@@ -1,0 +1,182 @@
+{
+  "name": "Lancia",
+  "slug": "cars/lancia",
+  "models": [
+    {
+      "value": "Appia",
+      "name": "Appia",
+      "slug": "lancia-appia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ardea",
+      "name": "Ardea",
+      "slug": "lancia-ardea",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Augusta",
+      "name": "Augusta",
+      "slug": "lancia-augusta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Beta",
+      "name": "Beta",
+      "slug": "lancia-beta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dedra",
+      "name": "Dedra",
+      "slug": "lancia-dedra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Delta",
+      "name": "Delta",
+      "slug": "lancia-delta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Flaminia",
+      "name": "Flaminia",
+      "slug": "lancia-flaminia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fulvia",
+      "name": "Fulvia",
+      "slug": "lancia-fulvia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lybra",
+      "name": "Lybra",
+      "slug": "lancia-lybra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Musa",
+      "name": "Musa",
+      "slug": "lancia-musa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Phedra",
+      "name": "Phedra",
+      "slug": "lancia-phedra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Prisma",
+      "name": "Prisma",
+      "slug": "lancia-prisma",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "lancia-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stratos",
+      "name": "Stratos",
+      "slug": "lancia-stratos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Thema",
+      "name": "Thema",
+      "slug": "lancia-thema",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Thesis",
+      "name": "Thesis",
+      "slug": "lancia-thesis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trevi",
+      "name": "Trevi",
+      "slug": "lancia-trevi",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Y",
+      "name": "Y",
+      "slug": "lancia-y",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Y10",
+      "name": "Y10",
+      "slug": "lancia-y10",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ypsilon",
+      "name": "Ypsilon",
+      "slug": "lancia-ypsilon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Zeta",
+      "name": "Zeta",
+      "slug": "lancia-zeta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "lancia-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

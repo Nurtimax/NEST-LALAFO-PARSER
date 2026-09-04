@@ -1,0 +1,38 @@
+{
+  "name": "Datsun",
+  "slug": "cars/datsun",
+  "models": [
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "datsun-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "mi-DO",
+      "name": "mi-DO",
+      "slug": "datsun-mi-do",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "on-DO",
+      "name": "on-DO",
+      "slug": "datsun-on-do",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "datsun-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

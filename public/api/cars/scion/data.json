@@ -1,0 +1,54 @@
+{
+  "name": "Scion",
+  "slug": "cars/scion",
+  "models": [
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "scion-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "tC",
+      "name": "tC",
+      "slug": "scion-tc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "xA",
+      "name": "xA",
+      "slug": "scion-xa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "xB",
+      "name": "xB",
+      "slug": "scion-xb",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "xD",
+      "name": "xD",
+      "slug": "scion-xd",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "scion-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "name": "TagAZ",
+  "slug": "cars/tagaz",
+  "models": [
+    {
+      "value": "Aquila",
+      "name": "Aquila",
+      "slug": "tagaz-aquila",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C10",
+      "name": "C10",
+      "slug": "tagaz-c10",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C30",
+      "name": "C30",
+      "slug": "tagaz-c30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C190",
+      "name": "C190",
+      "slug": "tagaz-c190",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hyundai Accent",
+      "name": "Hyundai Accent",
+      "slug": "tagaz-hyundai-accent",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hyundai Santa Fe Classic",
+      "name": "Hyundai Santa Fe Classic",
+      "slug": "tagaz-hyundai-santa-fe-classic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hyundai Sonata",
+      "name": "Hyundai Sonata",
+      "slug": "tagaz-hyundai-sonata",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Road Partner",
+      "name": "Road Partner",
+      "slug": "tagaz-road-partner",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "tagaz-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tager",
+      "name": "Tager",
+      "slug": "tagaz-tager",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vega",
+      "name": "Vega",
+      "slug": "tagaz-vega",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vortex Corda",
+      "name": "Vortex Corda",
+      "slug": "tagaz-vortex-corda",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vortex Estina",
+      "name": "Vortex Estina",
+      "slug": "tagaz-vortex-estina",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vortex Ting",
+      "name": "Vortex Ting",
+      "slug": "tagaz-vortex-ting",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vortex Tingo",
+      "name": "Vortex Tingo",
+      "slug": "tagaz-vortex-tingo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "С10",
+      "name": "С10",
+      "slug": "tagaz-с10",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "С190",
+      "name": "С190",
+      "slug": "tagaz-с190",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "tagaz-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

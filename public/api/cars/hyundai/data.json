@@ -1,0 +1,574 @@
+{
+  "name": "Hyundai",
+  "slug": "cars/hyundai",
+  "models": [
+    {
+      "value": "Accent",
+      "name": "Accent",
+      "slug": "hyundai-accent",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aslan",
+      "name": "Aslan",
+      "slug": "hyundai-aslan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Atos",
+      "name": "Atos",
+      "slug": "hyundai-atos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Avante",
+      "name": "Avante",
+      "slug": "hyundai-avante",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Azera",
+      "name": "Azera",
+      "slug": "hyundai-azera",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bayon",
+      "name": "Bayon",
+      "slug": "hyundai-bayon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Casper",
+      "name": "Casper",
+      "slug": "hyundai-casper",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Celesta",
+      "name": "Celesta",
+      "slug": "hyundai-celesta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Centennial",
+      "name": "Centennial",
+      "slug": "hyundai-centennial",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Creta",
+      "name": "Creta",
+      "slug": "hyundai-creta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Custin",
+      "name": "Custin",
+      "slug": "hyundai-custin",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Custo",
+      "name": "Custo",
+      "slug": "hyundai-custo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dynasty",
+      "name": "Dynasty",
+      "slug": "hyundai-dynasty",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Elantra",
+      "name": "Elantra",
+      "slug": "hyundai-elantra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Encino",
+      "name": "Encino",
+      "slug": "hyundai-encino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Eon",
+      "name": "Eon",
+      "slug": "hyundai-eon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Equus",
+      "name": "Equus",
+      "slug": "hyundai-equus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Excel",
+      "name": "Excel",
+      "slug": "hyundai-excel",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galloper",
+      "name": "Galloper",
+      "slug": "hyundai-galloper",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Genesis",
+      "name": "Genesis",
+      "slug": "hyundai-genesis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Genesis Coupe",
+      "name": "Genesis Coupe",
+      "slug": "hyundai-genesis-coupe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Getz",
+      "name": "Getz",
+      "slug": "hyundai-getz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Starex",
+      "name": "Grand Starex",
+      "slug": "hyundai-grand-starex",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grandeur",
+      "name": "Grandeur",
+      "slug": "hyundai-grandeur",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "H-1",
+      "name": "H-1",
+      "slug": "hyundai-h-1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "H-100",
+      "name": "H-100",
+      "slug": "hyundai-h-100",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ioniq",
+      "name": "Ioniq",
+      "slug": "hyundai-ioniq",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ioniq 5",
+      "name": "Ioniq 5",
+      "slug": "hyundai-ioniq-5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ioniq 6",
+      "name": "Ioniq 6",
+      "slug": "hyundai-ioniq-6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kona",
+      "name": "Kona",
+      "slug": "hyundai-kona",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lafesta",
+      "name": "Lafesta",
+      "slug": "hyundai-lafesta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lantra",
+      "name": "Lantra",
+      "slug": "hyundai-lantra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lavita",
+      "name": "Lavita",
+      "slug": "hyundai-lavita",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Marcia",
+      "name": "Marcia",
+      "slug": "hyundai-marcia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Matrix",
+      "name": "Matrix",
+      "slug": "hyundai-matrix",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Maxcruz",
+      "name": "Maxcruz",
+      "slug": "hyundai-maxcruz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mistra",
+      "name": "Mistra",
+      "slug": "hyundai-mistra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mufasa",
+      "name": "Mufasa",
+      "slug": "hyundai-mufasa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Palisade",
+      "name": "Palisade",
+      "slug": "hyundai-palisade",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Porter",
+      "name": "Porter",
+      "slug": "hyundai-porter",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "hyundai-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S-Coupe",
+      "name": "S-Coupe",
+      "slug": "hyundai-s-coupe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Santa Cruz",
+      "name": "Santa Cruz",
+      "slug": "hyundai-santa-cruz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Santa Fe",
+      "name": "Santa Fe",
+      "slug": "hyundai-santa-fe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Santamo",
+      "name": "Santamo",
+      "slug": "hyundai-santamo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Solaris",
+      "name": "Solaris",
+      "slug": "hyundai-solaris",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sonata",
+      "name": "Sonata",
+      "slug": "hyundai-sonata",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Starex",
+      "name": "Starex",
+      "slug": "hyundai-starex",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Staria",
+      "name": "Staria",
+      "slug": "hyundai-staria",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Terracan",
+      "name": "Terracan",
+      "slug": "hyundai-terracan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tiburon",
+      "name": "Tiburon",
+      "slug": "hyundai-tiburon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Trajet",
+      "name": "Trajet",
+      "slug": "hyundai-trajet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tucson",
+      "name": "Tucson",
+      "slug": "hyundai-tucson",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tuscani",
+      "name": "Tuscani",
+      "slug": "hyundai-tuscani",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Veloster",
+      "name": "Veloster",
+      "slug": "hyundai-veloster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Venue",
+      "name": "Venue",
+      "slug": "hyundai-venue",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Veracruz",
+      "name": "Veracruz",
+      "slug": "hyundai-veracruz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Verna",
+      "name": "Verna",
+      "slug": "hyundai-verna",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XG",
+      "name": "XG",
+      "slug": "hyundai-xg",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i10",
+      "name": "i10",
+      "slug": "hyundai-i10",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i20",
+      "name": "i20",
+      "slug": "hyundai-i20",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i30",
+      "name": "i30",
+      "slug": "hyundai-i30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i40",
+      "name": "i40",
+      "slug": "hyundai-i40",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ix20",
+      "name": "ix20",
+      "slug": "hyundai-ix20",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ix25",
+      "name": "ix25",
+      "slug": "hyundai-ix25",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ix35",
+      "name": "ix35",
+      "slug": "hyundai-ix35",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ix55",
+      "name": "ix55",
+      "slug": "hyundai-ix55",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Грейс",
+      "name": "Грейс",
+      "slug": "hyundai-грейс",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Купе",
+      "name": "Купе",
+      "slug": "hyundai-купе",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Пони",
+      "name": "Пони",
+      "slug": "hyundai-пони",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "hyundai-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

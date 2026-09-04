@@ -1,0 +1,374 @@
+{
+  "name": "Peugeot",
+  "slug": "cars/peugeot",
+  "models": [
+    {
+      "value": "104",
+      "name": "104",
+      "slug": "peugeot-104",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "106",
+      "name": "106",
+      "slug": "peugeot-106",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "107",
+      "name": "107",
+      "slug": "peugeot-107",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "204",
+      "name": "204",
+      "slug": "peugeot-204",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "205",
+      "name": "205",
+      "slug": "peugeot-205",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "206",
+      "name": "206",
+      "slug": "peugeot-206",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "206 CC",
+      "name": "206 CC",
+      "slug": "peugeot-206-cc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "207",
+      "name": "207",
+      "slug": "peugeot-207",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "207 CC",
+      "name": "207 CC",
+      "slug": "peugeot-207-cc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "208",
+      "name": "208",
+      "slug": "peugeot-208",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "301",
+      "name": "301",
+      "slug": "peugeot-301",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "304",
+      "name": "304",
+      "slug": "peugeot-304",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "305",
+      "name": "305",
+      "slug": "peugeot-305",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "306",
+      "name": "306",
+      "slug": "peugeot-306",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "307",
+      "name": "307",
+      "slug": "peugeot-307",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "307 CC",
+      "name": "307 CC",
+      "slug": "peugeot-307-cc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "308",
+      "name": "308",
+      "slug": "peugeot-308",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "309",
+      "name": "309",
+      "slug": "peugeot-309",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "403",
+      "name": "403",
+      "slug": "peugeot-403",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "404",
+      "name": "404",
+      "slug": "peugeot-404",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "405",
+      "name": "405",
+      "slug": "peugeot-405",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "406",
+      "name": "406",
+      "slug": "peugeot-406",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "407",
+      "name": "407",
+      "slug": "peugeot-407",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "408",
+      "name": "408",
+      "slug": "peugeot-408",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "504",
+      "name": "504",
+      "slug": "peugeot-504",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "505",
+      "name": "505",
+      "slug": "peugeot-505",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "508",
+      "name": "508",
+      "slug": "peugeot-508",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "604",
+      "name": "604",
+      "slug": "peugeot-604",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "605",
+      "name": "605",
+      "slug": "peugeot-605",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "607",
+      "name": "607",
+      "slug": "peugeot-607",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "806",
+      "name": "806",
+      "slug": "peugeot-806",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "807",
+      "name": "807",
+      "slug": "peugeot-807",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "1007",
+      "name": "1007",
+      "slug": "peugeot-1007",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2008",
+      "name": "2008",
+      "slug": "peugeot-2008",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3008",
+      "name": "3008",
+      "slug": "peugeot-3008",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "4007",
+      "name": "4007",
+      "slug": "peugeot-4007",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "4008",
+      "name": "4008",
+      "slug": "peugeot-4008",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "5008",
+      "name": "5008",
+      "slug": "peugeot-5008",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bipper",
+      "name": "Bipper",
+      "slug": "peugeot-bipper",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Boxer",
+      "name": "Boxer",
+      "slug": "peugeot-boxer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Expert",
+      "name": "Expert",
+      "slug": "peugeot-expert",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Partner",
+      "name": "Partner",
+      "slug": "peugeot-partner",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Partner Combi",
+      "name": "Partner Combi",
+      "slug": "peugeot-partner-combi",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "RCZ",
+      "name": "RCZ",
+      "slug": "peugeot-rcz",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "peugeot-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "peugeot-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

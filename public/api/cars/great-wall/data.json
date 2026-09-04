@@ -1,0 +1,118 @@
+{
+  "name": "Great Wall",
+  "slug": "cars/great-wall",
+  "models": [
+    {
+      "value": "Coolbear",
+      "name": "Coolbear",
+      "slug": "great wall-coolbear",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cowry",
+      "name": "Cowry",
+      "slug": "great wall-cowry",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Florid",
+      "name": "Florid",
+      "slug": "great wall-florid",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hover",
+      "name": "Hover",
+      "slug": "great wall-hover",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hover 2",
+      "name": "Hover 2",
+      "slug": "great wall-hover-2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pegasus",
+      "name": "Pegasus",
+      "slug": "great wall-pegasus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Peri",
+      "name": "Peri",
+      "slug": "great wall-peri",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "great wall-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sailor",
+      "name": "Sailor",
+      "slug": "great wall-sailor",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sokol",
+      "name": "Sokol",
+      "slug": "great wall-sokol",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Wingle",
+      "name": "Wingle",
+      "slug": "great wall-wingle",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Олень",
+      "name": "Олень",
+      "slug": "great wall-олень",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Сейфовые",
+      "name": "Сейфовые",
+      "slug": "great wall-сейфовые",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "great wall-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

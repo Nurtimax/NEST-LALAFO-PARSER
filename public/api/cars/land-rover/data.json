@@ -1,0 +1,102 @@
+{
+  "name": "Land Rover",
+  "slug": "cars/land-rover",
+  "models": [
+    {
+      "value": "Defender",
+      "name": "Defender",
+      "slug": "land rover-defender",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Discovery",
+      "name": "Discovery",
+      "slug": "land rover-discovery",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Discovery Sport",
+      "name": "Discovery Sport",
+      "slug": "land rover-discovery-sport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Freelander",
+      "name": "Freelander",
+      "slug": "land rover-freelander",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LR3",
+      "name": "LR3",
+      "slug": "land rover-lr3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Range Rover",
+      "name": "Range Rover",
+      "slug": "land rover-range-rover",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Range Rover Evoque",
+      "name": "Range Rover Evoque",
+      "slug": "land rover-range-rover-evoque",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Range Rover Sport",
+      "name": "Range Rover Sport",
+      "slug": "land rover-range-rover-sport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "land rover-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Series III",
+      "name": "Series III",
+      "slug": "land rover-series-iii",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Series III 3",
+      "name": "Series III 3",
+      "slug": "land rover-series-iii-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "land rover-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

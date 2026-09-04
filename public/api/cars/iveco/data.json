@@ -1,0 +1,30 @@
+{
+  "name": "Iveco",
+  "slug": "cars/iveco",
+  "models": [
+    {
+      "value": "Daily",
+      "name": "Daily",
+      "slug": "iveco-daily",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "iveco-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "iveco-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

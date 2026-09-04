@@ -1,0 +1,294 @@
+{
+  "name": "Dodge",
+  "slug": "cars/dodge",
+  "models": [
+    {
+      "value": "Avenger",
+      "name": "Avenger",
+      "slug": "dodge-avenger",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Caravan",
+      "name": "Caravan",
+      "slug": "dodge-caravan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Challenger",
+      "name": "Challenger",
+      "slug": "dodge-challenger",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Chariot",
+      "name": "Chariot",
+      "slug": "dodge-chariot",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Coronet",
+      "name": "Coronet",
+      "slug": "dodge-coronet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dakota",
+      "name": "Dakota",
+      "slug": "dodge-dakota",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dart",
+      "name": "Dart",
+      "slug": "dodge-dart",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Daytona",
+      "name": "Daytona",
+      "slug": "dodge-daytona",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Demon",
+      "name": "Demon",
+      "slug": "dodge-demon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Durango",
+      "name": "Durango",
+      "slug": "dodge-durango",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dynasty",
+      "name": "Dynasty",
+      "slug": "dodge-dynasty",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Caravan",
+      "name": "Grand Caravan",
+      "slug": "dodge-grand-caravan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hornet",
+      "name": "Hornet",
+      "slug": "dodge-hornet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Intrepid",
+      "name": "Intrepid",
+      "slug": "dodge-intrepid",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Journey",
+      "name": "Journey",
+      "slug": "dodge-journey",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Lancer",
+      "name": "Lancer",
+      "slug": "dodge-lancer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Magnum",
+      "name": "Magnum",
+      "slug": "dodge-magnum",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nitro",
+      "name": "Nitro",
+      "slug": "dodge-nitro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Omni",
+      "name": "Omni",
+      "slug": "dodge-omni",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Polara",
+      "name": "Polara",
+      "slug": "dodge-polara",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Power Wagon",
+      "name": "Power Wagon",
+      "slug": "dodge-power-wagon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ram",
+      "name": "Ram",
+      "slug": "dodge-ram",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ram 1500",
+      "name": "Ram 1500",
+      "slug": "dodge-ram-1500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ram 2500",
+      "name": "Ram 2500",
+      "slug": "dodge-ram-2500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ram 3500",
+      "name": "Ram 3500",
+      "slug": "dodge-ram-3500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ram Van",
+      "name": "Ram Van",
+      "slug": "dodge-ram-van",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "dodge-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Shadow",
+      "name": "Shadow",
+      "slug": "dodge-shadow",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Spirit",
+      "name": "Spirit",
+      "slug": "dodge-spirit",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stealth",
+      "name": "Stealth",
+      "slug": "dodge-stealth",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stratus",
+      "name": "Stratus",
+      "slug": "dodge-stratus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Viper",
+      "name": "Viper",
+      "slug": "dodge-viper",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Зарядник",
+      "name": "Зарядник",
+      "slug": "dodge-зарядник",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Неон",
+      "name": "Неон",
+      "slug": "dodge-неон",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Спринтер",
+      "name": "Спринтер",
+      "slug": "dodge-спринтер",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "dodge-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

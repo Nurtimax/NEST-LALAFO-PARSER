@@ -1,0 +1,582 @@
+{
+  "name": "Kia",
+  "slug": "cars/kia",
+  "models": [
+    {
+      "value": "Avella",
+      "name": "Avella",
+      "slug": "kia-avella",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "BONGO",
+      "name": "BONGO",
+      "slug": "kia-bongo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Besta",
+      "name": "Besta",
+      "slug": "kia-besta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cadenza",
+      "name": "Cadenza",
+      "slug": "kia-cadenza",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Capital",
+      "name": "Capital",
+      "slug": "kia-capital",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Carens",
+      "name": "Carens",
+      "slug": "kia-carens",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Carnival",
+      "name": "Carnival",
+      "slug": "kia-carnival",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Carstar",
+      "name": "Carstar",
+      "slug": "kia-carstar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ceed",
+      "name": "Ceed",
+      "slug": "kia-ceed",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ceed GT",
+      "name": "Ceed GT",
+      "slug": "kia-ceed-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cerato",
+      "name": "Cerato",
+      "slug": "kia-cerato",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Clarus",
+      "name": "Clarus",
+      "slug": "kia-clarus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Concord",
+      "name": "Concord",
+      "slug": "kia-concord",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Credos",
+      "name": "Credos",
+      "slug": "kia-credos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EV3",
+      "name": "EV3",
+      "slug": "kia-ev3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EV5",
+      "name": "EV5",
+      "slug": "kia-ev5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EV6",
+      "name": "EV6",
+      "slug": "kia-ev6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EV9",
+      "name": "EV9",
+      "slug": "kia-ev9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Elan",
+      "name": "Elan",
+      "slug": "kia-elan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Enterprise",
+      "name": "Enterprise",
+      "slug": "kia-enterprise",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Forte",
+      "name": "Forte",
+      "slug": "kia-forte",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Joice",
+      "name": "Joice",
+      "slug": "kia-joice",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "K3",
+      "name": "K3",
+      "slug": "kia-k3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "K4",
+      "name": "K4",
+      "slug": "kia-k4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "K5",
+      "name": "K5",
+      "slug": "kia-k5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "K7",
+      "name": "K7",
+      "slug": "kia-k7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "K8",
+      "name": "K8",
+      "slug": "kia-k8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "K9",
+      "name": "K9",
+      "slug": "kia-k9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "K900",
+      "name": "K900",
+      "slug": "kia-k900",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "KX1",
+      "name": "KX1",
+      "slug": "kia-kx1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "KX3",
+      "name": "KX3",
+      "slug": "kia-kx3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "KX5",
+      "name": "KX5",
+      "slug": "kia-kx5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Magentis",
+      "name": "Magentis",
+      "slug": "kia-magentis",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mohave",
+      "name": "Mohave",
+      "slug": "kia-mohave",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Morning",
+      "name": "Morning",
+      "slug": "kia-morning",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Niro",
+      "name": "Niro",
+      "slug": "kia-niro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Opirus",
+      "name": "Opirus",
+      "slug": "kia-opirus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Optima",
+      "name": "Optima",
+      "slug": "kia-optima",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pegas",
+      "name": "Pegas",
+      "slug": "kia-pegas",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Picanto",
+      "name": "Picanto",
+      "slug": "kia-picanto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Potentia",
+      "name": "Potentia",
+      "slug": "kia-potentia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pregio",
+      "name": "Pregio",
+      "slug": "kia-pregio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pride",
+      "name": "Pride",
+      "slug": "kia-pride",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Proceed",
+      "name": "Proceed",
+      "slug": "kia-proceed",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Quoris",
+      "name": "Quoris",
+      "slug": "kia-quoris",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ray",
+      "name": "Ray",
+      "slug": "kia-ray",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Retona",
+      "name": "Retona",
+      "slug": "kia-retona",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rio",
+      "name": "Rio",
+      "slug": "kia-rio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rio X-Line",
+      "name": "Rio X-Line",
+      "slug": "kia-rio-x-line",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "kia-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rocsta",
+      "name": "Rocsta",
+      "slug": "kia-rocsta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sedona",
+      "name": "Sedona",
+      "slug": "kia-sedona",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Seltos",
+      "name": "Seltos",
+      "slug": "kia-seltos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sephia",
+      "name": "Sephia",
+      "slug": "kia-sephia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Shuma",
+      "name": "Shuma",
+      "slug": "kia-shuma",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Soluto",
+      "name": "Soluto",
+      "slug": "kia-soluto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sonet",
+      "name": "Sonet",
+      "slug": "kia-sonet",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sorento",
+      "name": "Sorento",
+      "slug": "kia-sorento",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Soul",
+      "name": "Soul",
+      "slug": "kia-soul",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Soul EV",
+      "name": "Soul EV",
+      "slug": "kia-soul-ev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Spectra",
+      "name": "Spectra",
+      "slug": "kia-spectra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sportage",
+      "name": "Sportage",
+      "slug": "kia-sportage",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stinger",
+      "name": "Stinger",
+      "slug": "kia-stinger",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stonic",
+      "name": "Stonic",
+      "slug": "kia-stonic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tasman",
+      "name": "Tasman",
+      "slug": "kia-tasman",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Telluride",
+      "name": "Telluride",
+      "slug": "kia-telluride",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Topic",
+      "name": "Topic",
+      "slug": "kia-topic",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Venga",
+      "name": "Venga",
+      "slug": "kia-venga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Visto",
+      "name": "Visto",
+      "slug": "kia-visto",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X-Trek",
+      "name": "X-Trek",
+      "slug": "kia-x-trek",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XCeed",
+      "name": "XCeed",
+      "slug": "kia-xceed",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "kia-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

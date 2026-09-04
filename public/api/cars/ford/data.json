@@ -1,0 +1,766 @@
+{
+  "name": "Ford",
+  "slug": "cars/ford",
+  "models": [
+    {
+      "value": "Aerostar",
+      "name": "Aerostar",
+      "slug": "ford-aerostar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aspire",
+      "name": "Aspire",
+      "slug": "ford-aspire",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "B-Max",
+      "name": "B-Max",
+      "slug": "ford-b-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bronco",
+      "name": "Bronco",
+      "slug": "ford-bronco",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bronco II",
+      "name": "Bronco II",
+      "slug": "ford-bronco-ii",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Bronco Sport",
+      "name": "Bronco Sport",
+      "slug": "ford-bronco-sport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C-max",
+      "name": "C-max",
+      "slug": "ford-c-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Capri",
+      "name": "Capri",
+      "slug": "ford-capri",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Consul",
+      "name": "Consul",
+      "slug": "ford-consul",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Contour",
+      "name": "Contour",
+      "slug": "ford-contour",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cougar",
+      "name": "Cougar",
+      "slug": "ford-cougar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Courier",
+      "name": "Courier",
+      "slug": "ford-courier",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Courier Van",
+      "name": "Courier Van",
+      "slug": "ford-courier-van",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Crown Victoria",
+      "name": "Crown Victoria",
+      "slug": "ford-crown-victoria",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Custom",
+      "name": "Custom",
+      "slug": "ford-custom",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "E-Series Van",
+      "name": "E-Series Van",
+      "slug": "ford-e-series-van",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EcoSport",
+      "name": "EcoSport",
+      "slug": "ford-ecosport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Econoline",
+      "name": "Econoline",
+      "slug": "ford-econoline",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Econovan",
+      "name": "Econovan",
+      "slug": "ford-econovan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Edge",
+      "name": "Edge",
+      "slug": "ford-edge",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Equator",
+      "name": "Equator",
+      "slug": "ford-equator",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Escape",
+      "name": "Escape",
+      "slug": "ford-escape",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Escort",
+      "name": "Escort",
+      "slug": "ford-escort",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Evos",
+      "name": "Evos",
+      "slug": "ford-evos",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Excursion",
+      "name": "Excursion",
+      "slug": "ford-excursion",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Expedition",
+      "name": "Expedition",
+      "slug": "ford-expedition",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Explorer",
+      "name": "Explorer",
+      "slug": "ford-explorer",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Explorer Sport",
+      "name": "Explorer Sport",
+      "slug": "ford-explorer-sport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Explorer Sport Trac",
+      "name": "Explorer Sport Trac",
+      "slug": "ford-explorer-sport-trac",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F-100",
+      "name": "F-100",
+      "slug": "ford-f-100",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F-150",
+      "name": "F-150",
+      "slug": "ford-f-150",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F-250",
+      "name": "F-250",
+      "slug": "ford-f-250",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "F-350",
+      "name": "F-350",
+      "slug": "ford-f-350",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fairlane",
+      "name": "Fairlane",
+      "slug": "ford-fairlane",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fairmont",
+      "name": "Fairmont",
+      "slug": "ford-fairmont",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Falcon",
+      "name": "Falcon",
+      "slug": "ford-falcon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Festiva",
+      "name": "Festiva",
+      "slug": "ford-festiva",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fiesta",
+      "name": "Fiesta",
+      "slug": "ford-fiesta",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fiesta ST",
+      "name": "Fiesta ST",
+      "slug": "ford-fiesta-st",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Five Hundred",
+      "name": "Five Hundred",
+      "slug": "ford-five-hundred",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Flex",
+      "name": "Flex",
+      "slug": "ford-flex",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Focus",
+      "name": "Focus",
+      "slug": "ford-focus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Focus RS",
+      "name": "Focus RS",
+      "slug": "ford-focus-rs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Focus ST",
+      "name": "Focus ST",
+      "slug": "ford-focus-st",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ford GT",
+      "name": "Ford GT",
+      "slug": "ford-ford-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Freda",
+      "name": "Freda",
+      "slug": "ford-freda",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FreeStyle",
+      "name": "FreeStyle",
+      "slug": "ford-freestyle",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Freestar",
+      "name": "Freestar",
+      "slug": "ford-freestar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fusion",
+      "name": "Fusion",
+      "slug": "ford-fusion",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GT",
+      "name": "GT",
+      "slug": "ford-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxie",
+      "name": "Galaxie",
+      "slug": "ford-galaxie",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxy",
+      "name": "Galaxy",
+      "slug": "ford-galaxy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Granada",
+      "name": "Granada",
+      "slug": "ford-granada",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand C-Max",
+      "name": "Grand C-Max",
+      "slug": "ford-grand-c-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ixion",
+      "name": "Ixion",
+      "slug": "ford-ixion",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ka",
+      "name": "Ka",
+      "slug": "ford-ka",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kuga",
+      "name": "Kuga",
+      "slug": "ford-kuga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LTD Crown Victoria",
+      "name": "LTD Crown Victoria",
+      "slug": "ford-ltd-crown-victoria",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Laser",
+      "name": "Laser",
+      "slug": "ford-laser",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Maverick",
+      "name": "Maverick",
+      "slug": "ford-maverick",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Model A",
+      "name": "Model A",
+      "slug": "ford-model-a",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Model T",
+      "name": "Model T",
+      "slug": "ford-model-t",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mondeo",
+      "name": "Mondeo",
+      "slug": "ford-mondeo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mondeo ST",
+      "name": "Mondeo ST",
+      "slug": "ford-mondeo-st",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mustang",
+      "name": "Mustang",
+      "slug": "ford-mustang",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mustang Mach-E",
+      "name": "Mustang Mach-E",
+      "slug": "ford-mustang-mach-e",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Orion",
+      "name": "Orion",
+      "slug": "ford-orion",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Otosan P100",
+      "name": "Otosan P100",
+      "slug": "ford-otosan-p100",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Probe",
+      "name": "Probe",
+      "slug": "ford-probe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Puma",
+      "name": "Puma",
+      "slug": "ford-puma",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ranchero",
+      "name": "Ranchero",
+      "slug": "ford-ranchero",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Ranger",
+      "name": "Ranger",
+      "slug": "ford-ranger",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "ford-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S-max",
+      "name": "S-max",
+      "slug": "ford-s-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Scorpio",
+      "name": "Scorpio",
+      "slug": "ford-scorpio",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Shelby",
+      "name": "Shelby",
+      "slug": "ford-shelby",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sierra",
+      "name": "Sierra",
+      "slug": "ford-sierra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Spectron",
+      "name": "Spectron",
+      "slug": "ford-spectron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Taunus",
+      "name": "Taunus",
+      "slug": "ford-taunus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Taurus",
+      "name": "Taurus",
+      "slug": "ford-taurus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Telstar",
+      "name": "Telstar",
+      "slug": "ford-telstar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tempo",
+      "name": "Tempo",
+      "slug": "ford-tempo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Territory",
+      "name": "Territory",
+      "slug": "ford-territory",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Thunderbird",
+      "name": "Thunderbird",
+      "slug": "ford-thunderbird",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Torino",
+      "name": "Torino",
+      "slug": "ford-torino",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tourneo",
+      "name": "Tourneo",
+      "slug": "ford-tourneo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tourneo Connect",
+      "name": "Tourneo Connect",
+      "slug": "ford-tourneo-connect",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tourneo Courier",
+      "name": "Tourneo Courier",
+      "slug": "ford-tourneo-courier",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tourneo Custom",
+      "name": "Tourneo Custom",
+      "slug": "ford-tourneo-custom",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Transit",
+      "name": "Transit",
+      "slug": "ford-transit",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Transit 3",
+      "name": "Transit 3",
+      "slug": "ford-transit-3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Transit Connect",
+      "name": "Transit Connect",
+      "slug": "ford-transit-connect",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Windstar",
+      "name": "Windstar",
+      "slug": "ford-windstar",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Эверест",
+      "name": "Эверест",
+      "slug": "ford-эверест",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "ford-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

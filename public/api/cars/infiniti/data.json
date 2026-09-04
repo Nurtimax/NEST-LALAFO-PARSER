@@ -1,0 +1,302 @@
+{
+  "name": "Infiniti",
+  "slug": "cars/infiniti",
+  "models": [
+    {
+      "value": "EX25",
+      "name": "EX25",
+      "slug": "infiniti-ex25",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EX35",
+      "name": "EX35",
+      "slug": "infiniti-ex35",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EX37",
+      "name": "EX37",
+      "slug": "infiniti-ex37",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FX",
+      "name": "FX",
+      "slug": "infiniti-fx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FX30",
+      "name": "FX30",
+      "slug": "infiniti-fx30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FX35",
+      "name": "FX35",
+      "slug": "infiniti-fx35",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FX37",
+      "name": "FX37",
+      "slug": "infiniti-fx37",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FX45",
+      "name": "FX45",
+      "slug": "infiniti-fx45",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FX50",
+      "name": "FX50",
+      "slug": "infiniti-fx50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FX56",
+      "name": "FX56",
+      "slug": "infiniti-fx56",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G20",
+      "name": "G20",
+      "slug": "infiniti-g20",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G25",
+      "name": "G25",
+      "slug": "infiniti-g25",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G35",
+      "name": "G35",
+      "slug": "infiniti-g35",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "G37",
+      "name": "G37",
+      "slug": "infiniti-g37",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "I35",
+      "name": "I35",
+      "slug": "infiniti-i35",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "J30",
+      "name": "J30",
+      "slug": "infiniti-j30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "JX",
+      "name": "JX",
+      "slug": "infiniti-jx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M",
+      "name": "M",
+      "slug": "infiniti-m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M25",
+      "name": "M25",
+      "slug": "infiniti-m25",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M30",
+      "name": "M30",
+      "slug": "infiniti-m30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M35",
+      "name": "M35",
+      "slug": "infiniti-m35",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M37",
+      "name": "M37",
+      "slug": "infiniti-m37",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M45",
+      "name": "M45",
+      "slug": "infiniti-m45",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M56",
+      "name": "M56",
+      "slug": "infiniti-m56",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q45",
+      "name": "Q45",
+      "slug": "infiniti-q45",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q50",
+      "name": "Q50",
+      "slug": "infiniti-q50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q60",
+      "name": "Q60",
+      "slug": "infiniti-q60",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Q70",
+      "name": "Q70",
+      "slug": "infiniti-q70",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QX4",
+      "name": "QX4",
+      "slug": "infiniti-qx4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QX50",
+      "name": "QX50",
+      "slug": "infiniti-qx50",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QX56",
+      "name": "QX56",
+      "slug": "infiniti-qx56",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QX60",
+      "name": "QX60",
+      "slug": "infiniti-qx60",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QX70",
+      "name": "QX70",
+      "slug": "infiniti-qx70",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "QX80",
+      "name": "QX80",
+      "slug": "infiniti-qx80",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "infiniti-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i30",
+      "name": "i30",
+      "slug": "infiniti-i30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "infiniti-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "name": "IZH",
+  "slug": "cars/izh",
+  "models": [
+    {
+      "value": "2125",
+      "name": "2125",
+      "slug": "izh-2125",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2126",
+      "name": "2126",
+      "slug": "izh-2126",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2715",
+      "name": "2715",
+      "slug": "izh-2715",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2717",
+      "name": "2717",
+      "slug": "izh-2717",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "izh-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "izh-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

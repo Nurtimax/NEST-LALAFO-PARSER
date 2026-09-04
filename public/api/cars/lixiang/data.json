@@ -1,0 +1,86 @@
+{
+  "name": "Lixiang",
+  "slug": "cars/lixiang",
+  "models": [
+    {
+      "value": "L6",
+      "name": "L6",
+      "slug": "lixiang-l6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "L7",
+      "name": "L7",
+      "slug": "lixiang-l7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "L8",
+      "name": "L8",
+      "slug": "lixiang-l8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "L9",
+      "name": "L9",
+      "slug": "lixiang-l9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mega",
+      "name": "Mega",
+      "slug": "lixiang-mega",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "One",
+      "name": "One",
+      "slug": "lixiang-one",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "lixiang-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i6",
+      "name": "i6",
+      "slug": "lixiang-i6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "i8",
+      "name": "i8",
+      "slug": "lixiang-i8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "lixiang-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

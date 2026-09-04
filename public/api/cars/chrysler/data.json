@@ -1,0 +1,278 @@
+{
+  "name": "Chrysler",
+  "slug": "cars/chrysler",
+  "models": [
+    {
+      "value": "200",
+      "name": "200",
+      "slug": "chrysler-200",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "300 Series",
+      "name": "300 Series",
+      "slug": "chrysler-300-series",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "300C",
+      "name": "300C",
+      "slug": "chrysler-300c",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "300M",
+      "name": "300M",
+      "slug": "chrysler-300m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cirrus",
+      "name": "Cirrus",
+      "slug": "chrysler-cirrus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Concord",
+      "name": "Concord",
+      "slug": "chrysler-concord",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Crossfire",
+      "name": "Crossfire",
+      "slug": "chrysler-crossfire",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Daytona Shelby",
+      "name": "Daytona Shelby",
+      "slug": "chrysler-daytona-shelby",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dynasty",
+      "name": "Dynasty",
+      "slug": "chrysler-dynasty",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fifth Avenue",
+      "name": "Fifth Avenue",
+      "slug": "chrysler-fifth-avenue",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand Voyager",
+      "name": "Grand Voyager",
+      "slug": "chrysler-grand-voyager",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Imperial",
+      "name": "Imperial",
+      "slug": "chrysler-imperial",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Interpid",
+      "name": "Interpid",
+      "slug": "chrysler-interpid",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Intrepid",
+      "name": "Intrepid",
+      "slug": "chrysler-intrepid",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LHS",
+      "name": "LHS",
+      "slug": "chrysler-lhs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LeBaron",
+      "name": "LeBaron",
+      "slug": "chrysler-lebaron",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nassau",
+      "name": "Nassau",
+      "slug": "chrysler-nassau",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "New Yorker",
+      "name": "New Yorker",
+      "slug": "chrysler-new-yorker",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Newport",
+      "name": "Newport",
+      "slug": "chrysler-newport",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "PT Cruiser",
+      "name": "PT Cruiser",
+      "slug": "chrysler-pt-cruiser",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pacifica",
+      "name": "Pacifica",
+      "slug": "chrysler-pacifica",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Prowler",
+      "name": "Prowler",
+      "slug": "chrysler-prowler",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "chrysler-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Saratoga",
+      "name": "Saratoga",
+      "slug": "chrysler-saratoga",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Sebring",
+      "name": "Sebring",
+      "slug": "chrysler-sebring",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Stratus",
+      "name": "Stratus",
+      "slug": "chrysler-stratus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Town & Country",
+      "name": "Town & Country",
+      "slug": "chrysler-town-&-country",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Viper",
+      "name": "Viper",
+      "slug": "chrysler-viper",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vision",
+      "name": "Vision",
+      "slug": "chrysler-vision",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Voyager",
+      "name": "Voyager",
+      "slug": "chrysler-voyager",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Королевский",
+      "name": "Королевский",
+      "slug": "chrysler-королевский",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Неон",
+      "name": "Неон",
+      "slug": "chrysler-неон",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Тополь",
+      "name": "Тополь",
+      "slug": "chrysler-тополь",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "chrysler-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

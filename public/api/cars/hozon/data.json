@@ -1,0 +1,86 @@
+{
+  "name": "Hozon",
+  "slug": "cars/hozon",
+  "models": [
+    {
+      "value": "Neta Aya",
+      "name": "Neta Aya",
+      "slug": "hozon-neta-aya",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Neta GT",
+      "name": "Neta GT",
+      "slug": "hozon-neta-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Neta L",
+      "name": "Neta L",
+      "slug": "hozon-neta-l",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Neta S",
+      "name": "Neta S",
+      "slug": "hozon-neta-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Neta U",
+      "name": "Neta U",
+      "slug": "hozon-neta-u",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Neta U-II",
+      "name": "Neta U-II",
+      "slug": "hozon-neta-u-ii",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Neta V",
+      "name": "Neta V",
+      "slug": "hozon-neta-v",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Neta X",
+      "name": "Neta X",
+      "slug": "hozon-neta-x",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "hozon-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "hozon-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

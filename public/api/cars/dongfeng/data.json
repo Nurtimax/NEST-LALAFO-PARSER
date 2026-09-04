@@ -1,0 +1,214 @@
+{
+  "name": "Dongfeng",
+  "slug": "cars/dongfeng",
+  "models": [
+    {
+      "value": "580",
+      "name": "580",
+      "slug": "dongfeng-580",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "AX4",
+      "name": "AX4",
+      "slug": "dongfeng-ax4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "AX7",
+      "name": "AX7",
+      "slug": "dongfeng-ax7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aeolus Haohan",
+      "name": "Aeolus Haohan",
+      "slug": "dongfeng-aeolus-haohan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Aeolus Haoji",
+      "name": "Aeolus Haoji",
+      "slug": "dongfeng-aeolus-haoji",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "DFSK ix5",
+      "name": "DFSK ix5",
+      "slug": "dongfeng-dfsk-ix5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EC36",
+      "name": "EC36",
+      "slug": "dongfeng-ec36",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EQ 1030",
+      "name": "EQ 1030",
+      "slug": "dongfeng-eq-1030",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Fengon 500",
+      "name": "Fengon 500",
+      "slug": "dongfeng-fengon-500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxy A30",
+      "name": "Galaxy A30",
+      "slug": "dongfeng-galaxy-a30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "H30 Cross",
+      "name": "H30 Cross",
+      "slug": "dongfeng-h30-cross",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "M-NV",
+      "name": "M-NV",
+      "slug": "dongfeng-m-nv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MPV",
+      "name": "MPV",
+      "slug": "dongfeng-mpv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mengshi M-Hero 817",
+      "name": "Mengshi M-Hero 817",
+      "slug": "dongfeng-mengshi-m-hero-817",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Mengshi M-Hero 917",
+      "name": "Mengshi M-Hero 917",
+      "slug": "dongfeng-mengshi-m-hero-917",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nano EX1",
+      "name": "Nano EX1",
+      "slug": "dongfeng-nano-ex1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Oting",
+      "name": "Oting",
+      "slug": "dongfeng-oting",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Paladin",
+      "name": "Paladin",
+      "slug": "dongfeng-paladin",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Rich",
+      "name": "Rich",
+      "slug": "dongfeng-rich",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "dongfeng-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "S30",
+      "name": "S30",
+      "slug": "dongfeng-s30",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Shine Max",
+      "name": "Shine Max",
+      "slug": "dongfeng-shine-max",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X-NV",
+      "name": "X-NV",
+      "slug": "dongfeng-x-nv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Z9",
+      "name": "Z9",
+      "slug": "dongfeng-z9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ZND",
+      "name": "ZND",
+      "slug": "dongfeng-znd",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "dongfeng-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

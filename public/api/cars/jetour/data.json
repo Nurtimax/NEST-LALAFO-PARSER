@@ -1,0 +1,86 @@
+{
+  "name": "Jetour",
+  "slug": "cars/jetour",
+  "models": [
+    {
+      "value": "Dasheng",
+      "name": "Dasheng",
+      "slug": "jetour-dasheng",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "jetour-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X70 Coupe",
+      "name": "X70 Coupe",
+      "slug": "jetour-x70-coupe",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X70 Plus",
+      "name": "X70 Plus",
+      "slug": "jetour-x70-plus",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X70M",
+      "name": "X70M",
+      "slug": "jetour-x70m",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X70S",
+      "name": "X70S",
+      "slug": "jetour-x70s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X70SEV",
+      "name": "X70SEV",
+      "slug": "jetour-x70sev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X90",
+      "name": "X90",
+      "slug": "jetour-x90",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "X95",
+      "name": "X95",
+      "slug": "jetour-x95",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "jetour-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,662 @@
+{
+  "name": "Geely",
+  "slug": "cars/geely",
+  "models": [
+    {
+      "value": "Atlas",
+      "name": "Atlas",
+      "slug": "geely-atlas",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Atlas Pro",
+      "name": "Atlas Pro",
+      "slug": "geely-atlas-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Azkarra",
+      "name": "Azkarra",
+      "slug": "geely-azkarra",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Binrui",
+      "name": "Binrui",
+      "slug": "geely-binrui",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Binyue",
+      "name": "Binyue",
+      "slug": "geely-binyue",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Binyue L",
+      "name": "Binyue L",
+      "slug": "geely-binyue-l",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Borui",
+      "name": "Borui",
+      "slug": "geely-borui",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Boyue",
+      "name": "Boyue",
+      "slug": "geely-boyue",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Boyue Pro",
+      "name": "Boyue Pro",
+      "slug": "geely-boyue-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CK",
+      "name": "CK",
+      "slug": "geely-ck",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CK (Otaka)",
+      "name": "CK (Otaka)",
+      "slug": "geely-ck-(otaka)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Coolray",
+      "name": "Coolray",
+      "slug": "geely-coolray",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cowboy",
+      "name": "Cowboy",
+      "slug": "geely-cowboy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EX5",
+      "name": "EX5",
+      "slug": "geely-ex5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "EX7",
+      "name": "EX7",
+      "slug": "geely-ex7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand",
+      "name": "Emgrand",
+      "slug": "geely-emgrand",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand 7",
+      "name": "Emgrand 7",
+      "slug": "geely-emgrand-7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand EC7",
+      "name": "Emgrand EC7",
+      "slug": "geely-emgrand-ec7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand EC8",
+      "name": "Emgrand EC8",
+      "slug": "geely-emgrand-ec8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand EV",
+      "name": "Emgrand EV",
+      "slug": "geely-emgrand-ev",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand GL",
+      "name": "Emgrand GL",
+      "slug": "geely-emgrand-gl",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand GS",
+      "name": "Emgrand GS",
+      "slug": "geely-emgrand-gs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand GT",
+      "name": "Emgrand GT",
+      "slug": "geely-emgrand-gt",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand L",
+      "name": "Emgrand L",
+      "slug": "geely-emgrand-l",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand S",
+      "name": "Emgrand S",
+      "slug": "geely-emgrand-s",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Emgrand X7",
+      "name": "Emgrand X7",
+      "slug": "geely-emgrand-x7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FC",
+      "name": "FC",
+      "slug": "geely-fc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "FC (Vision)",
+      "name": "FC (Vision)",
+      "slug": "geely-fc-(vision)",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Farizon FX",
+      "name": "Farizon FX",
+      "slug": "geely-farizon-fx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GC5",
+      "name": "GC5",
+      "slug": "geely-gc5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GC6",
+      "name": "GC6",
+      "slug": "geely-gc6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GC7",
+      "name": "GC7",
+      "slug": "geely-gc7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GC9",
+      "name": "GC9",
+      "slug": "geely-gc9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GS",
+      "name": "GS",
+      "slug": "geely-gs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GX7",
+      "name": "GX7",
+      "slug": "geely-gx7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxy A7",
+      "name": "Galaxy A7",
+      "slug": "geely-galaxy-a7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxy E5",
+      "name": "Galaxy E5",
+      "slug": "geely-galaxy-e5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxy E8",
+      "name": "Galaxy E8",
+      "slug": "geely-galaxy-e8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxy L6",
+      "name": "Galaxy L6",
+      "slug": "geely-galaxy-l6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxy L7",
+      "name": "Galaxy L7",
+      "slug": "geely-galaxy-l7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxy M9",
+      "name": "Galaxy M9",
+      "slug": "geely-galaxy-m9",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Galaxy Starship 7",
+      "name": "Galaxy Starship 7",
+      "slug": "geely-galaxy-starship-7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Geome Star Wish",
+      "name": "Geome Star Wish",
+      "slug": "geely-geome-star-wish",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Geome Xingyuan",
+      "name": "Geome Xingyuan",
+      "slug": "geely-geome-xingyuan",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Geometry A",
+      "name": "Geometry A",
+      "slug": "geely-geometry-a",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Geometry A GE11",
+      "name": "Geometry A GE11",
+      "slug": "geely-geometry-a-ge11",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Geometry C",
+      "name": "Geometry C",
+      "slug": "geely-geometry-c",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Geometry E",
+      "name": "Geometry E",
+      "slug": "geely-geometry-e",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Geometry G6",
+      "name": "Geometry G6",
+      "slug": "geely-geometry-g6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Geometry M6",
+      "name": "Geometry M6",
+      "slug": "geely-geometry-m6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Haoqing",
+      "name": "Haoqing",
+      "slug": "geely-haoqing",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Haoyue L",
+      "name": "Haoyue L",
+      "slug": "geely-haoyue-l",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Icon",
+      "name": "Icon",
+      "slug": "geely-icon",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jiaji",
+      "name": "Jiaji",
+      "slug": "geely-jiaji",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jiyue",
+      "name": "Jiyue",
+      "slug": "geely-jiyue",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kandi EX3",
+      "name": "Kandi EX3",
+      "slug": "geely-kandi-ex3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LC",
+      "name": "LC",
+      "slug": "geely-lc",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LC (Panda) Cross",
+      "name": "LC (Panda) Cross",
+      "slug": "geely-lc-(panda)-cross",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LC Cross",
+      "name": "LC Cross",
+      "slug": "geely-lc-cross",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MK",
+      "name": "MK",
+      "slug": "geely-mk",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MK Cross",
+      "name": "MK Cross",
+      "slug": "geely-mk-cross",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "MR",
+      "name": "MR",
+      "slug": "geely-mr",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Merrie",
+      "name": "Merrie",
+      "slug": "geely-merrie",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Monjaro",
+      "name": "Monjaro",
+      "slug": "geely-monjaro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Okavango",
+      "name": "Okavango",
+      "slug": "geely-okavango",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Otaka",
+      "name": "Otaka",
+      "slug": "geely-otaka",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Preface",
+      "name": "Preface",
+      "slug": "geely-preface",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "geely-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SC7",
+      "name": "SC7",
+      "slug": "geely-sc7",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SL",
+      "name": "SL",
+      "slug": "geely-sl",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "TX4",
+      "name": "TX4",
+      "slug": "geely-tx4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Tugella",
+      "name": "Tugella",
+      "slug": "geely-tugella",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vision",
+      "name": "Vision",
+      "slug": "geely-vision",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vision X1",
+      "name": "Vision X1",
+      "slug": "geely-vision-x1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vision X3",
+      "name": "Vision X3",
+      "slug": "geely-vision-x3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vision X3 Pro",
+      "name": "Vision X3 Pro",
+      "slug": "geely-vision-x3-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vision X6",
+      "name": "Vision X6",
+      "slug": "geely-vision-x6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Vision X6 Pro",
+      "name": "Vision X6 Pro",
+      "slug": "geely-vision-x6-pro",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xingyue",
+      "name": "Xingyue",
+      "slug": "geely-xingyue",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Клен",
+      "name": "Клен",
+      "slug": "geely-клен",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Панда",
+      "name": "Панда",
+      "slug": "geely-панда",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "geely-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

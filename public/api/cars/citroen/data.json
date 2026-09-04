@@ -1,0 +1,374 @@
+{
+  "name": "Citroen",
+  "slug": "cars/citroen",
+  "models": [
+    {
+      "value": "2CV",
+      "name": "2CV",
+      "slug": "citroen-2cv",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "AMI",
+      "name": "AMI",
+      "slug": "citroen-ami",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "AX",
+      "name": "AX",
+      "slug": "citroen-ax",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "BX",
+      "name": "BX",
+      "slug": "citroen-bx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Berlingo",
+      "name": "Berlingo",
+      "slug": "citroen-berlingo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C-Crosser",
+      "name": "C-Crosser",
+      "slug": "citroen-c-crosser",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C-Elysee",
+      "name": "C-Elysee",
+      "slug": "citroen-c-elysee",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C1",
+      "name": "C1",
+      "slug": "citroen-c1",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C2",
+      "name": "C2",
+      "slug": "citroen-c2",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C3",
+      "name": "C3",
+      "slug": "citroen-c3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C3 Picasso",
+      "name": "C3 Picasso",
+      "slug": "citroen-c3-picasso",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C4",
+      "name": "C4",
+      "slug": "citroen-c4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C4 Aircross",
+      "name": "C4 Aircross",
+      "slug": "citroen-c4-aircross",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C4 Picasso",
+      "name": "C4 Picasso",
+      "slug": "citroen-c4-picasso",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C5",
+      "name": "C5",
+      "slug": "citroen-c5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C6",
+      "name": "C6",
+      "slug": "citroen-c6",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C8",
+      "name": "C8",
+      "slug": "citroen-c8",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C15",
+      "name": "C15",
+      "slug": "citroen-c15",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C25",
+      "name": "C25",
+      "slug": "citroen-c25",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "C35",
+      "name": "C35",
+      "slug": "citroen-c35",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "CX",
+      "name": "CX",
+      "slug": "citroen-cx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "DS3",
+      "name": "DS3",
+      "slug": "citroen-ds3",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "DS4",
+      "name": "DS4",
+      "slug": "citroen-ds4",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "DS5",
+      "name": "DS5",
+      "slug": "citroen-ds5",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Dyane",
+      "name": "Dyane",
+      "slug": "citroen-dyane",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Evasion",
+      "name": "Evasion",
+      "slug": "citroen-evasion",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Express",
+      "name": "Express",
+      "slug": "citroen-express",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GS",
+      "name": "GS",
+      "slug": "citroen-gs",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "GSA",
+      "name": "GSA",
+      "slug": "citroen-gsa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Grand C4 Picasso",
+      "name": "Grand C4 Picasso",
+      "slug": "citroen-grand-c4-picasso",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jumper",
+      "name": "Jumper",
+      "slug": "citroen-jumper",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Jumpy",
+      "name": "Jumpy",
+      "slug": "citroen-jumpy",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "LNA",
+      "name": "LNA",
+      "slug": "citroen-lna",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Nemo",
+      "name": "Nemo",
+      "slug": "citroen-nemo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Picasso",
+      "name": "Picasso",
+      "slug": "citroen-picasso",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "citroen-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "SM",
+      "name": "SM",
+      "slug": "citroen-sm",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Saxo",
+      "name": "Saxo",
+      "slug": "citroen-saxo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Traction",
+      "name": "Traction",
+      "slug": "citroen-traction",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Visa",
+      "name": "Visa",
+      "slug": "citroen-visa",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "XM",
+      "name": "XM",
+      "slug": "citroen-xm",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xantia",
+      "name": "Xantia",
+      "slug": "citroen-xantia",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xsara",
+      "name": "Xsara",
+      "slug": "citroen-xsara",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Xsara Picasso",
+      "name": "Xsara Picasso",
+      "slug": "citroen-xsara-picasso",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "ZX",
+      "name": "ZX",
+      "slug": "citroen-zx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "citroen-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

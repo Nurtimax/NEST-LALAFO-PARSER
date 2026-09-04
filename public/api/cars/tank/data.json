@@ -1,0 +1,38 @@
+{
+  "name": "Tank",
+  "slug": "cars/tank",
+  "models": [
+    {
+      "value": "300",
+      "name": "300",
+      "slug": "tank-300",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "500",
+      "name": "500",
+      "slug": "tank-500",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "tank-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "tank-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "name": "УАЗ",
+  "slug": "cars/uaz",
+  "models": [
+    {
+      "value": "452 Buhanka",
+      "name": "452 Buhanka",
+      "slug": "уаз-452-buhanka",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "469",
+      "name": "469",
+      "slug": "уаз-469",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "2206",
+      "name": "2206",
+      "slug": "уаз-2206",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3151",
+      "name": "3151",
+      "slug": "уаз-3151",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3153",
+      "name": "3153",
+      "slug": "уаз-3153",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3159",
+      "name": "3159",
+      "slug": "уаз-3159",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "3160",
+      "name": "3160",
+      "slug": "уаз-3160",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "31512",
+      "name": "31512",
+      "slug": "уаз-31512",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "31514",
+      "name": "31514",
+      "slug": "уаз-31514",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "31519",
+      "name": "31519",
+      "slug": "уаз-31519",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Cimbir",
+      "name": "Cimbir",
+      "slug": "уаз-cimbir",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Hunter",
+      "name": "Hunter",
+      "slug": "уаз-hunter",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Kargo",
+      "name": "Kargo",
+      "slug": "уаз-kargo",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Patriot",
+      "name": "Patriot",
+      "slug": "уаз-patriot",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Pickup",
+      "name": "Pickup",
+      "slug": "уаз-pickup",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "уаз-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Simbir",
+      "name": "Simbir",
+      "slug": "уаз-simbir",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "уаз-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "LDV",
+  "slug": "cars/ldv",
+  "models": [
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "ldv-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "ldv-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}

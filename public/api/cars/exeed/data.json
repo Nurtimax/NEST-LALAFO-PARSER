@@ -1,0 +1,46 @@
+{
+  "name": "Exeed",
+  "slug": "cars/exeed",
+  "models": [
+    {
+      "value": "LX",
+      "name": "LX",
+      "slug": "exeed-lx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Roadster",
+      "name": "Roadster",
+      "slug": "exeed-roadster",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "TXL",
+      "name": "TXL",
+      "slug": "exeed-txl",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "VX",
+      "name": "VX",
+      "slug": "exeed-vx",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    },
+    {
+      "value": "Другая модель",
+      "name": "Другая модель",
+      "slug": "exeed-другая-модель",
+      "colors": [],
+      "rams": [],
+      "memories": []
+    }
+  ]
+}
