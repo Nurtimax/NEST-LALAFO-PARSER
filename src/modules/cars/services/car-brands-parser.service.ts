@@ -14,6 +14,9 @@ import path from 'path';
 // https://lalafo.kg/kyrgyzstan/avtomobili-s-probegom/prodazha-avtomobiley/toyota
 const CARS_BASE_URL = 'https://lalafo.kg/kyrgyzstan/avtomobili-s-probegom';
 
+// const CARS_BASE_URL =
+//   'https://lalafo.kg/kyrgyzstan/kompyutery/noutbuki-i-netbuki';
+
 export interface CarBrand {
   name: string;
   slug: string;
