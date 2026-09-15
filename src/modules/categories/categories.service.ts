@@ -49,6 +49,12 @@ export class CategoriesService {
     }
   }
 
+  async simpleProductListParser(getProductDto: GetProductDto) {
+    return await this.categoryParserService.simpleProductListParser(
+      getProductDto,
+    );
+  }
+
   async getStatus() {
     return {
       parse: this.parseStatus.getStatus(),

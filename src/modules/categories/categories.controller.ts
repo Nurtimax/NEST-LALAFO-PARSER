@@ -17,6 +17,11 @@ export class CategoriesController {
     return this.categoriesService.getProductParser(getProductDto);
   }
 
+  @Post('simple-product-parse')
+  simpleProductParse(@Body() getProductDto: GetProductDto) {
+    return this.categoriesService.simpleProductListParser(getProductDto);
+  }
+
   @Get('parse-status')
   async parseStatus() {
     return this.categoriesService.getStatus();

@@ -104,4 +104,35 @@ export class CategoryParserService implements OnModuleInit, OnModuleDestroy {
       await context.close();
     }
   }
+
+  async simpleProductListParser(getProductDto: GetProductDto) {
+    const context = await this.browser.newContext({
+      userAgent:
+        'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+      viewport: { width: 1920, height: 1080 },
+      locale: 'en-US',
+      timezoneId: 'America/New_York',
+      permissions: ['geolocation'],
+      deviceScaleFactor: 1,
+      hasTouch: false,
+      isMobile: false,
+    });
+
+    // Set additional headers
+    await context.setExtraHTTPHeaders({
+      'Accept-Language': 'en-US,en;q=0.9',
+      'Accept-Encoding': 'gzip, deflate, br',
+      Accept:
+        'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+      Connection: 'keep-alive',
+      'Upgrade-Insecure-Requests': '1',
+    });
+
+    const page: Page = await context.newPage();
+
+    return await this.productParserService.simpleProductListParser(
+      getProductDto,
+      page,
+    );
+  }
 }

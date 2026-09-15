@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unsafe-argument */
 /* eslint-disable @typescript-eslint/no-unsafe-member-access */
 /* eslint-disable @typescript-eslint/no-unsafe-return */
 
@@ -38,6 +39,126 @@ export class ProductParserService {
     return {
       products,
     };
+  }
+
+  async simpleProductListParser(getProductDto: GetProductDto, page: Page) {
+    await page.goto(getProductDto.url, {
+      waitUntil: 'domcontentloaded',
+      timeout: 30000,
+    });
+
+    return await this.simpleProductList(page);
+  }
+
+  async simpleProductList(page: Page) {
+    const activePanel = page
+      .locator(
+        'div[class*="ReactVirtualized__Grid ReactVirtualized__List"]:has(article.LFAdTileHorizontal)',
+      )
+      .first();
+
+    const grid = activePanel.locator(
+      '.ReactVirtualized__Grid__innerScrollContainer',
+    );
+    await grid.waitFor({ state: 'visible' });
+    // The grid container appears before its cards finish hydrating with
+    // real data; give React a moment to fill them in before scanning.
+    await grid
+      .locator('article.LFAdTileHorizontal p[class*="LFSubHeading"]')
+      .first()
+      .waitFor({ state: 'visible' });
+
+    // Reused across every product's phone-reveal visit instead of opening a
+    // fresh browser per listing (that would be enormously wasteful over a
+    // full category parse).
+    const phonePage = await page.context().newPage();
+
+    try {
+      const products: any[] = [];
+      const seenIds = new Set<string>();
+      // A single scroll can land mid-transition and briefly show no new
+      // cards even though there's more list left, so require several
+      // consecutive empty rounds — not just one — before giving up.
+      let staleRounds = 0;
+      const maxStaleRounds = 5;
+      // Not a real limit — thousands of listings would take thousands of
+      // rounds, so this is only a sanity guard against a genuine infinite
+      // loop (e.g. the page never reporting scrollHeight correctly).
+      const maxSafetyRounds = 5000;
+      let round = 0;
+
+      console.log('Starting to parse product list...'); // Log the start of parsing
+
+      while (
+        staleRounds < maxStaleRounds &&
+        round < maxSafetyRounds &&
+        !this.parseStatus.isStopRequested()
+      ) {
+        // Get all product articles in the current view
+        const productArticles = await grid
+          .locator('article.LFAdTileHorizontal')
+          .all();
+
+        console.log(
+          productArticles.length,
+          '✅ Found product articles in view',
+        );
+
+        // Parse current visible products. seenIds is checked *inside*
+        // parseProductCard too, before it bothers visiting the listing's
+        // own page for the phone number — the same handful of cards tend
+        // to reappear across consecutive rounds, and a phone-reveal visit
+        // is real navigation, not worth repeating for an already-seen ad.
+        const newThisRound: any[] = [];
+        for (const article of productArticles) {
+          const productData = await this.parseProductCard(
+            article,
+            phonePage,
+            seenIds,
+          );
+          if (
+            productData &&
+            !this.isProductDuplicate(products, seenIds, productData)
+          ) {
+            products.push(productData);
+            if (productData.id) seenIds.add(productData.id);
+            newThisRound.push(productData);
+          }
+        }
+        const addedThisRound = newThisRound.length;
+
+        console.log(
+          `Round ${round}: +${addedThisRound} new, ${products.length} total`,
+        );
+
+        // Scroll to load more products
+        const wasAlreadyAtBottom = await this.scrollPage(page);
+
+        // Wait for new content to load
+        await page.waitForTimeout(1500);
+
+        round++;
+
+        if (addedThisRound === 0) {
+          staleRounds++;
+          if (wasAlreadyAtBottom) {
+            console.log('Reached the end of the list, stopping 1');
+            break;
+          }
+        } else {
+          staleRounds = 0;
+        }
+      }
+
+      return {
+        seenIds,
+        products,
+      };
+    } catch (error) {
+      await phonePage.close();
+      console.log(error, 'error simpel product parse');
+      throw error;
+    }
   }
 
   // A full category can be thousands of listings and take hours to scroll
